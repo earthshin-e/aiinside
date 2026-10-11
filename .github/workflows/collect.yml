@@ -46,6 +46,8 @@ jobs:
         run: curl -fsSL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/photos-used.json" -o public/data/photos-used.json || true
       - name: Fetch previous stories
         run: curl -fsSL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/stories.json" -o public/data/stories.prev.json || true
+      - name: Fetch previous drafts
+        run: curl -fsSL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/data/drafts.json" -o public/data/drafts.prev.json || true
       - name: Collect articles
         run: node scripts/collect.mjs
         env:
@@ -68,7 +70,7 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: node scripts/slack.mjs || true
       - name: Remove temp files
-        run: rm -f public/data/stories.prev.json
+        run: rm -f public/data/stories.prev.json public/data/drafts.prev.json
       # 정리 기사마다 검색엔진용 정적 페이지와 sitemap.xml 생성
       - name: Build story pages
         run: node scripts/pages.mjs

@@ -48,6 +48,16 @@ if (!only && now && prev) {
   if (added.length) console.log(`Slack: 새 글 ${added.length}건 전송`);
 }
 
+// 1-1. 기자 검토 대기 초안 (drafts.json 에 새로 들어온 글)
+const drafts = await read('public/data/drafts.json');
+const draftsPrev = await read('public/data/drafts.prev.json');
+if (!only && drafts && draftsPrev) {
+  const before = new Set((draftsPrev.drafts || []).map((d) => d.id));
+  for (const d of (drafts.drafts || []).filter((x) => !before.has(x.id))) {
+    await post(`:memo: 검토 대기 초안 | ${d.author || 'Haley Yun'}\n*<${SITE}/draft/${d.id}.html|${d.title}>*\n${d.sources.length}개 매체 보도 바탕. 검토 후 Claude 에게 \"발행\"이라고 알려 주세요.`);
+  }
+}
+
 // 2. 하루 요약: 한국 시간 오전 9시대 첫 수집에서 한 번
 const kst = new Date(Date.now() + 9 * 3600000);
 if (!only && kst.getUTCHours() === 9 && kst.getUTCMinutes() < 30) {

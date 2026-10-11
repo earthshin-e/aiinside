@@ -87,6 +87,8 @@
 
 ### 뉴스웨이브 정리 기사
 
+- 2026-10-12 기자 바이라인 도입: 하루 1~2건은 기자 Haley Yun(필명, 사람이 검토하고 발행 결정)의 기사로 냅니다. 예약 작업이 그날 가장 많이 보도된 소식 1~2건을 초안으로 써서 `public/data/drafts.json` 에 넣고(stories.json 에는 넣지 않음), 배포 때 `/draft/<id>.html` 검토용 미리보기(noindex, robots 차단)를 만들고 Slack 으로 "검토 대기 초안" 링크를 보냅니다. 운영자가 검토 후 "발행"이라고 하면 Claude 가 초안을 stories.json 으로 옮기고 `author: "Haley Yun"`, published 를 발행 시각으로 바꿉니다. author 가 있는 글은 화면과 정적 페이지에 "글 Haley Yun" 바이라인, 구조화 데이터 author 는 Person 입니다. 사람이 검토하지 않은 글에는 기자 이름을 붙이지 않습니다(기존 글은 AI 뉴스웨이브 그대로). 소개 페이지 편집 원칙에 AI 작성 도구 활용과 검토 발행을 밝혔습니다.
+
 - 자동 작성: `scripts/write.mjs` 가 수집 직후 돌며, 최근 48시간에 2곳 이상 매체가 함께 보도한 소식 중 아직 정리 기사가 없는 묶음을 한 번에 최대 6건 씁니다(Claude API, `claude-opus-5-5`, effort low, 구조화 출력, 거절 시 서버 폴백). 한국 시간 18시 이후 첫 실행에서 "오늘의 AI 브리핑"(`type: "briefing"`, id `bYYYYMMDD`)을 하루 한 건 씁니다. 자동 글에는 `auto: true` 가 붙습니다.
 - 현재 운영(API 키 없음): Claude Code 클라우드 예약 작업 "AI 뉴스웨이브 정리 기사와 브리핑"(https://claude.ai/code/routines/trig_015PWzXq9y6NnXmAjTWuGsXH)이 매일 한국 시간 18:30 에 전광판 순서로 정리 기사 최대 10건과 브리핑 1건을 써서 `public/data/stories.json` 에 넣고 main 에 바로 push 합니다. 클라우드 환경은 ainewswave.com 에 접속할 수 없어서, 수집 워크플로가 최신 articles.json, stories.json 을 `data` 브랜치(커밋 하나짜리, 매번 강제 덮어쓰기)에 올려 두고 예약 작업이 거기서 읽습니다. Claude GitHub 앱이 earthshin-e 계정에 설치돼 있어야 push 됩니다.
 - GitHub 저장소 시크릿 `ANTHROPIC_API_KEY` 가 없으면 이 단계는 건너뛰고, 실패해도 배포는 계속됩니다. 자동 글은 저장소에 커밋되지 않으므로 Actions 가 직전 배포본의 stories.json 을 받아 저장소의 stories.json 과 합칩니다(같은 id 는 저장소 쪽 우선). 60일 지난 글은 지웁니다.
@@ -131,7 +133,7 @@
 - 한 번에 30건을 그리고 "기사 더 보기" 로 30건씩 늘립니다. 주제, 매체, 검색어가 바뀌면 다시 30건으로 돌아갑니다.
 - 북마크는 `localStorage` 의 `bm` 키에 기사 스냅샷을 저장하므로 원본이 보관 기간을 넘겨 사라져도 남습니다.
 - 다크 모드는 기기 설정을 따르고 버튼으로 바꾸면 `localStorage` 의 `theme` 키에 고정됩니다. 색 토큰은 `:root`, `@media (prefers-color-scheme: dark)` 안의 `:root:not([data-theme="light"])`, `:root[data-theme="dark"]` 세 곳에 같은 값을 둡니다. 새 토큰을 추가할 때 세 곳을 함께 고쳐야 합니다.
-- PWA 는 `sw.js` 의 캐시 이름(`ainewswave-v37`)을 씁니다. 기사 데이터는 네트워크 우선에 오프라인이면 마지막 저장본, 화면 파일은 캐시 우선에 뒤에서 갱신합니다. 화면 파일을 고쳤는데 반영이 안 보이면 캐시 이름의 숫자를 올립니다.
+- PWA 는 `sw.js` 의 캐시 이름(`ainewswave-v38`)을 씁니다. 기사 데이터는 네트워크 우선에 오프라인이면 마지막 저장본, 화면 파일은 캐시 우선에 뒤에서 갱신합니다. 화면 파일을 고쳤는데 반영이 안 보이면 캐시 이름의 숫자를 올립니다.
 - 화면을 다시 열었을 때 데이터가 20분보다 오래되었으면 자동으로 다시 불러옵니다.
 - `localStorage` 접근은 모두 try/catch 로 감싸 저장소가 막힌 환경에서도 화면이 동작합니다.
 

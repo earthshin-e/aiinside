@@ -32,7 +32,7 @@ function page(st, others) {
     dateModified: st.published,
     description: desc,
     mainEntityOfPage: url,
-    author: { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE },
+    author: st.author ? { '@type': 'Person', name: st.author } : { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE },
     publisher: { '@type': 'Organization', name: 'AI 뉴스웨이브', logo: { '@type': 'ImageObject', url: `${SITE}/icon512.png` } },
     image: `${SITE}/og.png`,
   };
@@ -71,7 +71,7 @@ function page(st, others) {
   <article>
     <p class="meta">${st.type === 'briefing' ? 'AI 브리핑' : `<a href="${topicFile(st.category)}">${esc(st.category)}</a>`}</p>
     <h1>${esc(st.title)}</h1>
-    <p class="meta">AI 뉴스웨이브 | ${kstDate(st.published)} | ${st.sources.length}개 매체 보도 종합</p>
+    <p class="meta">${st.author ? `글 ${esc(st.author)}` : 'AI 뉴스웨이브'} | ${kstDate(st.published)} | ${st.sources.length}개 매체 보도 종합</p>
     ${st.points && st.points.length ? `<h2>핵심 요약</h2>\n    <ul>${st.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
     <h2>본문</h2>
     ${st.body.map((p) => `<p>${esc(p)}</p>`).join('\n    ')}
@@ -263,6 +263,19 @@ ${afeedItems.map((a) => `  <item>
 </channel>
 </rss>
 `);
+
+// 기자 검토용 초안 미리보기(/draft/<id>.html): public/data/drafts.json 의 글. 검색 노출 금지, 사이트맵과 목록에 넣지 않습니다.
+let drafts = [];
+try { drafts = JSON.parse(await readFile(path.join(pub, 'data', 'drafts.json'), 'utf8')).drafts || []; } catch { /* 없음 */ }
+const ddir = path.join(pub, 'draft');
+await mkdir(ddir, { recursive: true });
+for (const f of await readdir(ddir)) if (f.endsWith('.html')) await unlink(path.join(ddir, f));
+for (const d of drafts) {
+  const html = page({ ...d, published: d.published || new Date().toISOString() }, [])
+    .replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex,nofollow">')
+    .replace('<article>', '<p style="padding:8px 12px;border:1px solid #b7791f;color:#b7791f">검토용 초안입니다. 아직 공개되지 않았습니다.</p>\n  <article>');
+  await writeFile(path.join(ddir, `${d.id}.html`), html);
+}
 
 const now = new Date().toISOString();
 const urls = [

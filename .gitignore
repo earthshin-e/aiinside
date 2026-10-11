@@ -5,3 +5,5 @@ public/data/photos-used.json
 public/recap/
 public/data/articles-recent.json
 public/a/
+public/draft/
+public/data/drafts.prev.json
