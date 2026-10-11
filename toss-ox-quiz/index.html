@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>공인중개사 OX 퀴즈</title>
+<style>
+:root{--bg:#f2f4f6;--card:#fff;--ink:#191f28;--sub:#6b7684;--blue:#3182f6;--red:#f04452;--green:#00c471}
+@media (prefers-color-scheme:dark){:root{--bg:#17171c;--card:#2c2c35;--ink:#f2f4f6;--sub:#9e9ea4}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,"Pretendard","Apple SD Gothic Neo",sans-serif}
+.wrap{max-width:480px;margin:0 auto;padding:24px 20px 40px;min-height:100vh;display:flex;flex-direction:column}
+h1{font-size:24px;margin:8px 0}.sub{color:var(--sub);font-size:15px;line-height:1.5}
+.card{background:var(--card);border-radius:20px;padding:20px;margin-top:16px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{border:0;border-radius:999px;padding:10px 14px;background:var(--bg);color:var(--ink);font-size:14px}
+.chip.on{background:var(--blue);color:#fff}
+.btn{width:100%;border:0;border-radius:16px;padding:17px;font-size:17px;font-weight:700;background:var(--blue);color:#fff;margin-top:auto}
+.bar{height:6px;background:var(--card);border-radius:3px;overflow:hidden;margin:8px 0 4px}.bar i{display:block;height:100%;background:var(--blue);transition:width .3s}
+.tag{font-size:13px;color:var(--blue);font-weight:700}
+.q{font-size:21px;font-weight:700;line-height:1.5;margin:10px 0 0;word-break:keep-all}
+.ox{display:flex;gap:12px;margin-top:20px}
+.ox button{flex:1;aspect-ratio:1;border:0;border-radius:24px;font-size:64px;font-weight:800;background:var(--card)}
+.ox .o{color:var(--blue)}.ox .x{color:var(--red)}.ox button:disabled{opacity:.35}.ox button.pick{opacity:1;outline:3px solid currentColor}
+.res{font-size:18px;font-weight:800}.ok{color:var(--green)}.ng{color:var(--red)}
+.big{font-size:56px;font-weight:800;color:var(--blue);margin:8px 0}
+.hidden{display:none}
+</style></head><body>
+<div class="wrap" id="home">
+  <h1>공인중개사<br>OX 퀴즈</h1>
+  <p class="sub">하루 10문제, O 또는 X 로 빠르게 개념을 점검해요.</p>
+  <div class="card"><b>과목 고르기</b><div class="chips" id="subs"></div></div>
+  <p class="sub" style="font-size:13px">법령 조문과 기본 이론으로 직접 만든 문제입니다. 법령 개정 여부는 꼭 확인하세요.</p>
+  <button class="btn" id="start">시작하기</button>
+</div>
+<div class="wrap hidden" id="play">
+  <div class="sub" id="cnt"></div><div class="bar"><i id="prog"></i></div>
+  <div class="card"><div class="tag" id="tag"></div><p class="q" id="q"></p></div>
+  <div class="ox"><button class="o" data-v="1">O</button><button class="x" data-v="0">X</button></div>
+  <div class="card hidden" id="fb"><div class="res" id="res"></div><p class="sub" id="exp"></p></div>
+  <button class="btn hidden" id="next" style="margin-top:16px">다음</button>
+</div>
+<div class="wrap hidden" id="done">
+  <h1>결과</h1><div class="big" id="score"></div><p class="sub" id="msg"></p>
+  <div class="card" id="wrong"></div>
+  <button class="btn" id="again" style="margin-top:20px">다시 풀기</button>
+</div>
+<script src="questions.js"></script>
+<script>
+const $=id=>document.getElementById(id),N=10;
+const subjects=["전체",...new Set(QUESTIONS.map(q=>q.s))];let pick="전체",set=[],i=0,right=0,wrongs=[];
+subjects.forEach(s=>{const b=document.createElement("button");b.className="chip"+(s===pick?" on":"");b.textContent=s;
+  b.onclick=()=>{pick=s;document.querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",c===b))};$("subs").append(b)});
+function show(id){["home","play","done"].forEach(x=>$(x).classList.toggle("hidden",x!==id));scrollTo(0,0)}
+function start(){const pool=QUESTIONS.filter(q=>pick==="전체"||q.s===pick).sort(()=>Math.random()-.5);
+  set=pool.slice(0,N);i=0;right=0;wrongs=[];show("play");render()}
+function render(){const q=set[i];$("cnt").textContent=`${i+1} / ${set.length}`;$("prog").style.width=(i/set.length*100)+"%";
+  $("tag").textContent=q.s;$("q").textContent=q.q;$("fb").classList.add("hidden");$("next").classList.add("hidden");
+  document.querySelectorAll(".ox button").forEach(b=>{b.disabled=false;b.classList.remove("pick")})}
+document.querySelectorAll(".ox button").forEach(b=>b.onclick=()=>{const q=set[i],ans=b.dataset.v==="1",ok=ans===q.a;
+  if(ok)right++;else wrongs.push(q);
+  document.querySelectorAll(".ox button").forEach(x=>{x.disabled=true;x.classList.toggle("pick",x===b)});
+  $("res").textContent=ok?"정답이에요":"아쉬워요, 정답은 "+(q.a?"O":"X");$("res").className="res "+(ok?"ok":"ng");
+  $("exp").textContent=q.e;$("fb").classList.remove("hidden");$("next").classList.remove("hidden");
+  $("next").textContent=i===set.length-1?"결과 보기":"다음"});
+$("next").onclick=()=>{if(++i<set.length)render();else finish()};
+function finish(){$("score").textContent=`${right} / ${set.length}`;
+  $("msg").textContent=right===set.length?"모두 맞혔어요!":"틀린 문제를 다시 확인해 보세요.";
+  $("wrong").innerHTML=wrongs.length?"<b>틀린 문제</b>"+wrongs.map(q=>`<p class="sub"><b>${q.a?"O":"X"}</b> ${q.q}<br>${q.e}</p>`).join(""):"<b>틀린 문제가 없어요</b>";
+  show("done")}
+$("start").onclick=start;$("again").onclick=()=>show("home");
+</script></body></html>
