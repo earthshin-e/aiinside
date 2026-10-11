@@ -151,7 +151,7 @@
 - 예전 주소 `/s/` 와 `/s/<id>.html` 은 `/recap/` 으로 바로 넘어가는 안내 페이지(canonical, noindex)로 남깁니다.
 - `public/404.html` 은 없는 주소일 때 GitHub Pages 가 보여 주는 안내 페이지입니다. 메인 도구 줄과 하단에 정리 기사 모음 링크가 있습니다.
 - 2026-10-10 Search Console 점검: /recap/feed.xml(RSS 로 제출)은 Success, 정리 기사 51개 페이지 발견. /sitemap.xml 은 여전히 Couldn't fetch(파일은 정상, 새 사이트 지연으로 판단). /recap/ 은 색인됨, 주제 버튼 추가 후 재색인 요청. 색인 보고서는 아직 처리 중.
-- `public/robots.txt` 는 전체 허용, `/data/` 만 제외하고 사이트맵 주소를 알립니다. 메인 `index.html` 에 description, canonical, og 태그(공유 이미지 /og.png 1200x630, 정리 기사 페이지도 같은 이미지)와 네이버 서치어드바이저 소유 확인 태그(naver-site-verification)가 있습니다. Google Search Console 은 GA 코드로 소유 확인되어 있어 gtag 를 지우면 확인이 풀립니다.
+- `public/robots.txt` 는 전체 허용하고 사이트맵 주소를 알립니다. 2026-10-12 까지는 `/data/` 를 막았는데, 첫 화면 기사를 /data/*.json 에서 불러오는 구조라 구글 로봇이 빈 화면을 보게 되어 애드센스가 "사이트 다운 또는 사용 불가"로 반려했습니다. 그래서 `/data/` 차단을 풀었습니다. 다시 막지 마세요. 메인 `index.html` 에 description, canonical, og 태그(공유 이미지 /og.png 1200x630, 정리 기사 페이지도 같은 이미지)와 네이버 서치어드바이저 소유 확인 태그(naver-site-verification)가 있습니다. Google Search Console 은 GA 코드로 소유 확인되어 있어 gtag 를 지우면 확인이 풀립니다.
 
 ## 자료 사진 (Unsplash, Pexels)
 
@@ -176,7 +176,7 @@
 
 ## 애드센스
 
-- 2026-10-09 가입(hazelyuu@gmail.com). 게시자 ID `ca-pub-2376619512263295`. 모든 페이지 head 에 consent.js 다음으로 애드센스 스크립트와 `google-adsense-account` 메타 태그를 넣었고 `public/ads.txt` 가 있습니다. 2026-10-09 지급 정보 입력, 사이트 소유 확인, 검토 요청 완료(상태: Getting ready). 승인 전에는 광고가 나오지 않습니다. 승인 뒤 자동 광고를 켜고, 유럽 방문자용 Google 인증 동의 메시지(Privacy & messaging)를 설정합니다.
+- 2026-10-09 가입(hazelyuu@gmail.com). 게시자 ID `ca-pub-2376619512263295`. 모든 페이지 head 에 consent.js 다음으로 애드센스 스크립트와 `google-adsense-account` 메타 태그를 넣었고 `public/ads.txt` 가 있습니다. 2026-10-09 지급 정보 입력, 사이트 소유 확인, 검토 요청 완료. 2026-10-10 19:06 "Needs attention: 사이트 다운 또는 사용 불가"로 반려(원인 추정: robots.txt 가 /data/ 를 막아 로봇이 기사 없는 빈 화면을 봄). 2026-10-12 robots.txt 수정 후 재검토 요청 예정. 승인 전에는 광고가 나오지 않습니다. 승인 뒤 자동 광고를 켜고, 유럽 방문자용 Google 인증 동의 메시지(Privacy & messaging)를 설정합니다.
 
 ## 쿠키 동의
 
