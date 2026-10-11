@@ -87,6 +87,7 @@
 
 ### 뉴스웨이브 정리 기사
 
+- 2026-10-12 기자 5명으로 확대(운영자 확인: 모두 실제로 기사를 검토하는 사람): Haley Yun, Chloe Park, Ethan Chen, Ashley Yang, Kevin Wong. 예약 작업이 하루 5건(기자마다 1건) 초안을 쓰고, 각 기자가 검토해 "발행"하면 Claude 가 stories.json 으로 옮깁니다. 검토 전에는 발행하지 않습니다. 기자 이름을 새로 만들어 붙이지 않습니다.
 - 2026-10-12 기자 바이라인 도입: 하루 1~2건은 기자 Haley Yun(필명, 사람이 검토하고 발행 결정)의 기사로 냅니다. 예약 작업이 그날 가장 많이 보도된 소식 1~2건을 초안으로 써서 `public/data/drafts.json` 에 넣고(stories.json 에는 넣지 않음), 배포 때 `/draft/<id>.html` 검토용 미리보기(noindex, robots 차단)를 만들고 Slack 으로 "검토 대기 초안" 링크를 보냅니다. 운영자가 검토 후 "발행"이라고 하면 Claude 가 초안을 stories.json 으로 옮기고 `author: "Haley Yun"`, published 를 발행 시각으로 바꿉니다. author 가 있는 글은 화면과 정적 페이지에 "글 Haley Yun" 바이라인, 구조화 데이터 author 는 Person 입니다. 사람이 검토하지 않은 글에는 기자 이름을 붙이지 않습니다(기존 글은 AI 뉴스웨이브 그대로). 소개 페이지 편집 원칙에 AI 작성 도구 활용과 검토 발행을 밝혔습니다.
 
 - 자동 작성: `scripts/write.mjs` 가 수집 직후 돌며, 최근 48시간에 2곳 이상 매체가 함께 보도한 소식 중 아직 정리 기사가 없는 묶음을 한 번에 최대 6건 씁니다(Claude API, `claude-opus-5-5`, effort low, 구조화 출력, 거절 시 서버 폴백). 한국 시간 18시 이후 첫 실행에서 "오늘의 AI 브리핑"(`type: "briefing"`, id `bYYYYMMDD`)을 하루 한 건 씁니다. 자동 글에는 `auto: true` 가 붙습니다.
