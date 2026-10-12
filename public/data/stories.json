@@ -38,7 +38,19 @@
           "link": "https://www.newsis.com/view/NISX20261012_0003821611"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "AI Waste App 'Gajyeoga' to Be Piloted in Seoul's Eunpyeong District From the 13th",
+        "points": [
+          "Identifies waste type automatically from a photo",
+          "Guides users on local disposal rules",
+          "Pilot for Eunpyeong residents starts on the 13th"
+        ],
+        "body": [
+          "The Ministry of Climate, Energy and Environment and the Ministry of Science and ICT said on the 12th that they will pilot 'Gajyeoga,' an AI app that supports waste disposal, with residents of Seoul's Eunpyeong District starting on the 13th. The app automatically identifies the type of waste and guides users on local disposal standards.",
+          "Digital Today reported that it was developed as part of the Ministry of Science and ICT's 'Public AX Project,' and Newsis wrote that it is expected to ease the inconvenience residents face because disposal rules and procedures differ by region. Newsis also highlighted in its headline that the app handles disposal guidance and fee payment in one step."
+        ]
+      }
     },
     {
       "id": "s20261012-854931472a55",
@@ -80,7 +92,19 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407997"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "ETRI Unveils Next-Generation Video Compression Technology Built for AI Analysis",
+        "points": [
+          "ETRI develops video compression technology for AI",
+          "Targets self-driving cars, robots, drones and CCTV",
+          "Three media technologies to be shown at KES 2026"
+        ],
+        "body": [
+          "Researchers at the Electronics and Telecommunications Research Institute (ETRI) are introducing next-generation video compression technology optimized not for video that people watch but for AI's understanding and analysis of video. It delivers large volumes of video data in less capacity in settings where AI analyzes video directly, such as self-driving cars, robots, drones and intelligent CCTV.",
+          "According to iNews24, ETRI will take part in KES 2026 (Korea Electronics Show), held at COEX in Seoul for four days from the 13th, and unveil three core AI-based next-generation media technologies, including 'video coding technology for AI.' The outlet said in its headline that 3D human technology will also be presented."
+        ]
+      }
     },
     {
       "id": "s20261012-7999ebb9cf9b",
@@ -122,7 +146,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706294"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Ministry of Science and ICT to Hold 'Physical AI Tech Week' at COEX on the 13th",
+        "points": [
+          "Two-day event at COEX starting on the 13th",
+          "Shares physical AI technology, industry, policy and investment",
+          "Discussion of cooperation among government, companies and research institutes"
+        ],
+        "body": [
+          "The Ministry of Science and ICT said on the 12th that it will hold 'Physical AI Tech Week' at COEX in Seoul for two days, from the 13th to the 14th. The event brings together physical AI technology and industry trends, policy and investment direction in one place.",
+          "Digital Today reported that the aim is to broaden cooperation among government, companies and research institutes, and iNews24 wrote that participants will discuss cooperation ranging from technology development to demonstration and commercialization. Robot Newspaper described physical AI as AI that moves and performs tasks in the real world, in robots, cars and factories."
+        ]
+      }
     },
     {
       "id": "s20261012-99df4d2a23f7",
@@ -158,7 +194,19 @@
           "link": "https://www.inews24.com/view/2013860"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao Mobility Recruits Participants for 7th 'AI Junior Lab' for Teens",
+        "points": [
+          "Teens experience solving everyday problems with AI and robots",
+          "Applications accepted from the 12th to Nov. 22",
+          "Kakao Mobility social contribution program"
+        ],
+        "body": [
+          "Kakao Mobility said it is recruiting participants for the seventh season of 'AI Junior Lab,' a social contribution program in which teenagers build their own solutions to everyday problems with AI and robots, from the 12th through Nov. 22.",
+          "Robot Newspaper and Techworld News reported that the aim is to nurture future talent for the era of physical AI."
+        ]
+      }
     },
     {
       "id": "s20261012-141dd73e98d6",
@@ -200,7 +248,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727359"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Consortium Holds Summit Ahead of 'AI for Everyone' Full Launch in December",
+        "points": [
+          "KT plans full launch of 'AI for Everyone' in December",
+          "17 consortium companies check service readiness",
+          "Connect summit held in Gwanghwamun on the 12th"
+        ],
+        "body": [
+          "On the 12th, KT held the 'AI for Everyone Connect Summit 2026' at KT Gwanghwamun Building West in Seoul's Jongno District and discussed plans for the full launch of 'AI for Everyone' in December and ways to cooperate. Digital Daily reported that Park Yoon-young, KT's CEO, and other chief executives and senior managers from consortium companies attended.",
+          "iNews24 wrote that executives from the 17 consortium companies, including Daum, Upstage, Saltlux, EBS, BC Card, Zigbang, Musinsa, Rebellions and NC AI, were present. Digital Today introduced 'AI for Everyone' as an integrated AI service that connects various Korean AI models with everyday services, and EBN reported that the event's theme was 'Beyond Connection, Toward Execution.'"
+        ]
+      }
     },
     {
       "id": "s20261012-315907265d11",
@@ -248,7 +308,19 @@
           "link": "https://www.electimes.com/news/articleView.html?idxno=373297"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Government to Invest 1.4 Trillion Won by 2030 in AI Transformation of Shipbuilding Manufacturing",
+        "points": [
+          "More than 1.4 trillion won to be invested by 2030",
+          "Technology of large shipyards to spread to small and midsize builders",
+          "Three flagship projects to be pursued"
+        ],
+        "body": [
+          "The government will push for AI transformation of shipbuilding manufacturing processes, investing more than 1.4 trillion won jointly with the private sector by 2030. According to Digital Daily, the Ministry of Trade, Industry and Energy and the Ministry of Oceans and Fisheries held the 'Shipbuilding M.AX Alliance Strategy Meeting' in Mokpo, South Jeolla Province, on the 12th, and Industry News (인더스트리뉴스) reported that AI transformation is expanding from developing autonomous ships to the entire manufacturing process of building ships.",
+          "Newsis wrote that three 'flagship projects' will be pursued over five years, centered on industrial complexes where large shipyards, small and midsize shipbuilders and parts makers are concentrated. iNews24 reported that design and assembly processes will be automated, with bases in Mokpo and Yeongam, Geoje and Busan, and Gunsan, while Electric Times (전기신문) explained that the technology and infrastructure of large shipyards will spread to small and midsize shipbuilders and parts companies."
+        ]
+      }
     },
     {
       "id": "s20261012-dc76d9c3a651",
@@ -284,7 +356,19 @@
           "link": "https://biz.chosun.com/topics/law_firm/2026/10/12/43FIJLCLVRBLTLIHKRVPELWGGM"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kim & Chang to Hold Seminar on Agentic AI Security and Regulatory Response on the 13th",
+        "points": [
+          "Kim & Chang to hold open seminar on the 13th",
+          "Topic is security and regulation in the age of agentic AI",
+          "Co-hosted with the Korea Information and Communications Law Association's Information Security Forum"
+        ],
+        "body": [
+          "Kim & Chang said on the 12th that it will hold an open seminar with the Information Security Forum of the Korea Information and Communications Law Association at 2 p.m. on the 13th at Crescendo Building in Seoul's Jongno District, on the topic 'Security Issues and Regulatory Response in the Age of Agentic AI and Specialized Models.'",
+          "Chosun Biz reported that the seminar will discuss security risks that can arise as agentic AI is adopted and how companies can respond to regulation. Bloter wrote that, with the AI Basic Act having taken effect in January this year and changing the regulatory environment, the main agenda items include corporate internal controls and a review of cyber crisis response systems."
+        ]
+      }
     },
     {
       "id": "s20261012-764f1f723c23",
@@ -320,7 +404,19 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101210000728706"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Deepbrain AI Develops 'AI Guard' Safety Engine to Curb Misuse of Generative AI",
+        "points": [
+          "Deepbrain AI completes development of 'AI Guard'",
+          "Integrates identity theft, harmful input and deepfake checks",
+          "Inspects both inputs and outputs around generation"
+        ],
+        "body": [
+          "Deepbrain AI said on the 12th that it has developed 'AI Guard,' an integrated safety engine that prevents malicious use of generative AI. It combines identity theft detection, which determines whether a person in an image or video is a registered protected individual, with harmful input blocking and deepfake detection.",
+          "Digital Daily reported that it inspects both the input before content is created and the output after it is created, and Techworld News described it as an integrated safety technology that checks before and after generation."
+        ]
+      }
     },
     {
       "id": "s20261012-a9992e2737db",
@@ -362,7 +458,19 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171785"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Amazon in Talks to Acquire AI Startup Decart for $7 Billion",
+        "points": [
+          "Amazon discusses acquiring Decart",
+          "Deal valued at $7 billion, about 9 trillion won",
+          "Possibility remains that talks fall through"
+        ],
+        "body": [
+          "The Wall Street Journal (WSJ), citing sources, reported that Amazon is discussing acquiring the AI startup Decart for $7 billion. Won conversions differ slightly by outlet: about 9 trillion won (AI Times), 9.34 trillion won (Chosun Biz) and 9.4 trillion won (IT Chosun). Digital Today, citing SiliconANGLE, reported that the deal could be worth up to $7 billion.",
+          "AI Times and Digital Today wrote that if talks go smoothly a deal could be reached soon, but they could also collapse or another bidder could emerge. Chosun Biz described Decart as a startup founded in San Francisco in 2023 by three Israeli engineers. IT Chosun interpreted the move as an effort to strengthen Amazon's own semiconductor competitiveness by securing technology that raises the computing efficiency of AI chips, and Digital Today reported in its headline that Anthropic also eyed an acquisition."
+        ]
+      }
     },
     {
       "id": "s20261012-fae47d09c1f0",
@@ -410,7 +518,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727361"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK Launches 'SK AIGEN,' Two-Year Non-Degree AI Talent Program for Young People",
+        "points": [
+          "SK creates two-year non-degree 'SK AIGEN'",
+          "Participants plan and solve problems directly with AI",
+          "Support of 3 million won a month for two years"
+        ],
+        "body": [
+          "SK said on the 12th that it is launching 'SK AIGEN,' a two-year non-degree program that supports young people in forging their careers in the AI era. The name combines AI and Generation. It is a full-time, hands-on, project-centered course in which participants find problems facing individuals, society and companies, then plan and solve them directly with AI.",
+          "Details of the support were also reported. iNews24 said 3 million won a month will be provided for two years, and EBN wrote that education, mentoring and a growth support stipend will be offered."
+        ]
+      }
     },
     {
       "id": "h20261012-6aade1befcff",
@@ -2707,7 +2827,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727096"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hacker Behind Attacks on Korean Financial Sector Believed to Be 26-Year-Old in China's Guangdong, CrowdStrike Report Says",
+        "points": [
+          "Chain of financial hacks traced to a 26-year-old in China",
+          "Hong Kong server used as main control infrastructure",
+          "Signs of AI tools such as DeepSeek being used"
+        ],
+        "body": [
+          "A hacker who repeatedly attacked Korean financial institutions may be a 26-year-old living in China's Guangdong Province. That is the analysis in a report released on the 7th (local time) by the cybersecurity company CrowdStrike.",
+          "According to Chosun Biz, the attacker used a server in Hong Kong as the main control infrastructure and carried out the actual attacks from a separate server. Korea NGO Times (한국NGO신문) and Chosun Biz reported that it was confirmed the attacker used tools such as the Chinese AI model DeepSeek.",
+          "EBN reported that traces of personal information left in the generative AI tools used in the attacks became a clue for tracking, and Industry News (인더스트리뉴스) said signs also emerged that a Telegram account was used. The person's identity is an estimate, not a definitive finding."
+        ]
+      }
     },
     {
       "id": "b20261007",
@@ -2918,7 +3051,25 @@
           "link": "https://www.ddaily.co.kr/page/view/2026100709305321891"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 7 AI Briefing: Boston Dynamics' New Chief and the AI Infrastructure Buildout",
+        "points": [
+          "Boston Dynamics brings in AI expert as CEO",
+          "Race for AI data centers and power continues",
+          "AI transformation and security monitoring expand at companies"
+        ],
+        "body": [
+          "Boston Dynamics brought in Rohit Prasad, who led Alexa and AI research at Amazon, as its new CEO. The appointment is meant to speed the deployment and commercialization of physical AI at industrial sites, and several outlets reported the news.",
+          "KT Cloud will join a 50MW-class AI data center project in Cheongna, Incheon, as a design, construction and operation partner. Construction is to begin in the fourth quarter of this year, with completion targeted for the first quarter of 2030, and several outlets reported it.",
+          "Salesforce will support the AI transformation of sales for MICE at Inspire Entertainment Resort. It plans to start by integrating sales data and expand step by step to an AI-based decision-making system.",
+          "Lotte Global Logistics was selected for a national project under the 2026 Robot Industry Technology Development Program, run by the Korea Evaluation Institute of Industrial Technology under the Ministry of Trade, Industry and Energy, and will develop a logistics humanoid. Chosun Biz reported that over the next five years it will demonstrate six processes, including picking, packing and inspection, at logistics centers nationwide.",
+          "Hancom InnoStream unveiled Hancom AX Lab, an AI and AX education brand, and will strengthen physical AI education centered on robot control and simulation. The brand was shown at Smart Life Week 2026.",
+          "Logpresso extended the monitoring scope of its SIEM platform to ChatGPT Enterprise usage records. The integration app lets companies analyze generative AI usage records alongside existing security logs to look for signs of confidential information leaks.",
+          "Google signed a 3,590MW nuclear power supply deal with Constellation Energy. According to AI Times, about a quarter of the total volume is secured by adding generating capacity at existing nuclear plants. TheElec reported that power contracts totaling more than 6GW followed in succession, including a 2.7GW contract for a data center in Wyoming.",
+          "Siemens' EDA division and TSMC are strengthening their cooperation on applying AI agents to semiconductor design. The goal is to shorten the time to tape-out by automating the correction of design rule check errors."
+        ]
+      }
     },
     {
       "id": "s20261007-5d7ec1a67a61",
@@ -2979,7 +3130,20 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/07/MEPGNN4MTFBEZJMW5OWCIZPI4I"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Cloud to Join Construction of 50MW-Class AI Data Center in Cheongna, Incheon",
+        "points": [
+          "Joins 50MW-class AI data center project in Cheongna",
+          "Design, build and operate (DBO) partner",
+          "Construction in Q4, completion targeted for Q1 2030"
+        ],
+        "body": [
+          "KT Cloud will take part in a 50MW-class AI data center project in the Cheongna area of Incheon. On the 7th, the company said it will join as a design, construction and operation (DBO) partner. The data center will have two basement floors and 11 above-ground floors, with a power receiving capacity of 50MW.",
+          "The schedule calls for construction to begin in the fourth quarter of this year and for completion in the first quarter of 2030. TechM reported the same schedule, and TheElec and IT Chosun also gave 2030 as the completion date in their headlines.",
+          "KT Cloud plans to broaden its supply base of AI data centers in the Seoul metropolitan area through this participation. IT Chosun reported that the company aims to secure the capacity to supply more than 1GW of AI data centers by 2031, and Chosun Biz explained that the plan is to secure a new base in the western part of the metropolitan area to meet growing demand for AI and cloud infrastructure."
+        ]
+      }
     },
     {
       "id": "s20261007-a6bf7bcd588b",
@@ -3046,7 +3210,20 @@
           "link": "https://biz.chosun.com/industry/car/2026/10/07/FXM3JDL2JBB3TBMWVJNV5L2DFI"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Boston Dynamics Brings in Former Amazon Executive Rohit Prasad as New CEO",
+        "points": [
+          "AI expert who led Amazon Alexa named CEO",
+          "Hire aims to speed commercialization of physical AI",
+          "Move coincides with Atlas mass-production preparations"
+        ],
+        "body": [
+          "Boston Dynamics, the robotics affiliate of Hyundai Motor Group, has brought in Rohit Prasad, who led Alexa and AI research at Amazon, as its new chief executive officer (CEO). Prasad is described as an expert who has driven technological advances in conversational AI, generative AI, multimodal AI and artificial general intelligence (AGI).",
+          "Reports described the purpose of the appointment as strengthening competitiveness in physical AI. The idea is to combine AI with robot hardware to speed application at industrial sites and commercialization. Outlets differed on the timing of the announcement. Most reported that the company said so on the 7th, while Robot Newspaper wrote that it was announced on the 6th (local time) and that his term starts on the 7th.",
+          "Bloter noted that Boston Dynamics has brought in an AI platform expert rather than a roboticist as CEO. It analyzed that, as the deployment of the humanoid robot Atlas at Hyundai Motor Group's manufacturing sites and preparations for mass production get under way in earnest, AI learning and commercialization skills have become as important as physical performance."
+        ]
+      }
     },
     {
       "id": "s20261007-21d8a8caab75",
@@ -3107,7 +3284,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214931"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Salesforce to Support AI Transformation of Inspire's MICE Sales",
+        "points": [
+          "Salesforce and Inspire cooperate on MICE sales",
+          "From sales data integration to AI decision-making",
+          "Sales Cloud to be adopted across B2B sales team"
+        ],
+        "body": [
+          "Salesforce has formed a strategic partnership with Inspire Entertainment Resort to push the AI transformation (AX) of its meetings, incentives, conventions and exhibitions (MICE) business. On the 7th, the two companies said they will cooperate step by step, from integrating sales data to building an AI-based decision-making system.",
+          "According to Chosun Biz, Inspire will adopt Salesforce's sales-focused solution, Sales Cloud, across its entire MICE B2B sales organization to build a data-based sales management system. IT Chosun reported that scattered sales data will be integrated and used for customer management and revenue forecasting.",
+          "Digital Daily and IT Chosun pointed out that the AI-based sales support system will not be introduced immediately but is planned to expand later."
+        ]
+      }
     },
     {
       "id": "s20261007-d26913086ef6",
@@ -3162,7 +3352,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026100709032712023"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hancom InnoStream Unveils Hancom AX Lab, an AI and AX Education Brand",
+        "points": [
+          "Hancom InnoStream unveils education brand Hancom AX Lab",
+          "Physical AI education centered on robot control and simulation",
+          "Shown at Smart Life Week 2026"
+        ],
+        "body": [
+          "Hancom InnoStream, a Hancom subsidiary, has unveiled Hancom AX Lab (HANCOM AX LAB), a brand specializing in AI and AI transformation (AX) education. It was shown at Smart Life Week (SLW) 2026, held at COEX in Seoul from the 6th to the 8th.",
+          "Hancom AX Lab is a brand that extends the technology and education experience Hancom InnoStream has built in automotive and embedded fields into specialized AI and AX education. It will strengthen physical AI education centered on robot control and simulation.",
+          "IT Chosun reported that, in connection with Nvidia, FuriosaAI and others, it will support training of the workforce companies and institutions need for AX."
+        ]
+      }
     },
     {
       "id": "s20261007-9d7831a20f6c",
@@ -3211,7 +3414,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407850"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Logpresso Extends SIEM Monitoring Scope to ChatGPT Enterprise",
+        "points": [
+          "SIEM monitoring extended to generative AI use",
+          "ChatGPT Enterprise integration app released",
+          "AI usage records analyzed together with existing security logs"
+        ],
+        "body": [
+          "Logpresso, a security information and event management (SIEM) company, has extended the monitoring scope of its platform to companies' generative AI activity. It said on the 7th that it first released an integration app that analyzes OpenAI's ChatGPT Enterprise usage records together with existing security logs.",
+          "According to Datanet, the app connects to OpenAI's ChatGPT Compliance API so that usage records from ChatGPT Enterprise workspaces can be analyzed together with existing security logs. IT Chosun reported that signs of leaks of confidential information such as customer data or source code can be analyzed alongside security logs.",
+          "The monitoring targets were described slightly differently by outlet. While other outlets focused on the ChatGPT Enterprise integration, IT Chosun stated in its headline that monitoring now extends to ChatGPT conversations and Codex use."
+        ]
+      }
     },
     {
       "id": "s20261007-a901850f3b4e",
@@ -3254,7 +3470,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705411"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "TwelveLabs Releases Pegasus 1.6, a Video Understanding Model for Robot Learning",
+        "points": [
+          "Refines first-person video into robot learning data",
+          "Vision-language model Pegasus 1.6 released",
+          "Business expands from media to physical AI"
+        ],
+        "body": [
+          "TwelveLabs said on the 7th that it has released Pegasus 1.6, a vision-language model (VLM) designed to understand first-person video shot from a human's point of view, known as egocentric data.",
+          "The model automatically identifies actions, objects and task sequences in video and refines them into robot learning data. IT Chosun reported that it can reduce the time and labor needed to process data.",
+          "AI Times explained that TwelveLabs is extending the video understanding technology it has applied in entertainment, sports and the public sector to physical AI fields such as robotics."
+        ]
+      }
     },
     {
       "id": "s20261007-fc8992673ea1",
@@ -3291,7 +3520,20 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=630734"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hanyang University ERICA Selected for Ministry of Science and ICT's AX Graduate School Program",
+        "points": [
+          "Hanyang University ERICA selected for AX graduate school program",
+          "Training AX talent based on AI robots for industry",
+          "Goal of training more than 240 master's and doctoral-level experts"
+        ],
+        "body": [
+          "Hanyang University ERICA has been selected for the 2026 AI Innovation Talent Training Program (AX Graduate School) run by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation. The plan is to train master's and doctoral-level experts who will lead the AI transformation (AX) of industry by applying AI and robot technology at industrial sites.",
+          "Kyosu Shinmun (교수신문) and Veritas Alpha (베리타스알파) reported that the goal is to train more than 240 practice-oriented experts. Kyosu Shinmun added that it will offer an average of six or more global internship opportunities a year and carry out 113 industry-academia joint projects.",
+          "Robot Newspaper reported that Hanyang University ERICA said so on the 7th."
+        ]
+      }
     },
     {
       "id": "s20261007-9c6794341911",
@@ -3340,7 +3582,20 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42200"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Siemens and TSMC Expand Use of Agentic AI in Semiconductor Design",
+        "points": [
+          "Siemens EDA and TSMC strengthen AI design cooperation",
+          "AI agents to automate DRC error fixes",
+          "Aim to improve design productivity through tape-out"
+        ],
+        "body": [
+          "The EDA division of Siemens Digital Industries Software said on the 7th that it is strengthening cooperation with TSMC on agentic AI-based semiconductor design automation. Building on the TSMC Open Innovation Platform (OIP) ecosystem, the two companies will raise productivity across the design workflow.",
+          "Hellot reported that AI agents automate the correction of design rule check (DRC) errors, shortening the time to tape-out. Techworld News explained that AI and agentic workflows will be applied from DRC error correction to placement and routing, 3D IC and silicon photonics design.",
+          "Digital Daily added that, alongside advancing packaging technologies such as 3DFabric and CoWoS-L, the company obtained certification for the A14, A16, 2-nanometer and 3-nanometer processes."
+        ]
+      }
     },
     {
       "id": "s20261007-449c64423950",
@@ -3383,7 +3638,20 @@
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=239978"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK Telecom Launches Malmoi Campaign to Revive Korean Language Records With AI for Hangul Day's 100th Anniversary",
+        "points": [
+          "SK Telecom runs 2026 Malmoi with the National Institute of Korean Language and others",
+          "AI revives Korean language records from 100 years ago",
+          "Reconstructed as a typeface and a booklet"
+        ],
+        "body": [
+          "SK Telecom said on the 7th that it is running the 2026 Malmoi campaign with the National Institute of Korean Language and the National Hangeul Museum to mark the 100th anniversary of the designation of Hangul Day. The campaign uses AI to revive records of the Korean language.",
+          "Malmoi is the manuscript of the first Korean dictionary, compiled by Ju Si-gyeong and his students. Korea NGO Times (한국NGO신문) reported that these records were analyzed with AI and reconstructed as a typeface and a booklet.",
+          "EBN reported that, using an AI model SK Telecom developed itself, words gathered more than 100 years ago were revived as a typeface and as language anyone can use."
+        ]
+      }
     },
     {
       "id": "s20261006-7fec205dcf33",
@@ -3444,7 +3712,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214893"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Infosys Releases Graph-Based AI Security Solution GOS",
+        "points": [
+          "Infosys releases graph-based AI security solution",
+          "Supplied company-wide to a major Korean semiconductor company",
+          "Detects abnormal behavior by analyzing log relationships"
+        ],
+        "body": [
+          "Infosys, an ontology-based enterprise AI company, has officially released the graph-based AI security solution 'GOS (Graph Optimized Security).' On the 6th, the company said it supplied the solution company-wide to a major Korean semiconductor company at the same time as the release.",
+          "GOS is a graph-based AI security solution that uses AI to analyze relationships among security logs and trace abnormal behavior and attack paths.",
+          "Some outlets reported that it picks out only the behavior most likely to be a threat from large volumes of logs, improving detection accuracy and lowering operating costs. Another outlet also noted that it supports analysis of large-scale logs using a large language model (LLM)."
+        ]
+      }
     },
     {
       "id": "s20261006-a5d17e32d035",
@@ -3493,7 +3774,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026100609313260712"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Henkel to Show Packaging Materials for AI and HBM at SEDEX 2026 Semiconductor Exhibition",
+        "points": [
+          "Henkel to take part in the show from the 14th to the 16th",
+          "Unveils advanced packaging materials for AI and HBM",
+          "Stresses materials that control heat and warpage"
+        ],
+        "body": [
+          "The Adhesive Technologies division of Germany's Henkel said on the 6th that it will take part in SEDEX 2026 (the 28th Semiconductor Exhibition), held at COEX in Seoul from the 14th to the 16th.",
+          "Under the theme 'Advanced Packaging for AI,' Henkel plans to show advanced packaging material technology for artificial intelligence, high-bandwidth memory (HBM) and high-performance computing (HPC).",
+          "One outlet explained that as highly integrated technologies such as 2.5D and 3D packaging, which connect chips vertically and horizontally, and chiplets spread, materials that handle heat and mechanical stress are becoming more important."
+        ]
+      }
     },
     {
       "id": "s20261006-8478565e0a4b",
@@ -3548,7 +3842,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407819"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "DeepX and Doosan Robotics to Co-Develop AI Welding Robot for Nuclear Plant Manufacturing",
+        "points": [
+          "DeepX and Doosan Robotics cooperate on AI welding for nuclear plants",
+          "Selected as a Robot Industry Technology Development Program project",
+          "Aim to ease shortage of skilled welders"
+        ],
+        "body": [
+          "DeepX, an AI semiconductor company, and Doosan Robotics will jointly develop an AI-based intelligent welding robot solution to address the shortage of skilled welders at nuclear power plant manufacturing sites. The cooperation, made known on the 6th, follows their selection as a project under the Ministry of Trade, Industry and Energy's '2026 Robot Industry Technology Development Program.'",
+          "The key is to combine vision AI with collaborative robots to make the welding process intelligent. The approach reported has AI recognizing and correcting the welding target and path, and using vision and thermal imaging data collected during welding.",
+          "Doosan Robotics will lead the consortium and design the system integration architecture. Outlets differed in how they wrote the ministry's name, using both the Ministry of Trade, Industry and Resources and the Ministry of Trade, Industry and Energy."
+        ]
+      }
     },
     {
       "id": "s20261006-147a9993c7fc",
@@ -3590,7 +3897,19 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407810"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao Mobility Signs Defense AI MOU With Korea University's C5ISRT Convergence Research Institute",
+        "points": [
+          "Kakao Mobility and Korea University sign defense AI MOU",
+          "Cooperation on command-and-control and surveillance AI platforms",
+          "Applying mobility technology to defense"
+        ],
+        "body": [
+          "Kakao Mobility said on the 6th that it signed a memorandum of understanding (MOU) on cooperation for mutual development in defense artificial intelligence with Korea University's C5ISRT Convergence Research Institute. C5ISRT refers to an advanced command-and-control and battlefield awareness system that integrates command, control, communications, computers, cyber, intelligence, surveillance, reconnaissance and targeting.",
+          "The two sides will cooperate on areas such as defense AI-based command and control, surveillance and reconnaissance, and developing a manned-unmanned integrated control platform. The aim is to speed up defense AX by applying Kakao Mobility's core mobility technology to the defense sector."
+        ]
+      }
     },
     {
       "id": "s20261006-ff48d30b9b3e",
@@ -3633,7 +3952,20 @@
           "link": "https://www.betanews.net/article/view/beta202610060043"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Chosun University Selected as Ministry of Science and ICT AI Hub University, Up to 21.2 Billion Won Over 8 Years",
+        "points": [
+          "Chosun University selected for 2026 AI Hub University program",
+          "Among the final 8 universities outside the capital region",
+          "Up to about 21.2 billion won in state funds over 8 years"
+        ],
+        "body": [
+          "Chosun University was selected as one of the final eight universities outside the capital region in the '2026 AI Hub University Program,' run by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP). It will receive about 21.2 billion won in state funds for up to eight years.",
+          "The program is a government support project that reorganizes university education systems around AI and trains AI specialists and AX (AI transformation) convergence talent.",
+          "Chosun University pointed to measures including an 'AI SW Convergence Institute' under the president to extend AI education across the university, and Kyosu Shinmun (교수신문) reported in its headline that it will hire 100 AI faculty members."
+        ]
+      }
     },
     {
       "id": "s20261006-aec26b6c46be",
@@ -3676,7 +4008,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705021"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI Introduces Invisible Watermarks in ChatGPT and Codex Text in the EU",
+        "points": [
+          "OpenAI adds invisible watermarks to generated text",
+          "Measure responds to the EU AI Act",
+          "Applied to the EU first, not worldwide at once"
+        ],
+        "body": [
+          "OpenAI is beginning to insert invisible watermarks into text generated by ChatGPT and Codex. The measure, disclosed on the 5th (local time), makes no difference to a person reading the text but lets machines confirm that it is AI-generated.",
+          "The watermark will be applied to all ChatGPT plans and more in the EU within the next few weeks. AI Times reported that the measure responds to the European Union's AI Act and is not being applied worldwide at once.",
+          "AI Times reported that OpenAI is adopting a similar approach after Anthropic."
+        ]
+      }
     },
     {
       "id": "s20261006-d4fa643234b5",
@@ -3718,7 +4063,19 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42190"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Red Hat Expands AI Training and Certification Program",
+        "points": [
+          "Red Hat expands training and certification program",
+          "Supports companies in building AI skills",
+          "Includes course on managing the full AI application lifecycle"
+        ],
+        "body": [
+          "Red Hat said on the 6th that it is expanding its 'Red Hat Training and Certification' program to help companies build their AI capabilities.",
+          "The program includes a course on how to manage the full lifecycle of AI applications. Courses on AI/ML applications based on Red Hat OpenShift AI were introduced as core courses."
+        ]
+      }
     },
     {
       "id": "s20261006-33d8e9ddbfc1",
@@ -3760,7 +4117,19 @@
           "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3013316"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Asan Medical Center Team Presents New Biomarker and AI Diagnostic Model for Refractory Liver Cancer",
+        "points": [
+          "Identifies new biomarker for refractory liver cancer",
+          "Risk confirmed in patients with RB1 gene loss",
+          "Presents AI pathology imaging diagnosis and combination therapy strategy"
+        ],
+        "body": [
+          "A research team at Asan Medical Center in Seoul has identified a new genetic feature that determines the prognosis of refractory liver cancer. The finding is that the risk of disease progression and death rises significantly in patients in whom the tumor suppressor gene RB1 is lost or inactivated on both copies.",
+          "The team also presented an artificial intelligence diagnostic model that identifies this from pathology images, along with a targeted combination therapy strategy. Professors from the hospital's gastroenterology and pathology departments, along with researchers from the University of Macau, POSTECH and Hanyang University Guri Hospital, are reported to have taken part."
+        ]
+      }
     },
     {
       "id": "s20261006-35e966a5bfe0",
@@ -3808,7 +4177,19 @@
           "link": "https://www.ddaily.co.kr/page/view/2026100609162273482"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Megazone Cloud Releases Enterprise AI OS AIR Studio v3",
+        "points": [
+          "Megazone Cloud releases AIR Studio v3",
+          "Manages data, AI agents and operations in one place",
+          "Features modularized for selective adoption"
+        ],
+        "body": [
+          "Megazone Cloud said on the 6th that it has released 'AIR Studio v3,' an enterprise AI operating system (OS). It is designed to manage data, AI agents, operations, security and costs in one place while keeping a company's existing AI environment.",
+          "The new version modularizes its core features into four areas so companies can use only the parts they need. It is described as designed to manage the entire process, from building and running AI to controlling it, in one place."
+        ]
+      }
     },
     {
       "id": "s20261006-08d0f12b4a40",
