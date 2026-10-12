@@ -44,6 +44,7 @@ function page(st, others) {
 <title>${esc(st.title)} | AI 뉴스웨이브</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${url}">
+${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<link rel="alternate" hreflang="en" href="${SITE}/en/recap/${st.id}.html">` : ''}
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="AI 뉴스웨이브">
 <meta property="og:title" content="${esc(st.title)}">
@@ -277,12 +278,85 @@ for (const d of drafts) {
   await writeFile(path.join(ddir, `${d.id}.html`), html);
 }
 
+// 영문판(/en/): 뉴스웨이브가 쓴 글(정리 기사, 기자 기사, 브리핑) 중 영어 번역(st.en = {title, points, body})이 있는 것만 싣습니다.
+// 한국 언론사 기사 제목과 요약은 번역하지 않습니다(남의 글 번역은 2차적 저작물). 출처는 매체명과 원문 링크만 둡니다.
+const enStories = [...stories].filter((s) => s.en && s.en.title && Array.isArray(s.en.body)).sort((a, b) => new Date(b.published) - new Date(a.published));
+const edir = path.join(pub, 'en');
+const erdir = path.join(edir, 'recap');
+await mkdir(erdir, { recursive: true });
+for (const f of await readdir(erdir)) if (f.endsWith('.html') && !enStories.some((s) => `${s.id}.html` === f)) await unlink(path.join(erdir, f));
+const enDate = (iso) => new Date(iso).toLocaleString('en-US', { timeZone: 'Asia/Seoul', year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false }) + ' KST';
+const enHead = (title, desc, canon, alt, extra = '') => `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${esc(title)}</title>
+<meta name="description" content="${esc(desc)}">
+<link rel="canonical" href="${canon}">
+<link rel="alternate" hreflang="en" href="${canon}">
+${alt ? `<link rel="alternate" hreflang="ko" href="${alt}">` : ''}
+<meta property="og:site_name" content="AI NewsWave">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:description" content="${esc(desc)}">
+<meta property="og:url" content="${canon}">
+<meta property="og:image" content="${SITE}/og.png">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/page.css">
+${extra}
+<script src="/consent.js"></script>
+<meta name="google-adsense-account" content="ca-pub-2376619512263295">
+<script async src="https://www.googletagmanager.com/gtag/js?id=${GA}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA}');</script>
+</head>
+<body>
+<header class="top"><div class="wrap"><a class="brand" href="/en/"><img src="/icon.svg" alt="">AI NewsWave</a> <a class="meta" href="${alt || '/'}" style="float:right;padding:14px 0">한국어</a></div></header>
+`;
+const enFoot = `<footer class="wrap foot"><a href="/en/">Home</a><a href="/en/about.html">About</a><a href="/">한국어</a></footer>
+</body>
+</html>
+`;
+for (const st of enStories) {
+  const e = st.en, url = `${SITE}/en/recap/${st.id}.html`;
+  const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline: e.title, inLanguage: 'en', datePublished: st.published, description: (e.points || []).join('. ').slice(0, 150), mainEntityOfPage: url,
+    author: st.author ? { '@type': 'Person', name: st.author } : { '@type': 'Organization', name: 'AI NewsWave', url: SITE }, publisher: { '@type': 'Organization', name: 'AI NewsWave', logo: { '@type': 'ImageObject', url: `${SITE}/icon512.png` } } };
+  await writeFile(path.join(erdir, `${st.id}.html`), enHead(`${e.title} | AI NewsWave`, (e.points || []).join('. ').slice(0, 150), url, `${SITE}/recap/${st.id}.html`, `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`) + `<main class="wrap">
+  <article>
+    <p class="meta">${st.type === 'briefing' ? 'AI Briefing' : 'Korea AI News'}</p>
+    <h1>${esc(e.title)}</h1>
+    <p class="meta">${st.author ? `By ${esc(st.author)}` : 'AI NewsWave'} | ${enDate(st.published)} | Based on ${st.sources.length} Korean news reports</p>
+    ${e.points && e.points.length ? `<h2>Key points</h2>\n    <ul>${e.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
+    ${e.body.map((p) => `<p>${esc(p)}</p>`).join('\n    ')}
+    <h2>Sources (in Korean)</h2>
+    <ul>${st.sources.map((s) => `<li><a href="${esc(s.link)}" rel="noopener" target="_blank">${esc(s.name)}</a></li>`).join('')}</ul>
+    <p class="meta">${st.author ? `Written by ${esc(st.author)} with AI writing tools and reviewed before publication.` : 'Compiled by AI NewsWave from facts confirmed across the Korean reports above.'} Translated from the <a href="/recap/${esc(st.id)}.html">Korean version</a>.</p>
+  </article>
+</main>
+` + enFoot);
+}
+await writeFile(path.join(edir, 'index.html'), enHead('AI NewsWave: Korea AI news in English', 'Daily briefings and news recaps on the Korean AI industry, compiled from Korean media reports.', `${SITE}/en/`, `${SITE}/`) + `<main class="wrap">
+  <h1>Korea AI news, in English</h1>
+  <p>AI NewsWave follows Korean AI and tech media every 30 minutes. Here we publish English versions of our daily briefings and news recaps on Korean AI companies, chips, policy and research.</p>
+  ${enStories.length ? `<ul>${enStories.map((s) => `<li><a href="recap/${esc(s.id)}.html">${esc(s.en.title)}</a> <span class="meta">${enDate(s.published)}</span></li>`).join('')}</ul>` : '<p class="meta">English articles are coming soon.</p>'}
+</main>
+` + enFoot);
+await writeFile(path.join(edir, 'about.html'), enHead('About | AI NewsWave', 'About AI NewsWave', `${SITE}/en/about.html`, `${SITE}/about.html`) + `<main class="wrap">
+  <h1>About AI NewsWave</h1>
+  <p>AI NewsWave is a Korean AI news service. We collect AI-related headlines from Korean media and publish our own recaps that combine facts confirmed across several outlets, with links to every original report.</p>
+  <p>Articles with a reporter's byline are written with AI writing tools and reviewed by that reporter before publication. Unsigned recaps and briefings are generated automatically and checked sentence by sentence every week.</p>
+  <p>We do not translate or republish Korean media articles. English pages contain only text we wrote ourselves.</p>
+  <p>Contact: appealrequested@gmail.com</p>
+</main>
+` + enFoot);
+
 const now = new Date().toISOString();
 const urls = [
   { loc: `${SITE}/`, lastmod: now, freq: 'hourly', pri: '1.0' },
   { loc: `${SITE}/recap/`, lastmod: now, freq: 'daily', pri: '0.9' },
   ...plainCats.map((c) => ({ loc: `${SITE}/recap/${topicFile(c)}`, lastmod: now, freq: 'daily', pri: '0.6' })),
   ...['about', 'privacy', 'contact'].map((p) => ({ loc: `${SITE}/${p}.html`, freq: 'monthly', pri: '0.3' })),
+  { loc: `${SITE}/en/`, lastmod: now, freq: 'daily', pri: '0.8' },
+  ...enStories.map((s) => ({ loc: `${SITE}/en/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: '0.7' })),
   ...withPoints.map((a) => ({ loc: `${SITE}/a/${a.id}.html`, lastmod: a.published, freq: 'weekly', pri: '0.5' })),
   ...stories.map((s) => ({ loc: `${SITE}/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: s.type === 'briefing' ? '0.8' : '0.7' })),
 ];

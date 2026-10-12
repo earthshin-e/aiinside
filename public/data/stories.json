@@ -33,7 +33,20 @@
           "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/11/SAGQBGXD6JGUXCAP65L4TQCFBA"
         }
       ],
-      "published": "2026-10-11T17:58:00.000Z"
+      "published": "2026-10-11T17:58:00.000Z",
+      "en": {
+        "title": "Seoul to break ground this month on first AI hub project at Yongsan Electronics Market",
+        "points": [
+          "Zone 5 of Yongsan Electronics Market to start construction this month",
+          "Zone covers Najin Arcade Buildings 12 and 13",
+          "First project among 11 special planning zones"
+        ],
+        "body": [
+          "The Seoul Metropolitan Government said on Oct. 11 that Zone 5, home to Najin Arcade Buildings 12 and 13, will begin construction this month. It is one of 11 special planning zones around Yongsan Electronics Market and the first construction project in a plan to turn the area into an industrial hub built around artificial intelligence and ICT.",
+          "Kukmin Ilbo described the project as the starting point for Yongsan's ambition to become an \"Asian Silicon Valley\" based on AI and information and communications technology.",
+          "Chosun Biz introduced Yongsan as a symbol of Korea's electronics industry and the birthplace of its PC industry, calling the work a first step toward an advanced industrial base centered on AI and ICT. The two outlets framed the goal differently, but both reported that Zone 5 construction starts this month."
+        ]
+      }
     },
     {
       "id": "b20261012",
@@ -84,7 +97,21 @@
           "link": "https://news.hada.io/topic?id=35183"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 12 AI Briefing: ARTEX threat lingers as Korean equipment and materials stocks rally",
+        "points": [
+          "Security risks remain after AI intrusion tool halts development",
+          "Hopes for AI investment lift Korean parts and equipment stocks",
+          "First construction begins for Yongsan AI hub"
+        ],
+        "body": [
+          "According to Kukmin Ilbo, public development of ARTEX, a Chinese autonomous AI penetration tool linked to a string of hacks on Korean financial firms, has been halted entirely after the controversy. Recalling copies already distributed or fully blocking their use is practically difficult, so security threats from such AI tools remain.",
+          "Chosun Biz reported that Korean stocks in materials, parts and equipment are rising. After makers of chip production parts and equipment, battery materials companies also gained. Analysts attribute the rally to expectations of growing global AI investment while large chip stocks pause.",
+          "The Seoul Metropolitan Government said on Oct. 11 that Zone 5, which includes Najin Arcade Buildings 12 and 13, among 11 special planning zones around Yongsan Electronics Market, will begin construction this month. Kukmin Ilbo and Chosun Biz reported it as the first construction step in turning the market into an AI and ICT industrial hub.",
+          "In a case shared on GeekNews, a developer used AI agents for about three months to rebuild a first-person shooter in C++. The project restored 99% of all functions, 83% of which matched the original byte for byte. By the end of the first month the game could run and load maps."
+        ]
+      }
     },
     {
       "id": "h20261012-e906b9a5bc9e",
@@ -129,7 +156,22 @@
         }
       ],
       "author": "Haley Yun",
-      "published": "2026-10-11T17:34:33.000Z"
+      "published": "2026-10-11T17:34:33.000Z",
+      "en": {
+        "title": "KAIST to hold Physical AI Korea 2026 on Oct. 13 and unveil industry expansion strategy",
+        "points": [
+          "KAIST hosts Physical AI Korea 2026 at its Daejeon campus on Oct. 13",
+          "Physical AI platform technology for companies to be unveiled",
+          "Research, education and startup strategies also on the agenda"
+        ],
+        "body": [
+          "KAIST said on Oct. 11 that it will hold Physical AI Korea 2026 at the KI Building on its main campus in Daejeon on Oct. 13, as reported by Robot Newspaper and Digital Today.",
+          "The event aims to take physical AI beyond humanoid demonstrations and expand it into technology used across industries and daily life. According to Robot Newspaper, KAIST will declare a vision of growing physical AI into a future industry for Korea, naming manufacturing, healthcare and defense among its applications.",
+          "Digital Today reported that KAIST will present physical AI platform technology that various companies can use, along with strategies for research, education and startups.",
+          "iNews24 reported that KAIST President Bae Choong-sik will appear at the event like Iron Man to demonstrate physical AI technology in person.",
+          "AI Newspaper (인공지능신문) reported on Oct. 8 that while humanoids are now beating human records in robot competitions and pilot deployments of physical AI have begun in factories, KAIST sees the field reaching well beyond stadiums and a few manufacturing sites."
+        ]
+      }
     },
     {
       "id": "b20261011",
@@ -318,7 +360,20 @@
           "link": "https://biz.chosun.com/industry/business-venture/2026/10/11/V2WCLCEIAVBEPKILP7JGJAMFLM"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Korea's SME ministry and tax agency team up to support 2,559 AI startups and SMEs",
+        "points": [
+          "Joint support for 2,559 AI SMEs and startups",
+          "AI startups under five years old exempt from routine tax audits",
+          "Other AI SMEs can defer audits for up to three years on request"
+        ],
+        "body": [
+          "Korea's Ministry of SMEs and Startups and the National Tax Service said on Oct. 11 that they will link policy support with tax support for 2,559 AI small and medium-sized companies and startups. AI Newspaper (인공지능신문) reported that the program stems from an agreement the two agencies signed last December to support the growth of AI SMEs and startups.",
+          "According to VentureSquare, AI startups founded within the past five years will be excluded from selection for routine tax audits, and other AI SMEs can defer tax audits for up to three years upon application.",
+          "Chosun Biz reported that the ministry is supporting AI model and service development and AI adoption at industrial sites through 20 programs this year, and has passed the list of supported companies to the tax agency."
+        ]
+      }
     },
     {
       "id": "s20261011-68fe88d32f76",
