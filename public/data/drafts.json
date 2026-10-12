@@ -1,4 +1,319 @@
 {
   "note": "기자(Haley Yun) 검토용 초안. 매일 예약 작업이 하루 1~2건 써 넣고, 검토 후 발행하면 stories.json 으로 옮깁니다(author, published 갱신). 이 파일의 글은 사이트 목록, 사이트맵, data 브랜치에 나가지 않고 /draft/<id>.html 미리보기만 만듭니다.",
-  "drafts": []
+  "drafts": [
+    {
+      "id": "h20261012-5eebe3d6a097",
+      "title": "네이버지도, 메타 AI 글래스에서 길안내 시작…구글과 삼성 기기에도 연동",
+      "category": "기업",
+      "author": "Haley Yun",
+      "points": [
+        "네이버지도 길안내, AI 글래스로 확장",
+        "메타 레이밴, 오클리 메타에 먼저 제공",
+        "구글, 삼성 기기는 연내 출시 예정"
+      ],
+      "body": [
+        "네이버가 12일 네이버지도의 길안내 기능을 AI 글래스로 확장한다고 밝혔다. 네이버는 국내 지도 서비스 중 처음으로 AI 글래스 연동 길안내를 지원한다고 설명했다. 메타의 레이밴 메타와 오클리 메타에서 먼저 제공하고, 연내 출시 예정인 구글과 삼성의 인텔리전트 아이웨어에도 연동할 계획이다.",
+        "서비스는 이동 중 실시간 도보 길안내를 AI 글래스로 받는 방식이다. 테크월드뉴스는 실시간 음성 안내를 지원한다고 전했고, 벤처스퀘어는 길을 찾을 때 스마트폰을 꺼낼 필요가 줄어든다는 점을 제목에서 강조했다. 아이뉴스24는 \"50m 앞 왼쪽에 목적지\"와 같은 안내를 제목에 담았다.",
+        "매체마다 초점이 조금씩 달랐다. AI타임스는 안경에 말을 걸면 길을 알려주는 AI 비서가 국내 지도 서비스에도 첫선을 보인다고 표현했다. 테크M은 단순한 장소 탐색과 경로 안내에 그치지 않고 차별화된 지도 서비스를 제공한다는 전략이라고 전했다.",
+        "기기를 부르는 이름도 달랐다. 아이뉴스24와 AI타임스는 'AI 안경'을 함께 썼고, 나머지 매체는 'AI 글래스'로 적었다. 협력 대상은 보도 전반에서 메타, 구글, 삼성으로 같다."
+      ],
+      "sources": [
+        {
+          "id": "5eebe3d6a097",
+          "name": "AI타임스",
+          "title": "네이버지도, AI 안경 연동 길안내 서비스 개시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216157"
+        },
+        {
+          "id": "4f2dae132e30",
+          "name": "테크M",
+          "title": "\"안경 쓰고 길 찾는다\" 네이버 지도, 'AI 글래스'서도 길안내...구글·삼성·메타 '맞손'",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155982"
+        },
+        {
+          "id": "4380058e0435",
+          "name": "아이뉴스24",
+          "title": "\"50m 앞 왼쪽에 목적지\"⋯네이버지도 실시간 길 안내, AI 안경에서도 쓴다",
+          "link": "https://www.inews24.com/view/2013827"
+        },
+        {
+          "id": "6e7f453dee5b",
+          "name": "디지털투데이",
+          "title": "네이버, AI 글래스로 지도 길안내 확대…메타·구글·삼성 협력",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706291"
+        },
+        {
+          "id": "fdb6371dfbc8",
+          "name": "EBN",
+          "title": "[Digital & Now] 네이버지도, AI 글래스 길안내 서비스 확대",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727381"
+        },
+        {
+          "id": "0d22884da3e6",
+          "name": "벤처스퀘어",
+          "title": "네이버지도, 길 찾을 때 스마트폰 꺼낼 필요 없어진다…메타·구글·삼성 AI 글래스에 음성 길안내",
+          "link": "https://www.venturesquare.net/1118811"
+        },
+        {
+          "id": "e0d0955859b3",
+          "name": "조선비즈",
+          "title": "네이버지도, 메타·구글·삼성 AI 글래스서 길안내",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/12/FI2SWFRWONANRNDSGMCRIGADQI"
+        },
+        {
+          "id": "54941c9f93b3",
+          "name": "테크월드뉴스",
+          "title": "네이버지도, AI 글래스 길안내 지원…실시간 음성 안내 확대",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408041"
+        }
+      ],
+      "draft": true,
+      "drafted": "2026-10-12T09:40:15.757Z"
+    },
+    {
+      "id": "h20261012-7032e0978482",
+      "title": "엔비디아, 미국 과학 연구에 5년간 10억 달러 투자와 지원 발표",
+      "category": "기업",
+      "author": "Chloe Park",
+      "points": [
+        "엔비디아, 5년간 10억 달러 투자와 지원",
+        "양자 컴퓨팅, 헬스케어, 에너지 안보 중심",
+        "워싱턴 D.C. 정상회의에서 계획 발표"
+      ],
+      "body": [
+        "엔비디아가 향후 5년간 미국 과학 발전을 위해 총 10억 달러 규모의 투자와 지원에 나선다. 아이뉴스24와 테크월드뉴스에 따르면 엔비디아는 12일 미국 워싱턴 D.C.에서 열린 '과학: 새로운 황금시대(Science: A New Golden Age)' 정상회의에서 이 계획을 발표했다.",
+        "주요 대상은 양자 컴퓨팅, 헬스케어, 에너지 안보 분야다. 데이터넷은 이들 분야를 포함해 미국 핵심 과학 분야의 연구개발 역량을 강화하려는 계획이라고 전했다. 디지털투데이는 투자금이 세 갈래로 쓰인다며 그중 하나로 미국 고등교육 연구 기관 지원을 꼽았고, 초지능 기술 발전을 목표로 내세웠다고 썼다.",
+        "원화 환산액은 매체마다 달랐다. 아이뉴스24는 약 1조4000억원, 테크월드뉴스는 약 1조원 이상으로 적었다. 베타뉴스는 미국 정부 관계자와 산업계, 과학계 인사가 참석한 행사에서 발표됐다고 전했다.",
+        "엔비디아의 10억 달러 규모 투자는 다른 보도에서도 나왔다. 로봇신문은 11일 크립토브리핑닷컴 등 미국 매체 보도를 인용해 엔비디아가 휴머노이드 로봇 기업 피규어 AI에 최대 10억 달러를 추가 투자하는 방안을 논의하고 있다고 전했다. 이 기사는 이번 정상회의 발표와는 별도의 보도다."
+      ],
+      "sources": [
+        {
+          "id": "7032e0978482",
+          "name": "아이뉴스24",
+          "title": "엔비디아, 美 과학기술 발전에 10억 달러 투자",
+          "link": "https://www.inews24.com/view/2013918"
+        },
+        {
+          "id": "ea72e4d1b68e",
+          "name": "베타뉴스",
+          "title": "엔비디아, 美 과학에 10억달러 푼다…양자·헬스케어 '초지능' 승부수",
+          "link": "https://www.betanews.net/article/view/beta202610120081"
+        },
+        {
+          "id": "a1e631dd7634",
+          "name": "디지털투데이",
+          "title": "엔비디아, 양자 컴퓨팅 등에 5년간 10억달러 투자",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706356"
+        },
+        {
+          "id": "17b47b70844e",
+          "name": "데이터넷",
+          "title": "엔비디아, 美 과학·양자컴퓨팅에 5년간 10억 달러 투자 ··· 초지능 연구개발 지원 박차",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215008"
+        },
+        {
+          "id": "45c22fa38db9",
+          "name": "테크월드뉴스",
+          "title": "엔비디아, 美 과학기술에 5년간 10억달러 투자…AI 연구 인프라 키운다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408015"
+        },
+        {
+          "id": "df0c7a5e452a",
+          "name": "로봇신문",
+          "title": "엔비디아, 피규어 AI에 10억달러 추가 투자 검토",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48892"
+        }
+      ],
+      "draft": true,
+      "drafted": "2026-10-12T09:40:15.757Z"
+    },
+    {
+      "id": "h20261012-792840793b4f",
+      "title": "클로드와 챗GPT 이름 적는 채용공고 1년 새 170% 늘었다",
+      "category": "일반",
+      "author": "Ethan Chen",
+      "points": [
+        "AI 도구 명시 채용공고 전년 대비 170% 증가",
+        "클로드 언급 공고는 770% 증가",
+        "잡코리아 올해 3분기 공고 분석 결과"
+      ],
+      "body": [
+        "잡코리아(운영 법인 웍스피어)가 올해 3분기 자사에 게재된 채용공고를 분석한 결과, 클로드, 챗GPT, 제미나이 등 AI 도구 이름을 직접 명시한 공고가 지난해 같은 기간보다 170% 증가했다. 잡코리아는 이 내용을 12일 밝혔다.",
+        "플래텀은 기업들이 채용공고에 'AI 활용 능력 우대' 같은 포괄적 표현 대신 업무에 쓸 AI 도구의 이름을 직접 적는 경우가 늘고 있다고 전했다. IT조선은 AI 활용 능력을 요구하는 데서 한 걸음 나아가 구체적인 AI 도구 사용 경험을 묻는 사례가 늘고 있다고 썼다.",
+        "도구별로는 클로드 언급이 770% 늘어 가장 높은 증가율을 기록했다고 아이뉴스24가 전했다. 인공지능신문과 디지털투데이는 기업들이 실무에 활용할 구체적인 툴까지 명시하는 흐름을 확인했다고 정리했다."
+      ],
+      "sources": [
+        {
+          "id": "792840793b4f",
+          "name": "플래텀",
+          "title": "채용공고, ‘AI 활용 능력’ 대신 클로드·챗GPT 이름 적는다",
+          "link": "https://platum.kr/archives/296027"
+        },
+        {
+          "id": "2ba325c39b0c",
+          "name": "아이뉴스24",
+          "title": "\"클로드·챗GPT 쓸 줄 아세요?\"⋯AI 활용 능력 요구 채용공고 170% 증가",
+          "link": "https://www.inews24.com/view/2013704"
+        },
+        {
+          "id": "dac6aa1a58e7",
+          "name": "IT조선",
+          "title": "“클로드·챗GPT 쓸 줄 아세요?”… AI 툴 키워드 공고 급증",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171772"
+        },
+        {
+          "id": "ce3e41e34b5b",
+          "name": "인공지능신문",
+          "title": "\"클로드, 챗GPT 쓸 줄 아세요?\"… AI 툴 키워드 공고 170% 증가",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42255"
+        },
+        {
+          "id": "b85a0bc00eba",
+          "name": "디지털투데이",
+          "title": "챗GPT·클로드 등 특정 AI 툴 명시한 AI 채용 공고 급증",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706311"
+        }
+      ],
+      "draft": true,
+      "drafted": "2026-10-12T09:40:15.757Z"
+    },
+    {
+      "id": "h20261012-efedb8dbe020",
+      "title": "네이버클라우드, 베트남 FPT와 AI 팩토리와 GPUaaS 사업 공동 추진",
+      "category": "기업",
+      "author": "Ashley Yang",
+      "points": [
+        "네이버클라우드와 FPT, 업무협약 체결",
+        "AI 팩토리와 GPUaaS 사업 공동 추진",
+        "한국, 일본, 베트남 등 APAC 시장 겨냥"
+      ],
+      "body": [
+        "네이버클라우드가 베트남 IT 기업 FPT와 AI 팩토리 및 GPU 서비스형 인프라(GPUaaS) 사업을 공동 추진한다고 12일 밝혔다. 양사는 최근 경기 성남시 네이버 1784에서 업무협약(MOU)을 체결했고, 한국과 일본, 베트남 등 아시아태평양(APAC) 시장에서 GPUaaS 사업을 넓힌다는 계획이다.",
+        "협약 범위는 AI 팩토리 사업 전반이다. 테크M과 테크월드뉴스는 사업의 기획, 개발, 운영을 함께 추진하기로 했다고 전했다.",
+        "매체별로 강조한 대목은 조금씩 달랐다. 조선비즈는 양사의 기술과 고객망을 결합해 대규모 AI 연산 자원이 필요한 기업을 공략한다는 구상이라고 전했다. IT조선은 양사의 GPU 인프라와 클라우드 기술을 결합해 베트남을 비롯한 APAC 지역에서 AI 인프라 사업을 확대할 계획이라고 썼다.",
+        "FPT를 소개하는 표현도 갈렸다. 디지털투데이와 테크M은 베트남 IT 기업, 아이뉴스24와 인공지능신문은 본문에서 베트남 대표 IT 기업이라 했고 제목에는 베트남 최대 IT 기업이라고 적었다. AI타임스는 베트남 ICT 기업이라고 표현했다."
+      ],
+      "sources": [
+        {
+          "id": "efedb8dbe020",
+          "name": "디지털투데이",
+          "title": "네이버클라우드, 베트남 IT기업 FPT와 AI 팩토리 사업 협력",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706505"
+        },
+        {
+          "id": "ebfcd3d54f20",
+          "name": "아이뉴스24",
+          "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진",
+          "link": "https://www.inews24.com/view/2014059"
+        },
+        {
+          "id": "ba9d81d6e46a",
+          "name": "테크M",
+          "title": "네이버클라우드, 베트남 FPT와 업무협약...아태 지역 GPUaaS 사업 확대",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155999"
+        },
+        {
+          "id": "bd5c4b577c3e",
+          "name": "테크월드뉴스",
+          "title": "네이버클라우드-FPT, AI 팩토리·GPUaaS 사업 추진 ‘맞손’",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408044"
+        },
+        {
+          "id": "636aba9ac45e",
+          "name": "AI타임스",
+          "title": "네이버클라우드, 베트남 FPT와 아태 지역 AI 팩토리 사업 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216156"
+        },
+        {
+          "id": "c2efb6d1dd5f",
+          "name": "IT조선",
+          "title": "네이버클라우드, 베트남 AI 팩토리 시장 노린다…현지 FPT와 맞손",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171790"
+        },
+        {
+          "id": "d0025eac7d62",
+          "name": "EBN",
+          "title": "[Digital & Now] 네이버클라우드, 베트남 FPT와 AI 팩토리 협력",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727395"
+        },
+        {
+          "id": "7570231dbf9f",
+          "name": "조선비즈",
+          "title": "네이버클라우드, 베트남 IT 기업 FPT와 GPUaaS 사업 업무협약... 아태 지역 AI 인프라 시장 공략",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/12/UXQE4IFOEVFLDJ42HFIVX5IFIU"
+        },
+        {
+          "id": "e42457318876",
+          "name": "인공지능신문",
+          "title": "네이버클라우드, 베트남 최대 IT 기업과 AI 팩토리 사업 추진...아태 AI 시장 공략 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42257"
+        }
+      ],
+      "draft": true,
+      "drafted": "2026-10-12T09:40:15.757Z"
+    },
+    {
+      "id": "h20261012-caeff1450731",
+      "title": "안랩, 한국연구재단 업무망에 생성형 AI 이용 보안체계 구축 지원",
+      "category": "보안",
+      "author": "Kevin Wong",
+      "points": [
+        "안랩, 한국연구재단 N2SF 구축 지원",
+        "업무망에서 생성형 AI와 인터넷 이용",
+        "KISA 도입 지원사업 컨소시엄 주관"
+      ],
+      "body": [
+        "안랩이 한국인터넷진흥원(KISA)의 '2026년 국가 망 보안체계(N2SF) 도입 지원사업'에서 한국연구재단 업무망 내 생성형 AI와 인터넷 이용을 위한 보안체계를 구축하고 적용 대상을 확대한다고 12일 밝혔다. 안랩은 이 사업을 진행하는 컨소시엄의 주관기업이다.",
+        "아이뉴스24는 N2SF를 업무 정보를 중요도에 따라 구분하고 보안 수준을 달리 적용하는 체계로 소개했다. 테크M은 이 사업이 지난 6월부터 이어졌고 컨소시엄에 모니터랩과 드림시큐리티가 참여한다고 전했다.",
+        "기대 효과는 매체마다 다르게 표현했다. 조선비즈는 업무용 PC에서 AI를 쓸 수 있게 된다는 점을 제목에 내세웠고, 디지털데일리는 한국연구재단 직원들이 업무 PC에서 생성형 AI와 인터넷을 쓸 수 있게 하는 체계라고 썼다. 시점 표현은 엇갈렸다. 디지털투데이는 구축했다고 적었고, 데이터넷과 아이뉴스24는 구축하고 적용 대상을 확대한다고 적었다.",
+        "테크M은 제목에서 11월 전사 적용 확대를 내걸었다."
+      ],
+      "sources": [
+        {
+          "id": "caeff1450731",
+          "name": "테크M",
+          "title": "안랩, 한국연구재단 N2SF 구축 지원...11월 전사 적용 확대",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155972"
+        },
+        {
+          "id": "7adbde51e82d",
+          "name": "보안뉴스",
+          "title": "안랩, 한국연구재단 N2SF 구축 지원… 업무망서 생성형 AI 이용",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146306"
+        },
+        {
+          "id": "01c5499d55eb",
+          "name": "조선비즈",
+          "title": "안랩, 한국연구재단 N2SF 구축…“업무용 PC서 AI 사용”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/12/WKYXWDCGH5A2DMDHMPISABK6I4"
+        },
+        {
+          "id": "04352f7b1887",
+          "name": "데이터넷",
+          "title": "안랩, 한국연구재단 N2SF 보안체계 구축",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215003"
+        },
+        {
+          "id": "dee0f1365b81",
+          "name": "디지털데일리",
+          "title": "안랩 컨소시엄, 한국연구재단 N2SF 구축 추진",
+          "link": "https://www.ddaily.co.kr/page/view/2026101209420092379"
+        },
+        {
+          "id": "af5354c18e37",
+          "name": "아이뉴스24",
+          "title": "안랩, 한국연구재단 업무망에 생성형 AI·인터넷 이용 보안체계 구축",
+          "link": "https://www.inews24.com/view/2013705"
+        },
+        {
+          "id": "4f42b10e8c77",
+          "name": "디지털투데이",
+          "title": "안랩, 한국연구재단 N2SF 적용 지원...\"업무망서 생성형 AI·인터넷 이용\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706297"
+        }
+      ],
+      "draft": true,
+      "drafted": "2026-10-12T09:40:15.757Z"
+    }
+  ]
 }
