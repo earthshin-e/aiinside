@@ -84,7 +84,7 @@ ${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<l
   <ul>${others.map((o) => `<li><a href="${esc(o.id)}.html">${esc(o.title)}</a></li>`).join('')}</ul>` : ''}
   <p><a href="./">정리 기사 전체 보기</a> | <a href="../">AI 뉴스웨이브에서 최신 AI 뉴스 보기</a></p>
 </main>
-<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a></footer>
+<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a><a href="/en/" hreflang="en">English</a></footer>
 </body>
 </html>
 `;
@@ -132,7 +132,7 @@ const listPage = ({ title, desc, canon, main }) => `<!doctype html>
 <main class="wrap">
 ${main}
 </main>
-<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a></footer>
+<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a><a href="/en/" hreflang="en">English</a></footer>
 </body>
 </html>
 `;
@@ -238,7 +238,7 @@ function articlePage(a) {
   ${st ? `<h2>뉴스웨이브 정리 기사</h2>\n  <ul><li><a href="../recap/${esc(st.id)}.html">${esc(st.title)}</a></li></ul>` : ''}
   ${same.length ? `<h2>같은 소식, 다른 매체</h2>\n  <ul>${same.map((b) => `<li><a href="${link(b)}">${esc(b.title)}</a> <span class="meta">${esc(b.source)}</span></li>`).join('')}</ul>` : ''}
 </main>
-<footer class="wrap foot"><a href="../">홈</a><a href="../recap/">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a></footer>
+<footer class="wrap foot"><a href="../">홈</a><a href="../recap/">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a><a href="/en/" hreflang="en">English</a></footer>
 </body>
 </html>
 `;
