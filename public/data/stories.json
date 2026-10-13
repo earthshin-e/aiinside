@@ -218,7 +218,24 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215023"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 13 AI Briefing: New Models and Chips From Meta and Microsoft, Krafton's AI Hiring Drive",
+        "points": [
+          "Meta and Microsoft unveil new AI models and in-house chips",
+          "AMD and Intel compete on agentic AI server designs",
+          "In Korea, Krafton's open recruitment and the opening of KES 2026"
+        ],
+        "body": [
+          "Meta unveiled new AI models, Muse Wonder and Muse Wonder Pro, on the 12th (U.S. time). iNews24 reported that they are distinguished by stronger performance on professional tasks such as coding, finance and law. Chosun Biz reported that the model ranked second in a performance evaluation, and Digital Today, citing The New York Times, reported that the test results were based on Meta's own data.",
+          "Microsoft unveiled Maia 300, its third-generation in-house AI chip, on the 12th. Industry News reported that it will deploy more than 1 million units next year, and Chosun Biz explained that Microsoft, which had relied on Nvidia GPUs, is shifting its center of gravity toward its own chips.",
+          "AMD unveiled Helios, a server rack for agentic AI that combines CPUs and GPUs. According to Chosun Biz, a CPU-only rack supports up to 32,768 cores, and Digital Today reported that it will launch in November. Intel disclosed detailed specifications of its D-Series GPU for AI inference, and Chosun Biz reported that its Xeon-based rack design puts more than 46,000 CPU cores in a single rack in some configurations.",
+          "Krafton on the 13th began a hiring-linked internship program that will take on more than 100 new graduates with AI skills across all job categories. According to Kukmin Ilbo, it is the largest ever among Krafton's new-graduate open recruitments, and applications are accepted through the 23rd.",
+          "The Korea Electronics Show, KES 2026, opened at COEX on the 13th and runs through the 16th. iNews24 reported that about 500 companies from 28 countries are taking part. Samsung Electronics said through its own newsroom that it is showing products with AI technology, including displays, home appliances and mobile devices.",
+          "According to IT Chosun, Broadcom CEO Hock Tan named funding as an obstacle to AI growth at a conference in Singapore on the 12th. AI Times reported that the CEOs of Broadcom and Intel expect AI infrastructure demand to exceed supply for the time being, while pointing out that the industry must prove the profitability of its investments.",
+          "KT on the 13th launched eight subscription products developed with Google. EBN reported that they start at 7,500 won a month. Hyundai Motor and Kia made a strategic investment in AI data infrastructure company VAST Data, VAST Data announced on the 13th, and VentureSquare reported that the size of the investment was not disclosed."
+        ]
+      }
     },
     {
       "id": "s20261013-23d44bedbe1c",
@@ -267,7 +284,20 @@
           "link": "https://www.bloter.net/news/articleView.html?idxno=675518"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Everspin Teams With KB Kookmin Card and SBI on AI Agent Identity Verification",
+        "points": [
+          "Four-party MOU among Everspin, KB Kookmin Card and SBI",
+          "Pilot tests of AI agent identity and authority verification",
+          "Linking Korea-Japan digital payment services"
+        ],
+        "body": [
+          "AI security company Everspin signed a four-party memorandum of understanding (MOU) with KB Kookmin Card, Japan's SBI Holdings and the joint venture SBI Everspin, it said on the 13th. According to Startup Today, the core of the agreement is verifying trust in AI agents.",
+          "EBN reported that the four companies will pilot technology for verifying the identity and authority of AI agents and pursue links between digital payment services in Korea and Japan. Industry News described it as Korea-Japan digital finance cooperation using AI agents and digital assets, and EBN also mentioned stablecoin payment cooperation in its headline.",
+          "Boannews reported that the deal is seen as more than a simple business partnership, a move to secure ground in a fast-changing cross-border financial ecosystem ahead of rivals."
+        ]
+      }
     },
     {
       "id": "s20261013-5ad5f0de54dc",
@@ -310,7 +340,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706427"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "AI Training Data From Government Projects Must Be Linked to 'AI Hub' Starting Next April",
+        "points": [
+          "Government-project AI training data must be provided to AI Hub",
+          "Amendments to the AI Framework Act and the Data Industry Act pass",
+          "Set to take effect next April"
+        ],
+        "body": [
+          "Plans are moving forward to require that AI training data built or produced through government projects be provided to AI Hub, the national AI data platform. According to Digital Today, the Ministry of Science and ICT said on the 13th that amendments to the AI Framework Act and the Data Industry Act passed the Cabinet meeting. Headlines gave next April as the effective date.",
+          "Chosun Biz reported that institutions and companies carrying out government projects must link the AI training data they create during those projects to AI Hub and provide it. Public institutions must also link information on where their data is located to One-Window, which lets users find where public and private data are in one place.",
+          "Digital Daily explained that the aim is to integrate location information for data scattered across the public and private sectors and make data easier for companies and research institutions to access."
+        ]
+      }
     },
     {
       "id": "s20261013-b5c3d5d34cc9",
@@ -371,7 +414,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408109"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kolon Benit Presents Six-Step AI Transformation Methodology at AX Boost Summit",
+        "points": [
+          "Kolon Benit holds AX Boost Summit 2026",
+          "Unveils a six-step AX methodology",
+          "Stresses redesigning how work is done, not just adopting AI"
+        ],
+        "body": [
+          "Kolon Benit held the AX Boost Summit 2026 on the 13th at Seoul Dragon City in Yongsan District, Seoul, and presented a six-step AX (AI transformation) methodology for turning corporate AI adoption into real results. According to The Elec, it is the second year the event has been held.",
+          "According to Chosun Biz, Kolon Benit CEO Kang Yi-gu said, \"Adopting artificial intelligence (AI) does not raise productivity by itself,\" and that companies must work out which tasks to hand to AI and where humans should make judgments to get past the stage where early results stall. iNews24 reported that Kang said applying AI to parts of existing work while leaving the work itself unchanged runs into limits, and that the way of working with AI must be redesigned.",
+          "EBN reported that the company shared methodologies tailored to the work characteristics of each industry and examples of application at manufacturing sites, and iNews24 put \"28.6% improvement in manufacturing capacity\" in its headline."
+        ]
+      }
     },
     {
       "id": "s20261013-19819633dea8",
@@ -426,7 +482,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215023"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hyundai Motor and Kia Make Strategic Investment in VAST Data",
+        "points": [
+          "Hyundai Motor and Kia invest in VAST Data",
+          "42dot validated the technology over several years",
+          "Size of the investment not disclosed"
+        ],
+        "body": [
+          "Hyundai Motor and Kia made a strategic investment in AI data infrastructure company VAST Data, VAST Data announced on the 13th. According to VentureSquare, the size of the investment was not disclosed.",
+          "Robot Newspaper and Digital Daily reported that the investment followed 42dot, the global software center of Hyundai Motor and Kia, running VAST Data's AI operating system in real research and development environments for several years and validating the technology.",
+          "Techworld News and Datanet explained that the investment aims to strengthen the data infrastructure needed to develop physical AI such as autonomous driving and robotics."
+        ]
+      }
     },
     {
       "id": "s20261013-3a841d14e7da",
@@ -468,7 +537,19 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48958"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nvidia-Led Physical AI Robotics Course With XYZ Begins",
+        "points": [
+          "Nvidia-led robotics course began on the 12th",
+          "About 900 applied, more than 60 selected",
+          "960 hours in total through April 2027"
+        ],
+        "body": [
+          "The Physical AI Robotics Course, led by Nvidia with XYZ taking part in its operation, began on the 12th at the XYZ Academy in Seongsu-dong, Seoul. According to VentureSquare, about 900 people applied and more than 60 were selected, and the course will run 960 hours in total through April 2027.",
+          "Robot Newspaper and Logistics News reported that the course combines Nvidia's official training with XYZ's humanoid hands-on environment. It focuses on practical skills in applying technology learned in simulation to real robots."
+        ]
+      }
     },
     {
       "id": "s20261013-0cab37ed6ea9",
@@ -522,7 +603,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727515"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Broadcom and Intel CEOs: 'Capital Is the Biggest Obstacle to AI Growth'",
+        "points": [
+          "Broadcom and Intel CEOs point to funding",
+          "Return on investment matters more than chips and power",
+          "AI infrastructure demand expected to exceed supply"
+        ],
+        "body": [
+          "The chief executives of Broadcom and Intel named funding, not a shortage of semiconductors or power, as the biggest obstacle to growth in the AI industry. According to IT Chosun, Broadcom CEO Hock Tan said this on the 12th (local time) at the DBS Asia Future Forward Conference in Singapore. IT Chosun and Digital Today cited reports by Bloomberg and CNBC.",
+          "AI Times reported that the two CEOs expect AI infrastructure demand to exceed supply for the time being, while pointing out that the challenge is to recoup huge investment costs and secure a sustainable revenue model. iNews24 reported that Tan compared AI investors to casino gamblers and warned of overheated investment enthusiasm."
+        ]
+      }
     },
     {
       "id": "s20261013-032104cbb999",
@@ -577,7 +670,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727562"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Samsung Electro-Mechanics Holds First In-House Hackathon to Build Work AI Agents",
+        "points": [
+          "Samsung Electro-Mechanics holds in-house hackathon from the 13th",
+          "Uses its own AI platform SEMCo-Work",
+          "Employees build work AI agents themselves"
+        ],
+        "body": [
+          "Samsung Electro-Mechanics is holding its first in-house hackathon, in which employees build work AI agents themselves using SEMCo-Work, the generative AI platform it developed. It runs for four days, from the 13th to the 16th, at the Suwon campus.",
+          "According to Blotter and Chosun Biz, the goal is to find agents that automate repetitive tasks such as product development, production and quality control, and customer response. Blotter reported that the idea is to build a work environment in which each employee uses one AI agent, and Techworld News put \"one AI agent per person\" in its headline.",
+          "EBN explained that the company plans to share outstanding cases companywide to raise work efficiency, and its headline said 200 employees will build AI agents."
+        ]
+      }
     },
     {
       "id": "s20261013-b87d9c05b4c0",
@@ -638,7 +744,20 @@
           "link": "https://www.inews24.com/view/2014243"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Launches Eight Google AI Subscription Products, Starting at 7,500 Won a Month",
+        "points": [
+          "KT launches eight Google AI subscription products",
+          "Three standalone AI products and five lifestyle benefit bundles",
+          "From 7,500 won a month, up to 5TB of storage"
+        ],
+        "body": [
+          "KT said on the 13th that it is launching eight KT Subscription products that combine generative AI services with lifestyle benefits, developed with Google. They consist of three standalone products, including Google AI Plus and Google AI Pro, and five bundles that add coffee and other lifestyle benefits.",
+          "According to The Elec, the standalone products are Google AI Plus (400GB), Google AI Plus (2TB) and Google AI Pro (5TB). EBN reported that products offering access to Google's generative AI service Gemini start at 7,500 won a month and provide up to 5TB of cloud storage depending on the product.",
+          "Digital Today reported that the bundles add benefits from Mega MGC Coffee, Starbucks and others. Chosun Biz noted that the lineup lets customers choose a subscription by considering not only AI features and storage but also the everyday services they already use."
+        ]
+      }
     },
     {
       "id": "s20261013-b661f2bb375f",
@@ -699,7 +818,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706606"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LG Uplus's 'U+one' AI Handles Bill Payment and Roaming Sign-Up",
+        "points": [
+          "U+one AI search turned into an action-taking agent",
+          "Bill checks, payment and roaming sign-up handled by conversation",
+          "Expanding from answering questions to handling tasks"
+        ],
+        "body": [
+          "LG Uplus said on the 13th that it is converting the AI search in its integrated customer platform U+one from a feature that answers questions and guides users to menus into an \"actionable AI agent\" that also handles actual tasks.",
+          "According to The Elec, U+one is an app that handles telecom tasks in one place, such as checking plans, billing and payment, and signing up for roaming and add-on services. Chosun Biz reported that customers can now pay their phone bills and sign up for roaming products while talking to the AI. EBN explained that checking bills, paying overdue charges, and getting roaming product recommendations and signing up can all be done through conversation alone.",
+          "iNews24 reported that the change expands the role of AI search from answering questions to handling the tasks users want done."
+        ]
+      }
     },
     {
       "id": "s20261013-835405ffae50",
@@ -760,7 +892,20 @@
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=240393"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Samsung Electronics Shows AI Kitchen Appliances at 'La Liste 2027'",
+        "points": [
+          "Samsung Electronics takes part in the La Liste gourmet event",
+          "Displays Bespoke AI refrigerator and induction cooktop",
+          "AI applied from managing ingredients to cooking"
+        ],
+        "body": [
+          "Samsung Electronics took part as an official partner in the global gourmet event La Liste 2027 Korea Awards on the 12th at Paradise City in Incheon, showing a kitchen experience that incorporates AI technology. This is based on an announcement from the company published by the Samsung Electronics newsroom.",
+          "According to the newsroom, La Liste is a global gourmet guide that rates restaurants, hotels and pastry shops around the world. Chosun Biz reported that Samsung Electronics displayed items including the Bespoke AI refrigerator and the Infinite Line induction cooktop with built-in hood.",
+          "Chosun Biz and iNews24 described them in their headlines as AI kitchen appliances covering everything from managing ingredients to cooking, and Techworld News noted that the move is an effort to target the premium kitchen market."
+        ]
+      }
     },
     {
       "id": "s20261012-049002b51481",
@@ -4983,7 +5128,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705010"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nvidia-Backed Reflection AI Unveils Its First Open-Weight Model, Beam",
+        "points": [
+          "Reflection AI unveils its first open-weight model, Beam",
+          "Claims it rivals leading U.S. and Chinese models",
+          "An open-weight model competing with Chinese models"
+        ],
+        "body": [
+          "Reflection AI, a U.S. AI startup backed by Nvidia, unveiled its first open-weight model, Beam, on the 5th (U.S. time). Open weight refers to a method of releasing a model's weights.",
+          "The company claimed the new model performs on par with leading open-weight models from the U.S. and China. Techworld News reported that the model competes with Chinese models."
+        ]
+      }
     },
     {
       "id": "s20261007-928badc57f1b",
@@ -5020,7 +5177,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705107"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nvidia Unveils 64GB Configuration of DGX Spark Personal AI Supercomputer",
+        "points": [
+          "64GB configuration of DGX Spark unveiled",
+          "Runs a 100-billion-parameter model locally",
+          "$4,999; two units linked handle 200 billion parameters"
+        ],
+        "body": [
+          "Nvidia on the 6th unveiled the 64GB configuration of DGX Spark, its compact personal AI supercomputer. AI Newspaper (인공지능신문) and Digital Today reported that this configuration can run AI models of up to 100 billion parameters locally.",
+          "AI Newspaper reported that the price is $4,999 and that linking two units can handle up to 200 billion parameters. The price and the linked configuration could not be confirmed in other outlets' summaries.",
+          "Digital Today explained that local agents can run on the device, which can reduce reliance on the cloud."
+        ]
+      }
     },
     {
       "id": "b20261006",
@@ -5140,7 +5310,24 @@
           "link": "https://www.inews24.com/view/2011871"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 6 AI Briefing: Defense AX and Physical AI Contracts Pile Up, Nasdaq Hits Record on AI",
+        "points": [
+          "Announcements of physical AI national project wins and participation continue",
+          "AI staff officer technology spreads in defense",
+          "Strong AI tech stocks coexist with warnings about losing control of AI"
+        ],
+        "body": [
+          "Doosan Robotics was selected for two national projects, one to develop a collaborative robot equipped with a domestic AI semiconductor and one to develop an intelligent welding solution for nuclear power plant components.",
+          "Onepredict is taking part as a joint research and development institution in a national physical AI R&D program worth 736.8 billion won in total, to develop a general-purpose manufacturing AI framework. It belongs to a subproject of about 72 billion won led by Jeonbuk National University.",
+          "SK Telecom was the only private company to take part in the Ground Forces Festival, held from the 1st to the 5th, where it showed defense AX technologies including an \"AI staff officer\" and low Earth orbit satellites.",
+          "MakinaRocks has installed an \"equipment operation AI staff officer\" trained on the naval gun technical manual on the Navy ship Pohang and begun pilot operation. It is part of a program run by the Korea Research Institute for Defense Technology Planning and Advancement.",
+          "Kakao Mobility signed a memorandum of understanding (MOU) on defense AI cooperation with the Korea University C5ISRT Convergence Research Institute.",
+          "On Wall Street, the Nasdaq Composite hit a record high. U.S. Treasury yields rose sharply, but strength in AI-centered big tech stocks offset it.",
+          "Jacob Coxon, a former Anthropic researcher, warned at a New York City Council AI hearing that humanity is likely to lose control of AI."
+        ]
+      }
     },
     {
       "id": "s20261006-a263dc63b965",
@@ -5170,7 +5357,19 @@
           "link": "https://www.inews24.com/view/2011871"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Former Anthropic Researcher Warns of AI Control Risk at New York City Council Hearing",
+        "points": [
+          "Former Anthropic researcher Jacob Coxon appears at hearing",
+          "Says no one yet knows how to control AI",
+          "Warns humanity is likely to lose control of AI"
+        ],
+        "body": [
+          "Jacob Coxon, a former Anthropic researcher, appeared at a New York City Council AI hearing on the 5th (U.S. time) and warned that humanity is likely to lose control of AI. Chosun Biz cited reports by Bloomberg and CNBC.",
+          "He argued that if things continue as they are, humanity is likely to lose control of AI, which could lead to human extinction. Chosun Biz reported that he said, in effect, that no one yet knows how to control any AI system."
+        ]
+      }
     },
     {
       "id": "s20261006-0fc226123aad",
@@ -5213,7 +5412,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407784"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Yurak Expands Push Into Japan With AI Digital Forensics",
+        "points": [
+          "AI digital forensics firm Yurak expands in Japan",
+          "Takes part in RISCON Tokyo 2026",
+          "Widening into AI data analysis and risk management"
+        ],
+        "body": [
+          "Yurak, a company specializing in AI digital forensics, is expanding its business in Japan. Yurak took part in RISCON Tokyo 2026, a comprehensive crisis management trade show held at Tokyo Big Sight through the 2nd.",
+          "According to Boannews and Techworld News, Yurak's strategy is to use its existing Japan business as a foothold to widen its scope into AI data analysis and data risk management and strengthen local partnerships. Digital Daily reported that Yurak is accelerating its expansion in the Japanese market on the strength of its self-developed digital forensics technology.",
+          "Digital Today reported that Yurak presented AI-based data analysis and on-site forensics solutions at the show."
+        ]
+      }
     },
     {
       "id": "s20261006-f3378bda8a59",
@@ -5250,7 +5462,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726752"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Doosan Robotics Wins Two National Projects, Including a Cobot With a Domestic AI Chip",
+        "points": [
+          "Selected for two national projects at once",
+          "Developing a cobot with a domestic AI semiconductor",
+          "Also developing an intelligent welding solution for nuclear plant components"
+        ],
+        "body": [
+          "Doosan Robotics said on the 6th that it won two national projects related to physical AI. It won the projects under programs including the K-On-Device AI Semiconductor Technology Development Program, jointly run by the Ministry of Trade, Industry and Resources and the Korea Evaluation Institute of Industrial Technology.",
+          "The first project is to build a collaborative robot that carries a domestic AI semiconductor and makes decisions on its own without connecting to an external cloud. The company plans to grow this into a \"Korean-style physical AI cobot integrated platform.\"",
+          "The second project is an intelligent welding solution for nuclear power plant components, with the goal of using AI to achieve the welding skill of an experienced worker."
+        ]
+      }
     },
     {
       "id": "s20261006-9899fe18d15a",
@@ -5287,7 +5512,20 @@
           "link": "https://www.inews24.com/view/2011957"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Onepredict Joins 736.8 Billion Won National Physical AI Program",
+        "points": [
+          "Joins 736.8 billion won national physical AI program as a joint research institution",
+          "Carries out a roughly 72 billion won subproject led by Jeonbuk National University",
+          "Developing a common AI framework for manufacturing sites"
+        ],
+        "body": [
+          "Manufacturing AI company Onepredict is taking part as a joint research and development institution in the \"Collaborative Intelligence Physical AI-Based SW Platform R&D Ecosystem Building\" program, worth 736.8 billion won in total, promoted by the Ministry of Science and ICT and the National IT Industry Promotion Agency (NIPA).",
+          "The part Onepredict handles is a subproject worth about 72 billion won led by Jeonbuk National University. It will develop a general-purpose manufacturing AI framework covering anomaly diagnosis, predictive maintenance, production planning and process control.",
+          "The core is turning AI that used to be built separately for each factory into a common module that many manufacturing sites can share."
+        ]
+      }
     },
     {
       "id": "s20261006-semco-mlcc",
@@ -5323,7 +5561,20 @@
         "글로벌 대형기업과 AI 서버용 MLCC 공급계약",
         "공급 기간은 내년 1월부터 1년",
         "올해 공시 기준 여섯 번째 장기계약"
-      ]
+      ],
+      "en": {
+        "title": "Samsung Electro-Mechanics Signs About 290 Billion Won AI Server MLCC Supply Deal, Its Sixth Long-Term Contract This Year",
+        "points": [
+          "AI server MLCC supply contract with a large global company",
+          "Supply period of one year from January next year",
+          "Sixth long-term contract this year by disclosure count"
+        ],
+        "body": [
+          "Samsung Electro-Mechanics said on the 6th that it signed a supply contract for multilayer ceramic capacitors (MLCCs) for AI servers with a large global company. The contract is worth about 290 billion won (about $210 million).",
+          "The supply period is one year, from Jan. 1 to Dec. 31 next year. It is the sixth long-term supply contract this year by disclosure count, and Techworld News reported that cumulative long-term contracts have exceeded 3.9 trillion won.",
+          "The contract covers MLCCs for AI servers, and Techworld News reported that it strengthens the company's push into the AI server component market."
+        ]
+      }
     },
     {
       "id": "s20261006-dokpamo-audit",
@@ -5353,7 +5604,20 @@
         "국감에서 독자 AI 파운데이션 모델 사업 지속 강조",
         "프론티어 AI 사업과 별개로 병행 추진",
         "사이버안보 AI 역량은 외부 의존 불가 입장"
-      ]
+      ],
+      "en": {
+        "title": "Deputy PM Bae Kyung-hoon: 'Dokpamo Will Continue,' Reaffirms Parallel Track With Frontier AI at Audit",
+        "points": [
+          "Stresses at the audit that the independent AI foundation model project continues",
+          "Pursued in parallel with, and separately from, the Frontier AI project",
+          "Says AI capability for cyber security cannot depend on outsiders"
+        ],
+        "body": [
+          "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon said on the 6th, at the National Assembly's parliamentary audit by the Science, ICT, Broadcasting and Communications Committee, that the Independent AI Foundation Model (Dokpamo) project will continue.",
+          "According to Tech M, Bae said, \"Dokpamo will continue,\" reiterating that the government will keep the Dokpamo project going separately from the Frontier AI project. The two projects will be pursued in parallel.",
+          "Digital Daily reported that Bae said AI capability related to cyber security cannot depend on outsiders."
+        ]
+      }
     },
     {
       "id": "s20261006-d79b9dc3a56d",
@@ -5395,7 +5659,19 @@
           "link": "https://www.inews24.com/view/2011956"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "S-Net Systems' First-Half Sales Roughly Double, Driven by Dell Business",
+        "points": [
+          "First-half standalone sales about double the previous year",
+          "Dell Technologies-related business drives results",
+          "Strengthening AI infrastructure portfolio including GPU servers"
+        ],
+        "body": [
+          "S-Net Systems said on the 6th that its standalone sales in the first half of this year roughly doubled from a year earlier. The company explained that its Dell Technologies-related business grew sharply and drove the expansion in results.",
+          "Computing business such as high-performance GPU servers grew, and the expansion of Dell PowerFlex by major enterprise customers was also cited as a growth factor. iNews24 and Techworld News reported that the company will strengthen its AI infrastructure portfolio on this basis."
+        ]
+      }
     },
     {
       "id": "s20261006-telco-chatgpt",
@@ -5443,7 +5719,20 @@
         "KT와 LG유플러스, 챗GPT 안에서 요금제와 혜택 안내하는 플러그인 출시",
         "나이, 데이터 사용량 같은 조건을 말하면 맞는 요금제를 비교",
         "LG유플러스는 가입 유형, 유심 선택 등으로 기능 단계적 확대"
-      ]
+      ],
+      "en": {
+        "title": "'Find Me a Plan That Fits' on ChatGPT: KT and LG Uplus Offer Products Through ChatGPT Plugins",
+        "points": [
+          "KT and LG Uplus launch plugins that guide users to plans and benefits inside ChatGPT",
+          "Tell it your age or data usage and it compares matching plans",
+          "LG Uplus to expand features in stages, such as sign-up type and SIM choice"
+        ],
+        "body": [
+          "KT and LG Uplus have launched plugins that let users look up their plans and benefits inside OpenAI's ChatGPT. When a user tells ChatGPT conditions such as age or data usage, it compares plans that fit.",
+          "KT launched a plugin on the 6th that connects official product information to ChatGPT. Users add the KT plugin from the plugin menu in the ChatGPT chat sidebar. LG Uplus was first, introducing on Sept. 16 a plugin called U+ with product and benefit information for its online-only plan Nugget.",
+          "LG Uplus first provides plan and benefit search, and plans to expand features in stages, such as sign-up type and SIM selection. It means telecom companies have begun using generative AI services as a new window for product guidance."
+        ]
+      }
     },
     {
       "id": "s20261006-41b97bbf7821",
@@ -5485,7 +5774,19 @@
           "link": "https://www.inven.co.kr/webzine/news/?news=321786"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "NHN Cloud Shows GPU Infrastructure at AI Festa",
+        "points": [
+          "AI FESTA 2026 runs Oct. 6 to 8 at COEX",
+          "NHN Cloud unveils NHN FactoryX, an AI full stack",
+          "Introduces a GPU cluster of 4,080 B200s"
+        ],
+        "body": [
+          "NHN Cloud said it will take part in AI FESTA 2026, held at COEX in Seoul from the 6th to the 8th. AI Festa is the flagship event of the national AI Week, hosted by the Ministry of Science and ICT and organized by the Korea Artificial Intelligence Software Industry Association.",
+          "NHN Cloud is presenting NHN FactoryX, an AI full-stack brand built on its experience in building and operating AI infrastructure. Inven reported that the brand includes a GPU cluster of 4,080 B200 chips with performance ranked 20th in the world, and that GPUaaS and other offerings will be introduced at its booth."
+        ]
+      }
     },
     {
       "id": "s20261006-d169606b9cd1",
@@ -5521,7 +5822,19 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42187"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK Telecom Shows Defense AX Technologies Including 'AI Staff Officer' at Ground Forces Festival",
+        "points": [
+          "Only private company at the 2026 Ground Forces Festival",
+          "Exhibits AI- and telecom-based defense AX technology",
+          "Introduces AI staff officer and low Earth orbit satellite technology"
+        ],
+        "body": [
+          "SK Telecom said on the 6th that it took part in the 2026 Ground Forces Festival, held from the 1st to the 5th on the runway at Gyeryongdae in Gyeryong, South Chungcheong Province, and showed defense AX technologies using AI and telecom technology. It was the only private company to take part in the event, hosted by the Army Headquarters.",
+          "The exhibit introduced technologies applicable to defense, including an \"AI staff officer\" and low Earth orbit satellites."
+        ]
+      }
     },
     {
       "id": "s20261006-65ade75d6083",
@@ -5558,7 +5871,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726741"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "MakinaRocks Installs 'Equipment Operation AI Staff Officer' on Navy Ship Pohang",
+        "points": [
+          "Equipment operation AI staff officer installed on Navy ship Pohang",
+          "Pilot of an AI agent trained on the naval gun technical manual",
+          "Part of the Defense Innovation Company 100 support program"
+        ],
+        "body": [
+          "Industrial AI company MakinaRocks said on the 6th that it installed an \"equipment operation AI staff officer\" on the Pohang, a frigate under the Navy's 1st Fleet Command, and began pilot operation.",
+          "This AI staff officer is an AI agent framework built on the company's AI operating system Runway, trained on the naval gun technical manual. It helps naval personnel operate equipment.",
+          "The pilot is being carried out as part of the Defense Innovation Company 100 Dedicated Technology Development Support Program run by the Korea Research Institute for Defense Technology Planning and Advancement (KRIT)."
+        ]
+      }
     },
     {
       "id": "s20261006-lge-aidc-cooling",
@@ -5600,7 +5926,20 @@
         "북미 AIR와 AI 데이터센터용 냉각 솔루션 장기 공급계약",
         "공급 대상은 총 5GW 규모",
         "계약 소식에 주가 7%대 상승"
-      ]
+      ],
+      "en": {
+        "title": "LG Electronics Signs Long-Term Deal to Supply 5GW of Cooling Equipment to North American AI Data Centers; Shares Rise 7%",
+        "points": [
+          "Long-term contract with North America's AIR for AI data center cooling solutions",
+          "Supply totals 5GW",
+          "Shares rise by 7% on the news"
+        ],
+        "body": [
+          "LG Electronics' U.S. subsidiary signed a long-term supply contract for AI data center (AIDC) cooling solutions with AIR Control Concept, a North American infrastructure platform company. The contract totals 5GW, and North America is considered the largest market for AI data centers.",
+          "iNews24 reported that LG Electronics shares rose by 7% after it signed the AI data center cooling supply contract.",
+          "Techworld News reported that LG Electronics secured a large North American contract in the AI data center cooling business."
+        ]
+      }
     },
     {
       "id": "s20261006-yanolja-amux",
@@ -5636,7 +5975,20 @@
         "기업용 AI 관리 솔루션 에이먹스 출시",
         "여러 생성형 AI 사용에 따른 비용 통합 관리",
         "정보유출 위험 관리 기능 포함"
-      ]
+      ],
+      "en": {
+        "title": "Yanolja Next Launches 'Amux' to Manage Corporate AI Costs and Security in One Place",
+        "points": [
+          "Launches Amux, an enterprise AI management solution",
+          "Consolidated management of costs from using multiple generative AIs",
+          "Includes data leak risk management features"
+        ],
+        "body": [
+          "Yanolja Next has launched Amux, an enterprise AI management solution.",
+          "Amux is a solution that manages in one place the costs and data leak risks that arise when companies use multiple generative AIs.",
+          "Yanolja plans to extend the business-to-business (B2B) solution capabilities it built for travel operators into the market for AI transformation at general companies."
+        ]
+      }
     },
     {
       "id": "s20261006-a7c05691b9ab",
@@ -5666,7 +6018,19 @@
           "link": "https://www.ddaily.co.kr/page/view/2026100605401834349"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nasdaq Closes at Record High: AI Tech Stocks Rise Despite Treasury Yield Surge",
+        "points": [
+          "Nasdaq Composite closes at a record high",
+          "Rises even as U.S. Treasury yields hit a new high",
+          "Assessment that strong AI tech stocks overcame yield fears"
+        ],
+        "body": [
+          "The Nasdaq Composite closed at a record high.",
+          "Digital Daily reported that AI tech stocks were strong even as U.S. Treasury yields hit a new high, and EBN reported that AI overcame fears over interest rates."
+        ]
+      }
     }
   ]
 }
