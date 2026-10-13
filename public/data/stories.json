@@ -5,6 +5,764 @@
   ],
   "stories": [
     {
+      "id": "b20261013",
+      "type": "briefing",
+      "title": "10월 13일 AI 브리핑: 메타와 MS의 새 모델과 칩, 크래프톤 AI 공채",
+      "category": "일반",
+      "published": "2026-10-13T09:41:51.926Z",
+      "points": [
+        "메타와 MS, 새 AI 모델과 자체 칩 공개",
+        "AMD와 인텔, 에이전틱 AI 서버 설계 경쟁",
+        "국내는 크래프톤 공채와 KES 2026 개막"
+      ],
+      "body": [
+        "메타가 12일(현지시간) 새 AI 모델 '뮤즈 원더'와 '뮤즈 원더 풀'을 공개했다. 아이뉴스24는 코딩과 금융, 법률 등 전문 업무 처리 능력을 강화한 것이 특징이라고 전했다. 조선비즈는 성능 평가에서 2위에 올랐다고 보도했고, 디지털투데이는 뉴욕타임스를 인용해 테스트 결과가 메타 자체 데이터 기준이라고 전했다.",
+        "마이크로소프트는 12일 3세대 자체 AI 칩 '마이아 300'을 공개했다. 인더스트리뉴스는 내년 100만개 이상 배치한다고 전했고, 조선비즈는 그동안 엔비디아 GPU에 의존해 온 MS가 무게 중심을 자체 칩으로 옮기는 것이라고 설명했다.",
+        "AMD는 CPU와 GPU를 조합하는 에이전틱 AI용 서버 랙 '헬리온'을 공개했다. 조선비즈에 따르면 CPU 전용 랙은 최대 3만2768개 코어를 지원하며, 디지털투데이는 11월 출시라고 전했다. 인텔은 AI 추론용 GPU 'D-시리즈'의 세부 사양을 공개했고, 조선비즈는 제온 기반 랙 설계가 일부 구성에서 랙 하나에 4만6000개 이상의 CPU 코어를 넣는다고 전했다.",
+        "크래프톤이 13일 전 직군에서 AI 활용 역량을 갖춘 신입 100명 이상을 뽑는 채용연계형 인턴십을 시작했다. 국민일보에 따르면 크래프톤 신입 공채 중 역대 최대 규모이며 서류 접수는 23일까지다.",
+        "한국전자전 KES 2026이 13일 코엑스에서 개막해 16일까지 이어진다. 아이뉴스24는 28개국 500여개사가 참가했다고 전했다. 삼성전자는 자사 뉴스룸을 통해 디스플레이, 가전, 모바일 등 AI 기술을 탑재한 제품을 선보인다고 밝혔다.",
+        "IT조선에 따르면 혹 탄 브로드컴 CEO는 12일 싱가포르 콘퍼런스에서 AI 성장의 걸림돌로 자금 조달 문제를 꼽았다. AI타임스는 브로드컴과 인텔 CEO가 AI 인프라 수요가 당분간 공급을 웃돌 것으로 전망하면서도 투자 수익성을 입증해야 한다고 지적했다고 전했다.",
+        "KT는 구글과 협력한 구독 상품 8종을 13일 내놨다. EBN은 월 7500원부터 시작한다고 전했다. 현대차와 기아는 AI 데이터 인프라 기업 바스트 데이터에 전략적 투자를 했다고 바스트 데이터가 13일 발표했으며, 벤처스퀘어는 투자 규모가 공개되지 않았다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "0b7679f8cb11",
+          "name": "아이뉴스24",
+          "title": "메타, 새 AI 모델 '뮤즈 원더·원더 풀' 공개⋯\"경쟁력 확신\"",
+          "link": "https://www.inews24.com/view/2014284"
+        },
+        {
+          "id": "27564a9765fc",
+          "name": "조선비즈",
+          "title": "메타, 고성능 AI 모델 ‘뮤즈 원더’ 공개…성능 평가서 2위 올라",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/AJMZFA247BBPTBJDZYRZ6637VM"
+        },
+        {
+          "id": "5efc9cbbc233",
+          "name": "테크M",
+          "title": "[글로벌] 메타, 최상위 AI 모델 '뮤즈 원더' 공개...오픈AI·앤트로픽에 도전장",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156050"
+        },
+        {
+          "id": "c7e9912f4049",
+          "name": "디지털투데이",
+          "title": "메타, 프런티어 AI 모델 '뮤즈 원더' 공개...앤트로픽·오픈AI 정조준",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706576"
+        },
+        {
+          "id": "4da444532eca",
+          "name": "인더스트리뉴스",
+          "title": "MS, 자체 AI칩 ‘마이아 300’ 공개…“내년 100만개 이상 배치”",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87435"
+        },
+        {
+          "id": "33fda484c543",
+          "name": "IT조선",
+          "title": "MS, 자체 AI칩 '마이아 300' 공개…내년 최대 100만개 이상 배치",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171882"
+        },
+        {
+          "id": "720efeaf2f22",
+          "name": "조선비즈",
+          "title": "MS “자체 AI 칩 ‘마이아’를 주력으로”… 엔비디아 의존 줄인다",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/AIOPZQ2N7ZA2RJ65SAZ7JA6OTE"
+        },
+        {
+          "id": "9c2c21350368",
+          "name": "디지털투데이",
+          "title": "마이크로소프트, 3세대 AI 칩 '마이아 300' 공개...엔비디아 대안으로 확장",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706575"
+        },
+        {
+          "id": "390b84b0620a",
+          "name": "조선비즈",
+          "title": "AMD, 에이전틱 AI용 서버 랙 ‘헬리온’ 공개… CPU·GPU 조합해 성능·전력 조절",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/OZQVVBFWD5ASFO3WSJV5X27NKU"
+        },
+        {
+          "id": "42b338cc72a2",
+          "name": "디지털투데이",
+          "title": "AMD, 에이전틱 AI용 랙 '헬리온' 공개...11월 출시",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706701"
+        },
+        {
+          "id": "d16dea8cd6c0",
+          "name": "디일렉",
+          "title": "인텔, AI 추론용 GPU 'D-시리즈' 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63633"
+        },
+        {
+          "id": "cf273d0d092c",
+          "name": "조선비즈",
+          "title": "인텔, 에이전틱 AI용 ‘제온’ 랙 공개… 개방형 인프라로 시장 공략",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/3NTGYKCJCZDIZJJDBLY5LWF4HE"
+        },
+        {
+          "id": "e5cdc60b7535",
+          "name": "조선비즈",
+          "title": "크래프톤, AI 인재 100명 이상 채용한다… 역대 최대 신입 공채",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/3JW72VCMLNB7NFY2QZ7TBWREFY"
+        },
+        {
+          "id": "a8a151b7d775",
+          "name": "디일렉",
+          "title": "크래프톤, AI 활용 신입 100명 채용…23일까지 접수",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63616"
+        },
+        {
+          "id": "1522ffe9b02c",
+          "name": "국민일보",
+          "title": "크래프톤, 역대 최대 100명 이상 신입 채용… ‘AI 네이티브’ 인재 찾는다",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000022072"
+        },
+        {
+          "id": "16068fcf1f3d",
+          "name": "인벤",
+          "title": "크래프톤, AI 신입 100명 이상 공개채용",
+          "link": "https://www.inven.co.kr/webzine/news/?news=322023"
+        },
+        {
+          "id": "d73aff0d8c86",
+          "name": "아이뉴스24",
+          "title": "\"AI 혁신 한자리에\"⋯28개국 500여개사 참가한 'KES 2026' 개막",
+          "link": "https://www.inews24.com/view/2014360"
+        },
+        {
+          "id": "0035614b7158",
+          "name": "AI타임스",
+          "title": "삼성·LG, KES 2026서 AI 가전·데이터센터·로봇 출격...생활·산업 속 AI 기술 뽐내",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216192"
+        },
+        {
+          "id": "32c601dd76c3",
+          "name": "삼성전자 뉴스룸",
+          "title": "삼성전자, ‘KES 2026’ 참가… 일상에 스며든 AI 라이프 공개",
+          "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-kes-2026-%ec%b0%b8%ea%b0%80-%ec%9d%bc%ec%83%81%ec%97%90-%ec%8a%a4%eb%a9%b0%eb%93%a0-ai-%eb%9d%bc%ec%9d%b4%ed%94%84-%ea%b3%b5%ea%b0%9c"
+        },
+        {
+          "id": "9c975db4314f",
+          "name": "IT조선",
+          "title": "삼성·LG, KES 2026서 AI 경쟁…가전 연결부터 데이터센터 냉각까지",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171889"
+        },
+        {
+          "id": "8678728ed227",
+          "name": "IT조선",
+          "title": "브로드컴·인텔 CEO \"AI 성장 리스크는 자본력\"…투자 수익성 경고",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171922"
+        },
+        {
+          "id": "0cab37ed6ea9",
+          "name": "AI타임스",
+          "title": "인텔·브로드컴 CEO \"AI 최대 걸림돌은 전력·칩 아닌 자본\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216207"
+        },
+        {
+          "id": "0ed70d531055",
+          "name": "아이뉴스24",
+          "title": "브로드컴 CEO \"AI 성장 걸림돌은 반도체 아닌 자본\"",
+          "link": "https://www.inews24.com/view/2014311"
+        },
+        {
+          "id": "78de26061c59",
+          "name": "디지털투데이",
+          "title": "인텔·브로드컴 CEO \"자금난, AI 최대 병목 될 수 있다\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706639"
+        },
+        {
+          "id": "b87d9c05b4c0",
+          "name": "디일렉",
+          "title": "KT, 구글 AI 구독 상품 8종 출시…제미나이 이용 가능",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63619"
+        },
+        {
+          "id": "7bcb83cc0b6a",
+          "name": "EBN",
+          "title": "[Telecom & Now] KT, 제미나이 구독상품 8종 출시…월 7500원부터",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727596"
+        },
+        {
+          "id": "e339a859932e",
+          "name": "디지털투데이",
+          "title": "KT, 구글 AI 구독 상품 8종 출시…\"다양한 생활 혜택 결합\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706637"
+        },
+        {
+          "id": "d6b069676f1a",
+          "name": "조선비즈",
+          "title": "KT, 구글 AI에 커피·생활 혜택 더한 구독 상품 8종 출시",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/N5KAIXFGYJHIHCC43YI6DIR4CM"
+        },
+        {
+          "id": "19819633dea8",
+          "name": "벤처스퀘어",
+          "title": "현대차·기아, 자율주행 데이터 인프라 협력사 바스트 데이터에 투자…피지컬 AI 개발 가속",
+          "link": "https://www.venturesquare.net/1119352"
+        },
+        {
+          "id": "7d57eed7ec17",
+          "name": "로봇신문",
+          "title": "현대차·기아, 글로벌 AI 인프라 기업 바스트 데이터에 투자",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48962"
+        },
+        {
+          "id": "7511e4db1fd1",
+          "name": "테크월드뉴스",
+          "title": "현대차·기아, ‘바스트 데이터’에 전략적 투자…피지컬 AI 데이터 인프라 강화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408099"
+        },
+        {
+          "id": "0218dbf16770",
+          "name": "데이터넷",
+          "title": "현대차·기아, 바스트 데이터에 투자 ··· 피지컬 AI 데이터 인프라 강화",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215023"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-23d44bedbe1c",
+      "title": "에버스핀, KB국민카드와 SBI 손잡고 AI 에이전트 신원 검증 협력",
+      "category": "기업",
+      "published": "2026-10-13T08:43:29.000Z",
+      "points": [
+        "에버스핀, KB국민카드, SBI 4자 MOU",
+        "AI 에이전트 신원과 권한 검증 실증",
+        "한일 디지털 결제 서비스 연계"
+      ],
+      "body": [
+        "AI 보안기업 에버스핀이 KB국민카드, 일본 SBI홀딩스, 합작법인 SBI에버스핀과 4자 업무협약(MOU)을 맺었다고 13일 밝혔다. 스타트업투데이에 따르면 협약의 축은 AI 에이전트 신뢰 검증이다.",
+        "EBN은 4사가 AI 에이전트의 신원과 권한 확인 기술을 실증하고 한일 간 디지털 결제 서비스 연계를 추진한다고 전했다. 인더스트리뉴스는 AI 에이전트와 디지털자산을 활용한 한일 디지털 금융 협력이라고 소개했고, EBN은 제목에서 스테이블코인 결제 협력을 함께 언급했다.",
+        "블로터는 단순한 사업 제휴를 넘어 급변하는 국경 간 금융 생태계를 선제적으로 확보하려는 포석으로 풀이된다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "23d44bedbe1c",
+          "name": "스타트업투데이",
+          "title": "에버스핀, KB국민카드∙일본 SBI홀딩스∙SBI에버스핀과 4자 MOU 체결∙∙∙한일 디지털 결제 협력",
+          "link": "https://www.startuptoday.kr/news/articleView.html?idxno=53215"
+        },
+        {
+          "id": "ecb203d6b818",
+          "name": "인더스트리뉴스",
+          "title": "KB국민카드, 일본 SBI그룹과 AI·디지털 결제 협력",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87457"
+        },
+        {
+          "id": "6eb802f8779c",
+          "name": "보안뉴스",
+          "title": "에버스핀-KB국민카드-SBI, AI 에이전트 동맹... 디지털 금융 혁신 속도",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146362"
+        },
+        {
+          "id": "cca1d6193959",
+          "name": "EBN",
+          "title": "[카드 & Now] KB국민카드, 일본 SBI홀딩스와 AI·스테이블코인 결제 협력 등",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727638"
+        },
+        {
+          "id": "cd52fd1151d8",
+          "name": "블로터",
+          "title": "KB국민카드, 日 SBI와 연합전선…'AI·디지털자산' 생태계 확장",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675518"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-5ad5f0de54dc",
+      "title": "정부사업 AI 학습데이터, 'AI허브' 연계 의무화…내년 4월 시행",
+      "category": "정책",
+      "published": "2026-10-13T07:28:20.000Z",
+      "points": [
+        "정부사업 AI 학습데이터 AI허브 제공 의무화",
+        "AI기본법과 데이터산업법 개정안 통과",
+        "내년 4월 시행 예정"
+      ],
+      "body": [
+        "정부사업으로 구축하거나 생산한 AI 학습용 데이터를 국가 AI 데이터 플랫폼인 'AI허브'에 제공하도록 의무화하는 방안이 추진된다. 디지털투데이에 따르면 과학기술정보통신부는 13일 'AI기본법'과 '데이터산업법' 개정안이 국무회의를 통과했다고 밝혔다. 제목들은 시행 시기를 내년 4월로 전했다.",
+        "조선비즈는 정부 사업을 수행하는 기관과 기업이 사업 과정에서 만든 AI 학습용 데이터를 AI허브에 의무적으로 연계해 제공해야 한다고 전했다. 공공기관은 공공과 민간 데이터가 어디에 있는지 한곳에서 찾을 수 있게 한 '원-윈도우'에도 데이터 소재 정보를 연계해야 한다.",
+        "디지털데일리는 공공과 민간에 흩어진 데이터의 소재 정보를 통합해 기업과 연구기관의 데이터 접근성을 높이려는 취지라고 설명했다."
+      ],
+      "sources": [
+        {
+          "id": "5ad5f0de54dc",
+          "name": "블로터",
+          "title": "정부 사업 AI 학습데이터, 'AI허브' 제공 의무화…내년 4월 시행",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675559"
+        },
+        {
+          "id": "6a40ffa299ec",
+          "name": "디지털데일리",
+          "title": "정부사업 AI 학습데이터, 'AI허브' 연계 의무화… 내년 4월 시행",
+          "link": "https://www.ddaily.co.kr/page/view/2026101314180842094"
+        },
+        {
+          "id": "3fc132ea8321",
+          "name": "조선비즈",
+          "title": "정부 예산으로 만든 AI 학습 데이터, ‘AI 허브’에 모은다",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/37E4IL4FGFHQZATL3EBSKFJI5Q"
+        },
+        {
+          "id": "ca10923b7057",
+          "name": "디지털투데이",
+          "title": "정부가 만든 AI 학습데이터 한곳에 모은다…'AI허브' 연계 의무화",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706427"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-b5c3d5d34cc9",
+      "title": "코오롱베니트, AX 부스트 서밋서 6단계 AI 전환 방법론 제시",
+      "category": "기업",
+      "published": "2026-10-13T07:18:02.000Z",
+      "points": [
+        "코오롱베니트, AX 부스트 서밋 2026 개최",
+        "6단계 AX 추진 방법론 공개",
+        "AI 도입보다 일하는 방식 재설계 강조"
+      ],
+      "body": [
+        "코오롱베니트가 13일 서울 용산구 서울드래곤시티에서 'AX 부스트 서밋 2026'을 열고 기업의 AI 도입을 실제 성과로 연결하기 위한 6단계 AX(AI 전환) 추진 방법론을 제시했다. 디일렉에 따르면 지난해에 이어 두 번째 열린 행사다.",
+        "강이구 코오롱베니트 대표는 조선비즈에 따르면 \"인공지능(AI)을 도입한다고 생산성이 저절로 높아지는 것은 아니다\"라며 어떤 업무를 AI에 맡기고 어디서 사람이 판단할지 파악해 도입 초기 성과 정체 구간을 넘어서야 한다고 말했다. 아이뉴스24는 강 대표가 기존 업무를 그대로 둔 채 일부에 AI를 적용하는 방식은 한계에 부딪힌다며 AI와 함께 일하는 방식을 다시 설계해야 한다고 했다고 전했다.",
+        "EBN은 산업별 업무 특성에 맞춘 방법론과 제조 현장 적용 사례를 공유했다고 전했고, 아이뉴스24는 제목에서 '제조 생산능력 28.6% 개선'을 내세웠다."
+      ],
+      "sources": [
+        {
+          "id": "b5c3d5d34cc9",
+          "name": "디지털데일리",
+          "title": "코오롱베니트, AX 부스트 서밋 2026 개최…6단계 AX 추진 방법론 제시도",
+          "link": "https://www.ddaily.co.kr/page/view/2026101316054984287"
+        },
+        {
+          "id": "387f57fefb79",
+          "name": "조선비즈",
+          "title": "“AI 도입했다고 생산성 저절로 높아지지 않아”…코오롱베니트, AX 해법 제시",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/FIV4LSHPHFHH5FEHKUT3EDNYNU"
+        },
+        {
+          "id": "228636dc22aa",
+          "name": "아이뉴스24",
+          "title": "\"제조 생산능력 28.6% 개선\"⋯코오롱베니트, AX '실질' 성과 해법 제시",
+          "link": "https://www.inews24.com/view/2014442"
+        },
+        {
+          "id": "6c64a0dd2e4c",
+          "name": "디일렉",
+          "title": "코오롱베니트, 기업 AI 전환 6단계 전략 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63617"
+        },
+        {
+          "id": "f0af5cff981b",
+          "name": "EBN",
+          "title": "\"AI 도입만으론 돈 못 번다\"…코오롱베니트, AX 성과 해법 제시",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727600"
+        },
+        {
+          "id": "6a7e6c6f55b5",
+          "name": "아이뉴스24",
+          "title": "코오롱베니트, 'AX 부스트 서밋 2026' 개최",
+          "link": "https://www.inews24.com/view/2014331"
+        },
+        {
+          "id": "cd6a8c5c20a4",
+          "name": "테크월드뉴스",
+          "title": "코오롱베니트, AI 도입 넘어 성과 창출로…6단계 AX 방법론 공개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408109"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-19819633dea8",
+      "title": "현대차와 기아, 바스트 데이터에 전략적 투자",
+      "category": "기업",
+      "published": "2026-10-13T06:55:10.057Z",
+      "points": [
+        "현대차와 기아, 바스트 데이터에 투자",
+        "포티투닷이 수년간 기술 검증",
+        "투자 규모는 공개되지 않아"
+      ],
+      "body": [
+        "현대자동차와 기아가 AI 데이터 인프라 기업 바스트 데이터(VAST Data)에 전략적 투자를 했다. 바스트 데이터가 13일 발표했다. 벤처스퀘어에 따르면 투자 규모는 공개되지 않았다.",
+        "로봇신문과 디지털데일리는 현대차와 기아의 글로벌 소프트웨어 센터인 포티투닷(42dot)이 수년간 실제 연구개발 환경에서 바스트 데이터의 AI 운영체제를 운용하며 기술을 검증한 결과가 이번 투자로 이어졌다고 전했다.",
+        "테크월드뉴스와 데이터넷은 자율주행과 로보틱스 등 피지컬 AI 개발에 필요한 데이터 인프라를 강화하려는 투자라고 설명했다."
+      ],
+      "sources": [
+        {
+          "id": "19819633dea8",
+          "name": "벤처스퀘어",
+          "title": "현대차·기아, 자율주행 데이터 인프라 협력사 바스트 데이터에 투자…피지컬 AI 개발 가속",
+          "link": "https://www.venturesquare.net/1119352"
+        },
+        {
+          "id": "7d57eed7ec17",
+          "name": "로봇신문",
+          "title": "현대차·기아, 글로벌 AI 인프라 기업 바스트 데이터에 투자",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48962"
+        },
+        {
+          "id": "c74b2acd6d08",
+          "name": "인공지능신문",
+          "title": "현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42275"
+        },
+        {
+          "id": "7511e4db1fd1",
+          "name": "테크월드뉴스",
+          "title": "현대차·기아, ‘바스트 데이터’에 전략적 투자…피지컬 AI 데이터 인프라 강화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408099"
+        },
+        {
+          "id": "c91dffa31f44",
+          "name": "디지털데일리",
+          "title": "현대차·기아, 바스트 데이터에 투자…자율주행 데이터 인프라 강화",
+          "link": "https://www.ddaily.co.kr/page/view/2026101309022829903"
+        },
+        {
+          "id": "0218dbf16770",
+          "name": "데이터넷",
+          "title": "현대차·기아, 바스트 데이터에 투자 ··· 피지컬 AI 데이터 인프라 강화",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215023"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-3a841d14e7da",
+      "title": "엔비디아 주관, 엑스와이지 참여 피지컬 AI 로보틱스 교육 개강",
+      "category": "로봇",
+      "published": "2026-10-13T06:55:10.057Z",
+      "points": [
+        "엔비디아 주관 로보틱스 교육 12일 개강",
+        "약 900명 지원, 60여 명 선발",
+        "2027년 4월까지 총 960시간 진행"
+      ],
+      "body": [
+        "엔비디아가 주관하고 엑스와이지가 운영에 참여하는 '피지컬 AI 로보틱스 교육 과정'이 12일 서울 성수동 엑스와이지 아카데미에서 개강했다. 벤처스퀘어에 따르면 약 900명이 지원해 60여 명이 선발됐고, 2027년 4월까지 총 960시간의 교육을 진행한다.",
+        "로봇신문과 물류신문은 엔비디아의 공식 교육과 엑스와이지의 휴머노이드 실습 환경을 결합한 과정이라고 전했다. 시뮬레이션에서 학습한 기술을 실제 로봇에 적용하는 실무 역량에 초점을 맞췄다."
+      ],
+      "sources": [
+        {
+          "id": "3a841d14e7da",
+          "name": "벤처스퀘어",
+          "title": "엑스와이지·엔비디아, 휴머노이드 실무 인재 키운다…900명 몰린 로보틱스 교육 개강",
+          "link": "https://www.venturesquare.net/1119362"
+        },
+        {
+          "id": "7b4909ee9a84",
+          "name": "물류신문",
+          "title": "엔비디아·XYZ 협력 ‘Physical AI 로보틱스 교육 과정’ 개강",
+          "link": "https://www.klnews.co.kr/news/articleView.html?idxno=323061"
+        },
+        {
+          "id": "6be6f4ba138c",
+          "name": "스타트업투데이",
+          "title": "엑스와이지, 엔비디아 로보틱스 과정 개강∙∙∙교육생 60여 명 선발",
+          "link": "https://www.startuptoday.kr/news/articleView.html?idxno=53211"
+        },
+        {
+          "id": "e14c9a84a8c0",
+          "name": "로봇신문",
+          "title": "엔비디아·엑스와이지 협력 ‘피지컬 AI 로보틱스 교육 과정’ 개강",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48958"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-0cab37ed6ea9",
+      "title": "브로드컴과 인텔 CEO \"AI 성장의 최대 걸림돌은 자본\"",
+      "category": "기업",
+      "published": "2026-10-13T06:30:53.000Z",
+      "points": [
+        "브로드컴과 인텔 CEO, 자금 조달 지목",
+        "칩과 전력보다 투자 수익성이 관건",
+        "AI 인프라 수요는 공급을 웃돌 전망"
+      ],
+      "body": [
+        "브로드컴과 인텔의 최고경영자(CEO)가 AI 산업 성장의 가장 큰 걸림돌로 반도체나 전력 부족이 아닌 자금 조달 문제를 꼽았다. IT조선에 따르면 혹 탄 브로드컴 CEO는 12일(현지시각) 싱가포르에서 열린 'DBS 아시아 퓨처 포워드 콘퍼런스'에서 이같이 말했다. IT조선과 디지털투데이는 블룸버그통신과 CNBC 보도를 인용했다.",
+        "AI타임스는 두 CEO가 AI 인프라 수요가 당분간 공급을 웃돌 것으로 전망하면서도, 막대한 투자 비용을 회수하고 지속 가능한 수익 모델을 확보하는 것이 과제라고 지적했다고 전했다. 아이뉴스24는 혹 탄 CEO가 AI 투자자들을 카지노 도박꾼에 비유하며 과열된 투자 열기를 경고했다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "0cab37ed6ea9",
+          "name": "AI타임스",
+          "title": "인텔·브로드컴 CEO \"AI 최대 걸림돌은 전력·칩 아닌 자본\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216207"
+        },
+        {
+          "id": "8678728ed227",
+          "name": "IT조선",
+          "title": "브로드컴·인텔 CEO \"AI 성장 리스크는 자본력\"…투자 수익성 경고",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171922"
+        },
+        {
+          "id": "d44dbf5d46f6",
+          "name": "조선비즈",
+          "title": "브로드컴·인텔 CEO “AI 성장 최대 걸림돌은 자금 조달”…투자 수익성 경고",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/MKTDXLG6X5HSPDIEIIC4M25LCI"
+        },
+        {
+          "id": "0ed70d531055",
+          "name": "아이뉴스24",
+          "title": "브로드컴 CEO \"AI 성장 걸림돌은 반도체 아닌 자본\"",
+          "link": "https://www.inews24.com/view/2014311"
+        },
+        {
+          "id": "78de26061c59",
+          "name": "디지털투데이",
+          "title": "인텔·브로드컴 CEO \"자금난, AI 최대 병목 될 수 있다\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706639"
+        },
+        {
+          "id": "15cc469a4b58",
+          "name": "EBN",
+          "title": "브로드컴 CEO \"AI 투자, 카지노 베팅 닮아\"...수익성·자금조달 경고",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727515"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-032104cbb999",
+      "title": "삼성전기, 첫 사내 해커톤 열고 업무용 AI 에이전트 개발",
+      "category": "기업",
+      "published": "2026-10-13T06:27:55.000Z",
+      "points": [
+        "삼성전기, 13일부터 사내 해커톤 개최",
+        "자체 AI 플랫폼 셈코워크 활용",
+        "임직원이 업무용 AI 에이전트 직접 개발"
+      ],
+      "body": [
+        "삼성전기가 자체 개발한 생성형 AI 플랫폼 '셈코워크(SEMCo-Work)'를 활용해 임직원이 업무용 AI 에이전트를 직접 만드는 첫 사내 해커톤을 연다. 13일부터 16일까지 나흘간 수원사업장에서 진행한다.",
+        "블로터와 조선비즈에 따르면 제품 개발, 생산과 품질 관리, 고객 대응 등 반복 업무를 자동화하는 에이전트를 발굴하는 것이 목표다. 블로터는 직원 한 명당 하나의 AI 에이전트를 활용하는 업무 환경을 구축한다는 구상이라고 전했고, 테크월드뉴스는 제목에서 '1인 1AI 에이전트'를 내세웠다.",
+        "EBN은 우수 사례를 전사적으로 공유해 업무 효율성을 높일 계획이라고 설명했고, 제목에서는 직원 200명이 AI 에이전트를 만든다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "032104cbb999",
+          "name": "IT조선",
+          "title": "삼성전기, 첫 사내 해커톤 개최… 업무용 AI에이전트 개발",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171920"
+        },
+        {
+          "id": "837e4e67c5c1",
+          "name": "블로터",
+          "title": "삼성전기, 자체 AI로 업무 자동화 나선다…첫 사내 해커톤 개최",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675531"
+        },
+        {
+          "id": "863be148b57d",
+          "name": "조선비즈",
+          "title": "삼성전기, 자체 생성형 AI로 업무용 에이전트 개발… 첫 사내 해커톤 개최",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/OKT62EFQFNHMDOETOFWSPFVDIE"
+        },
+        {
+          "id": "d05eac6776b0",
+          "name": "아이뉴스24",
+          "title": "삼성전기, 첫 사내 해커톤 개최⋯AI 업무 에이전트 개발",
+          "link": "https://www.inews24.com/view/2014280"
+        },
+        {
+          "id": "9ffe311ac81e",
+          "name": "테크월드뉴스",
+          "title": "삼성전기, 첫 사내 AI 해커톤 개최…‘1인 1AI 에이전트’ 시동",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408079"
+        },
+        {
+          "id": "1b59e434b3d5",
+          "name": "EBN",
+          "title": "삼성전기, 직원 200명이 AI 에이전트 만든다…사내 해커톤 개최",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727562"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-b87d9c05b4c0",
+      "title": "KT, 구글 AI 구독 상품 8종 출시…월 7500원부터",
+      "category": "기업",
+      "published": "2026-10-13T05:37:10.000Z",
+      "points": [
+        "KT, 구글 AI 구독 상품 8종 출시",
+        "AI 단독 3종과 생활 혜택 구독팩 5종",
+        "월 7500원부터 최대 5TB 저장공간"
+      ],
+      "body": [
+        "KT가 구글과 협력해 생성형 인공지능 서비스와 생활 혜택을 결합한 'KT구독' 상품 8종을 출시한다고 13일 밝혔다. 구글 AI 플러스와 구글 AI 프로를 포함한 단독 상품 3종과 커피, 생활 혜택을 결합한 구독팩 5종으로 구성됐다.",
+        "디일렉에 따르면 단독 상품은 구글 AI 플러스(400GB), 구글 AI 플러스(2TB), 구글 AI 프로(5TB)다. EBN은 구글 생성형 AI 서비스 제미나이를 이용할 수 있는 상품이 월 7500원부터 시작하며 상품에 따라 최대 5TB의 클라우드 저장공간을 제공한다고 전했다.",
+        "디지털투데이는 구독팩에 메가MGC커피, 스타벅스 등의 혜택이 결합됐다고 전했다. 조선비즈는 AI 기능과 저장공간뿐 아니라 평소 이용하는 생활 서비스까지 함께 고려해 구독을 고르도록 구성한 것이 특징이라고 짚었다."
+      ],
+      "sources": [
+        {
+          "id": "b87d9c05b4c0",
+          "name": "디일렉",
+          "title": "KT, 구글 AI 구독 상품 8종 출시…제미나이 이용 가능",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63619"
+        },
+        {
+          "id": "7bcb83cc0b6a",
+          "name": "EBN",
+          "title": "[Telecom & Now] KT, 제미나이 구독상품 8종 출시…월 7500원부터",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727596"
+        },
+        {
+          "id": "6c65533cf08b",
+          "name": "IT조선",
+          "title": "KT, 구글 AI 구독 상품 8종 출시",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171888"
+        },
+        {
+          "id": "e339a859932e",
+          "name": "디지털투데이",
+          "title": "KT, 구글 AI 구독 상품 8종 출시…\"다양한 생활 혜택 결합\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706637"
+        },
+        {
+          "id": "d6b069676f1a",
+          "name": "조선비즈",
+          "title": "KT, 구글 AI에 커피·생활 혜택 더한 구독 상품 8종 출시",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/N5KAIXFGYJHIHCC43YI6DIR4CM"
+        },
+        {
+          "id": "fd02743f6871",
+          "name": "한국NGO신문",
+          "title": "KT, 구글 AI 구독 상품 8종 출시…커피·생활 혜택 결합",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240404"
+        },
+        {
+          "id": "406eaea4a4c5",
+          "name": "아이뉴스24",
+          "title": "KT, 구글 AI 구독 상품 8종 출시⋯AI·생활 혜택 선택 폭 확대",
+          "link": "https://www.inews24.com/view/2014243"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-b661f2bb375f",
+      "title": "LG유플러스, 'U+one' AI가 요금 납부와 로밍 가입까지 처리",
+      "category": "기업",
+      "published": "2026-10-13T05:33:39.000Z",
+      "points": [
+        "U+one AI검색을 실행형 에이전트로 전환",
+        "요금 조회와 납부, 로밍 가입 대화로 처리",
+        "질문 답변 중심에서 업무 처리로 확대"
+      ],
+      "body": [
+        "LG유플러스가 통합 고객 플랫폼 'U+one'의 AI검색을 질문에 답하고 메뉴를 안내하는 기능에서 실제 업무까지 처리하는 '액셔너블 AI 에이전트'로 전환한다고 13일 밝혔다.",
+        "디일렉에 따르면 U+one은 요금제 조회, 요금 청구와 납부, 로밍과 부가서비스 가입 등 통신 업무를 한곳에서 처리하는 앱이다. 조선비즈는 고객이 AI와 대화하며 통신요금을 납부하고 로밍 상품에 가입할 수 있게 됐다고 전했다. EBN은 요금 조회와 미납 요금 납부, 로밍 상품 추천과 가입을 대화만으로 처리할 수 있다고 설명했다.",
+        "아이뉴스24는 이번 전환이 AI검색의 역할을 질문 응답에서 원하는 업무 처리까지 넓힌 것이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "b661f2bb375f",
+          "name": "디일렉",
+          "title": "LG U+, AI로 요금 납부·로밍 가입까지",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63620"
+        },
+        {
+          "id": "8d81f9b5ca6f",
+          "name": "IT조선",
+          "title": "LG U+, AI 대화로 요금 납부·로밍 가입까지",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171875"
+        },
+        {
+          "id": "f035d5bb601e",
+          "name": "아이뉴스24",
+          "title": "\"AI가 요금 납부·로밍 가입까지\"⋯LGU+, 'U+one' AI 에이전트 확대",
+          "link": "https://www.inews24.com/view/2014307"
+        },
+        {
+          "id": "7a2f3ab829ce",
+          "name": "조선비즈",
+          "title": "LG유플러스, AI와 대화로 요금 납부·로밍 가입까지 지원",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/JANUVK5DC5G6RHZ2TK2YGACMFU"
+        },
+        {
+          "id": "1ccecca8236d",
+          "name": "EBN",
+          "title": "[Telecom & Now] LGU+, 말하면 납부·가입까지…'일하는 AI' 시대 연다",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727551"
+        },
+        {
+          "id": "cf77f7d9edc4",
+          "name": "한국NGO신문",
+          "title": "LG유플러스, ‘U+one’ AI Agent 전환 본격화",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240396"
+        },
+        {
+          "id": "8c6b572248a8",
+          "name": "디지털투데이",
+          "title": "\"검색 넘어 실행으로\"…LG유플러스, 'U+one' AI 에이전트 확대",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706606"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261013-835405ffae50",
+      "title": "삼성전자, '라 리스트 2027'서 AI 주방 가전 선보여",
+      "category": "기업",
+      "published": "2026-10-13T02:11:50.955Z",
+      "points": [
+        "삼성전자, 미식 행사 라 리스트 참가",
+        "비스포크 AI 냉장고와 인덕션 전시",
+        "식재료 관리부터 조리까지 AI 적용"
+      ],
+      "body": [
+        "삼성전자가 12일 인천 파라다이스시티에서 열린 글로벌 미식 행사 '라 리스트(La Liste) 2027 코리아 어워즈'에 공식 파트너사로 참가해 AI 기술을 접목한 주방 경험을 선보였다. 이는 삼성전자 뉴스룸이 낸 회사 발표 내용이다.",
+        "뉴스룸에 따르면 라 리스트는 전 세계 레스토랑, 호텔, 페이스트리를 소개하는 글로벌 미식 평가 가이드다. 조선비즈는 삼성전자가 비스포크 AI 냉장고와 인피니트 라인 후드일체형 인덕션 등을 전시했다고 전했다.",
+        "조선비즈와 아이뉴스24는 제목에서 식재료 관리부터 조리까지 이어지는 AI 주방 가전이라고 소개했고, 테크월드뉴스는 프리미엄 주방 시장 공략에 나선 행보라고 짚었다."
+      ],
+      "sources": [
+        {
+          "id": "835405ffae50",
+          "name": "삼성전자 뉴스룸",
+          "title": "삼성전자, ‘라 리스트 2027’ 시상식서 AI 기반 혁신적 주방 경험 선보여",
+          "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%9d%bc-%eb%a6%ac%ec%8a%a4%ed%8a%b8-2027-%ec%8b%9c%ec%83%81%ec%8b%9d%ec%84%9c-ai-%ea%b8%b0%eb%b0%98-%ed%98%81%ec%8b%a0%ec%a0%81-%ec%a3%bc%eb%b0%a9-%ea%b2%bd"
+        },
+        {
+          "id": "c6244b8ab65d",
+          "name": "테크월드뉴스",
+          "title": "삼성전자, ‘라 리스트 2027’서 미식 전문가 사로잡은 AI 주방 가전 선봬",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408102"
+        },
+        {
+          "id": "d2a6250a9855",
+          "name": "IT조선",
+          "title": "삼성전자, ‘라 리스트’ 미식 행사서 AI 주방 가전 선보여",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171883"
+        },
+        {
+          "id": "015a75ad5927",
+          "name": "디지털데일리",
+          "title": "삼성전자, '라 리스트 2027'서 AI 비스포크 주방 경험 공개",
+          "link": "https://www.ddaily.co.kr/page/view/2026101308085720667"
+        },
+        {
+          "id": "421d06fc846f",
+          "name": "조선비즈",
+          "title": "삼성전자, ‘라 리스트 2027’서 AI 주방가전 선보여…식재료 관리부터 조리까지",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/13/7UDUSTZFCZGPZH2NJLGVIXHS6A"
+        },
+        {
+          "id": "bd89eff9c68d",
+          "name": "아이뉴스24",
+          "title": "삼성전자, '라 리스트 2027'서 AI 주방 가전 시연…식재료 관리부터 조리까지",
+          "link": "https://www.inews24.com/view/2014222"
+        },
+        {
+          "id": "cf337a246b0c",
+          "name": "한국NGO신문",
+          "title": "삼성전자, '라 리스트 2027'서 AI 기반 혁신적 주방 경험 선보여",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240393"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "s20261012-049002b51481",
       "title": "AI 폐기물 앱 '가져가', 13일부터 서울 은평구에서 실증",
       "category": "정책",
