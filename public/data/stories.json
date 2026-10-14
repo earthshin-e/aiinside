@@ -219,7 +219,25 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/14/R2YMCOOWLJCO7E332RDG5GMLKA"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 14 AI Briefing: Google's Argon Launches Globally, LG Electronics and Apple Unveil AI Home Devices",
+        "points": [
+          "Google launches Gemini 4 Argon for general release",
+          "LG Electronics and Apple unveil 7 AI home devices",
+          "KT and LG CNS expand infrastructure and overseas partnerships"
+        ],
+        "body": [
+          "Google officially launched its top-tier AI model, Gemini 4 Argon, worldwide on the 13th (local time). Chosun Biz reported that the model targets complex tasks in coding, finance, law, cybersecurity and science, and Byline Network noted that the general release came two weeks after a limited rollout.",
+          "LG Electronics unveiled seven AI home Internet of Things devices, co-developed with Apple, in New York on the 13th. According to Kukmin Ilbo, the lineup consists of two outdoor cameras, an indoor camera, a door lock, a doorbell, a thermostat and a temperature sensor. The Elec and EBN reported that they will launch first in the United States, Canada and the United Kingdom this year.",
+          "KT launched an \"AI dedicated line\" on the 14th for transferring large volumes of data between AI data centers. It supports bandwidth of up to 800 Gbps, and Digital Daily explained that this raises the bandwidth of dedicated lines from the 100 Gbps level.",
+          "LG CNS said on the 14th that it signed a memorandum of understanding with Japanese telecom company KDDI to jointly pursue AI transformation and digital transformation businesses in the Asia-Pacific region. Digital Daily reported that they will look for new businesses together in AI, smart cities, telecommunications and system integration and operations management.",
+          "The U.S. Federal Bureau of Investigation (FBI) arrested an engineer at OpenAI on suspicion of secretly installing a recording device in an executive conference room at the company. According to Chosun Biz, OpenAI said it has found no sign so far that core technology or customer information was leaked outside the company.",
+          "SK hynix President Ahn Hyun, chief development officer, said in a keynote at Semicon Korea on the 14th that the company will release the final specification for high bandwidth flash (HBF) in January next year, The Elec reported. iNews24 reported that the aim is to resolve the AI memory bottleneck with three-dimensional stacked DRAM and HBF.",
+          "Kakao said on the 14th that it aims to officially launch \"Everyone's AI\" within the year and secure 5 million monthly active users. According to EBN and Digital Today, the service is built on KakaoTalk and carries out real tasks such as search and reservations.",
+          "LG Electronics signed a memorandum of understanding on the 13th with GS Engineering & Construction and U.S.-based GRC to develop liquid immersion cooling technology for AI data centers. The Electric Times reported that they will develop technology demonstrations and an integrated standard design."
+        ]
+      }
     },
     {
       "id": "s20261014-4fcdc5bf0b49",
@@ -274,7 +292,20 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/14/I2ZLVN4RQ5D3RO437SXWTMDU3A"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK hynix President Ahn Hyun: Final HBF Specification to Be Set in January",
+        "points": [
+          "Final HBF specification set for January next year",
+          "Developing 3D stacked DRAM beyond HBM",
+          "Aims to ease AI inference memory bottleneck"
+        ],
+        "body": [
+          "SK hynix will release the final specification in January next year for high bandwidth flash (HBF), which it is developing as the next-generation AI memory after high bandwidth memory (HBM). President Ahn Hyun, chief development officer (CDO), said so in a keynote at Semicon Korea (SEDEX) 2026 at COEX in Seoul on the 14th, The Elec reported.",
+          "Ahn stressed the development of next-generation memory such as three-dimensional stacked DRAM and HBF, going beyond HBM. iNews24 and IT Chosun reported that the aim is to resolve the AI memory bottleneck with these technologies. According to IT Chosun, HBF is a product that increases capacity tenfold compared with HBM.",
+          "EBN explained that, as the AI inference market grows rapidly, the strategy is to optimize the entire memory hierarchy rather than the performance of individual memory products. Chosun Biz reported that \"3D stack DRAM,\" which stacks DRAM directly on top of a GPU, and custom HBM for customers were also mentioned, and Techworld News reported that next-generation technologies such as CXL were also raised."
+        ]
+      }
     },
     {
       "id": "s20261014-61f3da32f17a",
@@ -317,7 +348,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408139"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Shinsegae I&C Expands AI Education Donations for Rural and Fishing Village Youth",
+        "points": [
+          "Shinsegae I&C donates education to 60 rural schools",
+          "3,100 students to be reached through December",
+          "Program shifts from coding to hands-on AI practice"
+        ],
+        "body": [
+          "Shinsegae I&C is continuing its education donation program for young people in rural and fishing village areas, where AI education infrastructure is relatively scarce. According to Datanet and iNews24, the program will run through December at 60 schools nationwide, including in Yangpyeong and Pyeongtaek in Gyeonggi Province and Seocheon in South Chungcheong Province.",
+          "Digital Daily reported that the program has run for 14 years and targets 3,100 students. The curriculum has been revised from coding and IT experiences to hands-on practice using AI directly.",
+          "Techworld News described the effort as aimed at closing the IT education gap."
+        ]
+      }
     },
     {
       "id": "s20261014-1d4cf73755ec",
@@ -366,7 +410,20 @@
           "link": "https://biz.chosun.com/industry/business-venture/2026/10/13/Z73WXPNFZNBRLF5F27Y4762FVY"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Minister Lee So-young of SMEs and Startups: \"Small Businesses Should Lead the AI Transformation\"",
+        "points": [
+          "Minister Lee attends Smart Biz Expo",
+          "Policy shifts from smart factories to manufacturing AI",
+          "Stresses cooperation to narrow gap with large companies"
+        ],
+        "body": [
+          "Lee So-young, minister of SMEs and Startups, attended the opening ceremony of the \"2026 Smart Biz Expo\" at COEX in Seoul on the 13th and said small and medium-sized businesses should be the protagonists of the AI transformation. Industry News and Hellot reported that after checking the results of win-win smart factories, the minister also visited a smart factory site that actually uses AI.",
+          "According to VentureSquare, the site she visited was Dfarmstech in Gunpo, Gyeonggi Province. The same outlet reported that since 2018 the ministry has supported the building of smart factories at about 6,800 small and medium-sized businesses with the cooperation of some 60 large companies and public enterprises.",
+          "On policy direction, Chosun Biz reported that the minister expressed a determination to develop smart factory policy from production automation to AI-driven manufacturing innovation, and stressed cooperation to narrow the gap between large companies and small businesses. AI Newspaper (인공지능신문) reported that the ministry will strengthen step-by-step support policies for upgrading smart factories and adopting physical AI."
+        ]
+      }
     },
     {
       "id": "s20261014-3b0d5aee06da",
@@ -427,7 +484,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408158"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Raon Secure's AI Security Product OneShield Receives AI Product and Service Certificate",
+        "points": [
+          "OneShield receives AI product and service certificate",
+          "KOSA verifies application of AI technology",
+          "Expanding push into public and financial markets"
+        ],
+        "body": [
+          "Raon Secure said on the 14th that its AI safe guardrail solution OneShield received an \"AI Product and Service Certificate.\" Chosun Biz and EBN reported that the certificate is issued under a system in which the Korea Artificial Intelligence Software Industry Association (KOSA) verifies, based on the AI Basic Act, whether AI technology is actually applied to a product or service.",
+          "Raon Secure plans to use this to expand its push into the AI security market in the public and financial sectors. Bloter, IT Chosun and Boan News reported plans pointing in the same direction.",
+          "Outlets spelled the product name differently. Most wrote \"원쉴드\" (OneShield), but Techworld News wrote \"윈실드.\""
+        ]
+      }
     },
     {
       "id": "s20261014-268ef2d7f36b",
@@ -476,7 +546,20 @@
           "link": "https://www.inews24.com/view/2014866"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Samsung Electronics Presents Low-Carbon Housing Solution With \"AI Modular Home\"",
+        "points": [
+          "Samsung shows AI Modular Home model house",
+          "Combines heat pump with AI energy management",
+          "Presented to the climate, energy and environment minister"
+        ],
+        "body": [
+          "Samsung Electronics said on the 14th that it presented a high-efficiency, low-carbon housing solution to Kim Sung-hwan, minister of Climate, Energy and Environment, who visited the \"Samsung AI Modular Home\" model house in Hwaseong, Gyeonggi Province. Digital Daily and EBN reported that it is a living environment that uses heat pump heating and cooling and an AI-based energy management solution.",
+          "Bloter explained that the model combines heat pump heating and cooling, solar power generation and an energy storage system (ESS) to manage everything from energy production to consumption in an integrated way. The visit was tied to the government's Korean-style Green Transformation (K-GX) policy.",
+          "iNews24 reported that Samsung Electronics is using this solution to target the domestic market, and IT Chosun reported that it offers a way to cut carbon emissions in the housing sector."
+        ]
+      }
     },
     {
       "id": "s20261014-36cda0e31158",
@@ -519,7 +602,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101409231415625"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "UNET Expands Supply of \"Tarantula AI Data Platform\"",
+        "points": [
+          "UNET expands supply of Tarantula AI platform",
+          "Connects corporate databases and documents to AI",
+          "Supports building agentic AI"
+        ],
+        "body": [
+          "UNET said on the 14th that it is expanding supply of the \"Tarantula AI Data Platform,\" which connects a company's internal databases, documents and business systems to AI. Datanet and Digital Today reported the same content.",
+          "According to Datanet, UNET focuses on providing the data environment AI needs rather than developing AI agents or services itself. Digital Daily reported that it is an integrated platform combining TarantulaDB, a lakehouse, an AI vector DB and Tarantuner, and that it targets the AI adoption market in finance and the public sector.",
+          "Techworld News noted that as generative AI moves into actual work and services, usage is shifting beyond people using AI toward AI understanding corporate data and carrying out tasks."
+        ]
+      }
     },
     {
       "id": "s20261014-8b10dc665560",
@@ -568,7 +664,20 @@
           "link": "https://www.techm.kr/news/articleView.html?idxno=156087"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao to Launch \"Everyone's AI\" This Year, Targeting 5 Million Monthly Users",
+        "points": [
+          "Kakao to officially launch Everyone's AI this year",
+          "Targets 5 million monthly active users",
+          "Handles search and reservations within KakaoTalk"
+        ],
+        "body": [
+          "Kakao set a goal of officially launching \"Everyone's AI\" within this year and securing 5 million monthly active users. EBN and Digital Today reported that Kakao announced the plan on the 14th. According to Platum, the service concept was unveiled in a session on the second day of the developer conference \"if kakao.\"",
+          "The service is built on KakaoTalk and aims to go beyond answering questions to carrying out real tasks such as search, lookups and reservations. Techworld News explained that it connects multiple AI models, specialized agents and external tools to handle a request in a single flow.",
+          "According to Digital Today, 34 companies and organizations are developing it together. Tech M reported that Kakao, which is taking part in a large-scale government support project, said it will add the consortium's specialized capabilities to its experience operating KakaoTalk, which has 50 million users. Platum wrote that the target is an official launch by the end of the year."
+        ]
+      }
     },
     {
       "id": "s20261014-77132bd7fbd9",
@@ -635,7 +744,20 @@
           "link": "https://news.hada.io/topic?id=35315"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI Employee Arrested Over Bugging of Executive Conference Room, FBI Investigating",
+        "points": [
+          "FBI arrests suspect in OpenAI executive room bugging",
+          "Company found hidden recording device first",
+          "OpenAI: \"No sign core technology was leaked\""
+        ],
+        "body": [
+          "The U.S. Federal Bureau of Investigation (FBI) arrested an engineer at OpenAI on suspicion of secretly installing a recording device in an executive conference room at the company. According to reports on the 13th (local time), the suspect is Saudi national Abdulrahman Alfozan, and federal prosecutors have filed charges. Digital Today reported that the employee was arrested after being fired.",
+          "OpenAI said it found a sophisticated hidden recording device in one of its offices. According to Boan News, the company analyzed the device's identity and origin with its own AI model. Digital Daily reported that it emerged the suspect had used an AI chatbot to research how to build and conceal a bugging device. GeekNews, citing the criminal complaint, wrote that the device was connected to a USB port behind a TV in the conference room.",
+          "Chosun Biz reported that OpenAI said it has found no sign so far that core technology or customer information was leaked outside the company. AI Times reported that investigators said the device may have been intended to record confidential conversations related to OpenAI's AI technology. Of the space, IT Chosun reported that it is known as a place where executives discuss core technology and business strategy."
+        ]
+      }
     },
     {
       "id": "s20261014-850890ee1303",
@@ -684,7 +806,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215064"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Flitto Pilots AI Interpretation Tool \"Vogl\" at Kyobo Book Centre Stores",
+        "points": [
+          "Flitto brings AI translation Vogl to Kyobo Book Centre",
+          "Pilot runs at Gwanghwamun, Gangnam and Dongdaemun",
+          "Supports serving foreign customers"
+        ],
+        "body": [
+          "Flitto said on the 14th that it is supplying its AI interpretation and translation solution \"Vogl\" to major offline Kyobo Book Centre stores and has begun a pilot service for serving foreign customers. Techworld News and Bloter reported that it is being run as a proof of concept (PoC).",
+          "The pilot stores are the Gwanghwamun, Gangnam and Dongdaemun branches. Digital Daily explained that as the nationalities of foreign visitors to bookstores become more diverse, the need to serve them in multiple languages in stores has grown.",
+          "Techworld News described the rollout as an opportunity to extend Vogl's reach into books and cultural retail."
+        ]
+      }
     },
     {
       "id": "s20261014-74054a29c3ae",
@@ -727,7 +862,20 @@
           "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000022144"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Maum AI Unveils Quadruped Robot Landmine Detection System Tested in Thailand",
+        "points": [
+          "Maum AI unveils quadruped robot landmine detection system",
+          "Shown at Physical AI Tech Week",
+          "Combines military magnetic sensor with GPR"
+        ],
+        "body": [
+          "Maum AI showed a landmine detection system based on a quadruped robot at \"Physical AI Tech Week,\" held at COEX in Seoul from the 13th to the 14th. According to Betanews and Robot Newspaper, the system was developed for field testing in Thailand.",
+          "Techworld News reported that the system combines a military magnetic detection sensor and ground-penetrating radar (GPR) on a quadruped robot, and that after the Thailand tests the company plans to develop a mass-production model.",
+          "Kukmin Ilbo reported that Bae Kyung-hoon, deputy prime minister and minister of Science and ICT, looked at the landmine-detecting quadruped robot at the event on the 13th. The event brought together AI technology, industry and policy investment."
+        ]
+      }
     },
     {
       "id": "b20261013",
