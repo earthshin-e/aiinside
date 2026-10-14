@@ -860,6 +860,463 @@
       "author": "Kevin Wong",
       "draft": true,
       "drafted": "2026-10-13T09:41:51.926Z"
+    },
+    {
+      "id": "h20261014-2263b933158b",
+      "title": "구글, 제미나이 4 아르곤 정식 출시…코딩과 전문 업무 시장 겨냥",
+      "category": "생성형AI",
+      "points": [
+        "구글, 제미나이 4 아르곤 전 세계 출시",
+        "코딩과 금융, 법률 등 고난도 업무 겨냥",
+        "제한 공개 2주 만에 정식 출시"
+      ],
+      "body": [
+        "구글이 최상위 인공지능 모델 '제미나이 4 아르곤'을 13일(현지시간) 전 세계에 정식 출시했다. 조선비즈와 인공지능신문은 이 모델이 코딩, 금융, 법률, 사이버보안, 과학처럼 여러 단계의 추론이 필요한 복잡한 과제를 풀도록 설계됐다고 전했다. 데이터넷은 구글 딥마인드가 14일 이를 밝혔다고 보도했다.",
+        "제공 방식은 이용자에 따라 나뉜다. 디지털데일리와 인더스트리뉴스에 따르면 개발자와 기업은 제미나이 API로 쓸 수 있고, 일반 이용자는 유료 구독 서비스를 통해 쓴다. EBN은 프로와 울트라 요금제 유료 구독자가 제미나이 앱과 구글 검색의 AI 모드 등에서 아르곤을 이용할 수 있다고 전했다.",
+        "출시 배경을 설명하는 매체별 시각은 조금씩 다르다. 바이라인네트워크는 악용 가능성 때문에 제한적으로 공개한 지 2주일 만의 정식 출시이며 성능과 기능은 지난달 30일 공개 때와 같다고 짚었다. AI타임스도 지난달 제한적으로 공개한 모델을 본격 상용화하면서 실무 성과와 기존 제품 통합 전략을 앞세웠다고 전했다. 테크월드뉴스는 단계적 업무 처리 추론과 AI 에이전트를 활용한 코드 작성, 기존 시스템 현대화 등 기업용 AI와 개발 시장 공략을 강조했다.",
+        "경쟁 구도에 대한 설명도 있다. 바이라인네트워크에 따르면 구글은 GPT-6 아스트라와 클로드 오푸스 5.5 같은 경쟁 모델보다 뛰어난 성능을 낸다고 강조했다. 디지털투데이는 더 버지를 인용해 구글이 업계 최고 수준 모델과 겨룰 성능을 갖췄다고 밝혔다고 전했고, 테크M은 구글이 오픈AI, 앤트로픽과의 유료 AI 시장 경쟁에 나섰다고 전했다.",
+        "AI타임스는 별도 기사에서 로봇용 '제미나이 4 아르곤'도 다뤘다. 구글이 13일 물리 법칙과 3D 공간을 추론하고 가상 시뮬레이션에서 동작을 검증하는 방식으로 로봇의 정교한 조작 능력과 작업 효율을 높이는 데 초점을 맞췄다는 내용이다.",
+        "출시 전 보도도 있었다. AI타임스는 10일 비즈니스 인사이더를 인용해 구글이 정식 공개에 앞서 코딩 성능을 높인 내부 체크포인트 모델 '카본'을 사내에서 시험 중이라고 전했다. 9일에는 구글 클라우드가 아르곤과 클로드를 함께 탑재한 기업용 '제미나이 에이전트'를 공개했다고 보도했다."
+      ],
+      "sources": [
+        {
+          "id": "2263b933158b",
+          "name": "AI타임스",
+          "title": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216246"
+        },
+        {
+          "id": "8956b4c67a35",
+          "name": "테크M",
+          "title": "[글로벌] 구글, '제미나이4 아르곤' 전세계 확대...오픈AI·앤트로픽과 유료 AI 경쟁",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156101"
+        },
+        {
+          "id": "65d9a15ce791",
+          "name": "테크월드뉴스",
+          "title": "구글, ‘제미나이 4 아르곤’ 공급 확대…기업용 AI·코딩 시장 공략",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408168"
+        },
+        {
+          "id": "69567b0d3b45",
+          "name": "인공지능신문",
+          "title": "\"AI의 한계를 다시 쓴다\"…구글, 코딩·과학·로봇을 관통하는 ‘제미나이 4 아르곤’ 전 세계 출시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42294"
+        },
+        {
+          "id": "cd9f901c846d",
+          "name": "인더스트리뉴스",
+          "title": "구글, 최상위 AI 모델 ‘제미나이 4 아르곤’ 공개",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87516"
+        },
+        {
+          "id": "7b8d7e68f80e",
+          "name": "바이라인네트워크",
+          "title": "구글, 제미나이 4 아르곤 정식 출시",
+          "link": "https://byline.network/2026/10/14-635"
+        },
+        {
+          "id": "f04e321e9f36",
+          "name": "디지털투데이",
+          "title": "구글 '제미나이 4 아르곤' 출시…GPT·클로드 넘을까",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706981"
+        },
+        {
+          "id": "c178ab9f08fd",
+          "name": "조선비즈",
+          "title": "구글, 최상위 AI 모델 ‘제미나이 4 아르곤’ 출시…“코딩·금융·법률 등 업무 특화\"",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/14/2PF6ZWMBLJBJZBJ4LIPZMYKGKI"
+        },
+        {
+          "id": "42331b7a212e",
+          "name": "EBN",
+          "title": "구글, 최상위 AI '제미나이 4 아르곤' 출시…AI 주도권 반격",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727740"
+        },
+        {
+          "id": "03b9df7e4cad",
+          "name": "데이터넷",
+          "title": "구글, ‘제미나이 4 아르곤’ 출시 ··· 코딩·사이버보안 난제 해결 정조준",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215058"
+        },
+        {
+          "id": "31e47e73fd3a",
+          "name": "디지털데일리",
+          "title": "구글, 고난도 업무용 AI '제미나이 4 아르곤' 공개…코딩·금융·법률 등 심층 작업 겨냥",
+          "link": "https://www.ddaily.co.kr/page/view/2026101408171772870"
+        },
+        {
+          "id": "31304e5aeaf9",
+          "name": "AI타임스",
+          "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216220"
+        },
+        {
+          "id": "1a609765af1e",
+          "name": "AI타임스",
+          "title": "구글, '제미나이 4 아르곤' 후속 '카본' 테스트 중…\"오퍼스 5.5 수준\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216109"
+        },
+        {
+          "id": "d740bb844896",
+          "name": "AI타임스",
+          "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216096"
+        }
+      ],
+      "author": "Kevin Wong",
+      "draft": true,
+      "drafted": "2026-10-14T09:41:02.538Z"
+    },
+    {
+      "id": "h20261014-eb26fe66715d",
+      "title": "LG CNS, 일본 KDDI와 손잡고 아태 AX 사업 공동 추진",
+      "category": "기업",
+      "points": [
+        "LG CNS와 KDDI, 아태 AX 협력 협약",
+        "AI와 스마트시티, 통신 분야 신사업 발굴",
+        "앤트로픽 협력 이어 해외 사업 확대"
+      ],
+      "body": [
+        "LG CNS가 일본 통신기업 KDDI와 아시아태평양 지역의 AI 전환(AX)과 디지털 전환(DX) 사업을 함께 추진하기로 하고 업무협약을 맺었다. 두 회사는 14일 이 사실을 밝혔다. 데이터넷과 디지털투데이는 LG CNS의 AX와 DX 역량에 KDDI의 통신 인프라와 글로벌 네트워크를 결합하는 협력이라고 전했다.",
+        "협력 분야는 매체마다 강조점이 다르다. 디지털데일리는 AI, 스마트시티, 통신, 시스템 통합운영관리 분야에서 신사업을 함께 찾는다고 전했다. IT조선은 에이전틱 AI, 스마트시티, 로봇 자동화를 예로 들었고, EBN은 AI와 로봇 기술을 통신 인프라와 합쳐 현지 기업에 새 서비스를 개발하는 방안을 소개했다. AI타임스는 동남아시아의 에이전틱 AI와 피지컬 AI 시장 공략에 초점을 맞췄고, 디일렉은 제목에서 아태 5개국을 대상으로 한다고 밝혔다.",
+        "KDDI에 대해 디일렉은 일본 3대 종합 통신기업 중 하나라고 소개했다. 데이터넷에 따르면 KDDI는 이동통신 등 개인 대상 서비스부터 AI, 클라우드, 통신 네트워크 같은 기업 대상 서비스까지 사업을 하고 있다.",
+        "테크월드뉴스는 이번 협약을 LG CNS의 앤트로픽 협력 강화와 함께 묶어 보도했다. 국내에서는 클로드 기반 시스템 현대화와 기업 AI 구축 역량을 높이고, 해외에서는 에이전틱 AI와 피지컬 AI, 스마트시티 등으로 사업을 넓힌다는 내용이다. 아이뉴스24에 따르면 LG CNS는 13일 앤트로픽의 '클로드 파트너 네트워크'에서 국내 기업 최초로 '프리퍼드' 등급을 획득했다고 밝혔다.",
+        "10일에는 디지털데일리가 LG CNS가 사법부의 '형사재판 및 양형지원 AI 플랫폼' 구축 사업 우선협상대상자로 선정됐다고 전했다. 102억원 규모로 법원 판결 영역에 AI가 처음 들어가는 사업이며, 기술평가에서 KT와 승부가 갈렸다고 한다."
+      ],
+      "sources": [
+        {
+          "id": "eb26fe66715d",
+          "name": "데이터넷",
+          "title": "LG CNS, 아태지역 AX 시장 공략 ··· 日 KDDI와 협력",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215085"
+        },
+        {
+          "id": "b720e8f2acae",
+          "name": "AI타임스",
+          "title": "LG CNS, 일본 통신사 KDDI와 동남아 에이전틱·피지컬 AI 시장 공조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216238"
+        },
+        {
+          "id": "9a1e086f058b",
+          "name": "디일렉",
+          "title": "LG CNS, 日 KDDI와 아태 5개국 AI·스마트시티 사업 추진",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63675"
+        },
+        {
+          "id": "4aedc847be03",
+          "name": "IT조선",
+          "title": "LG CNS, 아태지역 AX 신사업 위해 日 KDDI와 맞손",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171987"
+        },
+        {
+          "id": "e837d7499e56",
+          "name": "디지털투데이",
+          "title": "LG CNS, 日 통신사 KDDI와 아태지역 AX 사업 공동 추진",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706927"
+        },
+        {
+          "id": "4c2527e84efe",
+          "name": "테크월드뉴스",
+          "title": "LG CNS, 앤트로픽 협력 이어 日 KDDI와 ‘맞손’…기업 AX·아태 사업 확대",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408137"
+        },
+        {
+          "id": "7bb8bb1a5cb8",
+          "name": "조선비즈",
+          "title": "LG CNS, 日 KDDI와 아태지역서 AX 신사업 추진",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/14/GPOAFUIVD5EE3J6ODGUXVVERQI"
+        },
+        {
+          "id": "fbf3a9137aa1",
+          "name": "디지털데일리",
+          "title": "LG CNS, 日 KDDI와 아태 AX 사업 협력…에이전틱 AI·스마트시티 공략",
+          "link": "https://www.ddaily.co.kr/page/view/2026101408441002777"
+        },
+        {
+          "id": "f069d7db4a1e",
+          "name": "EBN",
+          "title": "LG CNS, 日 KDDI와 손잡고 아태 AX 시장 진출…\"AI·로봇 사업 추진\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727704"
+        },
+        {
+          "id": "2211be2d5def",
+          "name": "테크M",
+          "title": "LG CNS, 日 통신사 KDDI와 아태 AX 사업 공동 추진",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156068"
+        },
+        {
+          "id": "62174967d8eb",
+          "name": "아이뉴스24",
+          "title": "LG CNS, 국내 첫 앤트로픽 CPN '프리퍼드' 등급 획득",
+          "link": "https://www.inews24.com/view/2014547"
+        },
+        {
+          "id": "68e7d65a46c8",
+          "name": "디지털데일리",
+          "title": "LG CNS, KT 제치고 사법부 ‘형사재판 및 양형지원 AI 플랫폼 사업' 우협대상자 선정",
+          "link": "https://www.ddaily.co.kr/page/view/2026101018022182889"
+        }
+      ],
+      "author": "Haley Yun",
+      "draft": true,
+      "drafted": "2026-10-14T09:41:02.538Z"
+    },
+    {
+      "id": "h20261014-855f7b71b655",
+      "title": "KT, 최대 800Gbps 'AI 전용회선' 출시…AI 데이터센터 연결 강화",
+      "category": "기업",
+      "points": [
+        "KT, 최대 800Gbps AI 전용회선 출시",
+        "AI 데이터센터 간 대용량 전송 수요 대응",
+        "기존 대비 대역폭 8배로 확대"
+      ],
+      "body": [
+        "KT가 인공지능 데이터센터(AIDC) 사이의 대용량 데이터 전송을 위한 'AI 전용회선'을 14일 출시했다. 최대 800Gbps 대역폭을 지원하는 초고속, 초저지연 네트워크 서비스다. 아이뉴스24와 조선비즈 등 여러 매체가 같은 내용을 전했다.",
+        "출시 배경으로 KT는 생성형 AI 확산과 AI 인프라 투자 증가를 들었다고 한국NGO신문과 디지털투데이가 전했다. 조선비즈는 AI 데이터센터가 전국에 분산 구축되면서 센터 사이에서 대용량 데이터를 안정적으로 주고받는 네트워크가 필요해졌다고 설명했다. 인공지능신문은 AI 학습과 추론에 필요한 데이터 이동량이 급증하는 상황이라고 짚었다.",
+        "성능 수치는 매체마다 표현이 다르다. 조선비즈는 제목에서 기존 대비 대역폭이 8배라고 전했고, 디지털데일리는 기존에 100Gbps 수준이던 전용회선 대역폭을 확대한 것이라고 설명했다. 테크월드뉴스는 최대 400Gbps와 800Gbps 대역폭을 제공한다고 적었다.",
+        "EBN은 이번 서비스가 AI 데이터센터 연결 수요를 확보하고 기업의 AI 인프라 구축과 확장을 지원하려는 것이라고 전했다. 한편 KT는 13일 구글과 협력한 'KT구독' 상품 8종도 내놨다. EBN에 따르면 이 상품은 월 7500원부터 이용할 수 있다."
+      ],
+      "sources": [
+        {
+          "id": "855f7b71b655",
+          "name": "AI타임스",
+          "title": "KT, 최대 800Gbps 대역폭 지원 초고속·초저지연 'AI 전용회선' 선봬",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216231"
+        },
+        {
+          "id": "739f276cdfc9",
+          "name": "인공지능신문",
+          "title": "KT, AI 전용회선 출시…데이터센터 연결 대역폭 최대 800Gbps로 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42297"
+        },
+        {
+          "id": "1168d9981a3a",
+          "name": "디지털데일리",
+          "title": "KT, 최대 800Gbps ‘AI 전용회선’ 출시…데이터센터 연결 강화",
+          "link": "https://www.ddaily.co.kr/page/view/2026101409571408959"
+        },
+        {
+          "id": "3b0ce1ea0734",
+          "name": "IT조선",
+          "title": "KT, 초고속·초저지연 ‘AI 전용회선’ 선보여",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171979"
+        },
+        {
+          "id": "dfde84c1d877",
+          "name": "테크월드뉴스",
+          "title": "KT, 최대 800Gbps 'AI 전용회선' 출시…AIDC 간 데이터 안정적으로 연결",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408160"
+        },
+        {
+          "id": "69a5ae021796",
+          "name": "한국NGO신문",
+          "title": "KT, AI 데이터센터 인프라 혁신… 초고속·초저지연 'AI 전용회선' 선보인다",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240493"
+        },
+        {
+          "id": "2b17337c650f",
+          "name": "EBN",
+          "title": "[Telecom & Now] KT, 최대 800Gbps 지원 'AI 전용회선' 출시…\"인프라 경쟁력 강화\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727732"
+        },
+        {
+          "id": "c36a83597ceb",
+          "name": "디지털투데이",
+          "title": "KT, AI 데이터센터 연결망 강화…800Gbps 전용회선 출시",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706962"
+        },
+        {
+          "id": "d27cb33e0168",
+          "name": "조선비즈",
+          "title": "KT, 최대 800Gbps ‘AI 전용 회선’ 출시… 기존 대비 대역폭 8배",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/14/JFUK2Q6XJFEQPCA4WQ2MDEIUVY"
+        },
+        {
+          "id": "a74bb340d613",
+          "name": "아이뉴스24",
+          "title": "최대 800Gbps 대역폭 지원⋯KT, AI 전용회선 출시",
+          "link": "https://www.inews24.com/view/2014717"
+        },
+        {
+          "id": "7bcb83cc0b6a",
+          "name": "EBN",
+          "title": "[Telecom & Now] KT, 제미나이 구독상품 8종 출시…월 7500원부터",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727596"
+        }
+      ],
+      "author": "Chloe Park",
+      "draft": true,
+      "drafted": "2026-10-14T09:41:02.538Z"
+    },
+    {
+      "id": "h20261014-b8acda927f01",
+      "title": "LG전자, 애플과 AI홈 기기 7종 공동 개발해 공개",
+      "category": "기업",
+      "points": [
+        "LG전자와 애플, 스마트홈 기기 7종 공개",
+        "카메라와 도어락, 온도 조절기 등 구성",
+        "연내 미국과 캐나다, 영국부터 출시"
+      ],
+      "body": [
+        "LG전자가 애플과 함께 개발한 사물인터넷 기기 7종을 13일(현지시간) 미국 뉴욕 맨해튼에서 열린 신제품 발표 행사에서 공개했다. 국민일보에 따르면 제품은 실외 카메라 2종, 실내 카메라, 도어락, 도어벨, 온도 조절기, 온도 센서다.",
+        "기술 구성은 조선비즈가 정리했다. 실내외 상황을 파악해 기기를 자동으로 제어하는 AI를 적용했고, LG전자의 스마트홈 플랫폼 씽큐와 아이폰, 애플워치 등 애플 기기를 연동한다. 인공지능신문은 비전 AI를 쓴 보안 카메라, 사용자의 출입 의도를 파악하는 도어락, 위치와 날씨를 고려해 냉난방을 제어하는 온도 조절기를 소개했다. 아이뉴스24는 집에 돌아오면 현관문이 자동으로 열리고 택배가 도착하면 아이폰으로 알림을 받는 식의 사용 예를 들었다.",
+        "출시 시점은 매체마다 표현이 다르다. 디일렉과 EBN은 연내 미국, 캐나다, 영국에 먼저 출시한다고 전했고, 디지털데일리는 12월 북미와 영국부터 순차 출시한다고 적었다.",
+        "애플 쪽 발표도 함께 보도됐다. 아이뉴스24는 애플이 13일 뉴욕에서 시리 AI를 앞세운 새 스마트홈 허브와 TV, 스피커를 공개하고 LG전자와 공동 개발한 기기까지 선보였다고 전했다. 공개 전에는 IT조선이 12일 블룸버그통신을 인용해 애플이 스마트홈 허브 '홈뷰'를 공개할 전망이라고 보도했고, 디지털투데이는 11일 블룸버그 보도를 인용해 실제 출시는 11월 중순으로 예상된다고 전했다.",
+        "디지털데일리는 13일 별도 기사에서 과거 스마트폰 시장에서 경쟁했던 두 회사가 TV, 유통, 부품 분야에서 이어온 협력을 가전과 주거 공간으로 넓혔다고 짚었다. 이 기사는 글로벌 스마트홈 시장이 2032년 4502억달러 규모에 이를 것이라는 전망도 소개했다."
+      ],
+      "sources": [
+        {
+          "id": "b8acda927f01",
+          "name": "국민일보",
+          "title": "“시리, 문 열지 마”… LG전자·애플 ‘AI 홈’ 합작",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000022536"
+        },
+        {
+          "id": "878db593087e",
+          "name": "디일렉",
+          "title": "LG전자, 애플과 AI홈 기기 7종 공동 개발",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63667"
+        },
+        {
+          "id": "47e167de9da6",
+          "name": "인공지능신문",
+          "title": "LG전자·애플, AI홈 IoT 기기 7종 공동 개발…비전 AI·자동 출입 기술로 생태계 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42291"
+        },
+        {
+          "id": "d03dac457b09",
+          "name": "테크월드뉴스",
+          "title": "LG전자, 애플과 손잡고 AI홈 판 키운다…차세대 IoT 7종 공개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408155"
+        },
+        {
+          "id": "3cb854150be8",
+          "name": "한국NGO신문",
+          "title": "LG전자, 애플과 공동 개발한 차세대 IoT 기기 7종 공개…AI홈 생태계 확장",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240469"
+        },
+        {
+          "id": "935a98a8ddae",
+          "name": "디지털데일리",
+          "title": "LG전자·애플, AI홈 기기 7종 공동 개발…아이폰으로 집안 관리",
+          "link": "https://www.ddaily.co.kr/page/view/2026101407130058084"
+        },
+        {
+          "id": "9bcf73f77c4e",
+          "name": "조선비즈",
+          "title": "LG전자, 애플과 손잡고 AI홈 시장 공략… 공동 개발 제품 7종 공개",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/14/7GT446PA4VAUTLDSYOREWSJCTA"
+        },
+        {
+          "id": "3170b0eed94b",
+          "name": "EBN",
+          "title": "LG전자·애플, AI 스마트홈 기기 7종 공동 개발…북미·유럽 공략",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727698"
+        },
+        {
+          "id": "702a63f31692",
+          "name": "아이뉴스24",
+          "title": "LG전자·애플, AI홈 기기 공동개발…\"아이폰으로 냉난방 조절\"",
+          "link": "https://www.inews24.com/view/2014682"
+        },
+        {
+          "id": "9e22d28614e9",
+          "name": "디지털데일리",
+          "title": "스마트폰 경쟁자에서 AI홈 동맹으로…LG·애플, 협력 새 국면",
+          "link": "https://www.ddaily.co.kr/page/view/2026101407402081259"
+        },
+        {
+          "id": "480f6db1a3b4",
+          "name": "아이뉴스24",
+          "title": "애플, '시리 AI'로 스마트홈 공략…LG전자와 손잡고 생태계 확대[종합]",
+          "link": "https://www.inews24.com/view/2014684"
+        },
+        {
+          "id": "bd6864d3775a",
+          "name": "IT조선",
+          "title": "애플, 시리 AI 탑재 ‘홈뷰’ 공개 임박…LG와 스마트홈 공략",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171778"
+        },
+        {
+          "id": "8353ba8b5148",
+          "name": "디지털투데이",
+          "title": "애플 '홈뷰' 베일 벗는다…시리 AI 품고 11월 출시, LG와 협업",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706260"
+        }
+      ],
+      "author": "Ethan Chen",
+      "draft": true,
+      "drafted": "2026-10-14T09:41:02.538Z"
+    },
+    {
+      "id": "h20261014-24b3e5d71868",
+      "title": "LG전자, GS건설과 GRC 손잡고 AI 데이터센터 액침냉각 개발",
+      "category": "기업",
+      "points": [
+        "LG전자와 GS건설, GRC 3사 업무협약",
+        "AI 데이터센터 액침냉각 기술 공동 개발",
+        "실증과 통합 표준설계 마련 추진"
+      ],
+      "body": [
+        "LG전자와 GS건설이 미국 액침냉각 전문기업 GRC와 함께 인공지능 데이터센터용 액침냉각 기술을 개발한다. 3사는 13일 서울 종로구 GS건설 본사에서 '데이터센터 액침냉각 및 통합 냉각솔루션 기술개발과 설비기술 협력'을 위한 업무협약을 맺었다고 전기신문과 디지털데일리 등이 전했다.",
+        "협력 내용으로 전기신문은 기술의 실증과 통합 표준설계 개발을 들었다. EBN은 액침냉각의 실제 적용 가능성을 검증하고 데이터센터 표준설계를 마련해 냉각 솔루션 사업을 확대한다는 계획이라고 설명했다. 테크월드뉴스에 따르면 GRC의 정식 이름은 그린 레볼루션 쿨링이다.",
+        "조선비즈는 기존 공기냉각과 액체냉각에 이어 반도체를 특수 냉각유에 직접 담가 열을 식히는 액침냉각까지 사업 영역을 넓히는 것이라고 설명했다. 테크월드뉴스도 LG전자가 냉각 포트폴리오를 액침냉각까지 확대하고 기술 검증과 표준설계 개발에 나선다고 전했다.",
+        "보도 관점은 매체마다 다르다. 아이뉴스24는 GS건설을 중심에 두고, 앞서 전력기기와 모듈러 데이터센터 분야에서 협력체계를 구축한 데 이어 냉각 기술까지 범위를 넓혀 AI 데이터센터 설계와 시공 경쟁력을 높이려는 것이라고 전했다. 디지털데일리와 조선비즈는 LG전자를 중심에 두고 보도했다."
+      ],
+      "sources": [
+        {
+          "id": "24b3e5d71868",
+          "name": "아이뉴스24",
+          "title": "GS건설, '고성능 AI데이터센터' 액침냉각 기술개발 협력",
+          "link": "https://www.inews24.com/view/2015034"
+        },
+        {
+          "id": "09d6f1870848",
+          "name": "전기신문",
+          "title": "GS건설·LG전자·GRC, AI 데이터센터 액침냉각 기술 공동 개발",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=373405"
+        },
+        {
+          "id": "eef0f04fec2d",
+          "name": "디지털데일리",
+          "title": "LG전자, GS건설·美 GRC와 AI 데이터센터 액침냉각 기술·표준설계 공동개발",
+          "link": "https://www.ddaily.co.kr/page/view/2026101409085224293"
+        },
+        {
+          "id": "2b73162e0b4a",
+          "name": "조선비즈",
+          "title": "뜨거운 AI 서버 냉각유에 담가 식힌다… LG전자, GS건설·GRC와 액침냉각 기술 개발",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/14/R2YMCOOWLJCO7E332RDG5GMLKA"
+        },
+        {
+          "id": "dc2e14afd093",
+          "name": "테크월드뉴스",
+          "title": "AI 데이터센터 냉각 경쟁 격화…LG전자, 액침냉각 상용화 나선다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408151"
+        },
+        {
+          "id": "7809f77ff375",
+          "name": "한국NGO신문",
+          "title": "LG전자, GS건설·美 GRC와 AI 데이터센터 액침냉각 기술 공동개발",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240477"
+        },
+        {
+          "id": "147724f807b4",
+          "name": "EBN",
+          "title": "LG전자, GS건설·GRC와 AI 데이터센터 액침냉각 기술 개발",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727722"
+        },
+        {
+          "id": "b72c6e375a9e",
+          "name": "베타뉴스",
+          "title": "GS건설, LG전자·GRC와 AI 데이터센터 액침냉각 기술 개발 협력",
+          "link": "https://www.betanews.net/article/view/beta202610140065"
+        }
+      ],
+      "author": "Ashley Yang",
+      "draft": true,
+      "drafted": "2026-10-14T09:41:02.538Z"
     }
   ]
 }
