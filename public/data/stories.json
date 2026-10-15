@@ -5,6 +5,591 @@
   ],
   "stories": [
     {
+      "id": "b20261015",
+      "type": "briefing",
+      "title": "10월 15일 AI 브리핑: 코스피 급락, 오픈AI 소송과 도청 사건",
+      "category": "일반",
+      "published": "2026-10-15T09:40:40.401Z",
+      "points": [
+        "미국 물가와 AI 우려에 코스피 급락",
+        "오픈AI, 주 정부 소송과 도청 혐의 직원 체포",
+        "구글 신모델과 AI 인프라 협력 잇따라"
+      ],
+      "body": [
+        "15일 코스피가 미국 물가와 AI 투자 우려 속에 큰 폭으로 떨어졌다. 조선비즈에 따르면 코스피는 전 거래일보다 5.59% 내린 5673.01에 거래를 시작했고 매도 사이드카가 발동됐다. 같은 매체는 이후 낙폭이 7.5%를 넘어 코스피가 5500선, 코스닥이 760선으로 내려앉았다고 전했다. 아이뉴스24는 간밤 발표된 미국 9월 소비자물가지수가 시장 예상치를 웃돌고 AI 투자 우려가 다시 부각됐다고 설명했다.",
+        "오픈AI는 법적 사안이 겹쳤다. 아이뉴스24는 14일(현지시간) 로이터통신을 인용해 미국 8개 주 정부가 챗GPT의 안전성을 과장하고 청소년 보호에 소홀했다며 오픈AI를 상대로 소송을 냈다고 전했다. 별도로 디지털투데이는 월스트리트저널을 인용해 미국 법무부가 오픈AI 제품팀 소속 직원을 임원 회의실에 도청 장치를 숨긴 혐의로 기소했다고 전했고, 보안뉴스는 오픈AI가 사무실 한 곳에서 숨겨진 녹음 장치를 발견했다고 밝혔다고 보도했다.",
+        "구글은 '제미나이 4 아르곤'을 내놓았다. 벤처스퀘어는 코딩, 금융, 법률, 사이버 보안, 과학 연구 등 전문 업무에 특화된 이 모델이 전 세계에 순차 출시된다고 전했고, 조선비즈는 출시 초기 독립 AI 모델 평가에서 1위에 올랐다고 보도했다. AI타임스는 구글이 13일(현지시간) 물리 법칙과 3D 공간을 추론하는 로봇용 버전도 내놓았다고 전했다.",
+        "LG전자는 애플과 공동 개발한 스마트홈용 사물인터넷 기기 7종을 13일(현지시간) 미국 뉴욕에서 공개했다. 디일렉에 따르면 신제품은 실내 카메라, 실외 카메라 2종, 도어벨, 도어락, 온도 조절기, 온도 센서로 구성되며 연내 미국, 캐나다, 영국에 먼저 출시된다.",
+        "기업 간 협력 소식도 이어졌다. LG CNS는 일본 통신기업 KDDI와 아시아태평양 지역 AX와 DX 사업 협력을 위한 업무협약을 14일 맺었다고 밝혔다. KT는 14일 최대 800Gbps 대역폭을 지원하는 'AI 전용회선'을 출시했다. 디지털데일리는 기존 전용회선 대역폭이 100Gbps 수준이었다고 짚었다.",
+        "AI 인프라 투자 계획도 나왔다. 조선비즈는 베슬AI가 2030년까지 GPU 20만 장을 확보하겠다고 밝혔다고 전했고, 벤처스퀘어는 2028년까지 전국 8개 AI 데이터센터 거점을 마련할 계획이라고 보도했다. 디지털데일리는 이 가운데 직접 구축 물량을 15만 장으로 전했다."
+      ],
+      "sources": [
+        {
+          "id": "a3c54508afc3",
+          "name": "조선비즈",
+          "title": "코스피, 美 물가 충격·AI 거품론에 5%대 급락… ‘매도 사이드카’ 발동",
+          "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/X2XCHNIOKFFE5MJXGFEI6DXITQ"
+        },
+        {
+          "id": "576f21d52e54",
+          "name": "조선비즈",
+          "title": "[마켓뷰] ‘검은 목요일’… 美 물가·AI 공포에 코스피 7.5% 넘게 폭락",
+          "link": "https://biz.chosun.com/stock/stock_general/2026/10/15/W64PZZBYFRAYVJTLXDFDCTECZ4"
+        },
+        {
+          "id": "dfb9f04c3b4e",
+          "name": "아이뉴스24",
+          "title": "'검은 목요일' 코스피·코스닥 동반 추락⋯美 물가·AI 쇼크",
+          "link": "https://www.inews24.com/view/2015237"
+        },
+        {
+          "id": "cc4ab1b89205",
+          "name": "아이뉴스24",
+          "title": "美 8개 주, 오픈AI에 소송⋯\"챗GPT 안전성 과장\"",
+          "link": "https://www.inews24.com/view/2015164"
+        },
+        {
+          "id": "8ea375ae46bd",
+          "name": "IT조선",
+          "title": "美 8개州, 오픈AI 상대 소송… “챗GPT, 자해·폭력 부추겨”",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172061"
+        },
+        {
+          "id": "488e96028650",
+          "name": "디지털투데이",
+          "title": "오픈AI 엔지니어, 임원 회의실 TV 뒤에 도청 장치 설치했다 FBI에 체포",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707230"
+        },
+        {
+          "id": "01f040e30563",
+          "name": "보안뉴스",
+          "title": "오픈AI, 임원 회의실 도청 혐의로 직원 체포",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146375"
+        },
+        {
+          "id": "37620a4697ba",
+          "name": "벤처스퀘어",
+          "title": "구글, ‘제미나이 4 아르곤’ 글로벌 출시…코딩·금융·보안·과학 연구까지 AI 활용 확대",
+          "link": "https://www.venturesquare.net/1119826"
+        },
+        {
+          "id": "1397b19044bc",
+          "name": "조선비즈",
+          "title": "[비즈톡톡] AI 모델 성능 평가 1위 오른 ‘제미나이 4 아르곤’… 구글, 오픈AI·앤트로픽 양강 체제에 반격",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/ZDSX7DQ3AFGD5MHI2BLC2P4HRY"
+        },
+        {
+          "id": "2263b933158b",
+          "name": "AI타임스",
+          "title": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216246"
+        },
+        {
+          "id": "878db593087e",
+          "name": "디일렉",
+          "title": "LG전자, 애플과 AI홈 기기 7종 공동 개발",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63667"
+        },
+        {
+          "id": "9a1e086f058b",
+          "name": "디일렉",
+          "title": "LG CNS, 日 KDDI와 아태 5개국 AI·스마트시티 사업 추진",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63675"
+        },
+        {
+          "id": "b720e8f2acae",
+          "name": "AI타임스",
+          "title": "LG CNS, 일본 통신사 KDDI와 동남아 에이전틱·피지컬 AI 시장 공조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216238"
+        },
+        {
+          "id": "1168d9981a3a",
+          "name": "디지털데일리",
+          "title": "KT, 최대 800Gbps ‘AI 전용회선’ 출시…데이터센터 연결 강화",
+          "link": "https://www.ddaily.co.kr/page/view/2026101409571408959"
+        },
+        {
+          "id": "f83d8cd48f7d",
+          "name": "조선비즈",
+          "title": "베슬AI “2030년까지 GPU 20만장 확보”…네오클라우드 전환 선언",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/TZ3TPGOO7JDWHPPBC73TVG2AUI"
+        },
+        {
+          "id": "88573136933f",
+          "name": "벤처스퀘어",
+          "title": "베슬AI, 2030년까지 GPU 20만 장 확보 추진…AI 데이터센터 8곳 구축 로드맵 공개",
+          "link": "https://www.venturesquare.net/1120235"
+        },
+        {
+          "id": "3010406f3bc6",
+          "name": "디지털데일리",
+          "title": "베슬AI, 2030년 GPU 20만장 확보…직접 구축 15만장 추진",
+          "link": "https://www.ddaily.co.kr/page/view/2026101513111308429"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-b95a9d5a587a",
+      "title": "포티넷코리아, 20일 'SASE 서밋 코리아' 온라인 개최",
+      "category": "보안/윤리",
+      "published": "2026-10-15T08:12:41.000Z",
+      "points": [
+        "포티넷코리아, 20일 SASE 서밋 개최",
+        "망분리와 클라우드 규제 대응 방안 소개",
+        "생성형 AI 보안 해법도 다뤄"
+      ],
+      "body": [
+        "포티넷코리아가 20일 온라인으로 '2026 SASE 서밋 코리아'를 연다고 15일 밝혔다. 디지털투데이에 따르면 행사는 오후 2시부터 4시까지 열리고, 기조연설은 가트너의 차란팔 보갈 시니어 디렉터가 맡는다.",
+        "블로터는 국내 망분리와 클라우드 규제 환경, 생성형 AI 확산에 대응한 보안 방안을 다룬다고 전했다. 데이터넷은 규제 환경에 맞춰 데이터와 정책 통제권을 확보하는 방안과 AI와 에이전트 환경을 안전하게 운영하는 방법을 소개한다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "b95a9d5a587a",
+          "name": "보안뉴스",
+          "title": "포티넷코리아, 20일 ‘2026 SASE 서밋 코리아’ 개최... 망분리·AI 보안 해법 제시",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146421"
+        },
+        {
+          "id": "83577d539422",
+          "name": "블로터",
+          "title": "포티넷코리아, 망분리·생성형AI 보안 해법 제시…SASE 서밋 개최",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675805"
+        },
+        {
+          "id": "f2abb5495a48",
+          "name": "디지털투데이",
+          "title": "포티넷, 20일 ‘2026 SASE 서밋 코리아’ 개최..망분리·생성형 AI 대응 전략 공유",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707457"
+        },
+        {
+          "id": "47f6167e42f1",
+          "name": "데이터넷",
+          "title": "포티넷, ‘2026 SASE 서밋 코리아’ 열고 국내 규제 준수 방안 소개",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215108"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-3fb8f4179f8f",
+      "title": "미국 8개 주, 오픈AI 상대 소송 '챗GPT가 자해 부추겨'",
+      "category": "보안/윤리",
+      "published": "2026-10-15T07:55:15.000Z",
+      "points": [
+        "미국 8개 주, 오픈AI 상대 소송 제기",
+        "챗GPT가 자해와 폭력 부추겼다 주장",
+        "안전성 과장과 이용자 보호 미비 지적"
+      ],
+      "body": [
+        "미국 8개 주 정부가 챗GPT가 청소년을 포함한 이용자의 자해와 폭력 행위를 부추겼다며 오픈AI를 상대로 소송을 냈다. 아이뉴스24는 14일(현지시간) 로이터통신 보도를 인용해 이 사실을 전했다. 아이오와, 캔자스, 애리조나 등이 참여했다.",
+        "IT조선은 소송의 쟁점을 오픈AI가 챗GPT의 안전성을 과장해 소비자를 오도했고 이용자 보호 조치를 충분히 마련하지 않았다는 주장이라고 전했다. AI타임스는 AI 기업을 겨냥한 주 정부 차원의 공동 법적 대응으로는 가장 큰 규모라고 보도했다."
+      ],
+      "sources": [
+        {
+          "id": "3fb8f4179f8f",
+          "name": "AI타임스",
+          "title": "미국 8개 주, 오픈AI 상대 집단 소송...“챗GPT가 자해·폭력 부추겨”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216306"
+        },
+        {
+          "id": "1aeededc1c28",
+          "name": "디지털데일리",
+          "title": "美 8개 주 “챗GPT 위험 행동 부추겨”… 오픈AI 상대 소송",
+          "link": "https://www.ddaily.co.kr/page/view/2026101510025880865"
+        },
+        {
+          "id": "8ea375ae46bd",
+          "name": "IT조선",
+          "title": "美 8개州, 오픈AI 상대 소송… “챗GPT, 자해·폭력 부추겨”",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172061"
+        },
+        {
+          "id": "cc4ab1b89205",
+          "name": "아이뉴스24",
+          "title": "美 8개 주, 오픈AI에 소송⋯\"챗GPT 안전성 과장\"",
+          "link": "https://www.inews24.com/view/2015164"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-b0fa1841f41c",
+      "title": "Arm, 에이전틱 AI용 CPU 성능 평가 방법론 공개",
+      "category": "반도체",
+      "published": "2026-10-15T07:27:16.000Z",
+      "points": [
+        "Arm, 에이전틱 AI용 CPU 평가 체계 공개",
+        "후지쯔, 메타, 오픈AI와 함께 개발",
+        "자사 CPU, AMD 대비 랙당 약 2배 주장"
+      ],
+      "body": [
+        "영국 반도체 설계 기업 Arm이 에이전틱 AI 시대에 맞는 CPU 성능 평가 방법론을 공개했다. Arm은 15일 이 방법론을 후지쯔, 메타, 오픈AI와 함께 개발했다고 밝혔다. 디지털투데이는 에이전트가 실제로 완료하는 작업량을 기준으로 시스템을 측정하는 방식이라고 설명했다.",
+        "성능 수치는 매체별로 조금 다르게 표현됐다. 테크월드뉴스는 Arm이 자체 설계한 Arm AGI CPU가 AMD 서버용 CPU보다 랙당 평균 1.99배의 작업 처리 성능을 냈다는 독립 검증 결과를 발표했다고 전했다. 조선비즈는 평균 2배에 가까운 성능이라고 적었고, 디일렉은 자사 칩이 AMD보다 2배 빠르다는 Arm의 주장이라고 표현했다."
+      ],
+      "sources": [
+        {
+          "id": "b0fa1841f41c",
+          "name": "조선비즈",
+          "title": "Arm “AI 에이전트용 CPU, AMD보다 랙당 성능 2배”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/OHKZIFBYCVF7DFOF4T2UB3E7OU"
+        },
+        {
+          "id": "b8508a2a21e6",
+          "name": "디일렉",
+          "title": "Arm \"에이전틱AI 용 CPU, 랙 단위로 성능 측정해야\"…자사 칩 AMD 대비 2배 주장",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63766"
+        },
+        {
+          "id": "9eb28cf4789d",
+          "name": "디지털투데이",
+          "title": "Arm, 에이전틱 AI용 CPU 벤치마킹 방법론 공개",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707299"
+        },
+        {
+          "id": "32e9703b4e61",
+          "name": "테크월드뉴스",
+          "title": "Arm, AI 에이전트용 CPU 성능 잣대 바꾼다…랙당 처리량 2배",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408230"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-edd5d174326e",
+      "title": "마인드로직, 월 5900원 개인용 AI 플랫폼 '베이즈' 출시",
+      "category": "생성형AI",
+      "published": "2026-10-15T07:16:28.365Z",
+      "points": [
+        "마인드로직, 개인용 AI 플랫폼 베이즈 출시",
+        "월 5900원에 약 80개 AI 모델 제공",
+        "대학과 공공 중심에서 개인으로 확대"
+      ],
+      "body": [
+        "AI 스타트업 마인드로직이 15일 개인용 AI 플랫폼 '베이즈(BAZE)'를 출시했다. 하나의 계정으로 약 80개 생성형 AI 모델을 쓸 수 있는 서비스다.",
+        "벤처스퀘어에 따르면 월 요금은 5900원이고, 기본 요금제에서 매달 3000크레딧이 주어진다. 크레딧을 다 쓰면 1000원당 500크레딧을 추가로 충전할 수 있다. 디지털투데이와 테크월드뉴스는 챗GPT, 클로드, 제미나이 등 주요 대규모언어모델이 포함된다고 전했다.",
+        "AI타임스는 마인드로직이 그동안 대학과 공공기관 중심의 멀티모델 AI 플랫폼 사업을 해 왔고, 이번에 일반 개인 이용자 시장으로 영역을 넓힌다고 전했다. 인공지능신문은 모델별로 따로 구독하던 비용 부담을 낮춘 서비스라고 설명했다."
+      ],
+      "sources": [
+        {
+          "id": "edd5d174326e",
+          "name": "벤처스퀘어",
+          "title": "마인드로직, 월 5900원에 AI 모델 80개 쓰는 ‘베이즈’ 출시…개인 구독 시장 진출",
+          "link": "https://www.venturesquare.net/1120178"
+        },
+        {
+          "id": "886d8fe7aafe",
+          "name": "AI타임스",
+          "title": "마인드로직, 대학·공공 넘어 개인사용자 겨냥 AI 플랫폼 '베이즈' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216285"
+        },
+        {
+          "id": "d05696f8eba0",
+          "name": "테크월드뉴스",
+          "title": "마인드로직, 개인용 AI 플랫폼 ‘베이즈’ 출시…80개 모델 통합 제공",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408253"
+        },
+        {
+          "id": "1171c45e5799",
+          "name": "인공지능신문",
+          "title": "마인드로직, AI 모델 80종 제공하는 개인용 플랫폼 ‘베이즈’ 출시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42312"
+        },
+        {
+          "id": "57e221fcfd72",
+          "name": "디지털투데이",
+          "title": "마인드로직, AI 모델 80종 통합 플랫폼 '베이즈' 출시",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707349"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-19b7b71fc6ab",
+      "title": "딥엑스 NPU, 라즈베리 파이 공식 뉴스룸에 소개",
+      "category": "반도체",
+      "published": "2026-10-15T07:13:26.000Z",
+      "points": [
+        "딥엑스 NPU, 라즈베리 파이 뉴스룸 소개",
+        "최대 25TOPS 성능에 약 3W 전력",
+        "영상 인식과 소형 언어 AI 모델 구동"
+      ],
+      "body": [
+        "국내 AI 반도체 기업 딥엑스의 신경망처리장치(NPU)가 소형 컴퓨터 플랫폼 라즈베리 파이(Raspberry Pi)의 공식 뉴스룸에 소개됐다.",
+        "벤처스퀘어에 따르면 소개된 제품은 NPU 'DX-M1M'을 탑재한 AI 가속 보드로, 최대 25TOPS의 연산 성능과 약 3W의 NPU 소비전력을 갖췄다. 영상 인식과 소형 비전 및 언어 AI 모델 구동을 지원한다. 조선비즈와 아이뉴스24도 약 3W의 낮은 소비전력으로 영상 인식과 언어 처리가 가능하다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "19b7b71fc6ab",
+          "name": "조선비즈",
+          "title": "딥엑스, 저전력 AI 반도체로 영상 인식·언어모델 구동… 라즈베리 파이서 소개",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/TTQ4KCIO4RD3LP2CZ5X7DLVI4M"
+        },
+        {
+          "id": "ca4d7ab64063",
+          "name": "벤처스퀘어",
+          "title": "딥엑스 NPU, 라즈베리 파이 공식 뉴스룸 소개…3W 전력으로 비전·언어 AI 구현",
+          "link": "https://www.venturesquare.net/1120048"
+        },
+        {
+          "id": "6f995f55bc80",
+          "name": "아이뉴스24",
+          "title": "딥엑스, 3W NPU로 라즈베리 파이서 영상·언어 AI 구현",
+          "link": "https://www.inews24.com/view/2015206"
+        },
+        {
+          "id": "9a230ba6d50e",
+          "name": "테크월드뉴스",
+          "title": "딥엑스 NPU, 3W 전력으로 비전·언어 AI 구현…라즈베리 파이 공식 소개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408212"
+        },
+        {
+          "id": "ff7a4483ab57",
+          "name": "EBN",
+          "title": "[Tech & Now] 파두, '파일 시맨틱 SSD' 첫선…딥엑스 NPU 라즈베리 파이 소개",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727902"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-e4b13f2f5aa7",
+      "title": "삼성전자, 실리콘밸리서 AI 내재형 6G 기술 공개",
+      "category": "기업",
+      "published": "2026-10-15T06:47:44.000Z",
+      "points": [
+        "삼성전자, 실리콘밸리서 통신 서밋 개최",
+        "AI와 6G 결합한 네트워크 기술 공개",
+        "7GHz 대역 데이터 전송 검증 결과 발표"
+      ],
+      "body": [
+        "삼성전자가 미국 캘리포니아주 마운틴뷰에서 '파트너 데이'와 '실리콘밸리 미래 통신 서밋 2026'을 열고 AI와 6G를 결합한 네트워크 기술을 공개했다. IT조선과 테크월드뉴스에 따르면 행사는 현지시간 14일부터 15일까지 열렸다.",
+        "조선비즈는 6G 후보 주파수인 7GHz 대역의 데이터 전송과 기지국을 활용한 주변 환경 감지 기술의 검증 결과가 공개된다고 전했다. 아이뉴스24는 파트너사와 공동 개발한 핵심 기술의 검증 결과도 공개된다고 전했다.",
+        "인더스트리뉴스는 하드웨어 중심이던 통신 인프라가 가상화와 소프트웨어 중심으로 재편되는 흐름 속에서 삼성전자가 AI 내재형 네트워크 로드맵을 발표했다고 전했다. 테크월드뉴스는 위성통신 기술도 공개 대상이라고 제목에서 밝혔다."
+      ],
+      "sources": [
+        {
+          "id": "e4b13f2f5aa7",
+          "name": "조선비즈",
+          "title": "삼성전자, 美 실리콘밸리서 AI 기반 6G 기술 공개… 7GHz 대역 통신 성능 시연",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/JAF3AXYUFBB2FM6I37PCGIBBMY"
+        },
+        {
+          "id": "58f8aca7a5ef",
+          "name": "인더스트리뉴스",
+          "title": "삼성전자, 美 실리콘밸리서 6G 청사진 제시 \"AI 내재형 네트워크로 통신 혁신 주도\"",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87570"
+        },
+        {
+          "id": "334c9b681d46",
+          "name": "IT조선",
+          "title": "삼성전자, 美서 미래 통신 서밋 개최…‘AI 내재형 6G’ 기술 공개",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172069"
+        },
+        {
+          "id": "c7e97a66540b",
+          "name": "아이뉴스24",
+          "title": "삼성전자, 실리콘밸리서 통신 서밋…AI·6G 기술 공개",
+          "link": "https://www.inews24.com/view/2015271"
+        },
+        {
+          "id": "cb4bf1480d84",
+          "name": "테크월드뉴스",
+          "title": "삼성전자, 실리콘밸리서 6G 주도권 확보 나선다…AI·위성통신 기술 공개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408209"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-277943392f3f",
+      "title": "프렌들리AI와 올라마, 11월 국내 오픈 모델 행사 연다",
+      "category": "기업",
+      "published": "2026-10-15T06:01:48.000Z",
+      "points": [
+        "프렌들리AI와 올라마, 국내 행사 공동 개최",
+        "11월 4일 경영진, 5일 개발자 대상",
+        "국내 기업 오픈 모델 도입 확산 목표"
+      ],
+      "body": [
+        "AI 추론 클라우드 기업 프렌들리AI가 오픈소스 AI 개발 플랫폼 올라마(Ollama)와 함께 국내 기업의 오픈 모델 도입을 넓히는 행사를 연다. 양사는 15일 이 계획을 밝혔다.",
+        "테크월드뉴스에 따르면 행사는 11월 4일 기업 경영진 대상 행사와 5일 개발자 밋업으로 나뉜다. 데이터넷은 올라마의 공동창업자이자 대표인 제프리 모건이 참여한다고 전했고, 아이뉴스24는 오픈 모델의 도입과 실제 활용 방안을 논의하는 자리라고 설명했다."
+      ],
+      "sources": [
+        {
+          "id": "277943392f3f",
+          "name": "디지털투데이",
+          "title": "프렌들리AI·올라마, 한국 기업 오픈 모델 도입 확산 맞손",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707448"
+        },
+        {
+          "id": "120c99248500",
+          "name": "테크월드뉴스",
+          "title": "프렌들리AI-올라마, 국내 오픈 모델 도입 확대 ‘맞손’",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408256"
+        },
+        {
+          "id": "bc448bcf2a5a",
+          "name": "데이터넷",
+          "title": "프렌들리AI·올라마, 국내 기업 오픈 모델 도입 확산 앞장",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215114"
+        },
+        {
+          "id": "1ffd76823d3d",
+          "name": "아이뉴스24",
+          "title": "프렌들리AI, 올라마와 한국 기업 오픈 모델 도입 논의",
+          "link": "https://www.inews24.com/view/2015234"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-9942c46d3a26",
+      "title": "카카오, 자율 AI 에이전트 대응 윤리 원칙과 이행 가이드 공개",
+      "category": "보안/윤리",
+      "published": "2026-10-15T05:55:52.000Z",
+      "points": [
+        "카카오, AI 윤리 원칙과 이행 가이드 마련",
+        "서비스 기획부터 운영까지 적용",
+        "인공지능안전연구소와 안전성 검증 협력"
+      ],
+      "body": [
+        "카카오가 스스로 과업을 수행하는 자율 AI 에이전트가 늘어나는 데 대응해 AI 윤리 원칙과 이행 가이드를 마련했다. 카카오는 15일 이 내용을 밝혔다. 원칙은 AI 서비스의 기획부터 운영까지 적용되며, 첫 항목은 안전(Safety)이다.",
+        "공개 시점은 매체별로 다르게 전해졌다. EBN, 테크월드뉴스는 지난 13일 카카오 AI 캠퍼스에서 열린 개발자 컨퍼런스 '이프 카카오(if(kakao)26)'에서 공개됐다고 전했고, IT조선은 15일 경기도 용인 카카오AI캠퍼스에서 열린 행사라고 적었다.",
+        "테크M은 카카오가 인공지능안전연구소와 협력해 안전성 검증을 강화한다고 전했다. IT조선은 원칙의 이름이 '스피릿'이며 연내 현장에 적용할 계획이라고 보도했다."
+      ],
+      "sources": [
+        {
+          "id": "9942c46d3a26",
+          "name": "EBN",
+          "title": "[Digital & Now] 카카오, 자율 AI 에이전트 대응 윤리 원칙·이행 가이드 마련",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727988"
+        },
+        {
+          "id": "2f778f9ea358",
+          "name": "테크월드뉴스",
+          "title": "카카오, 자율 에이전트 시대 ‘AI 윤리 원칙’ 공개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408255"
+        },
+        {
+          "id": "1d9e5772666a",
+          "name": "테크M",
+          "title": "카카오, AI 에이전트 '안전망' 구축...윤리 원칙 수립·안전성 검증 강화",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156121"
+        },
+        {
+          "id": "001fc98047d2",
+          "name": "아이뉴스24",
+          "title": "스스로 과업 수행하는 AI 확산 대응⋯카카오, AI 윤리 원칙·이행 가이드 공개",
+          "link": "https://www.inews24.com/view/2015289"
+        },
+        {
+          "id": "3ffb27012b0e",
+          "name": "IT조선",
+          "title": "카카오, 자율 AI 위험 관리 윤리 원칙 ‘스피릿’ 공개… 연내 현장 적용",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172068"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-01f6cbcd902e",
+      "title": "델 테크놀로지스, 'AI 데이터 플랫폼' 기능 확대",
+      "category": "기업",
+      "published": "2026-10-15T04:13:40.000Z",
+      "points": [
+        "델, AI 데이터 플랫폼 기능 확대",
+        "데이터에 일관된 의미와 맥락 부여",
+        "AI 에이전트에 최신 컨텍스트 제공"
+      ],
+      "body": [
+        "델 테크놀로지스가 '델 AI 데이터 플랫폼(Dell AI Data Platform)'의 기능을 확대한다고 15일 밝혔다. 기업이 보유한 데이터에서 신뢰할 수 있는 최신 컨텍스트를 확보해 애플리케이션과 AI 에이전트에 제공하는 데 초점을 맞췄다.",
+        "보안뉴스는 기업 내부에 흩어진 데이터에 일관된 의미와 맥락을 부여하는 것이 이번 확장의 핵심이라고 전했다. 테크월드뉴스는 통합 시맨틱 계층과 엔터프라이즈 지식 그래프를 내세웠다고 전했고, 데이터넷도 지식 그래프와 에이전트 기능 강화를 제목에 올렸다."
+      ],
+      "sources": [
+        {
+          "id": "01f6cbcd902e",
+          "name": "보안뉴스",
+          "title": "델 테크놀로지스, AI 데이터 플랫폼 강화... AI 에이전트 활용 지원",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146406"
+        },
+        {
+          "id": "dd37b9db3105",
+          "name": "베타뉴스",
+          "title": "델 테크놀로지스, 데이터에 신뢰할 수 있는 컨텍스트 더해 AI 에이전트 활용성 높여",
+          "link": "https://www.betanews.net/article/view/beta202610150070"
+        },
+        {
+          "id": "3fbf523b25e1",
+          "name": "테크월드뉴스",
+          "title": "델, ‘AI 데이터 플랫폼’ 고도화…에이전트 활용성 높인다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408227"
+        },
+        {
+          "id": "5467ac941e8d",
+          "name": "데이터넷",
+          "title": "델, AI 데이터 플랫폼 고도화 ··· 지식 그래프·에이전트 기능 강화",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215103"
+        },
+        {
+          "id": "641baf2c991e",
+          "name": "디지털투데이",
+          "title": "델 테크놀로지스, AI 데이터 플랫폼 확장...AI 에이전트에 데이터 맥락 제공",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707237"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261015-1150e24b6f2c",
+      "title": "마키나락스, 118억 원 규모 열간단조 AI 국책과제 참여",
+      "category": "기업",
+      "published": "2026-10-15T00:46:10.000Z",
+      "points": [
+        "마키나락스, 118억 원 산업부 R&D 참여",
+        "자동차 부품 열간단조 공정 AI 자율화",
+        "세일단조 주관, 2029년 12월까지"
+      ],
+      "body": [
+        "피지컬 AI 기업 마키나락스가 자동차 부품 열간단조의 금형 설계와 생산 공정을 AI로 자율화하는 산업부 연구개발 과제에 참여한다. 총사업비는 118억 원이다. 아이뉴스24는 마키나락스가 14일 이 사실을 밝혔다고 전했다.",
+        "벤처스퀘어에 따르면 세일단조가 주관하는 이 과제는 금형 설계 자동 보정과 자율생산 시스템 개발이 목표이며, 마키나락스는 공동연구개발기관으로 참여한다. 디일렉은 사업 기간이 2029년 12월까지라고 전했다.",
+        "부처 이름은 매체마다 달랐다. 철강금속신문과 로봇신문은 산업통상부로, 벤처스퀘어는 산업통상자원부 '기계장비산업기술개발사업'으로 적었다."
+      ],
+      "sources": [
+        {
+          "id": "1150e24b6f2c",
+          "name": "철강금속신문",
+          "title": "마키나락스, AI 기반 단조 자율생산 시스템 개발 추진",
+          "link": "http://www.snmnews.com/news/articleView.html?idxno=575900"
+        },
+        {
+          "id": "132f1a150e9d",
+          "name": "벤처스퀘어",
+          "title": "마키나락스, 118억원 규모 산업부 R&D 참여…AI로 자동차 부품 금형 설계부터 생산까지 자율화",
+          "link": "https://www.venturesquare.net/1119837"
+        },
+        {
+          "id": "3368272c9407",
+          "name": "로봇신문",
+          "title": "마키나락스, 118억원 규모 산업부 R&D 국책과제 참여",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=48995"
+        },
+        {
+          "id": "f946baf5b3b2",
+          "name": "디일렉",
+          "title": "마키나락스, 118억 규모 산업부 과제 참여…열간단조 자율생산 개발",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63715"
+        },
+        {
+          "id": "b22fcfa29114",
+          "name": "아이뉴스24",
+          "title": "마키나락스, 118억 열간단조 AI 국책과제 참여",
+          "link": "https://www.inews24.com/view/2014967"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "b20261014",
       "type": "briefing",
       "title": "10월 14일 AI 브리핑: 구글 아르곤 정식 출시, LG전자와 애플의 AI홈 기기",

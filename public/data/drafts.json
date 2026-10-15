@@ -1317,6 +1317,318 @@
       "author": "Ashley Yang",
       "draft": true,
       "drafted": "2026-10-14T09:41:02.538Z"
+    },
+    {
+      "id": "h20261015-ac48b99b4e72",
+      "title": "삼성전자, 하노이서 동남아 맞춤 AI 가전과 공조 공개",
+      "category": "기업",
+      "points": [
+        "삼성전자, 하노이서 동남아 테크세미나",
+        "현지 맞춤 AI 가전과 B2B 공조 공개",
+        "동남아 B2B 매출 올해 20% 이상 증가"
+      ],
+      "body": [
+        "삼성전자가 14일 베트남 하노이에서 동남아 가전 테크세미나 '더 브리프(The Brief)'를 열고 현지 사용자의 생활 방식에 맞춘 인공지능(AI) 가전과 기업간거래(B2B) 공조 솔루션을 선보였다. 디지털데일리와 디지털투데이는 삼성전자가 15일 이 내용을 밝혔다고 전했다.",
+        "행사 장소는 지난 8월 문을 연 하노이 PVI 타워 안 삼성 '비즈니스 익스피리언스 스튜디오(BES)'다. 아이뉴스24는 냉장고의 식재료 관리 같은 가정용 기능부터 대형 건물의 냉방과 에너지 관리까지 가정과 사업장에서 쓸 수 있는 제품과 서비스가 소개됐다고 전했다.",
+        "조선비즈는 삼성전자의 동남아와 오세아니아 지역 B2B 매출이 올해 20% 이상 성장했고, 공조 사업 안에서 B2B 매출이 차지하는 비중도 50%를 넘어섰다고 보도했다. 아이뉴스24도 제목에서 B2B 매출이 20% 이상 늘었다고 밝혔다.",
+        "매체마다 무게를 둔 지점은 달랐다. 조선비즈와 아이뉴스24는 B2B 매출 성장과 공조 사업을 앞세웠고, 베타뉴스와 IT조선은 현지 맞춤형 AI 가전과 공조 솔루션 전시를 중심으로 행사를 전했다."
+      ],
+      "sources": [
+        {
+          "id": "ac48b99b4e72",
+          "name": "조선비즈",
+          "title": "삼성전자, 동남아 AI 가전·공조 시장 공략…B2B 매출 20% 이상 성장",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/MO357U3CC5DPDHJFGV2WXI63KI"
+        },
+        {
+          "id": "96c3f459980d",
+          "name": "베타뉴스",
+          "title": "삼성전자, 동남아 가전 테크세미나 개최…맞춤형 AI 가전·통합 공조 솔루션 전시",
+          "link": "https://www.betanews.net/article/view/beta202610150081"
+        },
+        {
+          "id": "0bd70a0b17d3",
+          "name": "IT조선",
+          "title": "삼성, 베트남서 동남아 맞춤 AI 가전·공조 솔루션 선봬",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172073"
+        },
+        {
+          "id": "25036d300d69",
+          "name": "아이뉴스24",
+          "title": "삼성전자, 동남아 AI 가전·공조 공략…\"B2B 매출 20% 이상 증가\"",
+          "link": "https://www.inews24.com/view/2015263"
+        },
+        {
+          "id": "f4d4b919e9ab",
+          "name": "테크월드뉴스",
+          "title": "삼성전자, 동남아 AI 가전 공략…맞춤형 AI 홈·공조 솔루션 공개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408213"
+        },
+        {
+          "id": "2aa5739bf75c",
+          "name": "디지털데일리",
+          "title": "삼성전자, 동남아 테크세미나 개최…현지 맞춤 AI 가전·B2B 공조 솔루션 공개",
+          "link": "https://www.ddaily.co.kr/page/view/2026101509160472320"
+        },
+        {
+          "id": "4c64d215c9b0",
+          "name": "디지털투데이",
+          "title": "삼성전자, 동남아 가전 테크세미나 개최…AI 홈·공조 선보여",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707264"
+        },
+        {
+          "id": "2a4fddf88da2",
+          "name": "한국NGO신문",
+          "title": "삼성전자, 베트남서 동남아 가전 테크세미나…AI 가전·공조 솔루션 공개",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240576"
+        },
+        {
+          "id": "6504c6d60aea",
+          "name": "삼성전자 뉴스룸",
+          "title": "삼성전자, 동남아 가전 테크세미나 개최… 맞춤형 AI 가전·통합 공조 솔루션 선보여",
+          "link": "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%8f%99%eb%82%a8%ec%95%84-%ea%b0%80%ec%a0%84-%ed%85%8c%ed%81%ac%ec%84%b8%eb%af%b8%eb%82%98-%ea%b0%9c%ec%b5%9c-%eb%a7%9e%ec%b6%a4%ed%98%95-ai-%ea%b0%80"
+        },
+        {
+          "id": "c4422461a670",
+          "name": "인공지능신문",
+          "title": "삼성전자, 동남아 AI 가전·공조 시장 공략…식재료 인식부터 건물 통합 제어까지",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42307"
+        },
+        {
+          "id": "29dde783f6a7",
+          "name": "EBN",
+          "title": "삼성전자, 동남아 가전 테크세미나…맞춤형 AI 가전·B2B 솔루션 공개",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727890"
+        }
+      ],
+      "author": "Haley Yun",
+      "draft": true,
+      "drafted": "2026-10-15T09:40:40.401Z"
+    },
+    {
+      "id": "h20261015-8e412f95b2e5",
+      "title": "브이엔티지, 한국마이크로소프트와 제조 AX 협약",
+      "category": "기업",
+      "points": [
+        "VNTG, 한국마이크로소프트와 MOU 체결",
+        "진단부터 구축 운영까지 AX 실행 체계",
+        "VNTG는 현장, MS는 기술과 생태계 지원"
+      ],
+      "body": [
+        "제조기업 AI 전환(AX) 전문 기업 브이엔티지(VNTG)가 한국마이크로소프트와 손잡고 제조기업의 AX 실행 체계를 함께 만든다. 두 회사는 14일 서울 마포구 세아타워에서 '제조기업 AX 전환의 엔드투엔드(End-to-End) 실행 체계 구축'을 위한 업무협약(MOU)을 맺었다고 스타트업투데이와 AI타임스가 전했다.",
+        "역할 분담은 디지털투데이가 설명했다. VNTG가 현장 실행을 맡고, 한국마이크로소프트는 필요한 기술 역량 개발과 파트너 생태계 확보를 지원하는 구조다. IT조선은 마이크로소프트의 AI와 클라우드 기술에 VNTG의 제조 현장 구축과 운영 경험을 결합해 현장 적용부터 운영, 사업화까지 잇는 협력 체계라고 전했다.",
+        "로봇신문은 VNTG를 AX를 진단부터 설계, 구축, 운영까지 직접 수행해 온 기업으로 소개했고, 철강금속신문은 세아그룹 계열사라고 밝혔다. 디지털투데이와 스타트업투데이는 이 내용이 15일 발표됐다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "8e412f95b2e5",
+          "name": "테크월드뉴스",
+          "title": "브이엔티지-한국마이크로소프트, 제조 AX 협력…현장 적용·사업화 추진",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408279"
+        },
+        {
+          "id": "992c1af80ead",
+          "name": "디지털투데이",
+          "title": "VNTG, 한국마이크로소프트와 제조 AX 협력",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707446"
+        },
+        {
+          "id": "e01b9fe6462f",
+          "name": "로봇신문",
+          "title": "VNTG, 한국MS와 제조 AX 협력…현장 적용부터 사업화까지 함께 추진",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49007"
+        },
+        {
+          "id": "09c77e1997f9",
+          "name": "스타트업투데이",
+          "title": "VNTG, ‘한국마이크로소프트’와 제조 AX 협력∙∙∙현장 적용∙운영까지 지원",
+          "link": "https://www.startuptoday.kr/news/articleView.html?idxno=53238"
+        },
+        {
+          "id": "d38b1ff57509",
+          "name": "AI타임스",
+          "title": "VNTG·한국MS, 제조 현장 AI 전환 실행 체계 공동 구축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216281"
+        },
+        {
+          "id": "89c35e807c19",
+          "name": "IT조선",
+          "title": "VNTG, 한국MS와 제조업 AI 전환 사업 협력",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172086"
+        },
+        {
+          "id": "fb966ae1f584",
+          "name": "철강금속신문",
+          "title": "VNTG, 한국마이크로소프트와 제조 AX 협력…현장 적용부터 사업화까지 추진",
+          "link": "http://www.snmnews.com/news/articleView.html?idxno=575908"
+        }
+      ],
+      "author": "Chloe Park",
+      "draft": true,
+      "drafted": "2026-10-15T09:40:40.401Z"
+    },
+    {
+      "id": "h20261015-a4817dc3a018",
+      "title": "제논, AI 에이전트 포털 '제나' 정식 출시",
+      "category": "생성형AI",
+      "points": [
+        "제논, AI 에이전트 포털 제나 정식 출시",
+        "안드로이드 앱 먼저, iOS는 10월 중",
+        "AI 에이전트 6종을 앱 하나로 제공"
+      ],
+      "body": [
+        "생성형 AI 솔루션 기업 제논이 AI 에이전트 통합 포털 '제나(GenA)'를 정식 서비스로 전환하고 안드로이드 앱을 내놓았다. 제논은 15일 이 사실을 밝혔다고 헬로티, 테크월드뉴스, 아이뉴스24 등이 전했다. 제나는 지난 5월 베타 서비스를 시작했다.",
+        "디지털데일리는 제나로 자료 조사부터 회의록 정리, 공공 정책 확인까지 AI 에이전트 6종을 스마트폰 앱 하나로 쓸 수 있게 됐다고 설명했다. 아이뉴스24는 제나를 업무와 일상에 필요한 다양한 AI 에이전트를 한 곳에서 이용하는 서비스라고 소개했다.",
+        "아이폰용 iOS 앱 출시 시점은 아이뉴스24가 10월 중이라고 전했다. 매체별로 강조점은 갈렸다. 헬로티는 모바일 서비스 확대를, 디지털데일리는 에이전트 6종을 앱 하나로 묶었다는 점을 제목에 올렸다."
+      ],
+      "sources": [
+        {
+          "id": "a4817dc3a018",
+          "name": "헬로티",
+          "title": "제논, AI 에이전트 통합 포털 ‘제나’ 정식 출시...모바일 서비스 확대",
+          "link": "https://www.hellot.net/news/article.html?no=115506"
+        },
+        {
+          "id": "197d1c1e79bf",
+          "name": "디지털데일리",
+          "title": "AI 에이전트 6종, 앱 하나로… 제논, ‘제나’ 출시",
+          "link": "https://www.ddaily.co.kr/page/view/2026101514533064106"
+        },
+        {
+          "id": "2ab12e8f7c72",
+          "name": "테크월드뉴스",
+          "title": "제논, AI 에이전트 통합 포털 ‘제나’ 정식 출시",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408248"
+        },
+        {
+          "id": "6c3583dc7e26",
+          "name": "EBN",
+          "title": "[Tech & Now] 한컴, 발란사 협업 패키지…제논, AI 포털 '제나' 정식 출시",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727944"
+        },
+        {
+          "id": "082c369f9c1b",
+          "name": "아이뉴스24",
+          "title": "제논, AI 에이전트 통합 포털 '제나(GenA)' 정식 출시",
+          "link": "https://www.inews24.com/view/2015210"
+        },
+        {
+          "id": "1ad5f51cfb15",
+          "name": "디지털투데이",
+          "title": "제논, AI 에이전트 통합 포털 '제나' 정식 출시",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707262"
+        }
+      ],
+      "author": "Ethan Chen",
+      "draft": true,
+      "drafted": "2026-10-15T09:40:40.401Z"
+    },
+    {
+      "id": "h20261015-e5d2b0d88703",
+      "title": "오픈AI, 22일 서울서 개발자 행사 개최",
+      "category": "기업",
+      "points": [
+        "오픈AI 데브데이 익스체인지 서울 개최",
+        "22일 강남구, 개발자와 창업자 대상",
+        "오픈AI 엔지니어 참여해 개발 경험 공유"
+      ],
+      "body": [
+        "오픈AI가 오는 22일 서울 강남구에서 개발자 행사 '오픈AI 데브데이 익스체인지: 서울'을 연다. 오픈AI는 15일 이 행사를 밝혔고, 조선비즈, 디지털투데이, 베타뉴스 등이 대상을 국내 개발자와 기술 창업자라고 전했다.",
+        "베타뉴스는 이 행사를 미국에서 열리는 연례 개발자 행사 '데브데이'와 이어진 자리로 소개하면서, 국내 개발자와 기술 창업자, 오픈AI 엔지니어 등이 AI 기술 개발과 활용 경험을 나누는 자리라고 전했다. 디지털데일리는 미국에서 공개한 최신 개발 도구를 서울 개발자들이 직접 보고 묻는 자리가 열린다고 표현했다.",
+        "AI타임스는 오픈AI 코리아가 행사를 연다고 전하며, 앨버트 입 오픈AI 아태 테크니컬 석세스 총괄이 기조연설에 나선다고 밝혔다. 같은 보도에서 AI 에이전트 개발, 코덱스 보안, 실시간 음성과 이미지 생성 등이 행사 주제로 거론됐다."
+      ],
+      "sources": [
+        {
+          "id": "e5d2b0d88703",
+          "name": "AI타임스",
+          "title": "[게시판] 오픈AI 코리아, '데브데이 익스체인지: 서울' 개최 등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216298"
+        },
+        {
+          "id": "daaaf413224f",
+          "name": "테크월드뉴스",
+          "title": "오픈AI, 22일 서울서 ‘데브데이 익스체인지’ 개최한다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408257"
+        },
+        {
+          "id": "ebdd75a78cb0",
+          "name": "베타뉴스",
+          "title": "오픈AI 엔지니어 서울 온다…'데브데이 익스체인지' 22일 강남서 개최",
+          "link": "https://www.betanews.net/article/view/beta202610150065"
+        },
+        {
+          "id": "606c54b379ba",
+          "name": "조선비즈",
+          "title": "오픈AI, 서울서 개발자 행사 ‘데브데이’ 개최… 최신 AI 기술 공유",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/MLJMJDLNABE4FFDAZ5Y75YIOLQ"
+        },
+        {
+          "id": "c18ee9d20479",
+          "name": "디지털투데이",
+          "title": "오픈AI, 22일 서울서 개발자 행사 '데브데이 익스체인지' 개최",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707341"
+        },
+        {
+          "id": "aca0d32bb92a",
+          "name": "디지털데일리",
+          "title": "오픈AI 기술진, 서울 개발자 만난다",
+          "link": "https://www.ddaily.co.kr/page/view/2026101510133553104"
+        }
+      ],
+      "author": "Ashley Yang",
+      "draft": true,
+      "drafted": "2026-10-15T09:40:40.401Z"
+    },
+    {
+      "id": "h20261015-88573136933f",
+      "title": "베슬AI, 2030년까지 GPU 20만 장 확보 추진",
+      "category": "기업",
+      "points": [
+        "베슬AI, 2030년까지 GPU 20만 장 확보",
+        "2028년까지 전국 8개 데이터센터 거점",
+        "올해 1만 장, 2027년 5만 장 목표"
+      ],
+      "body": [
+        "AI 인프라 기업 베슬AI가 네오클라우드 기업으로의 전환을 선언하고, 2030년까지 그래픽처리장치(GPU) 20만 장을 단계적으로 확보하겠다고 밝혔다. 조선비즈와 벤처스퀘어는 회사가 '2026 네오클라우드 전략 발표회'에서 이 계획을 공개했다고 전했다.",
+        "벤처스퀘어에 따르면 베슬AI는 2028년까지 전국 8개 AI 데이터센터 거점을 마련하고, 올해 1만 장, 2027년 5만 장으로 GPU 확보 규모를 늘릴 계획이다. 디지털데일리는 20만 장 가운데 직접 구축 물량을 15만 장으로 전했고, 2027년 5만 장 목표에 고객 수요가 3만 장 이상이며 해외 비중은 70~80%라고 보도했다.",
+        "자금과 전력 계획은 디지털데일리가 전했다. GPU 파이낸싱 4000억 원을 추진하고, 2028년까지 데이터센터 500MW를 확보할 계획이다. 블로터는 GPU와 국산 신경망처리장치(NPU)를 함께 운영하는 'AI 팩토리' 구축을 목표로 한다고 전했다.",
+        "회사 이름은 매체마다 표기가 달랐다. 테크월드뉴스는 '베슬에이아이(VESSL AI)'로 적었고, 나머지 매체는 베슬AI로 적었다."
+      ],
+      "sources": [
+        {
+          "id": "88573136933f",
+          "name": "벤처스퀘어",
+          "title": "베슬AI, 2030년까지 GPU 20만 장 확보 추진…AI 데이터센터 8곳 구축 로드맵 공개",
+          "link": "https://www.venturesquare.net/1120235"
+        },
+        {
+          "id": "f83d8cd48f7d",
+          "name": "조선비즈",
+          "title": "베슬AI “2030년까지 GPU 20만장 확보”…네오클라우드 전환 선언",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/15/TZ3TPGOO7JDWHPPBC73TVG2AUI"
+        },
+        {
+          "id": "47b87ba45f64",
+          "name": "블로터",
+          "title": "베슬AI \"GPU 20만장 확보 추진...AI팩토리 구축 목표\"",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675781"
+        },
+        {
+          "id": "e7503b94462d",
+          "name": "테크월드뉴스",
+          "title": "베슬에이아이, 2030년 GPU 20만 장 확보 추진…글로벌 네오클라우드 공략",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408261"
+        },
+        {
+          "id": "3010406f3bc6",
+          "name": "디지털데일리",
+          "title": "베슬AI, 2030년 GPU 20만장 확보…직접 구축 15만장 추진",
+          "link": "https://www.ddaily.co.kr/page/view/2026101513111308429"
+        }
+      ],
+      "author": "Kevin Wong",
+      "draft": true,
+      "drafted": "2026-10-15T09:40:40.401Z"
     }
   ]
 }
