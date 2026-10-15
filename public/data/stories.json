@@ -127,7 +127,23 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101513111308429"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 15 AI Briefing: KOSPI Plunges, OpenAI Faces Lawsuit and Eavesdropping Case",
+        "points": [
+          "KOSPI plunges on US inflation and AI worries",
+          "OpenAI faces state lawsuit; employee arrested over eavesdropping",
+          "Google's new model and AI infrastructure partnerships follow"
+        ],
+        "body": [
+          "The KOSPI fell sharply on Oct. 15 amid US inflation data and concerns over AI investment. According to Chosun Biz, the KOSPI opened at 5,673.01, down 5.59% from the previous session, and a sell-side sidecar was triggered. The outlet later reported that the drop widened past 7.5%, sending the KOSPI to the 5,500 level and the KOSDAQ to the 760 level. iNews24 explained that the US consumer price index for September, released overnight, came in above market expectations and AI investment worries resurfaced.",
+          "Legal issues piled up for OpenAI. Citing Reuters, iNews24 reported that eight US state governments sued OpenAI on Oct. 14 (local time), alleging it overstated ChatGPT's safety and neglected the protection of minors. Separately, citing The Wall Street Journal, Digital Today reported that the US Department of Justice indicted an employee on OpenAI's product team on charges of hiding a listening device in an executive meeting room, and Boannews reported that OpenAI said it found a hidden recording device in one of its offices.",
+          "Google released Gemini 4 Argon. VentureSquare reported that the model, specialized for professional work such as coding, finance, law, cybersecurity and scientific research, will roll out worldwide in stages, while Chosun Biz reported that it ranked first in an independent AI model evaluation shortly after launch. AI Times reported that Google also released, on Oct. 13 (local time), a robotics version that reasons about the laws of physics and 3D space.",
+          "LG Electronics unveiled seven smart-home Internet of Things devices, co-developed with Apple, in New York on Oct. 13 (local time). According to TheElec, the new products are an indoor camera, two outdoor cameras, a doorbell, a door lock, a thermostat and a temperature sensor, and they will launch first in the US, Canada and the UK later this year.",
+          "News of corporate partnerships continued. LG CNS signed a memorandum of understanding on Oct. 14 with Japanese telecom company KDDI to cooperate on AX and DX businesses in the Asia-Pacific region. KT launched an 'AI dedicated line' on Oct. 14 that supports bandwidth of up to 800 Gbps. Digital Daily noted that bandwidth on existing dedicated lines was around 100 Gbps.",
+          "Plans for AI infrastructure investment also emerged. Chosun Biz reported that Vessl AI said it will secure 200,000 GPUs by 2030, and VentureSquare reported that it plans to set up eight AI data center hubs nationwide by 2028. Digital Daily put the portion it will build directly at 150,000 GPUs."
+        ]
+      }
     },
     {
       "id": "s20261015-b95a9d5a587a",
@@ -169,7 +185,19 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215108"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Fortinet Korea to Hold Online 'SASE Summit Korea' on the 20th",
+        "points": [
+          "Fortinet Korea to hold SASE Summit on the 20th",
+          "Introduces responses to network separation and cloud regulations",
+          "Also covers security solutions for generative AI"
+        ],
+        "body": [
+          "Fortinet Korea said on Oct. 15 that it will hold the '2026 SASE Summit Korea' online on Oct. 20. According to Digital Today, the event will run from 2 p.m. to 4 p.m., and the keynote will be delivered by Gartner Senior Director Charanpal Bhogal.",
+          "Bloter reported that the event will cover security measures responding to Korea's network separation and cloud regulatory environment and the spread of generative AI. Datanet reported that it will introduce ways to secure control over data and policy in line with the regulatory environment, and ways to operate AI and agent environments safely."
+        ]
+      }
     },
     {
       "id": "s20261015-3fb8f4179f8f",
@@ -211,7 +239,19 @@
           "link": "https://www.inews24.com/view/2015164"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Eight US States Sue OpenAI, Saying ChatGPT Encouraged Self-Harm",
+        "points": [
+          "Eight US states file lawsuit against OpenAI",
+          "Allege ChatGPT encouraged self-harm and violence",
+          "Cite overstated safety and inadequate user protection"
+        ],
+        "body": [
+          "Eight US state governments have sued OpenAI, alleging that ChatGPT encouraged self-harm and violence among users, including minors. iNews24 reported this on Oct. 14 (local time), citing Reuters. Iowa, Kansas and Arizona were among the participants.",
+          "IT Chosun described the core of the suit as the claim that OpenAI misled consumers by overstating ChatGPT's safety and did not put sufficient user protections in place. AI Times reported that it is the largest joint legal action by state governments targeting an AI company."
+        ]
+      }
     },
     {
       "id": "s20261015-b0fa1841f41c",
@@ -253,7 +293,19 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408230"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Arm Unveils Methodology for Evaluating CPU Performance for Agentic AI",
+        "points": [
+          "Arm unveils CPU evaluation framework for agentic AI",
+          "Developed with Fujitsu, Meta and OpenAI",
+          "Claims its CPU delivers about twice the per-rack performance of AMD"
+        ],
+        "body": [
+          "British chip design company Arm has unveiled a methodology for evaluating CPU performance suited to the age of agentic AI. Arm said on Oct. 15 that it developed the methodology together with Fujitsu, Meta and OpenAI. Digital Today explained that it measures systems by the amount of work agents actually complete.",
+          "The performance figures were described slightly differently by each outlet. Techworld News reported that Arm announced an independent verification result showing its in-house Arm AGI CPU processed an average of 1.99 times more work per rack than AMD server CPUs. Chosun Biz wrote that performance was nearly double on average, and TheElec described it as Arm's claim that its chip is twice as fast as AMD's."
+        ]
+      }
     },
     {
       "id": "s20261015-edd5d174326e",
@@ -302,7 +354,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707349"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Mindlogic Launches 'BAZE,' a 5,900-Won-a-Month Personal AI Platform",
+        "points": [
+          "Mindlogic launches personal AI platform BAZE",
+          "About 80 AI models for 5,900 won a month",
+          "Expands from universities and public sector to individuals"
+        ],
+        "body": [
+          "AI startup Mindlogic launched the personal AI platform 'BAZE' on Oct. 15. The service lets users access about 80 generative AI models with a single account.",
+          "According to VentureSquare, the monthly fee is 5,900 won, and the basic plan comes with 3,000 credits each month. Once the credits run out, users can top up 500 credits for every 1,000 won. Digital Today and Techworld News reported that major large language models such as ChatGPT, Claude and Gemini are included.",
+          "AI Times reported that Mindlogic had been running a multi-model AI platform business centered on universities and public institutions and is now expanding into the market for individual users. AI Newspaper (인공지능신문) described it as a service that lowers the cost burden of subscribing to each model separately."
+        ]
+      }
     },
     {
       "id": "s20261015-19b7b71fc6ab",
@@ -350,7 +415,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727902"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "DeepX NPU Featured on Raspberry Pi's Official Newsroom",
+        "points": [
+          "DeepX NPU featured on Raspberry Pi newsroom",
+          "Up to 25 TOPS at about 3 W of power",
+          "Runs video recognition and small language AI models"
+        ],
+        "body": [
+          "The neural processing unit (NPU) of Korean AI chip company DeepX has been featured on the official newsroom of the compact computer platform Raspberry Pi.",
+          "According to VentureSquare, the featured product is an AI acceleration board equipped with the 'DX-M1M' NPU, offering up to 25 TOPS of compute and NPU power consumption of about 3 W. It supports video recognition and running small vision and language AI models. Chosun Biz and iNews24 also reported that video recognition and language processing are possible at the low power consumption of about 3 W."
+        ]
+      }
     },
     {
       "id": "s20261015-e4b13f2f5aa7",
@@ -399,7 +476,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408209"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Samsung Electronics Unveils AI-Native 6G Technology in Silicon Valley",
+        "points": [
+          "Samsung holds telecom summit in Silicon Valley",
+          "Unveils network technology combining AI and 6G",
+          "Announces verification results for data transmission in 7 GHz band"
+        ],
+        "body": [
+          "Samsung Electronics held 'Partner Day' and the 'Silicon Valley Future Telecom Summit 2026' in Mountain View, California, and unveiled network technology that combines AI and 6G. According to IT Chosun and Techworld News, the event ran from Oct. 14 to 15 local time.",
+          "Chosun Biz reported that verification results will be presented for data transmission in the 7 GHz band, a candidate frequency for 6G, and for technology that senses the surrounding environment using base stations. iNews24 reported that verification results for core technologies developed jointly with partners will also be presented.",
+          "Industry News (인더스트리뉴스) reported that Samsung announced an AI-native network roadmap as telecom infrastructure, once hardware-centered, shifts toward virtualization and software. Techworld News said in its headline that satellite communication technology is also among the items on display."
+        ]
+      }
     },
     {
       "id": "s20261015-277943392f3f",
@@ -441,7 +531,19 @@
           "link": "https://www.inews24.com/view/2015234"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "FriendliAI and Ollama to Hold Open Model Events in Korea in November",
+        "points": [
+          "FriendliAI and Ollama to co-host Korean events",
+          "Nov. 4 for executives, Nov. 5 for developers",
+          "Aim to spread open model adoption among Korean companies"
+        ],
+        "body": [
+          "AI inference cloud company FriendliAI is holding events with open-source AI development platform Ollama to broaden the adoption of open models among Korean companies. The two companies announced the plan on Oct. 15.",
+          "According to Techworld News, the events are split into one for corporate executives on Nov. 4 and a developer meetup on Nov. 5. Datanet reported that Ollama co-founder and CEO Jeffrey Morgan will take part, and iNews24 described the events as a forum to discuss adopting open models and practical ways to use them."
+        ]
+      }
     },
     {
       "id": "s20261015-9942c46d3a26",
@@ -490,7 +592,20 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172068"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao Releases Ethics Principles and Implementation Guide for Autonomous AI Agents",
+        "points": [
+          "Kakao prepares AI ethics principles and implementation guide",
+          "Applies from service planning through operation",
+          "Works with AI Safety Institute on safety verification"
+        ],
+        "body": [
+          "Kakao has prepared AI ethics principles and an implementation guide in response to the growing number of autonomous AI agents that carry out tasks on their own. Kakao announced this on Oct. 15. The principles apply from the planning of AI services through their operation, and the first item is safety.",
+          "Outlets reported the release date differently. EBN and Techworld News said the principles were unveiled on Oct. 13 at the developer conference 'if(kakao)26' held at Kakao AI Campus, while IT Chosun described it as an event held at Kakao AI Campus in Yongin, Gyeonggi Province, on Oct. 15.",
+          "TechM reported that Kakao will strengthen safety verification in cooperation with the AI Safety Institute. IT Chosun reported that the principles are named 'Spirit' and that Kakao plans to apply them in the field within this year."
+        ]
+      }
     },
     {
       "id": "s20261015-01f6cbcd902e",
@@ -538,7 +653,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707237"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Dell Technologies Expands 'AI Data Platform' Capabilities",
+        "points": [
+          "Dell expands AI Data Platform capabilities",
+          "Gives data consistent meaning and context",
+          "Supplies up-to-date context to AI agents"
+        ],
+        "body": [
+          "Dell Technologies said on Oct. 15 that it is expanding the capabilities of the Dell AI Data Platform. The focus is on obtaining reliable, up-to-date context from data a company holds and supplying it to applications and AI agents.",
+          "Boannews reported that the core of the expansion is giving consistent meaning and context to data scattered across a company. Techworld News said Dell is highlighting a unified semantic layer and an enterprise knowledge graph, and Datanet also put knowledge graphs and stronger agent capabilities in its headline."
+        ]
+      }
     },
     {
       "id": "s20261015-1150e24b6f2c",
@@ -587,7 +714,20 @@
           "link": "https://www.inews24.com/view/2014967"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "MakinaRocks Joins 11.8 Billion Won Hot Forging AI National Project",
+        "points": [
+          "MakinaRocks joins 11.8 billion won industry ministry R&D project",
+          "AI autonomy for automotive hot forging process",
+          "Led by Saeil Forging, through December 2029"
+        ],
+        "body": [
+          "Physical AI company MakinaRocks will take part in an industry ministry R&D project to make die design and the production process for automotive hot forging autonomous with AI. The total project cost is 11.8 billion won. iNews24 reported that MakinaRocks announced this on Oct. 14.",
+          "According to VentureSquare, the project, led by Saeil Forging, aims to develop automatic correction of die design and an autonomous production system, and MakinaRocks is participating as a joint R&D institution. TheElec reported that the project period runs through December 2029.",
+          "Outlets differed on the ministry's name. Steel & Metal News (철강금속신문) and Robot Newspaper called it the Ministry of Industry (산업통상부), while VentureSquare wrote it as the Ministry of Trade, Industry and Energy's 'Machinery and Equipment Industry Technology Development Program.'"
+        ]
+      }
     },
     {
       "id": "b20261014",
