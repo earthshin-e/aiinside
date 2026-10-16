@@ -10,7 +10,7 @@
 
 ## 다음 할 일
 - 10/17 19:00 첫 당일 점검 결과 확인.
-- Search Console 에 /sitemap-all.xml 제출(sitemap.xml Couldn't fetch 우회), 공유 채널 1곳 시작(10/18 주).
+- 10/19 무렵 Search Console 에서 /sitemap-all.xml 상태 확인(10/16 제출 직후 Couldn't fetch, 파일은 정상). 공유 채널 1곳 시작(10/18 주).
 - 매체끼리 중복 기사를 자체 기사로 다시 쓰고 출처를 다는 운영 방식이 적용됐는지 확인.
 - 기사 클릭 시 사이트 안에서 전문 재작성과 출처 링크 방식 검토(10/6 제안) 진행 여부 확인.
 
@@ -22,7 +22,7 @@
 - 2026-10-16: 맥, 폰 어디서든 이어서 작업하도록 GitHub(earthshin-e/ainewswave)와 구글 드라이브(hazel@teamspot.biz/ainewswave)로 관리하기로 함.
 
 ## 기록 (최신이 위)
-- 2026-10-16: 저장소를 ~/teamspot/ainewswave 로 옮김, 같은 내용의 sitemap-all.xml 추가.
+- 2026-10-16: 저장소를 ~/teamspot/ainewswave 로 옮김, 같은 내용의 sitemap-all.xml 추가하고 Search Console 에 제출.
 - 2026-10-16: 대시보드 갱신(18:30 예약 작업, 19:30 번역 30건, WORKLOG 도입 로그와 지표).
 - 2026-10-16: 지난 한 달 세션 기록으로 WORKLOG 현행화.
 - 2026-10-06: 배포, 매체 81곳, 디자인 개편, 도메인 연결.
