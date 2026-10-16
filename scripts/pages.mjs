@@ -205,6 +205,7 @@ function articlePage(a) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(a.title)} | AI 뉴스웨이브</title>
+<meta name="robots" content="noindex,follow">
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${url}">
 <meta property="og:type" content="article">
@@ -349,6 +350,24 @@ await writeFile(path.join(edir, 'about.html'), enHead('About | AI NewsWave', 'Ab
 </main>
 ` + enFoot);
 
+// 메인 화면 미리 그리기(2026-10-16): 기사 목록은 app.js 가 나중에 그려서 검색 로봇과 애드센스 심사에는 빈 화면처럼 보입니다.
+// 최신 브리핑과 정리 기사를 index.html 원본에 글자로 넣어 두고, 방문자에게도 같은 칸으로 보여 줍니다.
+{
+  const ipath = path.join(pub, 'index.html');
+  const ihtml = await readFile(ipath, 'utf8');
+  const brief = sorted.find((s) => s.type === 'briefing');
+  const recent = sorted.filter((s) => s.type !== 'briefing').slice(0, 8);
+  const item = (s) => `<li data-cat="${esc(s.category)}"><a href="recap/${esc(s.id)}.html"><span class="tag">${esc(s.category)}</span><strong>${esc(s.title)}</strong>${s.points && s.points[0] ? `<span class="rp">${esc(s.points[0])}</span>` : ''}</a></li>`;
+  const block = `<!--RECAPS--><section id="recaps" class="recaps" aria-labelledby="recapsTitle">
+    <h2 id="recapsTitle">AI 브리핑과 정리 기사 <span>여러 매체 보도를 뉴스웨이브가 새로 정리한 글</span></h2>
+    ${brief ? `<a class="rbrief" href="recap/${esc(brief.id)}.html"><b>AI 브리핑</b><strong>${esc(brief.title)}</strong>${(brief.points || []).length ? `<ul>${brief.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}</a>` : ''}
+    <ol>${recent.map(item).join('')}</ol>
+    <a class="rmore" href="recap/">정리 기사 전체 보기 →</a>
+  </section><!--/RECAPS-->`;
+  const next = ihtml.replace(/<!--RECAPS-->[\s\S]*?<!--\/RECAPS-->/, block);
+  if (next !== ihtml) await writeFile(ipath, next);
+}
+
 const now = new Date().toISOString();
 const urls = [
   { loc: `${SITE}/`, lastmod: now, freq: 'hourly', pri: '1.0' },
@@ -357,7 +376,6 @@ const urls = [
   ...['about', 'privacy', 'contact'].map((p) => ({ loc: `${SITE}/${p}.html`, freq: 'monthly', pri: '0.3' })),
   { loc: `${SITE}/en/`, lastmod: now, freq: 'daily', pri: '0.8' },
   ...enStories.map((s) => ({ loc: `${SITE}/en/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: '0.7' })),
-  ...withPoints.map((a) => ({ loc: `${SITE}/a/${a.id}.html`, lastmod: a.published, freq: 'weekly', pri: '0.5' })),
   ...stories.map((s) => ({ loc: `${SITE}/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: s.type === 'briefing' ? '0.8' : '0.7' })),
 ];
 const xml = `<?xml version="1.0" encoding="UTF-8"?>

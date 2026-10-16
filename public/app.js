@@ -135,7 +135,10 @@
   function renderBrief() {
     const box = $('#brief');
     const b = state.stories.filter((s) => s.type === 'briefing').sort((p, q) => new Date(q.published) - new Date(p.published))[0];
-    box.hidden = !b || state.q || state.saved;
+    // 배포 때 index.html 에 미리 그린 정리 기사 칸(#recaps)이 있으면 브리핑은 그 안에 있으므로 한 줄 브리핑은 숨깁니다.
+    const recaps = $('#recaps');
+    if (recaps) recaps.hidden = !!(state.q || state.saved);
+    box.hidden = !b || state.q || state.saved || !!recaps;
     if (b) box.innerHTML = `<a href="#s/${esc(b.id)}"><b>AI 브리핑</b><span>${esc(b.title)}</span><i aria-hidden="true">→</i></a>`;
   }
 

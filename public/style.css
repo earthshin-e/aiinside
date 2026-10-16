@@ -221,6 +221,29 @@ dialog#kwSheet::backdrop, dialog#sheet::backdrop { background: rgba(0,0,0,.45); 
 .brief span { flex: 1; min-width: 0; font-size: 14.5px; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .brief i { flex: none; font-style: normal; color: var(--ink3); }
 
+/* ---------- 브리핑과 정리 기사 (배포 때 index.html 에 미리 그림) ---------- */
+.recaps { margin-top: 8px; background: var(--surface); border: 1px solid var(--line); }
+.recaps[hidden] { display: none; }
+.recaps h2 { margin: 0; padding: 8px 14px; font-size: 13px; font-weight: 700; border-bottom: 1px solid var(--line); display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.recaps h2 span { font-weight: 400; font-size: 11.5px; color: var(--ink3); }
+.recaps a { color: var(--ink); text-decoration: none; }
+.rbrief { display: block; padding: 10px 14px; border-bottom: 1px solid var(--line); border-left: 3px solid var(--accent); }
+.rbrief b { display: block; font-size: 12px; color: var(--accent); }
+.rbrief strong { display: block; font-size: 15.5px; line-height: 1.35; margin-top: 2px; }
+.rbrief ul { margin: 6px 0 0; padding-left: 18px; font-size: 13.5px; color: var(--ink2, var(--ink)); line-height: 1.45; }
+.recaps ol { list-style: none; margin: 0; padding: 0; display: grid; }
+.recaps ol li { --h: 220; border-bottom: 1px solid var(--line); }
+.recaps li[data-cat="생성형AI"] { --h: 228; } .recaps li[data-cat="반도체"] { --h: 188; } .recaps li[data-cat="로봇"] { --h: 150; }
+.recaps li[data-cat="정책"] { --h: 32; } .recaps li[data-cat="기업"] { --h: 338; } .recaps li[data-cat="연구"] { --h: 268; } .recaps li[data-cat="보안/윤리"] { --h: 6; }
+.recaps ol a { display: block; padding: 8px 14px; min-width: 0; }
+.recaps ol a:hover { background: var(--bg); }
+.recaps strong { font-weight: 600; }
+.recaps ol strong { display: block; font-size: 14.5px; line-height: 1.35; margin-top: 2px; }
+.recaps .rp { display: block; margin-top: 2px; font-size: 13px; color: var(--ink3); line-height: 1.4; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rmore { display: block; padding: 8px 14px; font-size: 13px; font-weight: 600; color: var(--accent) !important; }
+@media (max-width: 639px) { .recaps ol li:nth-child(n+5) { display: none; } }
+@media (min-width: 640px) { .recaps ol { grid-template-columns: 1fr 1fr; } .recaps ol li:nth-child(odd) { border-right: 1px solid var(--line); } }
+
 /* ---------- 상단 전광판: 많이 보도되는 소식 5건 ---------- */
 .hot { margin-top: 8px; background: var(--foot-bg); color: #fff; }
 .hot h2 { margin: 0; padding: 8px 14px; font-size: 13px; font-weight: 700; letter-spacing: 0.02em; border-bottom: 1px solid rgba(255,255,255,.12); display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
