@@ -151,7 +151,23 @@
           "link": "https://www.newsis.com/view/NISX20261016_0003828551"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 16 AI Briefing: Angel Robotics Founder Returns as CEO, ChatGPT Voice Update",
+        "points": [
+          "News continues on physical AI, infrastructure funding and voice AI",
+          "Meta releases an open-weight model; FTC probes AI companies",
+          "Wall Street rebounds amid worries over AI spending"
+        ],
+        "body": [
+          "Angel Robotics held a board meeting on the 16th and appointed founder and board chairman Kong Kyoung-chul as CEO, according to a regulatory filing. It comes two years after the company shifted to a professional-manager structure in October 2024, and AI Newspaper (인공지능신문) reported that the company is strengthening its strategy around physical AI beyond wearable robots.",
+          "OpenAI applied a new voice model, GPT-Live-1.1, to ChatGPT's voice feature, Voice. Intonation and vocal expression were improved, and two Korean voices, Hanul and Haetsal, were added.",
+          "VESSL AI signed a memorandum of understanding with Korea Investment & Securities on GPU financing. Korea Investment & Securities will support expanded investment and fundraising, and the specific investment structure and size will be decided project by project. LG Uplus unveiled AI-based Wi-Fi technology at Network X 2026 in Vienna, Austria.",
+          "On the 15th (local time), Meta unveiled Muse Spark Open, a model with 816 billion parameters. According to AI Newspaper (인공지능신문), Meta said it is the most powerful open-weight model released in the United States to date. Digital Daily reported that Meta worked with Apple so the model can run directly on high-performance Macs.",
+          "The U.S. Federal Trade Commission (FTC) issued subpoenas to OpenAI and Anthropic to investigate AI safety incidents and potential consumer harm, AI Times reported. Chosun Biz reported that the two companies were asked to submit materials related to security incidents such as unauthorized hacking of their AI agents. Meanwhile, according to IT Chosun and Newsis, Anthropic gave outside evaluators staff-level access so its AI safety can be independently assessed.",
+          "On the 15th, the three major New York stock indexes all closed higher. A drop in Treasury yields drove the rebound, while concerns about AI companies' investment costs and debt burdens remained. Digital Daily reported that semiconductor and AI server stocks were weak."
+        ]
+      }
     },
     {
       "id": "h20261016-6636e12ae4b2",
@@ -231,7 +247,21 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707663"
         }
       ],
-      "published": "2026-10-16T09:40:37.948Z"
+      "published": "2026-10-16T09:40:37.948Z",
+      "en": {
+        "title": "Angel Robotics Founder Kong Kyoung-chul Returns as CEO, Expanding Into Physical AI",
+        "points": [
+          "Angel Robotics names founder Kong Kyoung-chul CEO",
+          "Returns two years after professional-manager era began in 2024",
+          "Strategy shifts beyond wearables toward physical AI"
+        ],
+        "body": [
+          "Wearable robot company Angel Robotics held a board meeting on the 16th and appointed founder and board chairman Kong Kyoung-chul, head of its Future Technology Institute, as CEO, according to a filing. The founder is back at the helm two years after the company moved to a professional-manager structure in October 2024.",
+          "Kong founded Angel Robotics in 2017 and served as CEO until October 2024, leading its KOSDAQ listing during his tenure. Chosun Biz described him as a professor of mechanical engineering at KAIST who has led development of core technologies such as robot actuators and control platforms.",
+          "The appointment was presented alongside a stronger physical AI strategy. According to AI Newspaper (인공지능신문), the company will expand technology built through wearable robot development and clinical validation into robot actuators, control platforms and a human motion foundation model, moving beyond a hardware-centered business structure. iNews24, EBN and Dailypharm put a leap into, or strengthening of, physical AI in their headlines.",
+          "The outlets emphasized slightly different points. Digital Today reported, based on the filing, that the CEO changed from Cho Nam-min to Kong Kyoung-chul, with the reason for the change being the resignation of the previous CEO. Other outlets focused on Kong's move from board chairman to CEO."
+        ]
+      }
     },
     {
       "id": "h20261016-04cc323a3ebb",
@@ -323,7 +353,21 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727898"
         }
       ],
-      "published": "2026-10-16T09:40:37.948Z"
+      "published": "2026-10-16T09:40:37.948Z",
+      "en": {
+        "title": "Raon Secure, Sensetone and D.Silo Join Government Physical AI Security Project",
+        "points": [
+          "Ministry of Science and ICT backs physical AI security project",
+          "Raon Secure leads; Sensetone and D.Silo participate",
+          "Robot identity verification, OT control, data protection"
+        ],
+        "body": [
+          "Security companies have been announcing their participation in a project titled \"Development of Physical AI-Based Multilayer Security Technology for Collaborative Intelligence Systems,\" supported by the Ministry of Science and ICT and the National IT Industry Promotion Agency (NIPA). Raon Secure said on the 15th it was selected as the lead institution, and Sensetone and D.Silo announced their participation on the 16th.",
+          "Raon Secure, the lead institution, will develop technology that gives robots and AI agents a \"digital ID\" to verify their identity and permissions in real time. According to IT Chosun, the aim is to prevent cyberattacks on or malfunctions of AI and robots at industrial sites from leading to physical accidents. TheElec described it as a security framework for smart factories and autonomous manufacturing, while Chosun Biz and Techworld News reported that it is an industry-academia-research collaboration.",
+          "Sensetone joins as a co-research institution and will handle security technology for the operational technology (OT) segment, where physical AI commands turn into actual operation of industrial equipment. Datanet reported that it protects industrial equipment in dark factory environments, while Digital Daily said it will develop pre-execution control technology and cited a hacking case at a French supermarket's refrigeration and HVAC system to underline the importance of OT security.",
+          "D.Silo is a private AI company based on fully homomorphic encryption (FHE) and will develop technology to protect data and models in the same project. Datanet and Digital Today reported that the project falls under a program to build an R&D ecosystem for a collaborative-intelligence physical AI software platform. The three companies each cover a different layer: identity authentication, equipment control and data and models."
+        ]
+      }
     },
     {
       "id": "h20261016-27f930724b3b",
@@ -402,7 +446,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707256"
         }
       ],
-      "published": "2026-10-16T09:40:37.948Z"
+      "published": "2026-10-16T09:40:37.948Z",
+      "en": {
+        "title": "LG Uplus Unveils AI-Based Next-Generation Wi-Fi at Europe's Network X",
+        "points": [
+          "LG Uplus attends Network X 2026",
+          "AI used to detect Wi-Fi faults and manage quality",
+          "Wi-Fi 7 commercialization results also presented"
+        ],
+        "body": [
+          "LG Uplus said on the 16th that it took part in Network X 2026, a global telecom and networking exhibition held Oct. 12 to 15 at Messe Wien in Vienna, Austria, and showcased AI-based next-generation Wi-Fi technology. Chosun Biz, Techworld News and Digital Today described the event as Europe's largest telecom and networking exhibition.",
+          "The core is AI-driven Wi-Fi quality management. EBN reported that it is technology that uses AI to detect Wi-Fi faults, Digital Daily described it as technology that manages wireless internet quality with AI, and Korea NGO News called it Wi-Fi quality management technology using AI. According to Digital Today, LG Uplus presented its Wi-Fi 7 commercialization results together with the AI-based technology.",
+          "Another Korean carrier also had results at the event. SK Telecom said on the 15th that it won the \"Most Innovative 5G Service\" category at the Network X Awards on the 14th (local time), where its AX technology competitiveness in telecom networks was recognized. Digital Today described the award as recognition of its AI-RAN technology."
+        ]
+      }
     },
     {
       "id": "h20261016-6c09ee6ee261",
@@ -476,7 +533,21 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707341"
         }
       ],
-      "published": "2026-10-16T09:40:37.948Z"
+      "published": "2026-10-16T09:40:37.948Z",
+      "en": {
+        "title": "ChatGPT Voice Update Adds Korean Voices Hanul and Haetsal",
+        "points": [
+          "ChatGPT Voice gets GPT-Live-1.1",
+          "Korean intonation and expression improved",
+          "New Korean voices: Hanul and Haetsal"
+        ],
+        "body": [
+          "OpenAI said on the 16th that it updated ChatGPT's voice conversation feature, Voice. By applying a new voice model, GPT-Live-1.1, it improved intonation and vocal expression in multiple languages, and according to OpenAI, Korean conversation has also become more natural.",
+          "Two new Korean voices were added, named Hanul and Haetsal. According to Industry News, the update is rolling out worldwide in stages. IT Chosun reported that the voice feature was tweaked so conversation can continue even while the assistant searches for information.",
+          "The outlets focused on different points. AI Times highlighted Korean intonation in its headline, while Digital Daily wrote that when you talk to ChatGPT, Hanul or Haetsal now answers in Korean. Digital Today and Chosun Biz put the emphasis on the addition of two Korean voices.",
+          "Separately, OpenAI said on the 15th that it will hold a developer event, OpenAI DevDay Exchange: Seoul, in Gangnam District, Seoul, on the 22nd. According to Chosun Biz, it is an event where Korean developers, tech founders and OpenAI engineers share experience in developing and using AI technology."
+        ]
+      }
     },
     {
       "id": "h20261016-b9a310460067",
@@ -550,7 +621,21 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101513111308429"
         }
       ],
-      "published": "2026-10-16T09:40:37.948Z"
+      "published": "2026-10-16T09:40:37.948Z",
+      "en": {
+        "title": "VESSL AI Signs GPU Financing Deal With Korea Investment & Securities to Fund Infrastructure",
+        "points": [
+          "VESSL AI and Korea Investment & Securities sign GPU financing MOU",
+          "Cooperation on expanded investment and fundraising",
+          "Investment structure to be set project by project"
+        ],
+        "body": [
+          "GPU cloud company VESSL AI said on the 16th that it signed a memorandum of understanding (MOU) on \"GPU financing\" with Korea Investment & Securities to expand GPU infrastructure. TechM explained that the agreement was signed the day before.",
+          "Under the agreement, Korea Investment & Securities will support expanding the investment needed for GPU infrastructure projects and raising funds, while VESSL AI will support the work needed to carry out the projects. VentureSquare reported that the two companies plan to review the investment structure and prepare financing plans for each project. According to TechM, the specific investment structure and size will be decided through project-by-project discussions.",
+          "Platum pointed out that a cloud business that buys and rents out GPUs needs a large amount of money up front when acquiring equipment, and explained that this is a structure in which the funds are raised together with a securities firm.",
+          "VESSL AI also unveiled a mid- to long-term roadmap on the 15th, the day before. According to Datanet and VentureSquare, the plan is to secure 200,000 GPUs by 2030 and set up AI data center hubs in eight locations nationwide. On timing for the hubs, Datanet said by next year and VentureSquare said by 2028. Digital Daily reported that of the total, 150,000 GPUs would be built directly, and that the company is pursuing 400 billion won in GPU financing."
+        ]
+      }
     },
     {
       "id": "s20261016-ead033779d99",
@@ -593,7 +678,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707637"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Launches RaiDIO Biz, an AI In-Store Music Service for Small Businesses",
+        "points": [
+          "KT launches RaiDIO Biz, an AI in-store music service",
+          "Mobile add-on service built with Applez",
+          "Aimed at cafes, restaurants and other small businesses"
+        ],
+        "body": [
+          "KT said on the 16th that it launched \"RaiDIO Biz,\" an AI in-store music service exclusively for small business owners, as a KT mobile add-on service in cooperation with Applez, which operates an AI space music platform.",
+          "According to AI Times, the AI recommends and automatically plays music that suits the type of business and store environment, such as cafes, restaurants and hair salons. Chosun Biz and iNews24 reported that it provides music, announcements and customer management functions needed to run a store.",
+          "Digital Today introduced it as providing music playback and announcement functions for small business stores such as cafes, restaurants, hair salons and hospitals."
+        ]
+      }
     },
     {
       "id": "s20261016-485c83cfbcbc",
@@ -636,7 +734,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707610"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "TwelveLabs Launches Jockey, an AI Agent That Finds and Edits Video",
+        "points": [
+          "TwelveLabs launches video AI agent Jockey",
+          "Scene search to editing by spoken request",
+          "Built on its own video understanding model"
+        ],
+        "body": [
+          "TwelveLabs said on the 16th that it officially launched \"Jockey by TwelveLabs,\" a video understanding AI agent. Jockey is a service that, when a user makes a request in natural language, finds the needed scenes in a video and goes on to edit them.",
+          "It is based on the company's own video understanding foundation model. According to AI Times, embedding and metadata generation technologies were applied, with a focus on helping ordinary users with no development knowledge edit video easily.",
+          "Techworld News reported that the company strengthened its full-stack strategy, spanning foundation models to agents, by linking video search, analysis and editing in a single flow. Digital Daily said it turned scene hunting, which used to mean watching accumulated footage one clip at a time, into something you can simply ask an AI to do."
+        ]
+      }
     },
     {
       "id": "s20261016-ffb114efb247",
@@ -685,7 +796,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215153"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Intellivix to List on KOSDAQ on Oct. 30 After 13 Straight Profitable Years",
+        "points": [
+          "Intellivix to list on KOSDAQ on Oct. 30",
+          "Pursues a general listing after 13 straight years in the black",
+          "Expanding into defense, autonomous driving and ships"
+        ],
+        "body": [
+          "Video analytics AI company Intellivix said at a press conference in Yeouido, Seoul, on the 16th that it will list on the KOSDAQ on Oct. 30. Several outlets stressed in common that it is a general listing, in which the company met earnings requirements, rather than a technology special listing.",
+          "According to VentureSquare, the company posted operating profits for 13 straight years and recorded 46.6 billion won in sales and 4.9 billion won in operating profit last year. Byline Network reported that it plans to use the funds raised from the listing to advance its own AI technology.",
+          "As its business direction, an autonomous safety AI was presented that goes beyond conventional video surveillance to understand risky situations and decide how to respond. Techworld News and Datanet reported plans to expand the business into defense AI and physical AI, and AI Times carried an explanation that it will extend tailored on-site solutions, such as servers, cameras and robots, to autonomous driving and safe ship operation."
+        ]
+      }
     },
     {
       "id": "s20261016-4ed50bd62b2b",
@@ -728,7 +852,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101610015751350"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Theori Joins Anthropic's Security AI Program After OpenAI's",
+        "points": [
+          "Theori joins Anthropic's Cyber Verification Program",
+          "Advanced AI capabilities only for vetted security firms",
+          "Second such program after OpenAI's security AI"
+        ],
+        "body": [
+          "Theori, an AI-based offensive security company, said on the 16th that it was approved as a participant in Anthropic's \"Cyber Verification Program (CVP).\" Digital Daily reported that it received final approval.",
+          "Anthropic's CVP provides high-performance cybersecurity AI capabilities, which are not open to the general public, only to security companies and experts who pass a separate qualification review. TechM explained that Theori gained early access to the cybersecurity AI of both OpenAI and Anthropic, and Digital Daily said in its headline that this is its second participation after OpenAI.",
+          "Boannews reported that Theori plans to use the program to enhance its security product Xint."
+        ]
+      }
     },
     {
       "id": "s20261016-12f41b95839a",
@@ -771,7 +908,20 @@
           "link": "https://www.bloter.net/news/articleView.html?idxno=675825"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hyosung Heavy Industries Completes New Export Ultra-High-Voltage Circuit Breaker Plant in Changwon",
+        "points": [
+          "Hyosung Heavy Industries completes new Changwon plant",
+          "Dedicated to 420kV, 550kV and 800kV export units",
+          "Responds to power demand from AI data centers"
+        ],
+        "body": [
+          "Hyosung Heavy Industries completed a new plant for export-only ultra-high-voltage circuit breakers at its Changwon factory in South Gyeongsang Province on the 16th. The new plant is dedicated to producing export ultra-high-voltage circuit breakers of 420kV, 550kV and 800kV.",
+          "According to Korea NGO News, the new plant covers about 18,996 square meters. The outlets described it as a supply chain expansion to respond to a supercycle in the global power equipment market.",
+          "An AI factor was also mentioned. Bloter reported that the company expanded production capacity in advance in preparation for power grid overloads and supply shortages as AI data centers surge, and Chosun Biz reported that the investment followed an instruction from Hyosung Chairman Cho Hyun-joon to solve the power infrastructure shortage deepened by the expansion of the AI market."
+        ]
+      }
     },
     {
       "id": "s20261016-11199d4c548b",
@@ -814,7 +964,20 @@
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424332"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Rimini Street CEO: \"Layer AI on Top of Your Existing ERP\"",
+        "points": [
+          "Rimini Street presents agentic AI ERP",
+          "Claims existing ERP can be used 15 to 20 more years",
+          "Stresses \"AI last\" rather than \"AI first\""
+        ],
+        "body": [
+          "Rimini Street CEO Seth Ravin met Korean media on the 15th and argued that companies should combine AI with their existing ERP rather than replace it entirely. According to IT Chosun, he said companies can keep using existing systems for another 15 to 20 years while layering AI and new technology on top.",
+          "Digital Daily reported that Rimini Street extends ERP usage periods beyond 2040 through its own maintenance and is expanding in the Korean market with an \"agentic AI ERP.\" Sisa Journal-e carried remarks to the effect that the replacement approach has reached its limits, noting that moving to a new system costs hundreds of billions of won and takes three to five years.",
+          "Byline Network quoted the remark that \"it should be AI last, not AI first.\" The explanation is that a company should first set innovation goals, fix and automate processes, and then look at where to deploy AI."
+        ]
+      }
     },
     {
       "id": "s20261016-bdd7a11e3e58",
@@ -857,7 +1020,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408302"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "XCENA Unveils CXL Memory Technology for AI Inference at OCP Summit",
+        "points": [
+          "XCENA attends OCP Global Summit 2026",
+          "Shows CXL-based memory solution for AI inference",
+          "Plans joint validation with SK hynix"
+        ],
+        "body": [
+          "Fabless semiconductor company XCENA took part in the OCP Global Summit 2026, held Oct. 12 to 15 (local time) at the San Jose Convention Center in the United States, where it showed memory technology for AI inference.",
+          "The core is a memory solution based on CXL (Compute Express Link). The outlets explained that the technology reduces the growing memory demand, the burden of moving data and the resulting bottlenecks in AI inference.",
+          "According to Digital Daily, XCENA will start from this to jointly validate CXL-based memory expansion technology with SK hynix, and also plans to widen cooperation with major semiconductor companies such as Samsung Electronics."
+        ]
+      }
     },
     {
       "id": "s20261016-f36c1289fa47",
@@ -900,7 +1076,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101605592437968"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Wall Street's Three Major Indexes Rise as Falling Treasury Yields Offset AI Spending Worries",
+        "points": [
+          "Three major New York indexes all close higher",
+          "Falling Treasury yields drive the rebound",
+          "Chip and server stocks weak on AI spending burden"
+        ],
+        "body": [
+          "On the 15th (local time), the Dow Jones Industrial Average, S&P 500 and Nasdaq all closed higher in New York. According to Chosun Biz, the Dow rose 556.21 points, or 1.08%, to close at 52,177.69.",
+          "A drop in U.S. Treasury yields was cited as the driver of the gains. Betanews and EBN reported that concerns over AI companies' enormous investment costs and debt burdens weighed on tech stocks, but buying spread to consumer stocks and others.",
+          "Digital Daily reported that tech stocks, which were weak early in the session, recovered some of their losses as yields fell, but semiconductor and AI server stocks stayed weak."
+        ]
+      }
     },
     {
       "id": "s20261016-eac1560bccfe",
@@ -943,7 +1132,20 @@
           "link": "https://www.newsis.com/view/NISX20261015_0003827624"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LH Declares \"AI Transformation\" and Creates AI Innovation Office",
+        "points": [
+          "LH holds AI transformation declaration ceremony",
+          "New AI Innovation Office; CEO checks execution",
+          "Applied to safety management, defect repair, resident care"
+        ],
+        "body": [
+          "Korea Land and Housing Corporation (LH) held an \"LH AI Transformation\" declaration ceremony on the 15th at its Seoul regional headquarters, attended by President Lee Sung-hoon and senior executives, and said it is launching company-wide AI management innovation.",
+          "Newsis and Chosun Biz reported that it is creating a new AI Innovation Office. According to Newsis, it will also set up an operating system in which the CEO personally checks the execution of AX (AI transformation).",
+          "According to Betanews and Electric Times (전기신문), LH plans to expand AI use in key operations such as construction site safety management, defect repair and resident care. Betanews said in its headline that defect repair time will be cut by 31%."
+        ]
+      }
     },
     {
       "id": "b20261015",
@@ -1170,7 +1372,21 @@
         }
       ],
       "author": "Haley Yun",
-      "published": "2026-10-15T09:40:40.401Z"
+      "published": "2026-10-15T09:40:40.401Z",
+      "en": {
+        "title": "Samsung Electronics Shows Southeast Asia-Tailored AI Appliances and HVAC in Hanoi",
+        "points": [
+          "Samsung holds Southeast Asia tech seminar in Hanoi",
+          "Shows locally tailored AI appliances and B2B HVAC",
+          "B2B sales in Southeast Asia and Oceania up more than 20%"
+        ],
+        "body": [
+          "Samsung Electronics held \"The Brief,\" a home appliance tech seminar for Southeast Asia, in Hanoi, Vietnam, on the 14th and showed artificial intelligence (AI) appliances and business-to-business (B2B) HVAC solutions tailored to local users' lifestyles. Digital Daily and Digital Today reported that Samsung disclosed this on the 15th.",
+          "The venue was Samsung's Business Experience Studio (BES) inside the PVI Tower in Hanoi, which opened in August. iNews24 reported that products and services for homes and businesses were introduced, from household functions such as refrigerator food management to cooling and energy management for large buildings.",
+          "Chosun Biz reported that Samsung's B2B sales in Southeast Asia and Oceania have grown more than 20% this year, and that B2B's share within the HVAC business has passed 50%. iNews24 also said in its headline that B2B sales rose more than 20%.",
+          "The outlets put weight on different points. Chosun Biz and iNews24 led with B2B sales growth and the HVAC business, while Betanews and IT Chosun centered their coverage on the display of locally tailored AI appliances and HVAC solutions."
+        ]
+      }
     },
     {
       "id": "h20261015-8e412f95b2e5",
@@ -1231,7 +1447,20 @@
         }
       ],
       "author": "Chloe Park",
-      "published": "2026-10-15T09:40:40.401Z"
+      "published": "2026-10-15T09:40:40.401Z",
+      "en": {
+        "title": "VNTG Signs Manufacturing AX Agreement With Microsoft Korea",
+        "points": [
+          "VNTG and Microsoft Korea sign MOU",
+          "AX execution framework from diagnosis to build and operation",
+          "VNTG handles the field; Microsoft supports technology and ecosystem"
+        ],
+        "body": [
+          "VNTG, a company specializing in AI transformation (AX) for manufacturers, is teaming up with Microsoft Korea to build an AX execution framework for manufacturing companies. The two companies signed a memorandum of understanding (MOU) on \"building an end-to-end execution framework for manufacturers' AX transformation\" at Seoa Tower in Mapo District, Seoul, on the 14th, Startup Today and AI Times reported.",
+          "Digital Today explained the division of roles. VNTG handles on-site execution, while Microsoft Korea supports the development of needed technical capabilities and the securing of a partner ecosystem. IT Chosun reported that it is a cooperation framework that combines Microsoft's AI and cloud technology with VNTG's experience in building and operating manufacturing sites, linking on-site application, operation and commercialization.",
+          "Robot Newspaper introduced VNTG as a company that has directly carried out AX from diagnosis through design, construction and operation, and Chulgang Geumsok Shinmun (철강금속신문) said it is an affiliate of the SeAH Group. Digital Today and Startup Today reported that the news was announced on the 15th."
+        ]
+      }
     },
     {
       "id": "h20261015-a4817dc3a018",
@@ -1286,7 +1515,20 @@
         }
       ],
       "author": "Ethan Chen",
-      "published": "2026-10-15T09:40:40.401Z"
+      "published": "2026-10-15T09:40:40.401Z",
+      "en": {
+        "title": "Xenon Officially Launches AI Agent Portal GenA",
+        "points": [
+          "Xenon officially launches AI agent portal GenA",
+          "Android app first; iOS in October",
+          "Six AI agents in a single app"
+        ],
+        "body": [
+          "Generative AI solutions company Xenon moved its AI agent portal \"GenA\" to an official service and released an Android app. Xenon announced this on the 15th, according to Hellot, Techworld News, iNews24 and others. GenA began beta service in May.",
+          "Digital Daily explained that GenA lets users use six AI agents in one smartphone app, from research to meeting minutes to checking public policies. iNews24 introduced GenA as a service for using various AI agents needed for work and daily life in one place.",
+          "iNews24 reported that the iOS app for iPhone will come out in October. The outlets stressed different points. Hellot put the expansion of mobile service in its headline, while Digital Daily headlined the bundling of six agents into one app."
+        ]
+      }
     },
     {
       "id": "h20261015-e5d2b0d88703",
@@ -1341,7 +1583,20 @@
         }
       ],
       "author": "Ashley Yang",
-      "published": "2026-10-15T09:40:40.401Z"
+      "published": "2026-10-15T09:40:40.401Z",
+      "en": {
+        "title": "OpenAI to Hold Developer Event in Seoul on the 22nd",
+        "points": [
+          "OpenAI DevDay Exchange: Seoul to be held",
+          "Oct. 22 in Gangnam, for developers and founders",
+          "OpenAI engineers to share development experience"
+        ],
+        "body": [
+          "OpenAI will hold a developer event, \"OpenAI DevDay Exchange: Seoul,\" in Gangnam District, Seoul, on the 22nd. OpenAI announced the event on the 15th, and Chosun Biz, Digital Today, Betanews and others reported that it targets Korean developers and tech founders.",
+          "Betanews reported that it is a gathering where Korean developers, tech founders and OpenAI engineers share experience in developing and using AI technology. Digital Daily put it as an occasion where Seoul developers can see and ask about the latest development tools released in the United States.",
+          "AI Times reported that OpenAI Korea is hosting the event, and that Albert Yip, OpenAI's head of technical success for Asia-Pacific, will give the keynote. The same report mentioned AI agent development, Codex security, and real-time voice and image generation among the event's topics."
+        ]
+      }
     },
     {
       "id": "h20261015-88573136933f",
@@ -1391,7 +1646,21 @@
         }
       ],
       "author": "Kevin Wong",
-      "published": "2026-10-15T09:40:40.401Z"
+      "published": "2026-10-15T09:40:40.401Z",
+      "en": {
+        "title": "VESSL AI Aims to Secure 200,000 GPUs by 2030",
+        "points": [
+          "VESSL AI to secure 200,000 GPUs by 2030",
+          "Eight data center hubs nationwide by 2028",
+          "Targets 10,000 GPUs this year and 50,000 in 2027"
+        ],
+        "body": [
+          "AI infrastructure company VESSL AI declared a transition to a neocloud company and said it will secure 200,000 graphics processing units (GPUs) in stages by 2030. VentureSquare reported that the company revealed the plan at its \"2026 Neocloud Strategy Presentation.\"",
+          "According to VentureSquare, VESSL AI plans to set up AI data center hubs in eight locations nationwide by 2028 and increase its GPU holdings to 10,000 this year and 50,000 in 2027. Digital Daily reported that of the 200,000, 150,000 would be built directly, and that for the 2027 target of 50,000, customer demand is 30,000 or more, with overseas customers accounting for 70% to 80%.",
+          "Digital Daily reported the funding and power plans. The company is pursuing 400 billion won in GPU financing and plans to secure 500MW of data center capacity by 2028. Bloter reported that it aims to build an \"AI factory\" that operates GPUs together with domestic neural processing units (NPUs).",
+          "The company's name was written differently across outlets. Techworld News wrote it as \"Vessel AI (VESSL AI)\" in Korean phonetics, while the other outlets wrote VESSL AI."
+        ]
+      }
     },
     {
       "id": "s20261015-b95a9d5a587a",
@@ -1786,7 +2055,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727586"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK Telecom Holds Happy AI Challenge for 110 Teens With Disabilities",
+        "points": [
+          "SKT holds AI contest for teens with disabilities",
+          "Two days from the 14th at Icheon training center",
+          "Focus shifts from coding education to AI use"
+        ],
+        "body": [
+          "SK Telecom said on the 15th that it held the \"2026 Happy AI Challenge,\" where teenagers with disabilities compete in creativity and problem-solving using AI. It ran for two days from the 14th at SK Telecom's training center in Icheon, Gyeonggi Province, and this year was the 27th edition.",
+          "According to iNews24 and EBN, 110 teenagers with disabilities took part, and EBN added that 44 supervising teachers were also there. The event's theme was \"Connecting Thoughts, Meeting the Future.\"",
+          "Industry News reported that SK Telecom shifted the focus of this year's contest from conventional coding education to AI use. It also included programs in which the teenagers solved problems with AI and produced videos and posters themselves."
+        ]
+      }
     },
     {
       "id": "s20261015-277943392f3f",
@@ -2365,7 +2647,23 @@
         }
       ],
       "author": "Kevin Wong",
-      "published": "2026-10-14T09:41:02.538Z"
+      "published": "2026-10-14T09:41:02.538Z",
+      "en": {
+        "title": "Google Officially Launches Gemini 4 Argon, Targeting Coding and Professional Work",
+        "points": [
+          "Google launches Gemini 4 Argon worldwide",
+          "Aimed at demanding work such as coding, finance and law",
+          "Full launch two weeks after limited release"
+        ],
+        "body": [
+          "Google officially launched its top-tier AI model, Gemini 4 Argon, worldwide on the 13th (local time). Chosun Biz and AI Newspaper (인공지능신문) reported that the model is designed to solve complex tasks that require multi-step reasoning, such as coding, finance, law, cybersecurity and science. Datanet reported that Google DeepMind disclosed this on the 14th.",
+          "How it is offered depends on the user. According to Digital Daily and Industry News, developers and companies can use it through the Gemini API, and general users through paid subscription services. EBN reported that paid subscribers on the Pro and Ultra plans can use Argon in the Gemini app, AI Mode in Google Search and elsewhere.",
+          "Outlets differ somewhat in explaining the background of the launch. Byline Network noted that it comes two weeks after a limited release because of potential for misuse, and that its performance and features are the same as when it was unveiled on the 30th of last month. AI Times also reported that Google put forward practical results and integration with existing products as it commercialized the model released in limited form last month. Techworld News stressed an effort to capture the enterprise AI and development markets, including step-by-step reasoning for work and code writing and legacy-system modernization using AI agents.",
+          "There was also an explanation of the competitive picture. According to Byline Network, Google emphasized that it outperforms rival models such as GPT-6 Astra and Claude Opus 5.5. Digital Today, citing The Verge, reported that Google said the model has performance to compete with industry-leading models, and TechM reported that Google has entered the paid AI market competition with OpenAI and Anthropic.",
+          "In a separate article, AI Times also covered Gemini 4 Argon for robots. On the 13th, Google focused on improving robots' dexterous manipulation and work efficiency by reasoning about physical laws and 3D space and verifying actions in virtual simulations.",
+          "There was also coverage before the launch. AI Times, citing a Business Insider report on the 10th (local time), reported that Google was said to be testing internally an internal checkpoint model with improved coding performance, called \"Carbon,\" ahead of the official release. The same outlet reported that on the 9th, Google Cloud unveiled an enterprise \"Gemini Agent\" equipped with both Argon and Claude."
+        ]
+      }
     },
     {
       "id": "h20261014-eb26fe66715d",
@@ -2458,7 +2756,22 @@
         }
       ],
       "author": "Haley Yun",
-      "published": "2026-10-14T09:41:02.538Z"
+      "published": "2026-10-14T09:41:02.538Z",
+      "en": {
+        "title": "LG CNS Teams With Japan's KDDI to Pursue AX Business in Asia-Pacific",
+        "points": [
+          "LG CNS and KDDI sign Asia-Pacific AX agreement",
+          "Seeking new business in AI, smart city and telecom",
+          "Overseas expansion follows Anthropic partnership"
+        ],
+        "body": [
+          "LG CNS signed a memorandum of understanding with Japanese telecom company KDDI to jointly pursue AI transformation (AX) and digital transformation (DX) business in the Asia-Pacific region. The two companies disclosed this on the 14th. Datanet and Digital Today reported that the partnership combines LG CNS's AX and DX capabilities with KDDI's telecom infrastructure and global network.",
+          "The outlets stressed different areas of cooperation. Digital Daily reported that they will jointly look for new business in AI, smart cities, telecom and system integration and operations management. IT Chosun gave agentic AI, smart cities and robot automation as examples, and EBN introduced a plan to combine AI and robot technology with telecom infrastructure to develop new services for local companies. AI Times focused on targeting the agentic AI and physical AI markets in Southeast Asia, and TheElec said in its headline that it targets five Asia-Pacific countries.",
+          "On KDDI, TheElec introduced it as one of Japan's three major comprehensive telecom companies. According to TechM, KDDI handles everything from consumer services such as mobile communications and the internet to enterprise services such as AI, cloud and telecom networks.",
+          "Techworld News reported the agreement together with LG CNS's stronger partnership with Anthropic. In Korea, the company is building its capabilities in Claude-based system modernization and enterprise AI, while overseas it is expanding into agentic AI, physical AI and smart cities. According to iNews24, LG CNS said on the 13th that it became the first Korean company to earn \"Preferred\" status in Anthropic's Claude Partner Network.",
+          "Digital Daily, citing the Public Procurement Service and the IT services industry, reported that LG CNS was chosen as the preferred bidder for the judiciary's project to build an \"intelligent platform for AI-based criminal trials and sentencing support.\" The project is worth 10.2 billion won and is the first to bring AI into court rulings, and it was reportedly decided against KT in the technical evaluation."
+        ]
+      }
     },
     {
       "id": "h20261014-855f7b71b655",
@@ -2544,7 +2857,21 @@
         }
       ],
       "author": "Chloe Park",
-      "published": "2026-10-14T09:41:02.538Z"
+      "published": "2026-10-14T09:41:02.538Z",
+      "en": {
+        "title": "KT Launches Up to 800Gbps \"AI Dedicated Line\" to Strengthen AI Data Center Links",
+        "points": [
+          "KT launches AI dedicated line of up to 800Gbps",
+          "Responds to demand for bulk transfers between AI data centers",
+          "Bandwidth expanded eightfold from before"
+        ],
+        "body": [
+          "KT launched an \"AI dedicated line\" on the 14th for large-volume data transfers between AI data centers (AIDCs). It is an ultra-high-speed, ultra-low-latency network service supporting bandwidth of up to 800Gbps. Several outlets, including iNews24 and Chosun Biz, reported the same content.",
+          "Korea NGO News and Digital Today reported that KT cited the spread of generative AI and growing AI infrastructure investment as the background to the launch. Chosun Biz explained that as AI data centers are built across the country, a network that can reliably exchange large volumes of data between centers has become necessary. AI Newspaper (인공지능신문) pointed out that the amount of data moving for AI training and inference is surging.",
+          "Outlets describe the performance figures differently. Chosun Biz said in its headline that bandwidth is eight times the previous level, and Digital Daily explained that it expands dedicated line bandwidth that was previously around 100Gbps. Techworld News wrote that it offers bandwidth of up to 400Gbps and 800Gbps.",
+          "EBN reported that the service aims to secure demand for connections between AI data centers by strengthening ultra-high-speed, ultra-low-latency network infrastructure. Meanwhile, according to EBN, KT on the 13th also released eight subscription products that include Google Gemini, starting at 7,500 won a month."
+        ]
+      }
     },
     {
       "id": "h20261014-b8acda927f01",
@@ -2643,7 +2970,22 @@
         }
       ],
       "author": "Ethan Chen",
-      "published": "2026-10-14T09:41:02.538Z"
+      "published": "2026-10-14T09:41:02.538Z",
+      "en": {
+        "title": "LG Electronics Unveils Seven AI Home Devices Co-Developed With Apple",
+        "points": [
+          "LG and Apple unveil seven smart home devices",
+          "Cameras, door lock, thermostat and more",
+          "Launch this year in U.S., Canada and U.K. first"
+        ],
+        "body": [
+          "LG Electronics unveiled seven Internet of Things devices it developed with Apple at a product launch event in Manhattan, New York, on the 13th (local time). According to Kukmin Ilbo, the products are two outdoor cameras, an indoor camera, a door lock, a doorbell, a thermostat and a temperature sensor.",
+          "Chosun Biz outlined the technical makeup. AI that detects conditions indoors and outdoors and controls devices automatically is applied, and the devices work with LG's smart home platform ThinQ and Apple devices such as iPhone and Apple Watch. AI Newspaper (인공지능신문) introduced a security camera using vision AI, a door lock that detects a user's intent to enter, and a thermostat that controls heating and cooling by taking location and weather into account. iNews24 gave usage examples, such as the front door opening automatically when you return home and an iPhone alert when a package arrives.",
+          "Outlets describe the launch timing differently. TheElec and EBN reported that it will launch first in the U.S., Canada and the U.K. this year, while Digital Daily wrote that it will roll out in stages starting in North America and the U.K. in December.",
+          "Apple's announcements were also covered. iNews24 reported that on the 13th in New York, Apple unveiled a new smart home hub, TV and speaker built around Siri AI, along with the devices co-developed with LG Electronics. Before the unveiling, IT Chosun, citing a Bloomberg report on the 12th, reported that Apple was expected to reveal a smart home hub called \"HomeView,\" and Digital Today, citing Bloomberg and other foreign media reports on the 11th, reported that the actual release is expected in mid-November.",
+          "In a separate article, Digital Daily noted that the two companies, once rivals in the smartphone market, have extended their cooperation in TVs, distribution and components into home appliances and living spaces. The article also introduced a forecast that the global smart home market will reach $450.2 billion by 2032."
+        ]
+      }
     },
     {
       "id": "h20261014-24b3e5d71868",
@@ -2711,7 +3053,21 @@
         }
       ],
       "author": "Ashley Yang",
-      "published": "2026-10-14T09:41:02.538Z"
+      "published": "2026-10-14T09:41:02.538Z",
+      "en": {
+        "title": "LG Electronics, GS E&C and GRC to Develop Immersion Cooling for AI Data Centers",
+        "points": [
+          "LG Electronics, GS E&C and GRC sign three-way MOU",
+          "Joint development of immersion cooling for AI data centers",
+          "Aim for demonstration and integrated standard design"
+        ],
+        "body": [
+          "LG Electronics and GS Engineering & Construction will develop immersion cooling technology for artificial intelligence data centers together with U.S. immersion cooling specialist GRC. The three companies signed a memorandum of understanding on \"technology development and facility technology cooperation for data center immersion cooling and integrated cooling solutions\" at GS E&C's headquarters in Jongno District, Seoul, on the 13th, Electric Times (전기신문), Digital Daily and others reported.",
+          "As the content of the cooperation, Electric Times cited technology demonstration and development of an integrated standard design. EBN explained that the plan is to verify the real-world applicability of immersion cooling and prepare a standard data center design to expand the cooling solutions business. According to Techworld News, GRC's full name is Green Revolution Cooling.",
+          "Chosun Biz explained that after air cooling and liquid cooling, the business is extending to immersion cooling, which cools semiconductors by submerging them directly in a special coolant. Techworld News also reported that LG Electronics is expanding its cooling portfolio to immersion cooling and moving to verify the technology and develop a standard design.",
+          "Outlets frame the story differently. iNews24 centered on GS E&C, saying that after building cooperation frameworks in power equipment and modular data centers, it is extending the scope to cooling technology to improve its AI data center design and construction competitiveness. Digital Daily and Chosun Biz reported with LG Electronics at the center."
+        ]
+      }
     },
     {
       "id": "s20261014-4fcdc5bf0b49",
@@ -3663,7 +4019,22 @@
         }
       ],
       "author": "Haley Yun",
-      "published": "2026-10-13T09:41:51.926Z"
+      "published": "2026-10-13T09:41:51.926Z",
+      "en": {
+        "title": "Meta Unveils New Flagship Model Muse Wonder, Joining the Frontier Race",
+        "points": [
+          "Meta unveils Muse Wonder and Wonder Pool",
+          "Stronger agent features for coding and professional work",
+          "Performance ranking claims vary by outlet"
+        ],
+        "body": [
+          "Meta unveiled new artificial intelligence models, Muse Wonder and Muse Wonder Pool, on the 12th (local time). iNews24 reported that the models, meant to compete with OpenAI, Anthropic and others, have stronger abilities for professional tasks such as coding, finance and law. Chosun Biz wrote that they have enhanced agent features that carry out complex work from coding to law, finance and health care.",
+          "Outlets report the performance evaluations differently. Byline Network reported that Meta claimed its top-spec model beat Claude Fable 5.1 and GPT-6 Astra on the Artificial Analysis Intelligence Index (AAII) benchmark. Chosun Biz said in its headline that it ranked second in the performance evaluation. Digital Today, citing The New York Times, reported that the test results measuring reasoning, writing and coding ability were based on Meta's own data.",
+          "According to Digital Daily, Meta plans to apply the model to its personal assistant agent, Muse, to lift its slowed pace of user acquisition. AI Times introduced it as a model focused on remembering user information and continuously carrying out complex tasks.",
+          "Views on the business approach also emerged. TechM pointed out that Meta, which has expanded its developer ecosystem with open AI models, is now offering a high-performance model for a fee and speeding up monetization. EBN, citing Bloomberg, reported that it is the first new flagship model since a large-scale reorganization of its AI unit and is expected to be a test of whether investments of hundreds of billions of dollars in AI infrastructure and aggressive talent hiring have translated into real technological competitiveness.",
+          "Recent coverage of Muse continued. AI Times reported that on the 7th (local time) Meta released an iPad-only Muse app, a month after launching apps for Android and iPhone on the 8th of last month. The same outlet reported, citing The New York Times on the 11th, that Meta reportedly rushed out Muse, which it had delayed for months over safety concerns, under competitive pressure, and that the startup Instinct was cited as a factor behind the decision."
+        ]
+      }
     },
     {
       "id": "h20261013-390b84b0620a",
@@ -3786,7 +4157,22 @@
         }
       ],
       "author": "Chloe Park",
-      "published": "2026-10-13T09:41:51.926Z"
+      "published": "2026-10-13T09:41:51.926Z",
+      "en": {
+        "title": "AMD Unveils Helion Server Racks for Agentic AI, Pairing CPUs and GPUs",
+        "points": [
+          "AMD unveils Helion rack for agentic AI",
+          "CPU-only rack supports up to 32,768 cores",
+          "Intel also shows Xeon rack design and inference GPU"
+        ],
+        "body": [
+          "AMD unveiled \"Helion,\" a rack-scale AI infrastructure design that can combine central processing units (CPUs) and graphics processing units (GPUs) to suit the tasks AI agents handle, on the 12th (local time). iNews24 and Chosun Biz reported that its feature is that companies can choose server configurations according to the performance and power consumption they need.",
+          "AI Newspaper (인공지능신문) reported that configurations can be chosen from CPU-only to integrated systems combining CPUs and GPUs. Chosun Biz and Techworld News both reported that the CPU-only rack supports up to 32,768 CPU cores. TheElec explained that, unlike the existing \"Helios,\" which ties together GPUs at large scale, the design focuses on running many AI agents at the same time. TechM reported that it is based on Open Compute Project (OCP) specifications, and Digital Today reported a November release.",
+          "Chosun Biz reported that as AI agents spread, CPUs are growing in importance, and AMD is aiming to strengthen competition with Nvidia by putting forward an open ecosystem.",
+          "Intel also unveiled infrastructure aimed at agentic AI at OCP Global Summit 2026. According to TheElec, its AI inference GPU, the D-Series, has an air-cooled design and supports the standard PCIe 5.0 interface, so it can be installed in data centers right away without additional dedicated racks or cooling equipment. Chosun Biz reported that its Xeon processor-based server rack design fits more than 46,000 CPU cores in a single rack in some configurations.",
+          "There was also recent coverage of AMD. iNews24 reported that AMD Chairman Lisa Su, who is visiting Korea, said the company plans to hire several hundred AI researchers in Korea. EBN reported that on the 8th, Su said AMD had begun receiving high-bandwidth memory (HBM) supply from Samsung Electronics and SK hynix."
+        ]
+      }
     },
     {
       "id": "h20261013-65bf806b8ea4",
@@ -3890,7 +4276,21 @@
         }
       ],
       "author": "Ethan Chen",
-      "published": "2026-10-13T09:41:51.926Z"
+      "published": "2026-10-13T09:41:51.926Z",
+      "en": {
+        "title": "Krafton Holds Largest-Ever New-Hire Recruitment, Picking 100+ \"AI Natives\"",
+        "points": [
+          "Krafton to hire 100+ new graduates across all roles",
+          "Internship applications open through the 23rd",
+          "Largest ever, in line with AI First shift"
+        ],
+        "body": [
+          "Krafton began recruiting for its \"2027 Krafton hiring-linked internship\" on the 13th. It will select more than 100 new hires with AI skills across all job categories, and several outlets reported it is the largest new-hire open recruitment in Krafton's history. TheElec put \"hiring 100\" in its headline, while Industry News described it as a three-digit number.",
+          "Document applications run from the 13th to the 23rd. According to Inven, applications are accepted on Krafton's recruitment website for six job categories including AI research, with screening from November to December, final results announced in January 2027 and joining in February. Chosun Biz reported that the categories include AI research, tech and support.",
+          "Kukmin Ilbo and TheElec reported that Krafton declared a shift to an \"AI First\" company in the second half of last year. EBN explained that in step with this, the plan is to secure people with AI skills across all roles and speed up expansion of new businesses. Industry News pointed out that the company is pursuing business diversification based on technology built in game development and service operations. IT Chosun reported that Krafton plans to make the hiring-linked internship a regular annual program starting with this recruitment.",
+          "There has also been recent AI activity at Krafton. iNews24 reported that on the 8th Krafton began joint research with Seoul National University on a \"world model\" usable in games and robotics. A world model is technology in which AI understands its surroundings and predicts how a situation will change depending on a specific action. Industry News said the research extends beyond games into physical AI and robotics."
+        ]
+      }
     },
     {
       "id": "h20261013-e775b32d1e32",
@@ -4043,7 +4443,22 @@
         }
       ],
       "author": "Ashley Yang",
-      "published": "2026-10-13T09:41:51.926Z"
+      "published": "2026-10-13T09:41:51.926Z",
+      "en": {
+        "title": "KES 2026 Opens: Samsung and LG Compete With AI in Daily Life and Industry",
+        "points": [
+          "KES 2026 opens at COEX on the 13th",
+          "500+ companies from 28 countries, through the 16th",
+          "Samsung and LG show AI appliances and data centers"
+        ],
+        "body": [
+          "The 57th Korea Electronics Show (KES 2026) opened at COEX in Seoul on the 13th. It runs four days through the 16th, and iNews24 reported that more than 500 companies from 28 countries are taking part in the event hosted by the Ministry of Trade, Industry and Resources. Industry News conveyed the scene on opening day, when Halls A and B at COEX were crowded with visitors in the morning.",
+          "On the same day, the Ministry of Trade, Industry and Resources launched \"K Connect AI,\" linking five exhibitions under the theme of AI: the Korea Electronics Show, the Semiconductor Exhibition, Industrial AI Expo, Asia Machinery & Manufacturing Industry Show and Robot World. Digital Daily reported that it links five exhibitions including the Korea Electronics Show, and Newsis reported that a launch ceremony was held at COEX. iNews24 explained that the aim is to promote Korean companies' technology abroad and widen export opportunities by linking the individual shows. EBN reported that the plan is to grow it into an industrial AI business platform.",
+          "Samsung Electronics said through its newsroom that it is taking part from the 13th to the 16th and showing products with AI technology in displays, home appliances, mobile and more. Techworld News reported that the experience space covers about 869 square meters (263 pyeong).",
+          "LG Electronics put forward \"LG Life Layer.\" EBN reported that it is a set of solutions spanning daily life and industry, including home appliances, mobility, AI data centers, smart factories and robots, and Korea NGO News said it showcased everything from appliance subscriptions and modular housing to AI data center cooling, smart factories and in-vehicle solutions. TheElec noted that the products extend core technologies such as HVAC and motors into AI data centers and physical AI.",
+          "Outlets describe the two companies differently. Digital Today called it a \"showdown\" built around AI appliances and subscription services, IT Chosun called it an \"AI competition,\" and AI Times described it as a contest to catch general visitors' eyes."
+        ]
+      }
     },
     {
       "id": "h20261013-8cf527c2e62a",
