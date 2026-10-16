@@ -366,6 +366,8 @@ ${urls.map((u) => `  <url><loc>${u.loc}</loc>${u.lastmod ? `<lastmod>${u.lastmod
 </urlset>
 `;
 await writeFile(path.join(pub, 'sitemap.xml'), xml);
+// Search Console 이 sitemap.xml 을 계속 Couldn't fetch 로 두어 같은 내용을 다른 이름으로도 냅니다(2026-10-16)
+await writeFile(path.join(pub, 'sitemap-all.xml'), xml);
 
 // 자체 RSS 피드(/recap/feed.xml): 정리 기사와 브리핑 최신 50건. 본문 대신 핵심 요약을 설명으로 넣고 전문은 사이트로 연결합니다.
 const rfc822 = (iso) => new Date(iso).toUTCString();

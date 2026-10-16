@@ -3,3 +3,4 @@ Allow: /
 Disallow: /draft/
 
 Sitemap: https://ainewswave.com/sitemap.xml
+Sitemap: https://ainewswave.com/sitemap-all.xml
