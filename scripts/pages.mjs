@@ -387,7 +387,7 @@ await writeFile(path.join(pub, 'sitemap.xml'), xml);
 // Search Console 이 sitemap.xml 을 계속 Couldn't fetch 로 두어 같은 내용을 다른 이름으로도 냅니다(2026-10-16)
 await writeFile(path.join(pub, 'sitemap-all.xml'), xml);
 
-// 자체 RSS 피드(/recap/feed.xml): 정리 기사와 브리핑 최신 50건. 본문 대신 핵심 요약을 설명으로 넣고 전문은 사이트로 연결합니다.
+// 자체 RSS 피드(/recap/feed.xml): 정리 기사와 브리핑 최신 500건(사이트맵이 Couldn't fetch 라 구글이 이 피드로 새 글을 찾으므로 전체를 담음, 2026-10-17). 본문 대신 핵심 요약을 설명으로 넣고 전문은 사이트로 연결합니다.
 const rfc822 = (iso) => new Date(iso).toUTCString();
 const cdata = (t) => `<![CDATA[${String(t).replace(/]]>/g, ']]&gt;')}]]>`;
 const feed = `<?xml version="1.0" encoding="UTF-8"?>
@@ -399,7 +399,7 @@ const feed = `<?xml version="1.0" encoding="UTF-8"?>
   <description>여러 매체가 함께 보도한 AI 소식을 사실만 모아 새로 정리한 글과 매일 AI 브리핑</description>
   <language>ko</language>
   <lastBuildDate>${rfc822(now)}</lastBuildDate>
-${sorted.slice(0, 50).map((st) => `  <item>
+${sorted.slice(0, 500).map((st) => `  <item>
     <title>${cdata(st.title)}</title>
     <link>${SITE}/recap/${st.id}.html</link>
     <guid isPermaLink="true">${SITE}/recap/${st.id}.html</guid>
