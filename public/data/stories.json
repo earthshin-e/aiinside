@@ -5,6 +5,548 @@
   ],
   "stories": [
     {
+      "id": "b20261016",
+      "type": "briefing",
+      "title": "10월 16일 AI 브리핑: 엔젤로보틱스 대표 복귀와 챗GPT 보이스",
+      "category": "일반",
+      "published": "2026-10-16T09:40:37.948Z",
+      "points": [
+        "피지컬 AI, 인프라 자금, 음성 AI 소식 이어져",
+        "메타 오픈웨이트 공개와 FTC의 AI 기업 조사",
+        "AI 투자 우려 속 뉴욕증시 반등"
+      ],
+      "body": [
+        "엔젤로보틱스는 16일 이사회를 열고 창업자 공경철 이사회 의장을 대표이사로 선임했다고 공시했다. 2024년 10월 전문경영인 체제로 바뀐 지 2년 만이며, 인공지능신문은 웨어러블 로봇을 넘어 피지컬 AI 중심으로 전략을 강화한다고 전했다.",
+        "오픈AI는 챗GPT 음성 기능 ‘보이스’에 새 음성 모델 GPT-라이브-1.1을 적용했다. 억양과 음성 표현이 개선됐고, 한국어 목소리 ‘한울’과 ‘햇살’이 추가됐다.",
+        "베슬AI는 한국투자증권과 GPU 파이낸싱 업무협약을 맺었다. 한국투자증권이 투자 확대와 자금 조달을 지원하고, 구체적인 투자 구조와 규모는 프로젝트별 협의로 정해진다. LG유플러스는 오스트리아 빈에서 열린 네트워크 X 2026에서 AI 기반 와이파이 기술을 공개했다.",
+        "메타는 15일(현지시간) 8160억 매개변수의 ‘뮤즈 스파크 오픈’을 공개했다. 인공지능신문에 따르면 메타는 이 모델이 지금까지 미국에서 공개된 가장 강력한 오픈 웨이트 모델이라고 밝혔다. 디지털데일리는 애플과 협력해 고성능 맥에서도 모델을 직접 구동할 수 있게 했다고 전했다.",
+        "미국 연방거래위원회(FTC)는 AI 안전사고와 소비자 피해 가능성을 조사하기 위해 오픈AI와 앤트로픽에 소환장을 발부했다고 AI타임스가 보도했다. 조선비즈는 두 회사가 자사 AI 에이전트의 무단 해킹 등 보안 사고와 관련해 자료 제출을 요구받았다고 전했다. 한편 IT조선과 뉴시스에 따르면 앤트로픽은 AI 안전성을 독립적으로 평가받기 위해 외부 평가 기관에 직원 수준의 접근 권한을 부여했다.",
+        "15일 뉴욕증시는 3대 지수가 일제히 상승 마감했다. 국채금리 하락이 반등을 이끌었고, AI 기업의 투자 비용과 부채 부담 우려는 여전했다. 디지털데일리는 반도체와 AI 서버주가 약세였다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "6636e12ae4b2",
+          "name": "조선비즈",
+          "title": "공경철 엔젤로보틱스 창업자, 2년 만에 대표 복귀… “피지컬 AI 사업 확대”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/16/WJ6HDAXVHRADRANHDTTFJN3R2Y"
+        },
+        {
+          "id": "b90a8a703d2c",
+          "name": "인공지능신문",
+          "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42326"
+        },
+        {
+          "id": "fb684363c899",
+          "name": "청년의사",
+          "title": "엔젤로보틱스, 대표이사에 공경철 창업자 선임",
+          "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043698"
+        },
+        {
+          "id": "6c09ee6ee261",
+          "name": "AI타임스",
+          "title": "\"한국어 억양 더 자연스럽게\"...오픈AI, '챗GPT 보이스' 업데이트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216324"
+        },
+        {
+          "id": "58ccab56deaa",
+          "name": "디지털데일리",
+          "title": "챗GPT, 한국어 목소리 더 자연스럽게… 오픈AI, 음성 기능 업데이트",
+          "link": "https://www.ddaily.co.kr/page/view/2026101611293110989"
+        },
+        {
+          "id": "b9a310460067",
+          "name": "테크월드뉴스",
+          "title": "베슬에이아이-한국투자증권, GPU 인프라 확충 위한 금융 협력",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408335"
+        },
+        {
+          "id": "7310556220f5",
+          "name": "벤처스퀘어",
+          "title": "베슬AI, 한국투자증권과 GPU 파이낸싱 협약…AI 인프라 투자·자금 조달 협력",
+          "link": "https://www.venturesquare.net/1120456"
+        },
+        {
+          "id": "27f930724b3b",
+          "name": "디일렉",
+          "title": "LG U+, '네트워크 X'서 AI 기반 차세대 와이파이 기술 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63833"
+        },
+        {
+          "id": "c5fc408d4085",
+          "name": "조선비즈",
+          "title": "LG유플러스, 유럽서 AI 기반 차세대 와이파이 기술 선보여",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/16/JTLSANBZE5BNDPLFOU4PXWDTEI"
+        },
+        {
+          "id": "db47ae144c97",
+          "name": "디지털데일리",
+          "title": "메타, 8160억 매개변수 오픈웨이트 AI '뮤즈 스파크 오픈' 공개",
+          "link": "https://www.ddaily.co.kr/page/view/2026101613085863797"
+        },
+        {
+          "id": "dd70c457e137",
+          "name": "인공지능신문",
+          "title": "“美 역대 최강, AI 오픈 웨이트 모델”…메타, 8160억 매개변수 ‘뮤즈 스파크 오픈’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42323"
+        },
+        {
+          "id": "879122f6b1f5",
+          "name": "AI타임스",
+          "title": "FTC, 오픈AI·앤트로픽에 소환장 발부…\"AI 안전사고·소비자 피해 조사\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216326"
+        },
+        {
+          "id": "c03832a21134",
+          "name": "조선비즈",
+          "title": "美 FTC, ‘AI 무단 해킹’ 논란 오픈AI·앤트로픽 조사…경영진 소환",
+          "link": "https://biz.chosun.com/international/international_economy/2026/10/15/YBE7ZYMPWBAPBGOYVE6F2PZXQY"
+        },
+        {
+          "id": "f36c1289fa47",
+          "name": "베타뉴스",
+          "title": "뉴욕증시, 3대지수 일제히 상승 마감...AI 투자 부담에도 美국채금리 하락에 반등",
+          "link": "https://www.betanews.net/article/view/beta202610160067"
+        },
+        {
+          "id": "a8cd804e1475",
+          "name": "EBN",
+          "title": "美 뉴욕증시, 국채금리 하락에 일제히 상승…AI 경계감은 여전",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728045"
+        },
+        {
+          "id": "ffb114efb247",
+          "name": "바이라인네트워크",
+          "title": "13년 연속 흑자 낸 인텔리빅스, ‘자율형 안전 AI’로 코스닥 도전",
+          "link": "https://byline.network/2026/10/16-728"
+        },
+        {
+          "id": "632a3cd233b5",
+          "name": "AI타임스",
+          "title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216333"
+        },
+        {
+          "id": "485c83cfbcbc",
+          "name": "AI타임스",
+          "title": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216341"
+        },
+        {
+          "id": "3b0e59f41156",
+          "name": "디지털데일리",
+          "title": "말 한마디로 영상 찾고 편집까지… 트웰브랩스, 영상 AI 에이전트 출시",
+          "link": "https://www.ddaily.co.kr/page/view/2026101614094658691"
+        },
+        {
+          "id": "cc3f601b162e",
+          "name": "IT조선",
+          "title": "앤트로픽, 외부 연구진에 ‘직원급’ 내부 접근권 개방… AI 안전성 독립 검증",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172191"
+        },
+        {
+          "id": "57f43ac72a87",
+          "name": "뉴시스",
+          "title": "앤트로픽, AI 안전성 외부 검증 확대…직원 수준 접근권 부여",
+          "link": "https://www.newsis.com/view/NISX20261016_0003828551"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-ead033779d99",
+      "title": "KT, 소상공인용 AI 매장음악 서비스 ‘래디오비즈’ 출시",
+      "category": "기업",
+      "published": "2026-10-16T08:32:15.000Z",
+      "points": [
+        "KT, AI 매장음악 서비스 래디오비즈 출시",
+        "어플레이즈와 협력한 모바일 부가서비스",
+        "카페, 음식점 등 소상공인 대상"
+      ],
+      "body": [
+        "KT가 AI 공간 음악 플랫폼 운영사 어플레이즈와 협력해 소상공인 전용 AI 매장음악 서비스 ‘래디오비즈(RaiDIO Biz)’를 KT 모바일 부가서비스로 출시했다고 16일 밝혔다.",
+        "AI타임스에 따르면 AI가 카페, 음식점, 미용실 등 업종과 매장 환경에 맞는 음악을 추천해 자동으로 재생한다. 조선비즈와 아이뉴스24는 매장 운영에 필요한 음악과 방송, 고객 관리 기능을 제공한다고 전했다.",
+        "디지털투데이는 카페, 음식점, 미용실, 병원 등 소상공인 매장을 대상으로 음악 재생과 안내 기능을 제공한다고 소개했다."
+      ],
+      "sources": [
+        {
+          "id": "ead033779d99",
+          "name": "AI타임스",
+          "title": "[게시판] KT, AI 기반 매장음악 서비스 '래디오비즈' 출시 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216349"
+        },
+        {
+          "id": "5e06e96f4089",
+          "name": "아이뉴스24",
+          "title": "KT, AI 기반 매장음악 서비스 '래디오비즈' 출시",
+          "link": "https://www.inews24.com/view/2015697"
+        },
+        {
+          "id": "2c4a61a02a4d",
+          "name": "조선비즈",
+          "title": "KT, 소상공인용 AI 매장음악 서비스 ‘래디오비즈’ 출시",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/16/PKS7WZJNUBHBFHCDLYKKIWPPPQ"
+        },
+        {
+          "id": "3a4b05f3ca35",
+          "name": "디지털투데이",
+          "title": "\"매장 음악도 AI가 관리\"…KT, '래디오비즈' 출시",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707637"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-485c83cfbcbc",
+      "title": "트웰브랩스, 영상 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+      "category": "생성형AI",
+      "published": "2026-10-16T08:19:55.000Z",
+      "points": [
+        "트웰브랩스, 영상 AI 에이전트 자키 출시",
+        "말로 요청하면 장면 검색부터 편집까지",
+        "자체 영상 이해 모델 기반"
+      ],
+      "body": [
+        "트웰브랩스가 영상 이해 AI 에이전트 ‘자키 바이 트웰브랩스(Jockey by TwelveLabs)’를 정식 출시했다고 16일 밝혔다. 자키는 이용자가 자연어로 요청하면 영상에서 필요한 장면을 찾아 편집하는 데까지 이어지는 서비스다.",
+        "회사가 자체 개발한 영상 이해 파운데이션 모델을 기반으로 한다. AI타임스에 따르면 임베딩과 메타데이터 생성 기술을 적용했고, 개발 지식이 없는 일반 사용자도 쉽게 영상을 편집하도록 돕는 데 초점을 맞췄다.",
+        "테크월드뉴스는 영상 검색, 분석, 편집을 하나의 흐름으로 연결해 파운데이션 모델부터 에이전트까지 아우르는 풀스택 전략을 강화했다고 전했다. 디지털데일리는 쌓인 영상을 일일이 돌려보던 장면 찾기를 AI에게 말로 시키는 방식으로 바꿨다고 소개했다."
+      ],
+      "sources": [
+        {
+          "id": "485c83cfbcbc",
+          "name": "AI타임스",
+          "title": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216341"
+        },
+        {
+          "id": "450504347ef5",
+          "name": "테크월드뉴스",
+          "title": "트웰브랩스, 영상 이해 AI 에이전트 ‘자키’ 출시…풀스택 전략 강화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408336"
+        },
+        {
+          "id": "3b0e59f41156",
+          "name": "디지털데일리",
+          "title": "말 한마디로 영상 찾고 편집까지… 트웰브랩스, 영상 AI 에이전트 출시",
+          "link": "https://www.ddaily.co.kr/page/view/2026101614094658691"
+        },
+        {
+          "id": "70fac078a3b8",
+          "name": "디지털투데이",
+          "title": "트웰브랩스, 영상 이해 AI 에이전트 '자키' 정식 출시",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707610"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-ffb114efb247",
+      "title": "인텔리빅스, 13년 연속 흑자로 30일 코스닥 일반상장",
+      "category": "기업",
+      "published": "2026-10-16T08:14:11.000Z",
+      "points": [
+        "인텔리빅스, 10월 30일 코스닥 상장",
+        "13년 연속 흑자로 일반상장 추진",
+        "국방, 자율주행, 선박으로 적용 확대"
+      ],
+      "body": [
+        "영상분석 AI 기업 인텔리빅스가 16일 서울 여의도에서 기자간담회를 열고 10월 30일 코스닥에 상장한다고 밝혔다. 기술특례상장이 아니라 실적 요건을 충족한 일반상장 방식이라는 점이 여러 매체에서 공통으로 강조됐다.",
+        "벤처스퀘어에 따르면 회사는 13년 연속 영업흑자를 냈고 지난해 매출 466억원, 영업이익 49억원을 기록했다. 바이라인네트워크는 상장으로 확보한 자금을 자체 AI 기술 고도화에 쓸 계획이라고 전했다.",
+        "사업 방향으로는 기존 영상관제를 넘어 위험 상황을 이해하고 대응까지 판단하는 자율형 안전 AI가 제시됐다. 테크월드뉴스와 데이터넷은 국방 AI와 피지컬 AI로 사업을 넓히겠다는 계획을 전했고, AI타임스는 서버, 카메라, 로봇 등 현장 맞춤형 솔루션을 자율주행과 선박 안전 운항으로 확대하겠다는 설명을 실었다."
+      ],
+      "sources": [
+        {
+          "id": "ffb114efb247",
+          "name": "바이라인네트워크",
+          "title": "13년 연속 흑자 낸 인텔리빅스, ‘자율형 안전 AI’로 코스닥 도전",
+          "link": "https://byline.network/2026/10/16-728"
+        },
+        {
+          "id": "cb555eb52ab5",
+          "name": "벤처스퀘어",
+          "title": "“AI 기업도 흑자 낼 수 있다”…인텔리빅스, 13년 연속 흑자로 코스닥 일반상장 도전",
+          "link": "https://www.venturesquare.net/1120497"
+        },
+        {
+          "id": "8f6e3adfd423",
+          "name": "테크월드뉴스",
+          "title": "인텔리빅스, 30일 코스닥 상장…목표는 ‘K-AI 대표기업’",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408333"
+        },
+        {
+          "id": "632a3cd233b5",
+          "name": "AI타임스",
+          "title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216333"
+        },
+        {
+          "id": "6670c28baf90",
+          "name": "데이터넷",
+          "title": "인텔리빅스, 13년 연속 흑자로 코스닥 상장…안전 AI 사업 확대",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215153"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-4ed50bd62b2b",
+      "title": "티오리, 오픈AI에 이어 앤트로픽 보안 AI 프로그램 참여",
+      "category": "보안/윤리",
+      "published": "2026-10-16T06:44:39.000Z",
+      "points": [
+        "티오리, 앤트로픽 사이버 검증 프로그램 참여",
+        "검증된 보안 기업에만 고급 AI 기능 제공",
+        "오픈AI 보안 AI 이어 두 번째"
+      ],
+      "body": [
+        "AI 기반 오펜시브 보안 기업 티오리가 앤트로픽의 ‘사이버 검증 프로그램(CVP)’ 참여 기업으로 승인됐다고 16일 밝혔다. 디지털데일리는 최종 승인을 받았다고 전했다.",
+        "앤트로픽 CVP는 별도의 자격 검증을 거친 보안 기업과 전문가에게만 일반 공개가 제한된 고성능 사이버 보안 AI 기능을 제공하는 프로그램이다. 테크M은 티오리가 오픈AI와 앤트로픽의 사이버 보안 AI에 선제적으로 접근할 권한을 얻었다고 설명했고, 디지털데일리는 제목에서 오픈AI에 이어 두 번째 참여라고 밝혔다.",
+        "보안뉴스는 티오리가 이 프로그램을 자사 보안 제품 ‘진트’ 고도화에 활용할 계획이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "4ed50bd62b2b",
+          "name": "보안뉴스",
+          "title": "티오리, 앤트로픽 보안 특화 AI 프로그램 참여... ‘진트’ 고도화에 활용",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146457"
+        },
+        {
+          "id": "e748cc2ea210",
+          "name": "테크M",
+          "title": "티오리, 앤트로픽 CVP 참여 승인...보안 특화 AI 우선 접근권 확보",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156183"
+        },
+        {
+          "id": "1ed808f32434",
+          "name": "디지털투데이",
+          "title": "티오리, 앤트로픽 보안 특화 AI 프로그램도 참여",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707687"
+        },
+        {
+          "id": "a103c32b942f",
+          "name": "디지털데일리",
+          "title": "티오리, 오픈AI 이어 앤트로픽 '보안 특화 AI' 프로그램 참여",
+          "link": "https://www.ddaily.co.kr/page/view/2026101610015751350"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-12f41b95839a",
+      "title": "효성중공업, 창원에 수출용 초고압차단기 신공장 준공",
+      "category": "기업",
+      "published": "2026-10-16T05:52:56.000Z",
+      "points": [
+        "효성중공업, 창원 신공장 준공",
+        "420kV, 550kV, 800kV 수출용 전담",
+        "AI 데이터센터발 전력 수요 대응"
+      ],
+      "body": [
+        "효성중공업이 16일 경남 창원공장에 수출 전용 초고압차단기 신공장을 준공했다. 신공장은 420kV, 550kV, 800kV 등 수출용 초고압차단기 생산을 전담한다.",
+        "한국NGO신문에 따르면 신공장은 약 1만 8996㎡ 규모다. 매체들은 글로벌 전력기기 시장의 슈퍼사이클에 대응한 공급망 확충이라고 설명했다.",
+        "AI 요인도 거론됐다. 블로터는 AI 데이터센터가 급증하면서 전력망 과부하와 공급 부족이 나타나는 상황에 대비해 생산능력을 미리 늘렸다고 전했고, 조선비즈는 조현준 효성 회장이 AI 시장 팽창으로 심화된 전력 인프라 부족 문제를 해결하라고 주문한 데 따른 투자라고 보도했다."
+      ],
+      "sources": [
+        {
+          "id": "12f41b95839a",
+          "name": "EBN",
+          "title": "효성重, 수출 전용 초고압차단기 신공장 준공…\"AI 전력 병목 뚫는다\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728112"
+        },
+        {
+          "id": "b6160b387248",
+          "name": "한국NGO신문",
+          "title": "효성중공업, 창원 초고압차단기 신공장 준공···'AI 병목' 정면 돌파",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=240699"
+        },
+        {
+          "id": "33633a5b7fff",
+          "name": "조선비즈",
+          "title": "조현준 “AI 병목 해결할 핵심 파트너 되자”… 효성重, 수출 전용 초고압차단기 신공장 준공",
+          "link": "https://biz.chosun.com/industry/company/2026/10/16/6UCQ5S46ZJH2ZCHEAKZ4G2L33I"
+        },
+        {
+          "id": "1aaf041ebded",
+          "name": "블로터",
+          "title": "\"AI 전력 대란 해결\"…효성重, 창원에 수출용 초고압차단기 공장 준공",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675825"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-11199d4c548b",
+      "title": "리미니스트리트 CEO “기존 ERP 위에 AI를 얹어라”",
+      "category": "기업",
+      "published": "2026-10-16T05:27:44.000Z",
+      "points": [
+        "리미니스트리트, 에이전틱 AI ERP 제시",
+        "기존 ERP 15~20년 더 사용 주장",
+        "AI 퍼스트 대신 AI 라스트 강조"
+      ],
+      "body": [
+        "세스 레이빈 리미니스트리트 CEO가 15일 한국 언론과 만나 기존 ERP를 전면 교체하지 말고 그 위에 AI를 결합하라고 주장했다. IT조선에 따르면 그는 기존 시스템을 앞으로 15~20년 더 쓰면서 AI와 새로운 기술을 얹을 수 있다고 말했다.",
+        "디지털데일리는 리미니스트리트가 자체 유지보수로 ERP 사용 기한을 2040년 이후까지 늘리고 ‘에이전틱 AI ERP’로 국내 시장 확대에 나선다고 전했다. 시사저널e는 새 시스템 전환에 수천억원과 3~5년이 든다는 점을 들어 교체 방식이 한계에 이르렀다는 취지의 발언을 실었다.",
+        "바이라인네트워크는 “AI 퍼스트가 아니라 AI 라스트여야 한다”는 발언을 전했다. 먼저 혁신 목표를 정하고 프로세스를 고쳐 자동화한 뒤 AI를 투입할 곳을 봐야 한다는 설명이다."
+      ],
+      "sources": [
+        {
+          "id": "11199d4c548b",
+          "name": "바이라인네트워크",
+          "title": "리미니스트리트 CEO “AI 퍼스트보다 AI 라스트여야”",
+          "link": "https://byline.network/2026/10/16-720"
+        },
+        {
+          "id": "202cd35f7d20",
+          "name": "IT조선",
+          "title": "리미니스트리트 CEO “기존 ERP 20년 더 쓴다…AI 결합해 혁신 가능”",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172109"
+        },
+        {
+          "id": "d126f7253e1d",
+          "name": "디지털데일리",
+          "title": "세스 레이빈 CEO “ERP 위에 AI를 얹어라”…리미니스트리트, '에이전틱 AI ERP' 제시",
+          "link": "https://www.ddaily.co.kr/page/view/2026101515150702335"
+        },
+        {
+          "id": "02a44a5fa214",
+          "name": "시사저널e",
+          "title": "리미니스트리트 “ERP 교체는 끝났다···AI로 옮겨갈 것”",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424332"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-bdd7a11e3e58",
+      "title": "엑시나, OCP 서밋서 AI 추론용 CXL 메모리 기술 공개",
+      "category": "반도체",
+      "published": "2026-10-16T05:09:29.000Z",
+      "points": [
+        "엑시나, OCP 글로벌 서밋 2026 참가",
+        "CXL 기반 AI 추론 메모리 솔루션 공개",
+        "SK하이닉스와 공동 검증 추진"
+      ],
+      "body": [
+        "반도체 팹리스 엑시나(XCENA)가 12일부터 15일까지(현지시간) 미국 새너제이 컨벤션센터에서 열린 ‘OCP 글로벌 서밋 2026’에 참가해 AI 추론용 메모리 기술을 선보였다.",
+        "핵심은 CXL(Compute Express Link) 기반 메모리 솔루션이다. 매체들은 AI 추론 과정에서 늘어나는 메모리 수요와 데이터 이동 부담, 그로 인한 병목을 줄이는 기술이라고 설명했다.",
+        "디지털데일리에 따르면 엑시나는 이를 시작으로 SK하이닉스와 CXL 기반 메모리 확장 기술을 공동 검증하고, 삼성전자 등 주요 반도체 기업과도 협력을 넓힐 계획이다."
+      ],
+      "sources": [
+        {
+          "id": "bdd7a11e3e58",
+          "name": "디지털데일리",
+          "title": "엑시나, OCP 서밋서 AI 추론용 CXL 메모리 기술 공개…SK하이닉스와 협력",
+          "link": "https://www.ddaily.co.kr/page/view/2026101612002085159"
+        },
+        {
+          "id": "9b36c22d82d1",
+          "name": "데이터넷",
+          "title": "엑시나, ‘OCP 글로벌 서밋 2026’ 참가 ··· AI 추론 차세대 메모리 솔루션 시연",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215144"
+        },
+        {
+          "id": "d24404eeab58",
+          "name": "디지털투데이",
+          "title": "엑시나, ‘OCP 글로벌 서밋 2026’ 참가...AI 추론 지원 메모리 인프라 기술 선봬",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707656"
+        },
+        {
+          "id": "af8cd5b9d38a",
+          "name": "테크월드뉴스",
+          "title": "엑시나, OCP 2026서 CXL 메모리 솔루션 공개…AI 추론 병목 줄인다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408302"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-f36c1289fa47",
+      "title": "뉴욕증시 3대 지수 상승, AI 투자 우려 속 국채금리 하락 영향",
+      "category": "기업",
+      "published": "2026-10-16T02:34:03.000Z",
+      "points": [
+        "뉴욕증시 3대 지수 일제히 상승 마감",
+        "국채금리 하락이 반등 이끌어",
+        "AI 투자 부담에 반도체, 서버주는 약세"
+      ],
+      "body": [
+        "15일(현지시간) 뉴욕증시에서 다우존스30산업평균지수, S&P500지수, 나스닥지수가 일제히 상승 마감했다. 조선비즈에 따르면 다우지수는 556.21포인트(1.08%) 오른 5만2177.69에 거래를 마쳤다.",
+        "상승 요인으로는 미 국채금리 하락이 꼽혔다. 베타뉴스와 EBN은 AI 기업의 막대한 투자 비용과 부채 부담을 둘러싼 우려가 기술주를 눌렀지만 소비주 등으로 매수세가 번졌다고 전했다.",
+        "디지털데일리는 장 초반 약세였던 기술주가 금리 하락으로 낙폭을 만회했으나 반도체와 AI 서버주는 약세를 보였다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "f36c1289fa47",
+          "name": "베타뉴스",
+          "title": "뉴욕증시, 3대지수 일제히 상승 마감...AI 투자 부담에도 美국채금리 하락에 반등",
+          "link": "https://www.betanews.net/article/view/beta202610160067"
+        },
+        {
+          "id": "a8cd804e1475",
+          "name": "EBN",
+          "title": "美 뉴욕증시, 국채금리 하락에 일제히 상승…AI 경계감은 여전",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728045"
+        },
+        {
+          "id": "af0fcb4f595d",
+          "name": "조선비즈",
+          "title": "뉴욕증시, AI 투자 우려에도 국채 금리 하락에 상승 마감",
+          "link": "https://biz.chosun.com/international/international_economy/2026/10/16/75DG2D2QJZG4RECWLJKPU4VLGE"
+        },
+        {
+          "id": "b453239851cf",
+          "name": "디지털데일리",
+          "title": "美 뉴욕증시 국채금리 하락에 반등…AI 반도체·서버주는 약세",
+          "link": "https://www.ddaily.co.kr/page/view/2026101605592437968"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261016-eac1560bccfe",
+      "title": "LH, ‘AI 대전환’ 선포하고 AI 혁신처 신설",
+      "category": "정책",
+      "published": "2026-10-15T13:03:09.000Z",
+      "points": [
+        "LH, AI 대전환 선포식 개최",
+        "AI 혁신처 신설, CEO가 실행 점검",
+        "안전관리, 하자 처리, 입주민 돌봄에 적용"
+      ],
+      "body": [
+        "한국토지주택공사(LH)가 15일 서울지역본부에서 이성훈 사장과 주요 경영진이 참석한 가운데 ‘LH AI 대전환’ 선포식을 열고 전사적 AI 경영혁신에 나선다고 밝혔다.",
+        "뉴시스와 조선비즈는 AI 혁신처를 새로 만든다고 전했다. 뉴시스에 따르면 CEO가 직접 AX(AI 전환) 실행을 점검하는 운영체계도 갖춘다.",
+        "베타뉴스와 전기신문에 따르면 건설현장 안전관리, 하자 처리, 입주민 돌봄 등 주요 업무에 AI 적용을 넓힐 계획이다. 베타뉴스는 제목에서 하자 처리 기간이 31% 단축된다고 밝혔다."
+      ],
+      "sources": [
+        {
+          "id": "eac1560bccfe",
+          "name": "전기신문",
+          "title": "LH, ‘AI 대전환’ 선포…CEO 주도 경영혁신 본격화",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=373504"
+        },
+        {
+          "id": "c5a30f6894d6",
+          "name": "베타뉴스",
+          "title": "LH, 'AI 대전환' 선포…하자 처리 31% 단축, 주거 혁신 추진",
+          "link": "https://www.betanews.net/article/view/beta202610150178"
+        },
+        {
+          "id": "c8561373df83",
+          "name": "조선비즈",
+          "title": "LH, AI 혁신처 신설… 이성훈 사장 “AI 대전환으로 국민 주거 혁신”",
+          "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/15/D2MPNCHCYRDCVCJSMFNBP7AMQ4"
+        },
+        {
+          "id": "2c949bb1d38d",
+          "name": "뉴시스",
+          "title": "LH, 'AI 혁신처' 신설…\"경영혁신 본격화\"",
+          "link": "https://www.newsis.com/view/NISX20261015_0003827624"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "b20261015",
       "type": "briefing",
       "title": "10월 15일 AI 브리핑: 코스피 급락, 오픈AI 소송과 도청 사건",
@@ -490,6 +1032,55 @@
           "Industry News (인더스트리뉴스) reported that Samsung announced an AI-native network roadmap as telecom infrastructure, once hardware-centered, shifts toward virtualization and software. Techworld News said in its headline that satellite communication technology is also among the items on display."
         ]
       }
+    },
+    {
+      "id": "s20261016-c063d52eacb8",
+      "title": "SKT, 장애청소년 110명 참여한 ‘행복 AI 챌린지’ 개최",
+      "category": "일반",
+      "published": "2026-10-15T06:33:29.000Z",
+      "points": [
+        "SKT, 장애청소년 대상 AI 경진대회 개최",
+        "14일부터 이틀간 이천 인재개발원",
+        "코딩 교육에서 AI 활용으로 중심 이동"
+      ],
+      "body": [
+        "SK텔레콤이 장애청소년이 AI를 활용해 창의력과 문제해결 역량을 겨루는 ‘2026 행복 AI 챌린지’를 열었다고 15일 밝혔다. 14일부터 이틀간 경기도 이천 SK텔레콤 인재개발원에서 진행됐고, 올해로 27회째다.",
+        "아이뉴스24와 EBN에 따르면 장애청소년 110명이 참여했고, EBN은 지도교사 44명도 함께했다고 전했다. 행사 주제는 ‘생각을 잇고 미래를 만나다’다.",
+        "인더스트리뉴스는 SK텔레콤이 올해 대회의 중심을 기존 코딩 교육에서 AI 활용으로 옮겼다고 전했다. 청소년들이 AI로 문제를 풀고 영상과 포스터를 직접 제작하는 프로그램도 포함됐다."
+      ],
+      "sources": [
+        {
+          "id": "c063d52eacb8",
+          "name": "인더스트리뉴스",
+          "title": "AI로 문제 풀고 영상 제작까지…SKT, 장애청소년 110명 참여한 경진대회 개최",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87610"
+        },
+        {
+          "id": "b332be63fe4d",
+          "name": "테크월드뉴스",
+          "title": "SKT, ‘행복 AI 챌린지’ 개최…장애청소년 AI 활용 역량 강화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408264"
+        },
+        {
+          "id": "9e3caace21d7",
+          "name": "아이뉴스24",
+          "title": "SKT, 장애청소년 110명 참여 '행복 AI 챌린지' 개최",
+          "link": "https://www.inews24.com/view/2015189"
+        },
+        {
+          "id": "c501528f82c0",
+          "name": "디지털투데이",
+          "title": "SKT, 장애청소년 디지털 격차 해소 앞장…'행복 AI 챌린지' 개최",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707265"
+        },
+        {
+          "id": "ff56236acf43",
+          "name": "EBN",
+          "title": "\"AI로 장애청소년 문제해결 역량 강화\"…SKT, '행복 AI 챌린지' 개최",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727586"
+        }
+      ],
+      "auto": true
     },
     {
       "id": "s20261015-277943392f3f",
