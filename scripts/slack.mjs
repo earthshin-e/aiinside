@@ -21,15 +21,18 @@ const stamp = () => {
   return `${p2(d.getUTCMonth() + 1)}/${p2(d.getUTCDate())} ${p2(d.getUTCHours())}:${p2(d.getUTCMinutes())}`;
 };
 
+// 이모지(유니코드, :name: 코드)는 무조건 뺍니다(2026-10-16 대표 지시).
+const noEmoji = (t) => t.replace(/\p{Extended_Pictographic}|\uFE0F|\u200D|\u20E3|:[a-z0-9_+-]+:/gu, '').replace(/[ \t]{2,}/g, ' ').replace(/^ +| +$/gm, '');
+
 async function post(body) {
-  const text = `*${stamp()}*\n${body}`;
+  const text = noEmoji(`*${stamp()}*\n${body}`);
   const res = await fetch(hook, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ text, unfurl_links: false }) });
   if (!res.ok) console.warn(`Slack 전송 실패 HTTP ${res.status}`);
 }
 
 const lines = [];
 if (argOf('--text')) lines.push(argOf('--text'));
-if (argOf('--warn')) lines.push(`:warning: *운영 점검 경고*\n${argOf('--warn')}`);
+if (argOf('--warn')) lines.push(`*운영 점검 경고*\n${argOf('--warn')}`);
 
 // --warn, --text 로 부른 경우(점검 경고 등)에는 그 문구만 보냅니다.
 const only = argOf('--warn') || argOf('--text');
@@ -42,7 +45,7 @@ if (!only && now && prev) {
   const added = (now.stories || []).filter((s) => !before.has(s.id));
   // 글마다 메시지 한 건: 글 제목에 사이트 글 주소를 하이퍼링크로 겁니다.
   for (const st of added) {
-    const tag = st.type === 'briefing' ? ':sunrise: AI 브리핑' : `:newspaper: 정리 기사 | ${st.category}`;
+    const tag = st.type === 'briefing' ? 'AI 브리핑' : `정리 기사 | ${st.category}`;
     await post(`${tag}\n*<${SITE}/recap/${st.id}.html|${st.title}>*\n${st.sources.length}개 매체 보도 종합`);
   }
   if (added.length) console.log(`Slack: 새 글 ${added.length}건 전송`);
@@ -54,7 +57,7 @@ const draftsPrev = await read('public/data/drafts.prev.json');
 if (!only && drafts && draftsPrev) {
   const before = new Set((draftsPrev.drafts || []).map((d) => d.id));
   for (const d of (drafts.drafts || []).filter((x) => !before.has(x.id))) {
-    await post(`:memo: 검토 대기 초안 | ${d.author || 'Haley Yun'}\n*<${SITE}/draft/${d.id}.html|${d.title}>*\n${d.sources.length}개 매체 보도 바탕. 검토 후 Claude 에게 \"발행\"이라고 알려 주세요.`);
+    await post(`검토 대기 초안 | ${d.author || 'Haley Yun'}\n*<${SITE}/draft/${d.id}.html|${d.title}>*\n${d.sources.length}개 매체 보도 바탕. 검토 후 Claude 에게 \"발행\"이라고 알려 주세요.`);
   }
 }
 
@@ -69,7 +72,7 @@ if (!only && kst.getUTCHours() === 9 && kst.getUTCMinutes() < 30) {
     const noImg = a.filter((x) => !x.image && !x.photo).length;
     const failed = (art.status || []).filter((s) => !s.ok).map((s) => s.name);
     const stories = (now?.stories || []).filter((s) => Date.now() - new Date(s.published) < day);
-    lines.push(`:bar_chart: *하루 요약 (${kst.toISOString().slice(0, 10)})*\n` +
+    lines.push(`*하루 요약 (${kst.toISOString().slice(0, 10)})*\n` +
       `• 최근 24시간 수집 기사 ${last24.length}건 (보관 ${a.length}건)\n` +
       `• 최근 24시간 정리 기사와 브리핑 ${stories.length}건 (전체 ${(now?.stories || []).length}건)\n` +
       `• 키워드 상위 5: ${(art.keywords || []).slice(0, 5).map((k) => k.label).join(', ')}\n` +

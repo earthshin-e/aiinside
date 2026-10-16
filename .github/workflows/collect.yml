@@ -64,7 +64,7 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          node scripts/slack.mjs --text ":wave: AI 뉴스웨이브 운영 로그 연결 시험입니다. 앞으로 새 정리 기사 공개, 오전 9시 하루 요약, 문제 경고가 이 채널로 옵니다."
+          node scripts/slack.mjs --text "AI 뉴스웨이브 운영 로그 연결 시험입니다. 앞으로 새 정리 기사 공개, 오전 9시 하루 요약, 문제 경고가 이 채널로 옵니다."
       - name: Slack log
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
@@ -132,5 +132,5 @@ jobs:
           else gh issue create -R "${{ github.repository }}" -t "$title" -b "$body"; fi
           if [ -n "${{ secrets.SLACK_WEBHOOK_URL }}" ]; then
             stamp=$(TZ=Asia/Seoul date +"%m/%d %H:%M")
-            curl -s -X POST -H 'content-type: application/json' -d "{\"text\":\"*$stamp*\\n:rotating_light: *수집 또는 배포 실패* $body\"}" "${{ secrets.SLACK_WEBHOOK_URL }}" || true
+            curl -s -X POST -H 'content-type: application/json' -d "{\"text\":\"*$stamp*\\n*수집 또는 배포 실패* $body\"}" "${{ secrets.SLACK_WEBHOOK_URL }}" || true
           fi
