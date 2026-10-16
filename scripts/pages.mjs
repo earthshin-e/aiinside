@@ -329,7 +329,7 @@ for (const st of enStories) {
     ${e.body.map((p) => `<p>${esc(p)}</p>`).join('\n    ')}
     <h2>Sources (in Korean)</h2>
     <ul>${st.sources.map((s) => `<li><a href="${esc(s.link)}" rel="noopener" target="_blank">${esc(s.name)}</a></li>`).join('')}</ul>
-    <p class="meta">${st.author ? `Written by ${esc(st.author)} with AI writing tools and reviewed before publication.` : 'Compiled by AI NewsWave from facts confirmed across the Korean reports above.'} Translated from the <a href="/recap/${esc(st.id)}.html">Korean version</a>.</p>
+    <p class="meta">${st.author ? `Drafted with AI writing tools and published first; ${esc(st.author)} reviews it after publication.` : 'Compiled by AI NewsWave from facts confirmed across the Korean reports above.'} Translated from the <a href="/recap/${esc(st.id)}.html">Korean version</a>.</p>
   </article>
 </main>
 ` + enFoot);
@@ -343,7 +343,7 @@ await writeFile(path.join(edir, 'index.html'), enHead('AI NewsWave: Korea AI new
 await writeFile(path.join(edir, 'about.html'), enHead('About | AI NewsWave', 'About AI NewsWave', `${SITE}/en/about.html`, `${SITE}/about.html`) + `<main class="wrap">
   <h1>About AI NewsWave</h1>
   <p>AI NewsWave is a Korean AI news service. We collect AI-related headlines from Korean media and publish our own recaps that combine facts confirmed across several outlets, with links to every original report.</p>
-  <p>Articles with a reporter's byline are written with AI writing tools and reviewed by that reporter before publication. Unsigned recaps and briefings are generated automatically and checked sentence by sentence every week.</p>
+  <p>Articles with a reporter's byline are drafted with AI writing tools, published first, and reviewed by that reporter after publication. Unsigned recaps and briefings are generated automatically and checked sentence by sentence every week.</p>
   <p>We do not translate or republish Korean media articles. English pages contain only text we wrote ourselves.</p>
   <p>Contact: appealrequested@gmail.com</p>
 </main>

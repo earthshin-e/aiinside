@@ -206,7 +206,7 @@
       ${st.points && st.points.length ? `<section class="points"><h2>핵심 요약</h2><ul>${st.points.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></section>` : ''}
       <div class="story-body">${st.body.map((p) => `<p>${esc(p)}</p>`).join('')}</div>
       <section class="rel src"><h2>출처 <span>${st.sources.length}</span></h2><ul>${srcs}</ul></section>
-      <p class="note">${st.author ? `${esc(st.author)} 기자가 위 매체들의 보도에서 확인된 사실을 바탕으로 AI 작성 도구를 활용해 쓰고 검토해 발행했습니다.` : '이 글은 위 매체들의 보도에서 확인된 사실을 뉴스웨이브가 새로 정리한 것입니다.'} 자세한 내용은 각 언론사 원문을 확인하세요.</p>
+      <p class="note">${st.author ? `${esc(st.author)} 담당 기사로, 위 매체들의 보도에서 확인된 사실을 바탕으로 AI 작성 도구가 쓰고 먼저 발행한 뒤 기자가 검토합니다.` : '이 글은 위 매체들의 보도에서 확인된 사실을 뉴스웨이브가 새로 정리한 것입니다.'} 자세한 내용은 각 언론사 원문을 확인하세요.</p>
     </article>`;
   }
 
