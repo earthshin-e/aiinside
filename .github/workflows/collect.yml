@@ -29,6 +29,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    outputs:
+      indexnow: ${{ steps.indexnow.outputs.urls }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -69,6 +71,10 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: node scripts/slack.mjs || true
+      # IndexNow: 직전 배포본과 비교해 새로 생긴 정리 기사와 영문 페이지 주소를 모아 두고, 배포 뒤 indexnow 잡이 알립니다
+      - name: IndexNow list
+        id: indexnow
+        run: echo "urls=$(node scripts/indexnow.mjs list)" >> "$GITHUB_OUTPUT"
       - name: Remove temp files
         run: rm -f public/data/stories.prev.json public/data/drafts.prev.json
       # 정리 기사마다 검색엔진용 정적 페이지와 sitemap.xml 생성
@@ -107,6 +113,20 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # 배포가 끝난 뒤 새 주소를 네이버, 빙 등 IndexNow 참여 검색엔진에 알립니다(2026-10-17)
+  indexnow:
+    needs: [build, deploy]
+    if: needs.build.outputs.indexnow != '' && needs.build.outputs.indexnow != '[]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - env:
+          URLS: ${{ needs.build.outputs.indexnow }}
+        run: node scripts/indexnow.mjs send "$URLS" || true
 
   # 수집이나 빌드가 실패하면 Slack #ainewswave 로 알립니다(2026-10-17 메일 알림용 GitHub 이슈는 그만둠)
   notify-failure:
