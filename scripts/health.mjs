@@ -1,4 +1,4 @@
-// 운영 상태 점검: 문제가 있으면 한 줄씩 출력합니다. 워크플로가 출력이 있으면 GitHub 이슈를 엽니다(메일 알림).
+// 운영 상태 점검: 문제가 있으면 한 줄씩 출력합니다. 워크플로가 출력이 있으면 Slack 으로 알립니다.
 // 사용법: node scripts/health.mjs
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
