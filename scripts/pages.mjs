@@ -196,7 +196,7 @@ for (const [k, list] of kwSorted) {
     canon: `kw/${encodeURI(kwFile(k))}`,
     main: `  <h1>${esc(k)} AI 뉴스 정리</h1>
   <p>${esc(k)} 관련 소식을 여러 매체 보도에서 확인된 사실만 모아 새로 쓴 정리 기사 ${l.length}건입니다(${first}부터 ${last}까지). 글마다 근거가 된 언론사 기사를 밝힙니다.</p>
-  <ul class="cards">${l.map((x) => `<li><a href="../${esc(x.id)}.html">${esc(x.title)}</a>${x.points && x.points[0] ? `<br><span class="sum">${esc(x.points.join(', '))}</span>` : ''}<br><span class="meta">${x.type === 'briefing' ? 'AI 브리핑 | ' : x.author ? `글 ${esc(x.author)} | ` : ''}${kstDate(x.published)} | ${x.sources.length}개 매체</span></li>`).join('')}</ul>
+  <ul class="cards">${l.map((x) => `<li><a href="../${esc(x.id)}.html">${esc(x.title)}</a>${x.points && x.points[0] ? `<br><span class="sum">${esc(x.points.join(', '))}</span>` : ''}<br><span class="meta">${x.type === 'briefing' ? 'AI 브리핑 | ' : x.author ? `글 <a href="../author/${authorFile(x.author)}">${esc(x.author)}</a> | ` : ''}${kstDate(x.published)} | ${x.sources.length}개 매체</span></li>`).join('')}</ul>
   <h2>다른 키워드</h2>
   ${kwNav(k).replaceAll('KWBASE', '')}
   <p><a href="../">정리 기사 전체 보기</a></p>`,
@@ -403,7 +403,7 @@ const enBrief = enStories.find((s) => s.type === 'briefing');
 const enReporter = enStories.filter((s) => s.author).slice(0, 6);
 const enRecap = enStories.filter((s) => s.type !== 'briefing' && !s.author).slice(0, 12);
 const enDay = (iso) => new Date(iso).toLocaleDateString('en-US', { timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', year: 'numeric' });
-const enItem = (s) => `<li><a href="recap/${esc(s.id)}.html">${esc(s.en.title)}</a>${s.en.points && s.en.points[0] ? `<br><span class="sum">${esc(s.en.points[0])}</span>` : ''}<br><span class="meta">${s.author ? `By ${esc(s.author)} | ` : ''}${enDate(s.published)}</span></li>`;
+const enItem = (s) => `<li><a href="recap/${esc(s.id)}.html">${esc(s.en.title)}</a>${s.en.points && s.en.points[0] ? `<br><span class="sum">${esc(s.en.points[0])}</span>` : ''}<br><span class="meta">${s.author ? `By <a href="author/${authorFile(s.author)}">${esc(s.author)}</a> | ` : ''}${enDate(s.published)}</span></li>`;
 const enAll = (() => { const m = new Map(); for (const s of enStories) { const k = enDay(s.published); if (!m.has(k)) m.set(k, []); m.get(k).push(s); } return [...m.entries()]; })();
 await writeFile(path.join(edir, 'index.html'), enHead('AI NewsWave: Korea AI news in English', 'Daily briefings and news recaps on the Korean AI industry, compiled from Korean media reports.', `${SITE}/en/`, `${SITE}/`, '<link rel="alternate" type="application/rss+xml" title="AI NewsWave (English)" href="/en/feed.xml">') + `<main class="wrap">
   <h1>Korea AI news, in English</h1>
