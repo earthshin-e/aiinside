@@ -4,6 +4,7 @@
 import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { keywordsOf } from './keywords.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const pub = path.join(root, 'public');
@@ -20,6 +21,16 @@ const kstDate = (iso) => {
 // 주제별 정리 기사 모음 페이지 주소(/recap/topic-<slug>.html)
 const TOPICS = { '생성형AI': 'genai', '반도체': 'chip', '로봇': 'robot', '정책': 'policy', '기업': 'company', '연구': 'research', '보안/윤리': 'security', '일반': 'general' };
 const topicFile = (c) => `topic-${TOPICS[c] || 'general'}.html`;
+
+// 키워드 모음 페이지(/recap/kw/<키워드>.html, 2026-10-17): 상단 탭 키워드 후보(scripts/keywords.mjs)마다 그 키워드가 제목이나 핵심 요약에 나온 정리 기사를 모읍니다.
+// 정리 기사 하나는 짧아도 모음 페이지는 내용이 많고 날마다 늘어 검색어와 잘 맞습니다. 정리 기사가 3건 이상인 키워드만 만듭니다.
+const KW_MIN = 3;
+const kwFile = (k) => `${k.replace(/\s+/g, '-')}.html`;
+const storyKw = new Map(stories.map((s) => [s.id, keywordsOf(s.title, (s.points || []).join(' '))]));
+const kwStories = new Map();
+for (const s of stories) for (const k of storyKw.get(s.id)) { if (!kwStories.has(k)) kwStories.set(k, []); kwStories.get(k).push(s); }
+for (const [k, l] of [...kwStories]) if (l.length < KW_MIN) kwStories.delete(k);
+
 
 function page(st, others) {
   const url = `${SITE}/recap/${st.id}.html`;
@@ -80,6 +91,8 @@ ${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<l
     <ul>${st.sources.map((x) => `<li>${esc(x.name)}: <a href="${esc(x.link)}" rel="noopener nofollow" target="_blank">${esc(x.title)}</a></li>`).join('')}</ul>
     <p class="meta">이 글은 위 매체들의 보도에서 확인된 사실을 AI 뉴스웨이브가 새로 정리한 것입니다. 자세한 내용은 각 언론사 원문을 확인하세요.</p>
   </article>
+  ${(storyKw.get(st.id) || []).filter((k) => kwStories.has(k)).length ? `<h2>관련 키워드</h2>
+  <p class="topics">${storyKw.get(st.id).filter((k) => kwStories.has(k)).map((k) => `<a href="kw/${encodeURI(kwFile(k))}">${esc(k)} ${kwStories.get(k).length}</a>`).join('')}</p>` : ''}
   ${others.length ? `<h2>다른 정리 기사</h2>
   <ul>${others.map((o) => `<li><a href="${esc(o.id)}.html">${esc(o.title)}</a></li>`).join('')}</ul>` : ''}
   <p><a href="./">정리 기사 전체 보기</a> | <a href="../">AI 뉴스웨이브에서 최신 AI 뉴스 보기</a></p>
@@ -166,7 +179,30 @@ for (const c of Object.keys(TOPICS)) {
   ${list.length ? dayList(list) : '<p class="meta">아직 이 주제의 정리 기사가 없습니다.</p>'}`,
   }));
 }
-await writeFile(path.join(dir, 'index.html'), indexHtml);
+const kwSorted = [...kwStories.entries()].sort((x, y) => y[1].length - x[1].length);
+const kwNav = (cur) => `<p class="topics">${kwSorted.map(([k, l]) => k === cur ? `<strong>${esc(k)} ${l.length}</strong>` : `<a href="KWBASE${encodeURI(kwFile(k))}">${esc(k)} ${l.length}</a>`).join('')}</p>`;
+await writeFile(path.join(dir, 'index.html'), indexHtml.replace('<h2>정리 기사</h2>', `<h2>키워드별 모음</h2>\n  ${kwNav('').replaceAll('KWBASE', 'kw/')}\n  <h2>정리 기사</h2>`));
+const kwDir = path.join(dir, 'kw');
+await mkdir(kwDir, { recursive: true });
+for (const f of await readdir(kwDir)) if (!kwSorted.some(([k]) => kwFile(k) === f)) await unlink(path.join(kwDir, f));
+for (const [k, list] of kwSorted) {
+  const l = [...list].sort((x, y) => new Date(y.published) - new Date(x.published));
+  const first = dayKey(l[l.length - 1].published), last = dayKey(l[0].published);
+  const html = listPage({
+    title: `${k} AI 뉴스 정리`,
+    desc: `${k} 관련 AI 소식을 여러 매체 보도에서 확인된 사실만 모아 정리한 글 ${l.length}건입니다. ${first}부터 ${last}까지.`,
+    canon: `kw/${encodeURI(kwFile(k))}`,
+    main: `  <h1>${esc(k)} AI 뉴스 정리</h1>
+  <p>${esc(k)} 관련 소식을 여러 매체 보도에서 확인된 사실만 모아 새로 쓴 정리 기사 ${l.length}건입니다(${first}부터 ${last}까지). 글마다 근거가 된 언론사 기사를 밝힙니다.</p>
+  <ul class="cards">${l.map((x) => `<li><a href="../${esc(x.id)}.html">${esc(x.title)}</a>${x.points && x.points[0] ? `<br><span class="sum">${esc(x.points.join(', '))}</span>` : ''}<br><span class="meta">${x.type === 'briefing' ? 'AI 브리핑 | ' : x.author ? `글 ${esc(x.author)} | ` : ''}${kstDate(x.published)} | ${x.sources.length}개 매체</span></li>`).join('')}</ul>
+  <h2>다른 키워드</h2>
+  ${kwNav(k).replaceAll('KWBASE', '')}
+  <p><a href="../">정리 기사 전체 보기</a></p>`,
+  }).replaceAll('href="../icon.svg"', 'href="/icon.svg"').replaceAll('src="../icon.svg"', 'src="/icon.svg"').replace('href="../page.css"', 'href="/page.css"')
+    .replace('<a class="brand" href="../">', '<a class="brand" href="/">').replace('<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">', '<footer class="wrap foot"><a href="/">홈</a><a href="/recap/">정리 기사</a><a href="/about.html">')
+    .replace('<a href="../privacy.html">', '<a href="/privacy.html">').replace('<a href="../contact.html">', '<a href="/contact.html">');
+  await writeFile(path.join(kwDir, kwFile(k)), html);
+}
 
 // 예전 주소(/s/)로 들어온 방문자와 검색엔진을 새 주소(/recap/)로 보냅니다.
 const old = path.join(pub, 's');
@@ -402,6 +438,7 @@ const urls = [
   { loc: `${SITE}/`, lastmod: now, freq: 'hourly', pri: '1.0' },
   { loc: `${SITE}/recap/`, lastmod: now, freq: 'daily', pri: '0.9' },
   ...plainCats.map((c) => ({ loc: `${SITE}/recap/${topicFile(c)}`, lastmod: now, freq: 'daily', pri: '0.6' })),
+  ...kwSorted.map(([k]) => ({ loc: `${SITE}/recap/kw/${encodeURI(kwFile(k))}`, lastmod: now, freq: 'daily', pri: '0.7' })),
   ...['about', 'privacy', 'contact'].map((p) => ({ loc: `${SITE}/${p}.html`, freq: 'monthly', pri: '0.3' })),
   { loc: `${SITE}/en/`, lastmod: now, freq: 'daily', pri: '0.8' },
   ...enStories.map((s) => ({ loc: `${SITE}/en/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: '0.7' })),
