@@ -69,7 +69,7 @@
         </div>
       </a>
       <div class="cfoot">
-        <span class="src">${esc(a.source)}</span>${a.newsroom ? '<span class="nr">기업 뉴스룸</span>' : ''}<span>·</span><time datetime="${esc(a.published)}">${ago(a.published)}</time>
+        <span class="src">${esc(a.source)}</span>${a.newsroom ? '<span class="nr">기업 뉴스룸</span>' : ''}<span>|</span><time datetime="${esc(a.published)}">${ago(a.published)}</time>
         <button class="bm" data-id="${esc(a.id)}" aria-pressed="${on}" aria-label="북마크">${STAR}</button>
       </div>
     </article>`;
@@ -181,7 +181,7 @@
       <button class="back" type="button" id="btnBack">← 목록으로</button>
       <span class="tag">${esc(a.category)}</span>
       <h1>${esc(a.title)}</h1>
-      <div class="meta"><b>${esc(a.source)}</b>${a.newsroom ? '<span class="nr">기업 뉴스룸</span>' : ''}<span>·</span><time datetime="${esc(a.published)}">${fullDate(a.published)}</time>
+      <div class="meta"><b>${esc(a.source)}</b>${a.newsroom ? '<span class="nr">기업 뉴스룸</span>' : ''}<span>|</span><time datetime="${esc(a.published)}">${fullDate(a.published)}</time>
         <button class="bm" data-id="${esc(a.id)}" aria-pressed="${on}" aria-label="북마크">${STAR}</button></div>
       ${a.image ? `<figure class="hero"><img src="${esc(a.image)}" alt="" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></figure>`
         : a.photo ? `<figure class="hero"><img src="${esc(a.photo.url)}" alt="" onerror="this.parentNode.remove()"><figcaption>자료 사진: <a href="${esc(a.photo.authorUrl)}" target="_blank" rel="noopener">${esc(a.photo.author)}</a> / <a href="${esc(a.photo.link)}" target="_blank" rel="noopener">${a.photo.source === 'pexels' ? 'Pexels' : 'Unsplash'}</a>. 기사 내용과 직접 관련 없는 참고 이미지입니다.</figcaption></figure>` : ''}
@@ -205,7 +205,7 @@
       <button class="back" type="button" id="btnBack">← 목록으로</button>
       <span class="tag">${esc(st.category)}</span>
       <h1>${esc(st.title)}</h1>
-      <div class="meta"><b class="byline">${st.author ? `<a href="/recap/author/${esc(st.author.toLowerCase().replace(/[^a-z0-9]+/g, '-'))}.html">${esc(st.author)}</a>` : '뉴스웨이브'}</b><span>·</span><time datetime="${esc(st.published)}">${fullDate(st.published)}</time><span>·</span><span>${st.sources.length}개 매체 보도 종합</span></div>
+      <div class="meta"><b class="byline">${st.author ? `<a href="/recap/author/${esc(st.author.toLowerCase().replace(/[^a-z0-9]+/g, '-'))}.html">${esc(st.author)}</a>` : '뉴스웨이브'}</b><span>|</span><time datetime="${esc(st.published)}">${fullDate(st.published)}</time><span>|</span><span>${st.sources.length}개 매체 보도 종합</span></div>
       ${st.points && st.points.length ? `<section class="points"><h2>핵심 요약</h2><ul>${st.points.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></section>` : ''}
       <div class="story-body">${st.body.map((p) => `<p>${esc(p)}</p>`).join('')}</div>
       <section class="rel src"><h2>출처 <span>${st.sources.length}</span></h2><ul>${srcs}</ul></section>
