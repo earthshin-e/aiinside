@@ -26,6 +26,8 @@ const topicFile = (c) => `topic-${TOPICS[c] || 'general'}.html`;
 // 정리 기사 하나는 짧아도 모음 페이지는 내용이 많고 날마다 늘어 검색어와 잘 맞습니다. 정리 기사가 3건 이상인 키워드만 만듭니다.
 const KW_MIN = 3;
 const kwFile = (k) => `${k.replace(/\s+/g, '-')}.html`;
+// 기자 페이지(/recap/author/<이름>.html, 2026-10-17): 바이라인을 누르면 그 기자의 기사 목록으로 갑니다.
+const authorFile = (n) => `${n.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.html`;
 const storyKw = new Map(stories.map((s) => [s.id, keywordsOf(s.title, (s.points || []).join(' '))]));
 const kwStories = new Map();
 for (const s of stories) for (const k of storyKw.get(s.id)) { if (!kwStories.has(k)) kwStories.set(k, []); kwStories.get(k).push(s); }
@@ -43,7 +45,7 @@ function page(st, others) {
     dateModified: st.published,
     description: desc,
     mainEntityOfPage: url,
-    author: st.author ? { '@type': 'Person', name: st.author } : { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE },
+    author: st.author ? { '@type': 'Person', name: st.author, url: `${SITE}/recap/author/${authorFile(st.author)}` } : { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE },
     publisher: { '@type': 'Organization', name: 'AI 뉴스웨이브', logo: { '@type': 'ImageObject', url: `${SITE}/icon512.png` } },
     image: `${SITE}/og.png`,
   };
@@ -83,7 +85,7 @@ ${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<l
   <article>
     <p class="meta">${st.type === 'briefing' ? 'AI 브리핑' : `<a href="${topicFile(st.category)}">${esc(st.category)}</a>`}</p>
     <h1>${esc(st.title)}</h1>
-    <p class="meta">${st.author ? `글 ${esc(st.author)}` : 'AI 뉴스웨이브'} | ${kstDate(st.published)} | ${st.sources.length}개 매체 보도 종합</p>
+    <p class="meta">${st.author ? `글 <a href="author/${authorFile(st.author)}">${esc(st.author)}</a>` : 'AI 뉴스웨이브'} | ${kstDate(st.published)} | ${st.sources.length}개 매체 보도 종합</p>
     ${st.points && st.points.length ? `<h2>핵심 요약</h2>\n    <ul>${st.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
     <h2>본문</h2>
     ${st.body.map((p) => `<p>${esc(p)}</p>`).join('\n    ')}
@@ -202,6 +204,30 @@ for (const [k, list] of kwSorted) {
     .replace('<a class="brand" href="../">', '<a class="brand" href="/">').replace('<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">', '<footer class="wrap foot"><a href="/">홈</a><a href="/recap/">정리 기사</a><a href="/about.html">')
     .replace('<a href="../privacy.html">', '<a href="/privacy.html">').replace('<a href="../contact.html">', '<a href="/contact.html">');
   await writeFile(path.join(kwDir, kwFile(k)), html);
+}
+const authors = [...new Set(stories.filter((x) => x.author).map((x) => x.author))].sort();
+const auDir = path.join(dir, 'author');
+await mkdir(auDir, { recursive: true });
+for (const f of await readdir(auDir)) if (!authors.some((n) => authorFile(n) === f)) await unlink(path.join(auDir, f));
+for (const n of authors) {
+  const l = sorted.filter((x) => x.author === n);
+  const ld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { '@type': 'Person', name: n, worksFor: { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE } } };
+  const html = listPage({
+    title: `${n} 기자`,
+    desc: `AI 뉴스웨이브 ${n} 기자의 기사 ${l.length}건 모음입니다.`,
+    canon: `author/${authorFile(n)}`,
+    main: `  <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>
+  <p class="meta">AI 뉴스웨이브 기자</p>
+  <h1>${esc(n)}</h1>
+  <p>${esc(n)} 기자가 담당한 기사 ${l.length}건입니다. 여러 매체 보도에서 확인된 사실을 바탕으로 AI 작성 도구가 쓰고 먼저 발행한 뒤 기자가 검토합니다. 글마다 근거가 된 언론사 기사를 밝힙니다.</p>
+  <ul class="cards">${l.map((x) => `<li><a href="../${esc(x.id)}.html">${esc(x.title)}</a>${x.points && x.points.length ? `<br><span class="sum">${esc(x.points.join(', '))}</span>` : ''}<br><span class="meta">${kstDate(x.published)} | ${x.sources.length}개 매체</span></li>`).join('')}</ul>
+  <h2>다른 기자</h2>
+  <p class="topics">${authors.filter((o) => o !== n).map((o) => `<a href="${authorFile(o)}">${esc(o)}</a>`).join('')}</p>
+  <p><a href="../">정리 기사 전체 보기</a></p>`,
+  }).replaceAll('href="../icon.svg"', 'href="/icon.svg"').replaceAll('src="../icon.svg"', 'src="/icon.svg"').replace('href="../page.css"', 'href="/page.css"')
+    .replace('<a class="brand" href="../">', '<a class="brand" href="/">').replace('<footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">', '<footer class="wrap foot"><a href="/">홈</a><a href="/recap/">정리 기사</a><a href="/about.html">')
+    .replace('<a href="../privacy.html">', '<a href="/privacy.html">').replace('<a href="../contact.html">', '<a href="/contact.html">');
+  await writeFile(path.join(auDir, authorFile(n)), html);
 }
 
 // 예전 주소(/s/)로 들어온 방문자와 검색엔진을 새 주소(/recap/)로 보냅니다.
@@ -357,12 +383,12 @@ const enFoot = `<footer class="wrap foot"><a href="/en/">Home</a><a href="/en/ab
 for (const st of enStories) {
   const e = st.en, url = `${SITE}/en/recap/${st.id}.html`;
   const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline: e.title, inLanguage: 'en', datePublished: st.published, description: (e.points || []).join('. ').slice(0, 150), mainEntityOfPage: url,
-    author: st.author ? { '@type': 'Person', name: st.author } : { '@type': 'Organization', name: 'AI NewsWave', url: SITE }, publisher: { '@type': 'Organization', name: 'AI NewsWave', logo: { '@type': 'ImageObject', url: `${SITE}/icon512.png` } } };
+    author: st.author ? { '@type': 'Person', name: st.author, url: `${SITE}/en/author/${authorFile(st.author)}` } : { '@type': 'Organization', name: 'AI NewsWave', url: SITE }, publisher: { '@type': 'Organization', name: 'AI NewsWave', logo: { '@type': 'ImageObject', url: `${SITE}/icon512.png` } } };
   await writeFile(path.join(erdir, `${st.id}.html`), enHead(`${e.title} | AI NewsWave`, (e.points || []).join('. ').slice(0, 150), url, `${SITE}/recap/${st.id}.html`, `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`) + `<main class="wrap">
   <article>
     <p class="meta">${st.type === 'briefing' ? 'AI Briefing' : 'Korea AI News'}</p>
     <h1>${esc(e.title)}</h1>
-    <p class="meta">${st.author ? `By ${esc(st.author)}` : 'AI NewsWave'} | ${enDate(st.published)} | Based on ${st.sources.length} Korean news reports</p>
+    <p class="meta">${st.author ? `By <a href="/en/author/${authorFile(st.author)}">${esc(st.author)}</a>` : 'AI NewsWave'} | ${enDate(st.published)} | Based on ${st.sources.length} Korean news reports</p>
     ${e.points && e.points.length ? `<h2>Key points</h2>\n    <ul>${e.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
     ${e.body.map((p) => `<p>${esc(p)}</p>`).join('\n    ')}
     <h2>Sources (in Korean)</h2>
@@ -414,6 +440,21 @@ await writeFile(path.join(edir, 'about.html'), enHead('About | AI NewsWave', 'Ab
   <p>Contact: appealrequested@gmail.com</p>
 </main>
 ` + enFoot);
+const enAuthors = [...new Set(enStories.filter((x) => x.author).map((x) => x.author))].sort();
+const eaDir = path.join(edir, 'author');
+await mkdir(eaDir, { recursive: true });
+for (const f of await readdir(eaDir)) if (!enAuthors.some((n) => authorFile(n) === f)) await unlink(path.join(eaDir, f));
+for (const n of enAuthors) {
+  const l = enStories.filter((x) => x.author === n);
+  const ld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { '@type': 'Person', name: n, worksFor: { '@type': 'Organization', name: 'AI NewsWave', url: SITE } } };
+  await writeFile(path.join(eaDir, authorFile(n)), enHead(`${n} | AI NewsWave`, `Articles by ${n}, reporter at AI NewsWave.`, `${SITE}/en/author/${authorFile(n)}`, `${SITE}/recap/author/${authorFile(n)}`, `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`) + `<main class="wrap">
+  <p class="meta">Reporter, AI NewsWave</p>
+  <h1>${esc(n)}</h1>
+  <p>${l.length} articles by ${esc(n)}. Drafted with AI writing tools from facts confirmed in Korean media reports, published first, and reviewed by the reporter after publication.</p>
+  <ul class="cards">${l.map((x) => `<li><a href="/en/recap/${esc(x.id)}.html">${esc(x.en.title)}</a>${x.en.points && x.en.points[0] ? `<br><span class="sum">${esc(x.en.points[0])}</span>` : ''}<br><span class="meta">${enDate(x.published)}</span></li>`).join('')}</ul>
+</main>
+` + enFoot);
+}
 
 // 메인 화면 미리 그리기(2026-10-16): 기사 목록은 app.js 가 나중에 그려서 검색 로봇과 애드센스 심사에는 빈 화면처럼 보입니다.
 // 최신 브리핑과 정리 기사를 index.html 원본에 글자로 넣어 두고, 방문자에게도 같은 칸으로 보여 줍니다.
@@ -439,6 +480,8 @@ const urls = [
   { loc: `${SITE}/recap/`, lastmod: now, freq: 'daily', pri: '0.9' },
   ...plainCats.map((c) => ({ loc: `${SITE}/recap/${topicFile(c)}`, lastmod: now, freq: 'daily', pri: '0.6' })),
   ...kwSorted.map(([k]) => ({ loc: `${SITE}/recap/kw/${encodeURI(kwFile(k))}`, lastmod: now, freq: 'daily', pri: '0.7' })),
+  ...authors.map((n) => ({ loc: `${SITE}/recap/author/${authorFile(n)}`, lastmod: now, freq: 'daily', pri: '0.6' })),
+  ...enAuthors.map((n) => ({ loc: `${SITE}/en/author/${authorFile(n)}`, lastmod: now, freq: 'daily', pri: '0.5' })),
   ...['about', 'privacy', 'contact'].map((p) => ({ loc: `${SITE}/${p}.html`, freq: 'monthly', pri: '0.3' })),
   { loc: `${SITE}/en/`, lastmod: now, freq: 'daily', pri: '0.8' },
   ...enStories.map((s) => ({ loc: `${SITE}/en/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: '0.7' })),
