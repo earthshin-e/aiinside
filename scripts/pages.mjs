@@ -307,6 +307,7 @@ ${alt ? `<link rel="alternate" hreflang="ko" href="${alt}">` : ''}
 ${extra}
 <script src="/consent.js"></script>
 <meta name="google-adsense-account" content="ca-pub-2376619512263295">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2376619512263295" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=${GA}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA}');</script>
 </head>
@@ -335,16 +336,44 @@ for (const st of enStories) {
 </main>
 ` + enFoot);
 }
-await writeFile(path.join(edir, 'index.html'), enHead('AI NewsWave: Korea AI news in English', 'Daily briefings and news recaps on the Korean AI industry, compiled from Korean media reports.', `${SITE}/en/`, `${SITE}/`) + `<main class="wrap">
+// 영문 첫 화면(2026-10-17): 최신 브리핑(핵심 요약 포함), 기자 기사, 정리 기사를 나눠 보여 주고 각 글에 핵심 요약 첫 줄을 붙입니다. 맨 아래에 전체 목록을 날짜별로 둡니다.
+const enBrief = enStories.find((s) => s.type === 'briefing');
+const enReporter = enStories.filter((s) => s.author).slice(0, 6);
+const enRecap = enStories.filter((s) => s.type !== 'briefing' && !s.author).slice(0, 12);
+const enDay = (iso) => new Date(iso).toLocaleDateString('en-US', { timeZone: 'Asia/Seoul', month: 'long', day: 'numeric', year: 'numeric' });
+const enItem = (s) => `<li><a href="recap/${esc(s.id)}.html">${esc(s.en.title)}</a>${s.en.points && s.en.points[0] ? `<br><span class="sum">${esc(s.en.points[0])}</span>` : ''}<br><span class="meta">${s.author ? `By ${esc(s.author)} | ` : ''}${enDate(s.published)}</span></li>`;
+const enAll = (() => { const m = new Map(); for (const s of enStories) { const k = enDay(s.published); if (!m.has(k)) m.set(k, []); m.get(k).push(s); } return [...m.entries()]; })();
+await writeFile(path.join(edir, 'index.html'), enHead('AI NewsWave: Korea AI news in English', 'Daily briefings and news recaps on the Korean AI industry, compiled from Korean media reports.', `${SITE}/en/`, `${SITE}/`, '<link rel="alternate" type="application/rss+xml" title="AI NewsWave (English)" href="/en/feed.xml">') + `<main class="wrap">
   <h1>Korea AI news, in English</h1>
-  <p>AI NewsWave follows Korean AI and tech media every 30 minutes. Here we publish English versions of our daily briefings and news recaps on Korean AI companies, chips, policy and research.</p>
-  ${enStories.length ? `<ul>${enStories.map((s) => `<li><a href="recap/${esc(s.id)}.html">${esc(s.en.title)}</a> <span class="meta">${enDate(s.published)}</span></li>`).join('')}</ul>` : '<p class="meta">English articles are coming soon.</p>'}
+  <p>AI NewsWave follows Korean AI and tech media every 30 minutes. Here we publish English versions of our daily briefings and news recaps on Korean AI companies, chips, policy and research. <a href="feed.xml">RSS</a></p>
+  ${enBrief ? `<section class="lead"><p class="meta">Latest AI Briefing</p><h2><a href="recap/${esc(enBrief.id)}.html">${esc(enBrief.en.title)}</a></h2>${(enBrief.en.points || []).length ? `<ul>${enBrief.en.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}<p class="meta">${enDate(enBrief.published)} | Based on ${enBrief.sources.length} Korean news reports</p></section>` : ''}
+  ${enReporter.length ? `<h2>From our reporters</h2>\n  <ul class="cards">${enReporter.map(enItem).join('')}</ul>` : ''}
+  ${enRecap.length ? `<h2>News recaps</h2>\n  <ul class="cards">${enRecap.map(enItem).join('')}</ul>` : ''}
+  ${enStories.length ? `<h2>All articles</h2>\n  ${enAll.map(([d, l]) => `<h3>${d}</h3>\n  <ul>${l.map((s) => `<li><a href="recap/${esc(s.id)}.html">${esc(s.en.title)}</a></li>`).join('')}</ul>`).join('\n  ')}` : '<p class="meta">English articles are coming soon.</p>'}
 </main>
 ` + enFoot);
+// 영문 RSS(/en/feed.xml): 구글이 영문 글을 찾는 통로. 설명에는 핵심 요약만 넣습니다.
+await writeFile(path.join(edir, 'feed.xml'), `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>AI NewsWave: Korea AI news in English</title>
+  <link>${SITE}/en/</link>
+  <description>Daily briefings and news recaps on the Korean AI industry, compiled from Korean media reports.</description>
+  <language>en</language>
+${enStories.slice(0, 500).map((s) => `  <item>
+    <title>${acdata(s.en.title)}</title>
+    <link>${SITE}/en/recap/${s.id}.html</link>
+    <guid isPermaLink="true">${SITE}/en/recap/${s.id}.html</guid>
+    <pubDate>${new Date(s.published).toUTCString()}</pubDate>
+    <description>${acdata((s.en.points || []).join(' / '))}</description>
+  </item>`).join('\n')}
+</channel>
+</rss>
+`);
 await writeFile(path.join(edir, 'about.html'), enHead('About | AI NewsWave', 'About AI NewsWave', `${SITE}/en/about.html`, `${SITE}/about.html`) + `<main class="wrap">
   <h1>About AI NewsWave</h1>
   <p>AI NewsWave is a Korean AI news service. We collect AI-related headlines from Korean media and publish our own recaps that combine facts confirmed across several outlets, with links to every original report.</p>
-  <p>Articles with a reporter's byline are drafted with AI writing tools, published first, and reviewed by that reporter after publication. Unsigned recaps and briefings are generated automatically and checked sentence by sentence every week.</p>
+  <p>Articles with a reporter's byline are drafted with AI writing tools, published first, and reviewed by that reporter after publication. Unsigned recaps and briefings are generated automatically and checked sentence by sentence against their sources every day.</p>
   <p>We do not translate or republish Korean media articles. English pages contain only text we wrote ourselves.</p>
   <p>Contact: appealrequested@gmail.com</p>
 </main>

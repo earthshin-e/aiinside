@@ -27,3 +27,14 @@ li .meta { font-size: 12px; margin-left: 4px; }
 .topics { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 4px; font-size: 14px; }
 .topics a, .topics strong { padding: 4px 10px; border: 1px solid var(--line); text-decoration: none; }
 .topics strong { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+/* 영문 첫 화면(/en/): 최신 브리핑 상자와 요약 붙은 목록 */
+.lead { margin: 20px 0 8px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--accent); }
+.lead h2 { margin: 2px 0 6px; font-size: 19px; line-height: 1.35; }
+.lead h2 a { color: var(--ink); text-decoration: none; }
+.lead ul { margin: 0 0 6px; padding-left: 20px; }
+.lead p { margin: 0; }
+.cards { list-style: none; padding: 0; margin: 4px 0 0; }
+.cards li { padding: 8px 0; border-bottom: 1px solid var(--line); line-height: 1.45; }
+.cards li a { font-weight: 600; text-decoration: none; }
+.cards .sum { font-size: 14px; color: var(--ink2); }
+.cards li .meta { margin-left: 0; }
