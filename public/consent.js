@@ -28,13 +28,17 @@
   }
 
   function show() {
+    // 영문 페이지(<html lang="en">)에서는 안내를 영어로 보여 줍니다(2026-10-17). 개인정보처리방침은 한국어판만 있습니다.
+    var en = /^en/i.test(document.documentElement.lang || '');
     var bar = document.createElement('div');
     bar.id = 'consentBar';
     bar.setAttribute('role', 'dialog');
-    bar.setAttribute('aria-label', '쿠키 사용 안내');
-    bar.innerHTML =
-      '<p>방문 통계와 광고를 위해 쿠키를 씁니다. 기사 읽기에는 영향이 없어요. <a href="/privacy.html">자세히</a></p>' +
-      '<div><button type="button" data-v="essential">필수만</button><button type="button" data-v="all" class="ok">모두 허용</button></div>';
+    bar.setAttribute('aria-label', en ? 'Cookie notice' : '쿠키 사용 안내');
+    bar.innerHTML = en
+      ? '<p>We use cookies for visitor statistics and ads. Reading articles is not affected. <a href="/privacy.html" hreflang="ko">Privacy policy (Korean)</a></p>' +
+        '<div><button type="button" data-v="essential">Essential only</button><button type="button" data-v="all" class="ok">Accept all</button></div>'
+      : '<p>방문 통계와 광고를 위해 쿠키를 씁니다. 기사 읽기에는 영향이 없어요. <a href="/privacy.html">자세히</a></p>' +
+        '<div><button type="button" data-v="essential">필수만</button><button type="button" data-v="all" class="ok">모두 허용</button></div>';
     bar.addEventListener('click', function (e) {
       var b = e.target.closest('button');
       if (b) choose(b.getAttribute('data-v'));
