@@ -39,7 +39,20 @@
           "title": "\"일상 속 궁금증을 논문으로\"…라이너, 스콜라 연구공모전 개최",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707606"
         }
-      ]
+      ],
+      "en": {
+        "title": "Liner Launches Research Contest to Test Everyday Assumptions With AI",
+        "points": [
+          "Liner holds the first Liner Scholar research contest",
+          "Participants verify everyday assumptions against papers and write short papers",
+          "Uses an AI research tool built on more than 500 million academic records"
+        ],
+        "body": [
+          "Liner, an AI agent startup, is holding the first Liner Scholar research contest, which tests commonly held everyday assumptions against academic papers. VentureSquare, Digital Today and IT Chosun reported the news, and Digital Today said the company announced it on the 16th.",
+          "The three outlets describe how to take part in broadly the same way. According to VentureSquare, participants use Liner Scholar, an AI research tool built on more than 500 million academic records, to search, compare and analyze papers and then write a short paper. IT Chosun reported that participants pick a topic they have long been curious about and write a short paper by analyzing related papers with the help of AI.",
+          "By Digital Today's account, the contest theme is \"Assumptions we have believed, verified through papers.\" Digital Today explained that participants choose an everyday assumption or question as their research topic and use Liner's academic research tool. VentureSquare said in its headline that anyone aged 14 or older can enter. IT Chosun described Liner as a global AI agent startup led by CEO Kim Jin-woo."
+        ]
+      }
     },
     {
       "id": "h20261017-4b5f97e66850",
@@ -77,7 +90,21 @@
           "title": "포티투마루, 'K-AI 특허전략 협의체' 참여…AI 특허 공동 대응",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707664"
         }
-      ]
+      ],
+      "en": {
+        "title": "42Maru Joins K-AI Patent Strategy Council",
+        "points": [
+          "42Maru joins the K-AI Patent Strategy Council",
+          "The council was launched by the Intellectual Property Office and the Korea Institute for Patent Strategy Development",
+          "Public and private sectors respond together to global AI patent competition"
+        ],
+        "body": [
+          "42Maru, an agentic AI startup, is joining the K-AI Patent Strategy Council launched by the Intellectual Property Office and the Korea Institute for Patent Strategy Development. Digital Today reported that the company announced this on the 16th. Techworld News and Hellot reported the same.",
+          "Digital Today described the council as a public-private framework for responding to global AI patent competition. It reported that the council launched earlier this month and aims to secure core and application AI patents ahead of rivals. Techworld News said 42Maru is stepping up to the global AI patent race as major countries such as the United States and China reinforce policies to nurture homegrown AI.",
+          "Hellot interpreted 42Maru's participation (CEO Kim Dong-hwan) as a move to secure intellectual property sovereignty for Korea's homegrown AI ecosystem. It reported that the council's launch ceremony was held earlier this month at the ST Center in the Korea Science and Technology Center in Gangnam District, Seoul.",
+          "The outlets stressed different points. Digital Today's headline put joint response first, Techworld News led with stronger response to global patent competition, and Hellot highlighted patent sovereignty for sovereign AI."
+        ]
+      }
     },
     {
       "id": "h20261017-d9ccbaa27051",
@@ -115,7 +142,21 @@
           "title": "HL로보틱스, 실외 주차 로봇 '스탠' 국내 첫 공개",
           "link": "https://www.ddaily.co.kr/page/view/2026101608565193249"
         }
-      ]
+      ],
+      "en": {
+        "title": "HL Robotics Unveils 'STAN' Outdoor Autonomous Parking Robot",
+        "points": [
+          "HL Robotics unveils STAN, an outdoor autonomous parking robot",
+          "Demonstration at the ITS World Congress in Gangneung, Oct. 19 to 23",
+          "Expands from the indoor parking robot PARKIE to outdoor use"
+        ],
+        "body": [
+          "HL Robotics, a wholly owned subsidiary of HL Holdings, will unveil the outdoor autonomous parking robot STAN in Korea for the first time. The Elec reported that the company announced it on the 16th, and Industry News and Digital Daily carried the same story.",
+          "The venue is the 32nd ITS World Congress in Gangneung, Gangwon Province. According to The Elec, the event runs from Oct. 19 to 23, and HL Robotics will demonstrate STAN there. The Elec described the ITS World Congress as an international exhibition and conference in the field of intelligent transport systems.",
+          "Outlets described STAN's features slightly differently. Industry News introduced it as an autonomous driving solution that uses digital twin technology to control multiple robots in real time and maximize parking space efficiency. Its headline called it the \"world's first outdoor parking robot,\" an expression that appears only in Industry News.",
+          "Digital Daily reported that HL Robotics plans to target the airport and logistics markets by showing outdoor parking automation technology on top of its existing indoor parking robot PARKIE. Industry News noted that Korea's parking robot market is expanding beyond indoor settings to outdoor ones."
+        ]
+      }
     },
     {
       "id": "h20261017-841cb550a502",
@@ -152,7 +193,20 @@
           "title": "넷스카우트, 장애 해결 앞당기는 대화형 AI ‘엔지니어스 코파일럿' 공개",
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408300"
         }
-      ]
+      ],
+      "en": {
+        "title": "NETSCOUT Announces nGenius Copilot, a Conversational AI",
+        "points": [
+          "NETSCOUT announces nGenius Copilot, a conversational AI",
+          "Adds conversational AI to the nGeniusONE integrated monitoring platform",
+          "Helps analyze causes of service outages and business impact"
+        ],
+        "body": [
+          "NETSCOUT, a network visibility and AIOps company, introduced nGenius Copilot, which adds conversational AI to its integrated performance monitoring platform nGeniusONE. Digital Daily, Datanet and Techworld News reported the news on the 16th.",
+          "Digital Daily called the feature a conversational AI that speeds up outage resolution, and said in its headline that it analyzes the causes and impact of outages. Datanet reported that it is a product that extends NETSCOUT's AI-based conversational capabilities (Korea country manager Kim Jae-wook), and explained that it uses smart data to address service degradation and the causes of outages.",
+          "Techworld News pointed to the background: as hybrid environments and digital dependencies grow more complex, the work needed to resolve service outages has also increased. According to that article, nGenius Copilot is an AI-based conversational tool that answers questions about service outages and business impact on the basis of clear evidence."
+        ]
+      }
     },
     {
       "id": "h20261017-167fd18d1368",
@@ -183,7 +237,20 @@
           "title": "오픈AI, 크롬용 챗GPT 확장 프로그램 개편… 구글 ‘제미나이’ 맞불",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172211"
         }
-      ]
+      ],
+      "en": {
+        "title": "OpenAI Strengthens ChatGPT Extension for Chrome",
+        "points": [
+          "OpenAI updates its ChatGPT extension for Chrome",
+          "Analyzes multiple open tabs at once",
+          "Controls tabs directly to fill out forms and organize material"
+        ],
+        "body": [
+          "According to AI Times, OpenAI has strengthened the integration between ChatGPT and Google's Chrome browser. ChatGPT can analyze information from multiple tabs a user has open at once and can control tabs directly to do tasks such as filling out forms or organizing material. AI Times reported that OpenAI announced news of the ChatGPT extension for Chrome on X on the 15th (local time).",
+          "IT Chosun reported that OpenAI fully updated the ChatGPT extension for Chrome on the 16th. It analyzes the tabs a user has open in real time to give tailored answers and has also strengthened its AI agent features. The two outlets gave different dates: AI Times cited an announcement on the 15th local time, while IT Chosun cited an update on the 16th.",
+          "IT Chosun interpreted the overhaul as a counter to Google's Gemini. It also noted that OpenAI had earlier wound down its own web browser development effort. This reading is IT Chosun's view, and the AI Times summary contains no explanation of a rivalry with Google."
+        ]
+      }
     },
     {
       "id": "b20261017",
@@ -198,7 +265,7 @@
       ],
       "body": [
         "16일(현지시간) 뉴욕증시는 AI 관련주 매도와 국제유가 상승으로 하락 마감했다. 뉴시스는 나스닥이 2% 넘게 빠지며 6월 이후 최악의 한 주를 보냈다고 전했고, 디지털데일리는 나스닥종합지수가 2.1% 떨어졌다고 보도했다. 디지털데일리는 AI 인프라 투자에 따른 부채 부담과 유가 급등 우려가 겹쳤고 반도체와 AI 클라우드 종목에 매도세가 몰렸다고 설명했다. 아이뉴스24는 반도체 업종이 8거래일 연속 약세를 이어갔다고 전했다.",
-        "엔비디아의 'RTX 스파크' 탑재 윈도우 노트북이 16일 공식 판매에 들어갔다. 디지털데일리는 블랙웰 GPU와 그레이스 CPU를 통합한 슈퍼칩으로 로컬 환경에서 LLM과 에이전틱 AI를 구동한다고 소개했다. 조선비즈는 최대 128GB 통합 메모리와 1페타플롭 AI 연산 성능을 제공한다고 전했다. 가격은 아이뉴스24가 제목에서 346만원부터라고 밝혔고, 디일렉은 제목에서 580만원짜리 AI 노트북이라고 소개했다.",
+        "엔비디아의 'RTX 스파크' 탑재 윈도우 노트북이 16일 출시됐다. 디지털데일리는 블랙웰 GPU와 그레이스 CPU를 통합한 슈퍼칩으로 로컬 환경에서 LLM과 에이전틱 AI를 구동한다고 소개했다. 조선비즈는 최대 128GB 통합 메모리와 1페타플롭 AI 연산 성능을 제공한다고 전했다. 가격은 아이뉴스24가 제목에서 346만원부터라고 밝혔고, 디일렉은 제목에서 580만원짜리 AI 노트북이라고 소개했다.",
         "오픈AI가 크롬용 챗GPT 확장 프로그램을 강화했다. AI타임스에 따르면 챗GPT가 열어 둔 여러 탭의 정보를 한꺼번에 분석하고 탭을 직접 제어해 양식 작성이나 자료 정리를 할 수 있다. IT조선은 오픈AI가 16일 이 확장 프로그램을 전면 업데이트했다고 보도했다.",
         "중국이 AI 기술의 수출 통제를 추진한다. AI타임스는 첨단 모델과 에이전트, 칩 설계 등 23가지 AI 기술을 통제 대상으로 추진하되 오픈소스 기술과 API를 통한 서비스 이용은 예외로 둔다고 전했다. EBN은 중국 상무부와 과학기술부가 대형 AI 모델과 에이전트에 더해 세포와 유전자 치료, 태양광 제조 기술까지 총 40개 기술을 새로 편입할 계획이라고 보도했다. 두 매체가 전한 기술 수가 다르다.",
         "AI타임스에 따르면 앤트로픽이 미국 의회 의원들에게 첨단 AI 모델의 안전과 보안을 규제하는 법안 초안을 제안했다. 기업에 안전 평가와 정보 공개 의무를 부과하는 한편, 정부가 모델 출시나 사용을 중단할 수 있는 조건은 엄격히 제한하고 일부 주정부의 AI 안전 규제를 연방 기준으로 대체하는 내용이다.",
@@ -340,7 +407,25 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101614350167741"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 17 AI Briefing: AI Selloff on Wall Street and Nvidia's RTX Spark",
+        "points": [
+          "AI-related stocks sell off on Wall Street over AI investment debt worries",
+          "Competition grows over local AI PCs and browser AI agents",
+          "Regulatory moves include China's export controls and an Anthropic bill"
+        ],
+        "body": [
+          "New York stocks closed lower on the 16th (local time) on an AI-related selloff and rising oil prices. Newsis reported that the Nasdaq fell more than 2% for its worst week since June, and Digital Daily reported that the Nasdaq Composite dropped 2.1%. Digital Daily explained that debt burdens from AI infrastructure investment and fears of surging oil prices combined, with selling concentrated in semiconductor and AI cloud stocks. iNews24 reported that the semiconductor sector extended its weakness to eight straight trading days.",
+          "Windows laptops with Nvidia's RTX Spark were released on the 16th. Digital Daily described a superchip that integrates a Blackwell GPU and a Grace CPU and runs LLMs and agentic AI in a local environment. Chosun Biz reported that it offers up to 128GB of unified memory and 1 petaflop of AI compute. On price, iNews24 said in its headline that it starts at 3.46 million won, while The Elec described it in its headline as an AI laptop costing 5.8 million won.",
+          "OpenAI has strengthened its ChatGPT extension for Chrome. According to AI Times, ChatGPT can analyze information from multiple open tabs at once and control tabs directly to fill out forms or organize material. IT Chosun reported that OpenAI fully updated the extension on the 16th.",
+          "China is pushing for export controls on AI technology. AI Times reported that it is moving to put 23 AI technologies, including advanced models, agents and chip design, under control, while exempting open-source technology and use of services through APIs. EBN reported that China's Ministry of Commerce and Ministry of Science and Technology plan to newly add a total of 40 technologies, including large AI models and agents as well as cell and gene therapy and solar manufacturing technology. The two outlets gave different numbers of technologies.",
+          "According to AI Times, Anthropic proposed a draft bill to U.S. lawmakers that would regulate the safety and security of advanced AI models. It would impose safety evaluation and disclosure obligations on companies, tightly limit the conditions under which the government could halt a model's release or use, and replace some state-level AI safety rules with a federal standard.",
+          "According to AI Times, OpenAI's \"GPT-6 Astra\" solved 49 of 50 unpublished theoretical physics research problems without human hints. It autonomously carried out the process of finding literature, building equations and running code, and AI Times reported that errors in the expert-written reference answers were also identified during grading.",
+          "Security firm Theori has joined Anthropic's Cyber Verification Program (CVP) as a participating company. The Elec reported that it has secured access to security-specialized AI at Anthropic, following OpenAI. Tech M explained that the program grants eligibility to security firms and experts who have passed separate verification, and Digital Daily reported that Theori passed the eligibility review and received final approval.",
+          "Vessl AI signed a memorandum of understanding (MOU) with Korea Investment & Securities on \"GPU financing.\" According to Tech M, Korea Investment & Securities will support expanded investment and fundraising, while Vessl AI will support the work needed to carry out the business. In a reporter's notebook column, Digital Daily noted that financing the purchase of GPUs is becoming a competitive edge for companies that rent out GPUs."
+        ]
+      }
     },
     {
       "id": "b20261016",
@@ -1177,7 +1262,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707835"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kling AI Officially Releases Video Generation Model 'Kling 4.0'",
+        "points": [
+          "Kling AI officially releases Kling 4.0 video generation model",
+          "Stronger realism and control aimed at the professional content market",
+          "Generates 30-second videos in one pass"
+        ],
+        "body": [
+          "Kling AI, a Chinese AI video generation platform, has officially released its next-generation video generation model, Kling 4.0. Chosun Biz, citing the company, reported that Kling 4.0 was officially released on the 15th, and Digital Today reported that the company announced it on the 16th.",
+          "According to both outlets, the new model strengthens video realism, control and professional capability. Chosun Biz explained that the company plans to target the professional content production market, including film, broadcasting and advertising, and said in its headline that the model has also been applied to Korean films. Digital Today said in its headline that it can generate 30-second videos in one pass."
+        ]
+      }
     },
     {
       "id": "s20261017-731b529a7060",
@@ -1207,7 +1304,19 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=49026"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "XYZ Shows Coffee and Ice Cream Robots at Science Festival",
+        "points": [
+          "XYZ takes part in the Korea Science Festival",
+          "Shows a robot barista and an ice cream robot",
+          "Held at Jeonju University from the 16th to the 18th"
+        ],
+        "body": [
+          "XYZ, an AI robotics company, is taking part in the 2026 Korea Science Festival with Jeonbuk Science Festival, held at Jeonju University from the 16th to the 18th. VentureSquare and Robot Newspaper reported the news.",
+          "According to both outlets, XYZ will show the robot barista Barisbrew and the ice cream robot Aris. VentureSquare described the event as a chance to introduce everyday robot technology to citizens and young people. Robot Newspaper reported that the festival's theme is related to physical AI."
+        ]
+      }
     },
     {
       "id": "s20261017-3cf3d1387e2b",
@@ -1238,7 +1347,20 @@
           "link": "https://www.betanews.net/article/view/beta202610160065"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Orange Planet Selects 12 Startup Teams for Second Half",
+        "points": [
+          "Smilegate Orange Planet selects 12 teams for the second half",
+          "8 teams for Orange Garden and 4 teams for Orange Farm",
+          "Includes deep tech companies in healthcare and physical AI"
+        ],
+        "body": [
+          "The Smilegate Orange Planet Startup Foundation selected 12 startup teams in its regular second-half 2026 intake. VentureSquare and Betanews reported the result.",
+          "According to both outlets, 8 teams were chosen for Orange Garden and 4 for Orange Farm. Betanews explained that Orange Garden supports the pre-seed and early business stage, while Orange Farm supports companies preparing to scale up.",
+          "As fields among the selected companies, VentureSquare named digital healthcare, physical AI, robotics and data center power efficiency. Betanews reported that they include digital healthcare, hyper-personalized medical services, humanoid robots and physical AI."
+        ]
+      }
     },
     {
       "id": "s20261017-7a47bae214a6",
@@ -1269,7 +1391,20 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/16/LL7FF54QARBAZFTZEGXOHAHYCQ"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "AI Tool 'ARTEX' Abused in Financial Sector Hacks to Go Paid in China",
+        "points": [
+          "ARTEX is being readied for paid commercial release in China",
+          "The tool's development had stopped after signs it was abused in hacks of Korean financial firms",
+          "Offered as a service integrating several AI penetration testing tools"
+        ],
+        "body": [
+          "ARTEX, a Chinese AI penetration testing tool whose development had been halted after signs that it was abused in a series of hacks on Korean financial firms, is expected to reappear as a paid service. Kukmin Ilbo and Chosun Biz reported this on the 16th.",
+          "Kukmin Ilbo reported that a Chinese security company is pushing to commercialize an integrated platform that combines a commercial version of ARTEX with several AI penetration testing tools. Chosun Biz reported that Chinese cybersecurity company Threatbook is releasing a service that integrates several AI penetration testing agents, including a commercial version of ARTEX.",
+          "The outlets worded the abuse slightly differently. Kukmin Ilbo wrote that signs of abuse came to light, while Chosun Biz wrote that signs were detected."
+        ]
+      }
     },
     {
       "id": "s20261017-57a7c619f093",
@@ -1299,7 +1434,19 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=49027"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Pasto Robotics Presents Military Logistics Automation Plan at Air Force Seminar",
+        "points": [
+          "Pasto Robotics speaks at the Air Force seminar on new logistics technology",
+          "Presents plans based on private-sector logistics experience and automation cases",
+          "The seminar was held at Air Force Headquarters on Sept. 29"
+        ],
+        "body": [
+          "Pasto Robotics, introduced as a leading physical AI company, presented ways to apply logistics automation at military supply sites at the Air Force's \"Seminar on Policy Development for New Technology in Military Logistics.\" Hellot and Robot Newspaper reported the news on the 16th.",
+          "According to both outlets, the seminar was held in the main conference room at Air Force Headquarters on Sept. 29 and was hosted by Jung Chang-geun, the headquarters' director of logistics. Robot Newspaper reported that Pasto Robotics explained its plans based on its private-sector logistics operations experience and automation cases in Korea and abroad. Hellot said the company appeared as an invited speaker."
+        ]
+      }
     },
     {
       "id": "s20261016-4ed50bd62b2b",
@@ -1385,7 +1532,19 @@
           "link": "http://www.hellodd.com/news/articleView.html?idxno=113517"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KICT and SK Innovation Sign Agreement on AI Data Center Joint Research",
+        "points": [
+          "KICT and SK Innovation sign an AI data center agreement",
+          "Joint research and demonstration cooperation for safe construction and efficient operation",
+          "Signed on the 16th at KICT headquarters in Goyang, Gyeonggi Province"
+        ],
+        "body": [
+          "The Korea Institute of Civil Engineering and Building Technology (KICT) and SK Innovation will cooperate on joint research and demonstration for the safe construction and efficient operation of AI data centers. Electimes and Hello DD reported the news.",
+          "According to Electimes, KICT signed an agreement with SK Innovation on the 16th at its headquarters in Goyang, Gyeonggi Province, for joint research and demonstration cooperation in the AI data center field. Hello DD named KICT President Park Seon-gyu and described AI data centers as key infrastructure that supports artificial intelligence services."
+        ]
+      }
     },
     {
       "id": "s20261016-12f41b95839a",
@@ -1471,7 +1630,19 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101614172701162"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI Shares Cyber Defense Strategy With Korean Corporate Security Executives",
+        "points": [
+          "OpenAI holds a Cyber CXO Roundtable in Seoul",
+          "Invites about 60 executives, including CISOs at Korean companies",
+          "Advises using AI to find and fix vulnerabilities before attackers do"
+        ],
+        "body": [
+          "On the 16th, OpenAI held a \"Cyber CXO Roundtable\" in Seoul for executives, including chief information security officers (CISOs), at Korean companies. Digital Today reported that about 60 people were invited at the Westin Seoul Parnas.",
+          "According to Digital Today, attendees included Kim Kyung-hoon, head of OpenAI Korea, and Dominic Grillo, head of technical success. Digital Daily reported that as AI speeds up the discovery of gaps in software, companies have less time to prepare for attacks, and that OpenAI advised Korean security leaders to find and fix them with AI before attackers do."
+        ]
+      }
     },
     {
       "id": "s20261016-11199d4c548b",
@@ -1557,7 +1728,19 @@
           "link": "https://www.veritas-a.com/news/articleView.html?idxno=632127"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Yonsei AI Semiconductor Research Institute Presents Education Model to Strengthen Questioning",
+        "points": [
+          "Yonsei AI Semiconductor Research Institute presents an education model",
+          "The 3×3 Nine Lenses structures questioning and critical thinking",
+          "Presented at IEEE FIE 2026 on Oct. 13"
+        ],
+        "body": [
+          "Yonsei University's AI Semiconductor Innovation Research Institute presented the \"3×3 Nine Lenses\" education model on Oct. 13 at IEEE FIE 2026, an international engineering education conference held in Paphos, Cyprus. Kyosu Shinmun and Veritas Alpha reported the news.",
+          "According to both outlets, the model structures questioning and critical thinking. Kyosu Shinmun reported that the institute said the model's purpose is to build engineers' ability to ask questions. Veritas Alpha introduced Lim Jun-seo as the head of Yonsei's AI Semiconductor Innovation Research Institute."
+        ]
+      }
     },
     {
       "id": "s20261016-bdd7a11e3e58",
@@ -1643,7 +1826,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707670"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Bunzee AI Launches Clone Feature That Builds Plans From Web and App Addresses",
+        "points": [
+          "SF34 adds a clone feature to Bunzee AI",
+          "Analyzes service structure from just a website or app address",
+          "Automatically generates information architecture, clone code and wireframes"
+        ],
+        "body": [
+          "SF34 added a feature to its AI product planning platform Bunzee AI that analyzes a service's structure and automatically produces outputs when a user enters just a website or app address. AI Newspaper (인공지능신문) and Digital Today reported that the company announced it on the 16th.",
+          "According to both outlets, the feature automatically generates information architecture (IA), clone code and wireframes. Digital Today explained that users enter an app store or website address, and said in its headline that a plan comes out once you enter a competitor's address."
+        ]
+      }
     },
     {
       "id": "s20261016-f36c1289fa47",
@@ -1729,7 +1924,19 @@
           "link": "https://www.electimes.com/news/articleView.html?idxno=373508"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "HD Hyundai Electric and LG CNS Team Up on AI Data Center Power Infrastructure",
+        "points": [
+          "HD Hyundai Electric and LG CNS sign an agreement",
+          "Cooperation on data center power infrastructure and smart factories",
+          "Signed on the 15th at HD Hyundai Global R&D Center in Seongnam, Gyeonggi Province"
+        ],
+        "body": [
+          "HD Hyundai Electric and LG CNS will cooperate on AI data center power infrastructure. The Elec reported, citing an announcement on the 16th, that HD Hyundai Electric signed a memorandum of understanding (MOU) with LG CNS on the 15th at the HD Hyundai Global R&D Center in Seongnam, Gyeonggi Province, to build data center power infrastructure and smart factories.",
+          "Electimes described the same agreement as a strategic alliance for \"AI data centers and smart manufacturing.\" The explanation is that the companies will build data center power infrastructure and advance smart manufacturing to meet surging demand for artificial intelligence."
+        ]
+      }
     },
     {
       "id": "s20261016-eac1560bccfe",
@@ -5178,7 +5385,21 @@
         }
       ],
       "author": "Kevin Wong",
-      "published": "2026-10-13T09:41:51.926Z"
+      "published": "2026-10-13T09:41:51.926Z",
+      "en": {
+        "title": "Microsoft Unveils Third-Generation AI Chip 'Maia 300,' Plans 1 Million or More Next Year",
+        "points": [
+          "Microsoft unveils its own AI chip, Maia 300",
+          "Maia deployments to expand to multiple gigawatts from 2027",
+          "A move to reduce reliance on Nvidia GPUs"
+        ],
+        "body": [
+          "Microsoft unveiled its third-generation in-house AI chip, the Azure Maia 300, on the 12th (local time). According to Platum, from 2027 it plans to expand deployment of the Maia lineup to a multi-gigawatt scale and use Maia as the main AI inference system for its own products and services.",
+          "AI Newspaper (인공지능신문) reported that production deployment of the Maia 300 will begin in 2027, following the Maia 200 now used in real services such as Copilot.",
+          "On the scale of deployment, Industry News put deployment of 1 million or more next year in its headline. iNews24, citing Reuters, reported that Microsoft could deploy 1 million or more Maia 300 chips starting next year. IT Chosun wrote in its headline of deployment of up to 1 million or more next year.",
+          "Explanations of the background also overlap. Chosun Biz reported that Microsoft, which has relied on Nvidia GPUs until now, is declaring a shift of its center of gravity to its own chips. IT Chosun explained that it is a strategy to reduce dependence on Nvidia GPUs and improve the operating cost and power efficiency of AI services."
+        ]
+      }
     },
     {
       "id": "s20261013-23d44bedbe1c",
@@ -5916,7 +6137,21 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408041"
         }
       ],
-      "published": "2026-10-12T09:40:15.757Z"
+      "published": "2026-10-12T09:40:15.757Z",
+      "en": {
+        "title": "Naver Map Starts Directions on Meta AI Glasses, Will Also Work With Google and Samsung Devices",
+        "points": [
+          "Naver Map directions expand to AI glasses",
+          "Available first on Meta's Ray-Ban Meta and Oakley Meta",
+          "Google and Samsung devices are due out within the year"
+        ],
+        "body": [
+          "On the 12th, Naver announced that it is extending Naver Map's directions feature to AI glasses. Naver said it is the first domestic map service to support directions through AI glasses. It will be offered first on Meta's Ray-Ban Meta and Oakley Meta, and it plans to link with Google and Samsung intelligent eyewear due out within the year.",
+          "The service delivers real-time walking directions on AI glasses while on the move. Techworld News reported that it supports real-time voice guidance, and VentureSquare stressed in its headline that people need to take out their smartphones less often when finding their way. iNews24 put guidance such as \"The destination is 50 meters ahead on the left\" in its headline.",
+          "The outlets' focus differed slightly. AI Times described an AI assistant that gives directions when you talk to your glasses making its debut in a domestic map service. Tech M reported that the strategy is to offer a differentiated map service that goes beyond simple place search and route guidance.",
+          "The name for the device also differed. iNews24 and AI Times also used \"AI glasses\" in Korean (AI 안경), while the other outlets wrote \"AI glasses\" using the English loanword. The partners named, Meta, Google and Samsung, were the same across coverage."
+        ]
+      }
     },
     {
       "id": "h20261012-7032e0978482",
@@ -5972,7 +6207,21 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=48892"
         }
       ],
-      "published": "2026-10-12T09:40:15.757Z"
+      "published": "2026-10-12T09:40:15.757Z",
+      "en": {
+        "title": "Nvidia Announces $1 Billion in Investment and Support for U.S. Science Over Five Years",
+        "points": [
+          "Nvidia announces $1 billion in investment and support over five years",
+          "Focus on quantum computing, healthcare and energy security",
+          "Plan announced at a summit in Washington, D.C."
+        ],
+        "body": [
+          "Nvidia will invest and provide support totaling $1 billion over the next five years to advance science in the United States. According to Techworld News, Nvidia announced the plan on the 12th at the \"Science: A New Golden Age\" summit in Washington, D.C. iNews24 also reported that the plan was announced at the same summit.",
+          "The main targets are quantum computing, healthcare and energy security. Datanet reported that the plan aims to strengthen research and development capabilities in key U.S. scientific fields, including these areas. Digital Today said the money will be used in three ways, naming support for U.S. higher education research institutions as one, and wrote that it set the advance of superintelligence technology as a goal.",
+          "Won conversions differed by outlet. iNews24 put it at about 1.4 trillion won, while Techworld News wrote about 1 trillion won or more. Betanews reported that it was announced at an event attended by U.S. government officials and figures from industry and science.",
+          "Nvidia's $1 billion investment also appeared in other coverage. Robot Newspaper, citing U.S. outlets including Crypto Briefing on the 11th, reported that Nvidia is in talks to invest up to an additional $1 billion in Figure AI, a humanoid robot company. That report is separate from the summit announcement."
+        ]
+      }
     },
     {
       "id": "h20261012-792840793b4f",
@@ -6021,7 +6270,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706311"
         }
       ],
-      "published": "2026-10-12T09:40:15.757Z"
+      "published": "2026-10-12T09:40:15.757Z",
+      "en": {
+        "title": "Job Postings Naming Claude and ChatGPT Rise 170% in a Year",
+        "points": [
+          "Job postings naming AI tools up 170% from a year earlier",
+          "Postings mentioning Claude up 770%",
+          "Based on JobKorea's analysis of third-quarter postings this year"
+        ],
+        "body": [
+          "JobKorea (operated by Worksphere) analyzed job postings on its site in the third quarter of this year and found that postings that explicitly name AI tools such as Claude, ChatGPT and Gemini rose 170% from the same period a year earlier. JobKorea announced the finding on the 12th.",
+          "Platum reported that companies are increasingly naming the AI tools to be used on the job directly in postings instead of broad phrases such as \"AI skills preferred.\" IT Chosun wrote that, going a step beyond requiring AI skills, a growing number of cases ask about experience with specific AI tools.",
+          "By tool, Claude mentions rose 770%, the highest growth rate, iNews24 reported. AI Newspaper (인공지능신문) and Digital Today summarized that they confirmed a trend of companies specifying even the concrete tools to be used in practice."
+        ]
+      }
     },
     {
       "id": "h20261012-efedb8dbe020",
@@ -6095,7 +6357,21 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42257"
         }
       ],
-      "published": "2026-10-12T09:40:15.757Z"
+      "published": "2026-10-12T09:40:15.757Z",
+      "en": {
+        "title": "Naver Cloud and Vietnam's FPT to Jointly Pursue AI Factory and GPUaaS Business",
+        "points": [
+          "Naver Cloud and FPT sign a memorandum of understanding",
+          "Jointly pursue AI factory and GPUaaS business",
+          "Targeting APAC markets including Korea, Japan and Vietnam"
+        ],
+        "body": [
+          "Naver Cloud announced on the 12th that it will jointly pursue an AI factory and GPU-as-a-Service (GPUaaS) business with Vietnamese IT company FPT. The two companies recently signed a memorandum of understanding (MOU) at Naver 1784 in Seongnam, Gyeonggi Province, and plan to expand the GPUaaS business across the Asia-Pacific (APAC) market, including Korea, Japan and Vietnam.",
+          "The agreement covers the AI factory business as a whole. Tech M and Techworld News reported that the companies agreed to work together on planning, development and operation of the business.",
+          "The outlets stressed slightly different points. Chosun Biz reported that the plan is to combine the two companies' technology and customer networks to target companies that need large-scale AI computing resources. IT Chosun wrote that the companies plan to combine their GPU infrastructure and cloud technology to expand the AI infrastructure business in the APAC region, including Vietnam.",
+          "Descriptions of FPT also varied. Digital Today and Tech M called it a Vietnamese IT company, while iNews24 and AI Newspaper (인공지능신문) called it Vietnam's leading IT company in their text and Vietnam's largest IT company in their headlines. AI Times described it as a Vietnamese ICT company."
+        ]
+      }
     },
     {
       "id": "h20261012-caeff1450731",
@@ -6157,7 +6433,21 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706297"
         }
       ],
-      "published": "2026-10-12T09:40:15.757Z"
+      "published": "2026-10-12T09:40:15.757Z",
+      "en": {
+        "title": "AhnLab to Help Build Security System for Generative AI Use on National Research Foundation's Work Network",
+        "points": [
+          "AhnLab supports N2SF buildout at the National Research Foundation of Korea",
+          "Generative AI and internet use on the work network",
+          "Leads the consortium for KISA's adoption support project"
+        ],
+        "body": [
+          "AhnLab announced on the 12th that, under the Korea Internet & Security Agency (KISA)'s \"2026 National Network Security Framework (N2SF) Adoption Support Project,\" it will build a security system for generative AI and internet use on the National Research Foundation of Korea's work network and expand its scope of application. AhnLab is the lead company of the consortium carrying out the project.",
+          "iNews24 introduced N2SF as a framework that classifies work information by importance and applies different security levels. Tech M and Boannews reported on progress since June and also named other companies, such as MonitorLab and Dream Security.",
+          "The outlets described the expected benefits differently. Chosun Biz put the ability to use AI on work PCs in its headline, and Digital Daily wrote that it is a system that lets National Research Foundation staff use generative AI and the internet on their work PCs. Their handling of timing diverged. Digital Today wrote that it has been built, while Datanet and iNews24 wrote that it is being built and its scope of application expanded.",
+          "Tech M put expansion to the whole company in November in its headline."
+        ]
+      }
     },
     {
       "id": "s20261012-049002b51481",
