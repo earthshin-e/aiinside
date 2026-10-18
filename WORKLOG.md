@@ -27,6 +27,7 @@
 - 2026-10-16: 맥, 폰 어디서든 이어서 작업하도록 GitHub(earthshin-e/ainewswave)와 구글 드라이브(hazel@teamspot.biz/ainewswave)로 관리하기로 함.
 
 ## 기록 (최신이 위)
+- 2026-10-18: 주간 수익 기록(크롬 연결 안 됨, 애드센스 직접 확인 못 함. 10/18 확인 기준 Getting ready, 이번 달 0원, 체크리스트 변경 0개).
 - 2026-10-18: 주간 수익 기록 루틴 추가(로컬 예약 작업, 일요일 22:30: 애드센스 상태와 수익으로 goal/main current, monthly 갱신, 수익화 최적화 체크리스트 점검). 대시보드 루틴 a06(일요일) 추가.
 - 2026-10-18: Search Console 확인(색인 2, 대기 150, 노출 18, 클릭 0). 매일 읽히는 건 /a/feed.xml 뿐(/recap/feed.xml 10/14 뒤로 안 읽음, 사이트맵과 /en/feed.xml 은 Couldn't fetch)이라 /a/feed.xml 에 noindex 인 /a/ 페이지 대신 /recap/ 글 최신 200건을 싣도록 바꿈.
 - 2026-10-18: 색인 요청 2건(LG전자와 애플 AI홈, 10/17 브리핑) 뒤 한도. 애드센스 여전히 Getting ready.
