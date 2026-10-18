@@ -122,7 +122,24 @@
           "link": "https://www.inews24.com/view/2016159"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 18 AI Briefing: SK Chairman's Startup Advice to Young People and DeepSeek's V4.1 Update",
+        "points": [
+          "Young people's skills in the AI era and the challenge of managing AI adoption take center stage",
+          "Model news including a DeepSeek update and an Anthropic economic forecast",
+          "Assessments of Korea's economy tied to the chip and AI boom keep coming"
+        ],
+        "body": [
+          "SK Group Chairman Chey Tae-won urged young people living in the AI era to take on the challenge of starting a business. IT Chosun and Digital Daily reported on the 18th, citing SK, that Chey said that if he could return to his 20s, he would start a business that solves social problems. Problem-solving ability and the willingness to try again after failure were cited as the skills needed in the AI era.",
+          "DeepSeek released an updated version of V4.1-Flash. IT Chosun reported that V4.1-Flash-1017 was released on the 17th and that DeepSeek cited better benchmark performance and faster task completion. AI Times said the update keeps API pricing unchanged and focuses on lowering actual usage costs by reducing the tokens needed for a task.",
+          "Anthropic co-founder Jack Clark forecast that AI progress could make the U.S. economy grow substantially by 2030. Chosun Biz wrote that gross domestic product would grow by about 50%, while IT Chosun wrote that it could grow by close to 50%. The remarks were made on the 17th (local time) at the IMF and World Bank annual meetings in Bangkok.",
+          "The three major global credit rating agencies assessed that the chip and AI boom is supporting Korea's economic growth. Digital Daily reported that the boom offsets concerns about slowing growth, and Chosun Biz reported that the agencies showed interest in the government's plan for using excess tax revenue. Reports also appeared that same day that the IMF forecast Korea's potential growth rate to rise for a second straight year.",
+          "Korea NGO Times, citing the IMF's October World Economic Outlook, reported that a second consecutive rise in the potential growth rate would be the first in 40 years, since 1986 and 1987. EBN pointed out that behind the AI boom, the fruits of growth are concentrated in a few large companies and advanced industries.",
+          "A survey also showed the burden companies face in managing AI agents. According to Tech M, 87% of CIOs in Korea said IT departments' management capacity cannot keep up with the pace at which employees develop AI agents, and 79% said they cannot continuously measure results.",
+          "In security and home appliances, AhnLab said on the 18th that it took part in GovWare 2026 in Singapore from the 13th to the 15th and presented its AI security operations center, among other offerings. Chosun Biz reported that LG Electronics launched the LG PuriCare Hydrotower Max, which manages humidity and air quality with AI, on the 18th."
+        ]
+      }
     },
     {
       "id": "h20261018-d631cb7c8524",
@@ -153,7 +170,20 @@
           "title": "글로벌 3대 신평사 “반도체·AI 호황이 韓 성장 떠받쳐”",
           "link": "https://biz.chosun.com/policy/policy_sub/2026/10/18/BIPTWQABS5GDDLCCMMUDDHZEMI"
         }
-      ]
+      ],
+      "en": {
+        "title": "Global Big Three Rating Agencies Reaffirm Stability of Korea's Credit Rating Amid Chip and AI Boom",
+        "points": [
+          "Moody's, Fitch and S&P reaffirm stability of Korea's credit rating",
+          "Chip and AI boom offsets concerns about slowing growth",
+          "Agencies show interest in government's plan for excess tax revenue"
+        ],
+        "body": [
+          "The three major global credit rating agencies assessed that the chip and AI boom is supporting the Korean economy. Digital Daily and Chosun Biz reported the news on the 18th. Digital Daily reported that Moody's, Fitch and Standard & Poor's (S&P) assessed that the boom in the chip and AI industries is offsetting concerns about slowing growth, and said in its headline that they reaffirmed the stability of Korea's credit rating.",
+          "The two outlets described the assessment in slightly different terms. Digital Daily wrote that the boom offsets concerns about slowing growth, while Chosun Biz wrote that the agencies saw the boom as supporting Korea's economic growth. Both outlets also mentioned external and internal uncertainties such as an aging population and the Middle East war.",
+          "According to Chosun Biz, the agencies showed interest in the government's plan for using excess tax revenue, and Deputy Prime Minister and Minister of Economy and Finance Lee Hyung-il explained that it is being used to reduce government bond issuance."
+        ]
+      }
     },
     {
       "id": "h20261018-96c5010a8509",
@@ -191,7 +221,21 @@
           "title": "‘화웨이 동맹’ 딥시크, 이달만 5차례 서비스 장애… 안정성 도마",
           "link": "https://biz.chosun.com/international/international_general/2026/10/16/RMSJTYJLIFEJ3AAN3T6VOFFNIA"
         }
-      ]
+      ],
+      "en": {
+        "title": "DeepSeek Releases V4.1 Flash Update, Boosting Coding Performance and Cutting Task Time",
+        "points": [
+          "DeepSeek releases updated version of V4.1 Flash",
+          "Better coding and agent performance, shorter task time",
+          "API pricing unchanged, search API also released"
+        ],
+        "body": [
+          "Chinese AI startup DeepSeek released a new, updated version of V4.1-Flash. IT Chosun reported that the V4.1-Flash-1017 version was released on the 17th and described it as a step up in performance from the V4.1-Flash introduced last month. AI Times also reported on the update.",
+          "According to IT Chosun, DeepSeek said on its official website that benchmark performance improved over the previous version, tasks complete faster and output time is shorter. The outlet highlighted improved coding and reasoning performance in its headline.",
+          "AI Times described it as a model that cuts task time and output length while improving coding and agent performance. The outlet reported that it keeps API pricing unchanged but focuses on lowering actual usage costs by reducing the tokens needed for a task, and said in its headline that a search API was also released.",
+          "Chosun Biz reported on the 16th that DeepSeek has suffered five service outages in October alone. The outlet said DeepSeek has recently been deepening cooperation with Huawei, which makes Chinese AI chips, to reduce its reliance on Nvidia, and noted that the continuing outages have raised concerns about service stability."
+        ]
+      }
     },
     {
       "id": "h20261018-478c12a74ad6",
@@ -234,7 +278,20 @@
           "title": "LG전자, AI 가습·공기청정 결합한 '퓨리케어 하이드로타워 맥스' 출시",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728210"
         }
-      ]
+      ],
+      "en": {
+        "title": "LG Electronics Launches 'Hydrotower Max' That Manages Humidity and Air Quality With AI",
+        "points": [
+          "LG Electronics launches LG PuriCare Hydrotower Max",
+          "Manages humidity and air quality in large spaces such as living rooms with AI",
+          "Combines water-purifying humidification, space-tailored AI humidification and air purification"
+        ],
+        "body": [
+          "LG Electronics on the 18th released the LG PuriCare Hydrotower Max, a premium humidifier and air purifier that uses artificial intelligence to manage humidity and air quality in large spaces. iNews24, Chosun Biz, Digital Daily and EBN reported the news, and Chosun Biz reported that LG Electronics said it launched the product that day.",
+          "Outlets emphasized different features of the product. Chosun Biz said it combines hygiene-managing water-purifying humidification technology, a space-tailored AI humidification function and strong air purification performance. Digital Daily described it as a large premium all-in-one appliance that combines a space-tailored humidification function with air purification performance for 66 square meters. iNews24 wrote that it is optimized for large spaces such as living rooms.",
+          "EBN said the new product, which combines AI-based humidification and air purification, marks a push into the premium humidifier market. The outlet also mentioned water purification, sterilization and air cleaning functions as part of the product's makeup."
+        ]
+      }
     },
     {
       "id": "h20261018-e1dba0cfc3c7",
@@ -278,7 +335,21 @@
           "title": "안랩, 싱가포르서 AI 보안 솔루션 공개",
           "link": "https://biz.chosun.com/it-science/ict/2026/10/18/L2YWDTC7KBCXBKRPV2IM6A2X3I"
         }
-      ]
+      ],
+      "en": {
+        "title": "AhnLab Showcases AI Security Technology at GovWare 2026 in Singapore",
+        "points": [
+          "AhnLab takes part in GovWare 2026 in Singapore",
+          "Presentation centered on integrated brand AhnLab AI Plus",
+          "AI security operations center and IT and OT security technology unveiled"
+        ],
+        "body": [
+          "AhnLab took part in GovWare 2026, a global cybersecurity event held in Singapore from the 13th to the 15th, and presented AI-based security technology. Datanet, Boannews and Chosun Biz reported that AhnLab announced this on the 18th, and Digital Today also reported on its participation in the event.",
+          "The outlets differed slightly on the venue and organizer. Boannews and Digital Today wrote that the event was held at the Sands Expo and Convention Centre in Singapore, while Datanet and Boannews described it as an event organized by the Cyber Security Agency of Singapore.",
+          "The outlets also described the exhibits in different terms. Digital Today and Chosun Biz reported that AhnLab presented its AI security operations center (SOC) and converged IT and OT security, among other offerings, centered on its integrated brand AhnLab AI Plus. Datanet summarized that it presented AI-based security operations and industrial environment security technology, and Boannews said it showcased its 'AI-native security' operating capabilities.",
+          "Digital Today introduced AhnLab as an AI-native security platform company. Datanet and Boannews wrote that AhnLab's chief executive is Kang Seok-kyun."
+        ]
+      }
     },
     {
       "id": "h20261018-9ac0872ff776",
@@ -328,7 +399,21 @@
           "title": "최태원 SK 회장, EBS ‘위대한 수업’ 첫 강연자로…AI 시대 생존 전략 제시",
           "link": "https://biz.chosun.com/industry/company/2026/10/08/EEPKZZSKXFGATOYMFQJ5DMSLMA"
         }
-      ]
+      ],
+      "en": {
+        "title": "SK Chairman Chey Tae-won: 'If I Were in My 20s, I'd Start a Business,' Urging Young People in the AI Era to Take on Challenges",
+        "points": [
+          "Chairman Chey says he would start a business if he were in his 20s",
+          "Cites problem-solving ability as a key skill in the AI era",
+          "Also stresses willingness to try again after failure"
+        ],
+        "body": [
+          "SK Group Chairman and Korea Chamber of Commerce and Industry Chairman Chey Tae-won urged young people living in the AI era to take on the challenge of starting a business. Industry News, IT Chosun, Digital Daily and EBN reported the news, and IT Chosun and Digital Daily cited SK on the 18th. Chey was reported to have said that if he could return to his 20s, he would start a business that solves social problems.",
+          "The outlets emphasized slightly different points. Industry News reported that Chey suggested young people look for problems to solve on their own rather than seek a set career. The same outlet noted that AI is changing the way people work and learn. EBN interpreted the message as saying that, as AI changes jobs and industrial structure, people should not stay stuck in conventional views of work and should develop the ability to find and solve new problems.",
+          "IT Chosun reported that Chey named problem-solving ability and the willingness to try again after failure as skills needed in the AI era, and highlighted in its headline his remark that people should find what AI cannot do. Digital Daily also said he stressed the importance of problem-solving ability and a spirit of challenge. Industry News and EBN put the phrase 'start a business no matter what' in quotation marks in their headlines.",
+          "IT Chosun reported that the remarks relate to the EBS program 'Great Class,' which aired from the 12th to the 16th, and Chosun Biz said in its headline that Chey was the first lecturer on the program."
+        ]
+      }
     },
     {
       "id": "s20261018-e7a72f4d79c2",
@@ -359,7 +444,20 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172221"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Anthropic Co-Founder: 'AI Could Grow U.S. Economy 50% by 2030'",
+        "points": [
+          "Jack Clark forecasts 50% growth in U.S. GDP by 2030",
+          "Remarks made on the 17th at IMF and World Bank annual meetings",
+          "IT Chosun says it could grow by close to 50%"
+        ],
+        "body": [
+          "Anthropic co-founder Jack Clark said that rapid progress in AI could make the U.S. economy grow substantially by 2030. Chosun Biz and IT Chosun reported the news, and Clark oversees policy and public benefit at Anthropic.",
+          "According to both outlets, the remarks were made on the 17th (local time) at the annual meetings of the International Monetary Fund (IMF) and the World Bank in Bangkok, Thailand. IT Chosun reported the content by citing a Reuters report.",
+          "The wording differs. Chosun Biz wrote that U.S. gross domestic product is forecast to grow by about 50% by 2030, while IT Chosun wrote that it could grow by close to 50% from its current size. IT Chosun gave 44 trillion dollars as the U.S. GDP in 2030 in its headline."
+        ]
+      }
     },
     {
       "id": "s20261018-f3e02d9dafc2",
@@ -390,7 +488,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728212"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "IMF: 'Korea's Potential Growth Rate to Rise for Second Straight Year, First in 40 Years,' on AI and Chip Boom",
+        "points": [
+          "IMF forecasts Korea's potential growth rate to rise this year and next",
+          "Two straight years of increase is the first since 1986 and 1987",
+          "EBN also points to weak employment behind the AI boom"
+        ],
+        "body": [
+          "The International Monetary Fund (IMF) forecast that Korea's potential growth rate will rise for a second straight year, this year and next. Korea NGO Times, citing the IMF's October World Economic Outlook released on the 18th, reported that a second consecutive rise in the potential growth rate is the first in 40 years, since 1986 and 1987, a period of the three lows boom.",
+          "EBN wrote that a forecast has emerged that, helped by the AI and chip boom, Korea's potential growth rate, a gauge of its underlying strength, will rebound for a second straight year for the first time in 40 years. Korea NGO Times also cited the chip and AI boom as the cause in its headline.",
+          "However, EBN did not view the forecast only optimistically. Noting that the fruits of growth are concentrated in a few large companies and advanced industries, it also covered the employment chill hidden behind the AI boom in its headline."
+        ]
+      }
     },
     {
       "id": "s20261018-0af9078e5b49",
@@ -421,7 +532,20 @@
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424381"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "87% of Korean CIOs Say IT Departments Can't Keep Up With the Pace of AI Agent Development",
+        "points": [
+          "87% of CIOs say management capacity can't keep up with agent development",
+          "79% say they can't continuously measure results",
+          "Based on survey results released by Dataiku on the 18th"
+        ],
+        "body": [
+          "Eighty-seven percent of chief information officers (CIOs) at companies in Korea said IT departments' management capacity cannot keep up with the pace at which employees develop AI agents. Tech M reported that 79% also said they cannot continuously measure the operational results and business results of AI agents. Tech M reported that the survey was included in materials Dataiku released on the 18th.",
+          "Sisa Journal-e also covered the survey results. The outlet reported that as business units increasingly build and use AI agents themselves, the number of agents outside the IT organization's control is also growing. It also wrote that 8 in 10 CIOs at large companies in Korea cannot continuously confirm whether their company's AI agents actually deliver business results.",
+          "The description of the respondents differs by outlet. Tech M wrote 'CIOs at companies in Korea,' while Sisa Journal-e wrote 'CIOs at large companies in Korea.'"
+        ]
+      }
     },
     {
       "id": "h20261017-939196ccc813",
