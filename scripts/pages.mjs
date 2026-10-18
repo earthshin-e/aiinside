@@ -307,22 +307,22 @@ function articlePage(a) {
 `;
 }
 for (const a of withPoints) await writeFile(path.join(adir, `${a.id}.html`), articlePage(a));
-// 기사 페이지 RSS(/a/feed.xml): 최신 100건. Search Console 에 사이트맵 대신 제출해 새 페이지를 빨리 알립니다.
-const afeedItems = [...withPoints].sort((x, y) => new Date(y.published) - new Date(x.published)).slice(0, 100);
+// /a/feed.xml(2026-10-18 바꿈): Search Console 이 매일 읽어 가는 유일한 통로라(10/18 기준 /recap/feed.xml 은 10/14 뒤로 안 읽고 사이트맵은 Couldn't fetch),
+// noindex 인 /a/ 기사 페이지 대신 색인될 정리 기사, 브리핑, 기자 기사(/recap/<id>.html) 최신 200건을 싣습니다. 주소는 Search Console 에 제출된 그대로 둡니다.
 const acdata = (t) => `<![CDATA[${String(t).replace(/]]>/g, ']]&gt;')}]]>`;
 await writeFile(path.join(adir, 'feed.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>AI 뉴스웨이브: 기사 핵심 요약</title>
-  <link>${SITE}/</link>
-  <description>국내 AI 기사마다 AI 뉴스웨이브가 정리한 3줄 핵심 요약</description>
+  <title>AI 뉴스웨이브: AI 브리핑과 정리 기사</title>
+  <link>${SITE}/recap/</link>
+  <description>여러 매체 보도를 AI 뉴스웨이브가 사실만 모아 새로 정리한 글과 매일 AI 브리핑</description>
   <language>ko</language>
-${afeedItems.map((a) => `  <item>
-    <title>${acdata(a.title)}</title>
-    <link>${SITE}/a/${a.id}.html</link>
-    <guid isPermaLink="true">${SITE}/a/${a.id}.html</guid>
-    <pubDate>${new Date(a.published).toUTCString()}</pubDate>
-    <description>${acdata(a.points.join(' / '))}</description>
+${sorted.slice(0, 200).map((st) => `  <item>
+    <title>${acdata(st.title)}</title>
+    <link>${SITE}/recap/${st.id}.html</link>
+    <guid isPermaLink="true">${SITE}/recap/${st.id}.html</guid>
+    <pubDate>${new Date(st.published).toUTCString()}</pubDate>
+    <description>${acdata((st.points || []).join(' / ') || st.body[0] || '')}</description>
   </item>`).join('\n')}
 </channel>
 </rss>
