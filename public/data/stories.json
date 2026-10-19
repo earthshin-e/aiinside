@@ -212,7 +212,24 @@
           "link": "https://www.venturesquare.net/1121023"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 19 AI Briefing: Anthropic Public Benefit Fund Pledge and a Run of Korean AI Partnerships",
+        "points": [
+          "Anthropic announces plan to put 5% of its shares into a public benefit fund",
+          "Partnerships link Korean AI chips and LLMs",
+          "Discussion of AI security checks widens among financial firms and businesses"
+        ],
+        "body": [
+          "Anthropic will contribute 5% of its shares to a public benefit fund. Chosun Biz and iNews24 reported that Anthropic announced the plan on Oct. 18 (U.S. time). According to Chosun Biz, the shares will go to the \"Anthropic Public Benefit Fund\" after shareholder approval, and each time the company's value rises 50% above a set baseline, the board may contribute an additional 2% at its discretion. AI Times said the aim is to respond to job changes and labor market shocks from the spread of AI.",
+          "Microsoft (MS) has withdrawn from a data center contract with British AI infrastructure company Nscale. IT Chosun, citing Bloomberg, reported on Oct. 19 (U.S. time) that the withdrawal is expected to weigh on Nscale's initial public offering (IPO), in which it aims to raise up to $3 billion, as facility construction is delayed by problems securing power. Chosun Biz wrote that delays in securing power could slow the pace of large-scale investment plans.",
+          "Partnerships bringing together Korean AI technology continued. iNews24 and AI Times reported that Orchestro Cloud signed a memorandum of understanding (MOU) with FuriosaAI, Upstage, SPK Inc. and Daewon CTS on Oct. 19 to jointly develop an NPU-based sovereign AI full-stack product. AI Times and TheElec reported that Sendbird announced on Oct. 19 that it signed an MOU with Upstage to apply Korean LLMs in enterprise settings and expand the commercialization of AI agents.",
+          "Financial Supervisory Service Governor Lee Chan-jin called for building AI-based defense systems at the National Assembly Political Affairs Committee audit on Oct. 19. According to iNews24 and Chosun Biz, the FSS plans to expand mock hacking drills, including AI-based intrusion. Chosun Biz wrote that it is also pursuing measures to increase financial firms' security budgets and staffing.",
+          "A security check service for businesses also arrived. Techworld News and Boannews reported that Naver Cloud unveiled on Oct. 19 a \"Security Self-Assessment\" service that lets companies check their security status through an online questionnaire. Techworld News said the scope of the assessment has been extended to AI-use environments, and AI Newspaper (인공지능신문) said the service is free.",
+          "LG Group began business review meetings for all affiliates on Oct. 19. According to TheElec, the meetings are chaired by LG Corp. CEO Koo Kwang-mo and review this year's business results and next year's business plans, and iNews24 said AI growth strategies and plans for carrying out cooperation with global big tech companies are expected to be key agenda items. iNews24, EBN and others reported that LG Electronics unveiled a brand video on the history and future vision of home appliance innovation on an outdoor billboard in New York's Times Square, and EBN described the plan as expanding its business from appliances into physical AI fields such as AI homes and home robots.",
+          "News on manufacturing AI continued. TheElec reported that Kolon Benit announced on Oct. 19 that it selected Isu Chemical, Seowoo Industry and Seowoo Advanced Materials as participating companies for the \"Win-Win AI Transformation (AX) Pilot Model Support Program.\" TheElec also reported that MIcube Solution received the top S grade in the Ministry of SMEs and Startups' manufacturing AI development capability assessment. VentureSquare reported that OnePredict will take part in FIX 2026, to be held at EXCO in Daegu from Oct. 21 to 24."
+        ]
+      }
     },
     {
       "id": "h20261019-0cd3a6e85f55",
@@ -280,7 +297,21 @@
           "title": "센드버드-업스테이지, K-LLM 기반 AI 에이전트 확산 협력",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708055"
         }
-      ]
+      ],
+      "en": {
+        "title": "Sendbird and Upstage Team Up to Commercialize AI Agents Built on a Korean LLM",
+        "points": [
+          "Sendbird and Upstage sign memorandum of understanding",
+          "Solar to be applied to Sendbird's agent platform",
+          "Push to validate Korean LLMs in enterprise settings and commercialize them"
+        ],
+        "body": [
+          "Sendbird signed a memorandum of understanding (MOU) with Upstage to apply Korean large language models (LLMs) in enterprise settings and expand the commercialization of AI agents. AI Times, TheElec, Datanet, Digital Today and others reported that Sendbird announced this on Oct. 19.",
+          "The partnership centers on linking the two companies' products. According to VentureSquare, the companies will connect Upstage's LLM \"Solar\" with Sendbird's enterprise AI agent platform \"Delight.ai.\" AI Times reported that Upstage's LLM \"Solar\" will be applied to Sendbird's enterprise AI agent platform.",
+          "Outlets differ in what they emphasize about the partnership. Techworld News described it as applying a Korean LLM to enterprise AI agents and validating it in real work environments. Digital Daily wrote that Solar will be tested in customer service settings at global companies. In its headline, TheElec described the partnership as a sovereign AI business collaboration.",
+          "Startup Today reported that Sendbird (CEO Kim Dong-shin) and Upstage (CEO Kim Sung-hoon) are jumping into the market for customized work automation using a Korean LLM, and its headline said the companies will take on foreign products with an AI agent that cuts costs by 40%."
+        ]
+      }
     },
     {
       "id": "h20261019-bd1c0bf2e2cd",
@@ -342,7 +373,21 @@
           "title": "오케스트로·퓨리오사AI·업스테이지 등 5개사, 소버린 AI 풀스택 드림팀 결성",
           "link": "https://www.hellot.net/news/article.html?no=115576"
         }
-      ]
+      ],
+      "en": {
+        "title": "Orchestro Cloud and Four Others to Jointly Develop NPU-Based Sovereign AI Full Stack",
+        "points": [
+          "Orchestro Cloud and four other companies sign memorandum of understanding",
+          "Full stack combines Korean NPUs, LLMs and cloud",
+          "Push to commercialize integrated infrastructure product"
+        ],
+        "body": [
+          "Orchestro Cloud signed a memorandum of understanding (MOU) with FuriosaAI, Upstage, SPK Inc. and Daewon CTS to jointly develop a sovereign AI full-stack product based on neural processing units (NPUs). iNews24, AI Times, Startup Today and Hellot reported that Orchestro Cloud announced this on Oct. 19. Techworld News, Startup Today and Chosun Biz wrote that the agreement was signed on the 16th.",
+          "The direction of the cooperation is a combination of Korean technologies. Techworld News reported that the five companies will develop a sovereign AI full-stack product combining Korean AI chips, large language models (LLMs), and cloud and server infrastructure. According to VentureSquare, FuriosaAI's \"RNGD,\" Upstage's \"SOLAR\" and Orchestro's \"CONTRABASS\" were mentioned as products to be combined. AI Times cited AI computing, cloud infrastructure, models and inference, and operations as the scope of the five companies' cooperation.",
+          "Outlets expressed it differently. iNews24 and Hellot described the cooperation in their headlines as forming a \"dream team,\" while Startup Today put more weight on pushing the integrated infrastructure product toward commercialization. Chosun Biz reported that five Korean AI companies joined hands to develop sovereign AI infrastructure using Korean technology.",
+          "Hellot reported that the agreement relates to AI chips, models, cloud platforms, servers and data centers."
+        ]
+      }
     },
     {
       "id": "h20261019-d13837461929",
@@ -404,7 +449,21 @@
           "title": "코오롱베니트, 중소·중견 3사 '상생형 제조 AX' 선도모델 구축",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728272"
         }
-      ]
+      ],
+      "en": {
+        "title": "Kolon Benit Builds Win-Win Manufacturing AX Pilot Models for Three Firms Including Isu Chemical",
+        "points": [
+          "Kolon Benit confirms three participating companies",
+          "Isu Chemical, Seowoo Industry and Seowoo Advanced Materials selected",
+          "Government-backed win-win AX project gets under way"
+        ],
+        "body": [
+          "Kolon Benit selected Isu Chemical, Seowoo Industry and Seowoo Advanced Materials as participating companies for the \"Win-Win AI Transformation (AX) Pilot Model Support Program\" and is moving to carry out the project in earnest. TheElec, TechM, iNews24 and EBN reported that Kolon Benit announced this on Oct. 19.",
+          "The project is a government-backed manufacturing AX program. TheElec described it as a government-supported project run by the Ministry of SMEs and Startups, the Korea Technology and Information Promotion Agency for SMEs and the Korea Federation of SMEs. Digital Daily, by contrast, wrote that it is a project of the Korea Technology and Information Promotion Agency for SMEs. TechM explained that the project supports company-wide AX transitions at small and midsize firms, building on large companies' manufacturing innovation capabilities.",
+          "Digital Daily reported that the three participating companies are small and midsize manufacturers in petrochemicals, auto parts and textile materials. Datanet wrote that, after Kolon Benit was selected as the lead organization in July, the manufacturing sites where AX will be applied have now been confirmed, putting the manufacturing AX project into the execution stage.",
+          "The name of the project is written differently by outlet. iNews24 called it the \"generative AX pilot model support program\" in its headline, but its summary of the same article called it the \"Win-Win AI Transformation (AX) Pilot Model Support Program.\" In its headline, Techworld News said field data and workers' experience will be combined with AI."
+        ]
+      }
     },
     {
       "id": "h20261019-c152cd9f8a58",
@@ -466,7 +525,21 @@
           "title": "엠아이큐브솔루션, 중기부 제조AI 개발역량 진단서 최고 등급 S 획득",
           "link": "https://www.hellot.net/news/article.html?no=115570"
         }
-      ]
+      ],
+      "en": {
+        "title": "MIcube Solution Earns Top S Grade in Ministry of SMEs and Startups' Manufacturing AI Capability Assessment",
+        "points": [
+          "MIcube Solution receives S grade in manufacturing AI assessment",
+          "SmartAI platform was the subject of the assessment",
+          "Ministry's smart factory supplier capability assessment program"
+        ],
+        "body": [
+          "MIcube Solution received the top S grade in the \"Manufacturing AI Development Capability Assessment\" conducted through the Ministry of SMEs and Startups' \"2026 Smart Factory Supplier Capability Assessment Support Program.\" Datanet, Industry News, Digital Daily and others reported that the company announced this on Oct. 19.",
+          "The subject of the assessment was \"SmartAI,\" a manufacturing-specific AI platform. According to VentureSquare, the platform includes functions needed on manufacturing floors, such as quality prediction, anomaly detection, predictive maintenance, process optimization and inspection automation. Digital Daily described the platform as a manufacturing-specific AI platform based on machine learning operations (MLOps).",
+          "On the nature of the assessment, Hellot reported that it reviews smart factory suppliers' manufacturing AI solutions on the basis of technology, performance and operations. Datanet wrote that the company's CEO is Shim Hyo-jun.",
+          "Headline wording differs by outlet. Digital Daily called it proof of \"autonomous manufacturing capability,\" and VentureSquare called it recognition of \"autonomous manufacturing technology.\" Hellot simply wrote that the company received the top grade in the ministry's manufacturing AI development capability assessment."
+        ]
+      }
     },
     {
       "id": "h20261019-21fb35321632",
@@ -522,7 +595,21 @@
           "title": "원프레딕트, FIX 2026서 ‘AI 네이티브 팩토리’ 공개",
           "link": "https://www.ddaily.co.kr/page/view/2026101908370077721"
         }
-      ]
+      ],
+      "en": {
+        "title": "OnePredict to Unveil \"AI-Native Factory\" Strategy at FIX 2026",
+        "points": [
+          "OnePredict to take part in FIX 2026 in Daegu from Oct. 21",
+          "Applying AI across factory operations, beyond equipment diagnosis",
+          "Scale model recreating a real factory on display"
+        ],
+        "body": [
+          "OnePredict (CEO Yoon Byung-dong), a manufacturing AI company, will take part in the \"2026 Future Innovation Tech Expo (FIX 2026)\" at EXCO in Daegu from Oct. 21 to 24 to present its manufacturing AI technology and key cases. Robot Newspaper reported that the company announced this on Oct. 19.",
+          "The centerpiece of the exhibit is the \"AI-native factory\" strategy. Digital Daily reported that OnePredict will unveil a strategy that applies AI across factory operations, including quality, energy, maintenance, control and production, beyond equipment diagnosis. According to VentureSquare, the company will use a scale model that recreates a real factory to show how manufacturing data collection and analysis, equipment management and operational decision-making connect.",
+          "Wording differs somewhat by outlet. Industry News wrote that the company will show manufacturing AI that recreates a real factory environment, while Robot Newspaper stressed in its headline expanding touchpoints with customers in the southeastern region. VentureSquare also put targeting the southeastern market in its headline.",
+          "Hellot reported that OnePredict also took part in \"Physical AI Tech Week,\" held at COEX in Seoul from Oct. 13 to 14, where it presented its operating strategy for the future manufacturing factory. Hellot wrote that the event was hosted by the Ministry of Science and ICT and that the company showed its core manufacturing physical AI technology to Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon."
+        ]
+      }
     },
     {
       "id": "s20261019-b5beb8fe8c0e",
@@ -565,7 +652,20 @@
           "link": "https://www.newsis.com/view/NISX20261018_0003830286"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Lotte Innovate Shows AI and Autonomous Driving Technology at ITS World Congress in Gangneung",
+        "points": [
+          "Lotte Innovate takes part in Gangneung ITS World Congress from Oct. 19",
+          "C-ITS, AI smart tolling and autonomous driving technology on display",
+          "135 sq. m exhibition hall at Gangneung speed skating venue"
+        ],
+        "body": [
+          "Lotte Innovate is taking part in the \"2026 ITS World Congress,\" held in Gangneung from Oct. 19 to 23, to show future transportation technologies including next-generation cooperative intelligent transport systems (C-ITS), AI smart tolling and autonomous driving. Chosun Biz and EBN reported that the company announced this on Oct. 19.",
+          "According to Chosun Biz, Lotte Innovate has set up an exhibition hall of 135 square meters at the Gangneung speed skating venue. iNews24 explained that the company is expanding its integrated mobility business by adding AI technology to its experience building transportation infrastructure and its capability to operate autonomous driving services.",
+          "On the event itself, Newsis reported that the Ministry of Land, Infrastructure and Transport and Gangneung city announced on Oct. 18 that the \"2026 Gangneung ITS World Congress\" will be held for five days, from Oct. 19 to 23, at Gangneung Olympic Park. Newsis wrote that the event is called the \"Transport Olympics.\""
+        ]
+      }
     },
     {
       "id": "s20261019-32d1399799ae",
@@ -608,7 +708,20 @@
           "link": "https://www.inews24.com/view/2016280"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao Impact Foundation Holds Finals of National Senior AI Golden Bell",
+        "points": [
+          "Kakao Impact Foundation holds finals of Senior AI Golden Bell",
+          "64 finalists with an average age of 71.9",
+          "Linked to Ministry of Science and ICT's national AI contest private track"
+        ],
+        "body": [
+          "The Kakao Impact Foundation held the finals of the \"National Senior AI Golden Bell\" on Oct. 15. Digital Today, iNews24 and others reported that the foundation announced this on Oct. 19.",
+          "According to Digital Today, 64 seniors aged 60 or older who passed the nationwide preliminaries took part in the contest, and the finalists' average age was 71.9. In its headline, AI Newspaper (인공지능신문) said participants competed on everything from AI general knowledge to using ChatGPT.",
+          "Techworld News and iNews24 explained that the contest is an event linked to the senior category of the private track of the \"National AI Contest\" hosted by the Ministry of Science and ICT. Digital Today wrote that the preliminaries ran from May 29 to Oct. 6."
+        ]
+      }
     },
     {
       "id": "s20261019-cc4a6a0af7e0",
@@ -651,7 +764,20 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/19/URD5TJA2ERCPBBHUDZPPZ7LHHQ"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Naver Cloud Opens Security Self-Assessment for Businesses, Covering AI Risks",
+        "points": [
+          "Naver Cloud opens questionnaire-based security self-assessment",
+          "Assessment scope extended to risks in AI-use environments",
+          "Usable by companies lacking security specialists"
+        ],
+        "body": [
+          "Naver Cloud opened the \"Naver Cloud Security Self-Assessment\" service, which lets companies check their security status on their own through an online questionnaire. Techworld News and Boannews reported that the service was unveiled on Oct. 19. According to Boannews, companies can see at a glance which security areas to consider improving as they answer the questionnaire.",
+          "The extension of the assessment scope to AI-use environments stands out. Techworld News reported that the scope of the assessment has been expanded to AI-use environments, and Boannews wrote in its headline that AI risks and more can be checked. AI Newspaper (인공지능신문) explained the background: as the adoption of generative AI and AI agents spreads, the scope of security management is widening to include information leaks and automated attacks.",
+          "On terms of use, Boannews reported that anyone can use the service without entering separate information, and AI Newspaper (인공지능신문) said in its headline that it is a free service. Chosun Biz wrote that companies without dedicated security specialists can also easily grasp their response status."
+        ]
+      }
     },
     {
       "id": "s20261019-409241a2e219",
@@ -694,7 +820,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026101909533558009"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "ElevenLabs Releases Alpha of ElevenAgents Architect, Which Builds AI Agents Through Conversation",
+        "points": [
+          "ElevenLabs releases alpha of ElevenAgents Architect",
+          "Build and improve agents through voice and text conversation",
+          "Added to enterprise voice and chat agent platform"
+        ],
+        "body": [
+          "AI audio company ElevenLabs released an alpha version of \"ElevenAgents Architect,\" which lets users build and improve agents through conversation alone, on its enterprise voice and chat agent platform \"ElevenAgents.\" Digital Today, Techworld News, Datanet and Digital Daily covered the news.",
+          "Outlets focus on different features. Digital Today wrote in its headline that agents are built through voice conversation, while Digital Daily put in its headline that the tool analyzes conversations and suggests improvements. Digital Daily explained that users make requests by voice or text.",
+          "Digital Daily reported that ElevenLabs announced the alpha version of the feature on Oct. 19. Datanet used the word \"launch\" in its headline, but its summary described it as the release of an alpha version."
+        ]
+      }
     },
     {
       "id": "s20261019-e285c1a6f800",
@@ -737,7 +876,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728253"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LG Group Begins Business Review Meetings for All Affiliates, Checking AI Strategy",
+        "points": [
+          "LG begins business review meetings for all affiliates on Oct. 19",
+          "Chaired by CEO Koo Kwang-mo to review results and next year's plans",
+          "AI growth strategy and big tech cooperation are key agenda items"
+        ],
+        "body": [
+          "LG Group began business review meetings for all affiliates on Oct. 19. TheElec and iNews24 reported that LG Corp. CEO Koo Kwang-mo chairs the meetings and reviews this year's business results and next year's business plans. Industry News and EBN wrote that the meetings will run for about a month.",
+          "According to TheElec, the meetings are attended by affiliate CEOs and business unit heads, and they begin with electronics affiliates such as LG Electronics, LG Display and LG Innotek.",
+          "AI was named as a key agenda item. iNews24 reported that each affiliate's strategy to secure growth opportunities in AI and plans for carrying out cooperation with global big tech companies are expected to be key agenda items. In its headline, TheElec mentioned discussion of cooperation with Nvidia and Microsoft (MS)."
+        ]
+      }
     },
     {
       "id": "s20261019-893647b306d4",
@@ -780,7 +932,20 @@
           "link": "https://www.inews24.com/view/2016236"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Anthropic to Put 5% of Shares Into Public Benefit Fund to Address AI Job Shock",
+        "points": [
+          "Anthropic to contribute 5% of shares to public benefit fund",
+          "Plan for additional contributions as company value rises",
+          "Response to job changes from the spread of AI"
+        ],
+        "body": [
+          "Anthropic, the developer of the AI model Claude, will contribute 5% of its shares to a public benefit fund. According to AI Times, Anthropic is also pursuing a plan to increase the fund's stake as its corporate value rises. Chosun Biz and iNews24 reported that Anthropic announced this on Oct. 18 (U.S. time), and iNews24 wrote that it did so through its official blog.",
+          "According to Chosun Biz, Anthropic will contribute 5% of its shares to the \"Anthropic Public Benefit Fund\" after shareholder approval. Each time the company's value rises 50% above a set baseline, it will contribute an additional 2% at the board's discretion.",
+          "On the purpose, AI Times reported that the aim is to return the economic benefits created by AI to society and to respond to job changes and labor market shocks from the spread of AI. IT Chosun, citing Bloomberg on Oct. 19 (U.S. time), reported that the move ahead of an initial public offering (IPO) is meant to address social concerns such as job losses from the spread of AI."
+        ]
+      }
     },
     {
       "id": "s20261019-603d3d78ecbd",
@@ -823,7 +988,20 @@
           "link": "https://biz.chosun.com/stock/finance/2026/10/19/Y325C263YRG5LADWUBTFBMSSHU"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "FSS Governor Lee Expands AI Mock Hacking and Financial Security Investment at Audit",
+        "points": [
+          "FSS Governor Lee Chan-jin calls for AI-based defense systems",
+          "Plan to expand AI-based mock hacking drills",
+          "Push to strengthen financial firms' security investment"
+        ],
+        "body": [
+          "Financial Supervisory Service Governor Lee Chan-jin called for building AI-based defense systems and strengthening security capabilities in response to recent financial-sector hacking and security incidents, at the National Assembly Political Affairs Committee audit of the FSS on Oct. 19. TechM, Digital Daily, iNews24 and Chosun Biz reported the remarks.",
+          "Outlets describe the response measures differently. iNews24 and Chosun Biz reported that mock hacking drills, including AI-based intrusion, will be expanded. Chosun Biz wrote that the FSS is also pursuing measures to increase financial firms' security budgets and staffing. TechM explained that the FSS plans to move away from sanctioning after incidents toward a prevention-focused supervisory system and to encourage greater information security investment.",
+          "TechM reported that Lee also called for stronger security responsibility among financial firms' executives, and Chosun Biz wrote that he said the cause of security incidents will be thoroughly investigated."
+        ]
+      }
     },
     {
       "id": "s20261019-f5d680734736",
@@ -866,7 +1044,20 @@
           "link": "https://www.inews24.com/view/2016291"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Sparrow Shows Sparrow MCP, Its AI Code Security Solution, in Japan for the First Time",
+        "points": [
+          "Sparrow to take part in Security Days Fall 2026 in Tokyo",
+          "AI-generated code security assistant makes first Japan appearance",
+          "Analyzes security vulnerabilities in AI-written code"
+        ],
+        "body": [
+          "Sparrow is taking part in \"Security Days Fall 2026\" in Tokyo, Japan, where it will show its AI-generated code security assistant \"Sparrow MCP\" to the Japanese market for the first time. Digital Today, Boannews, Bloter and iNews24 reported the news on Oct. 19.",
+          "Boannews wrote that the event runs from Oct. 21 to 23. Bloter reported that Sparrow will launch Sparrow MCP in the Japanese market on the occasion of this participation.",
+          "iNews24 introduced Sparrow as a subsidiary of Fasoo AI and explained that Sparrow MCP is a solution that analyzes security vulnerabilities in source code written by AI. Digital Today called it a coding AI security solution."
+        ]
+      }
     },
     {
       "id": "s20261019-1e7df5eb7454",
@@ -909,7 +1100,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728244"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LG CNS Named Major Player in IDC Digital Workplace Assessment",
+        "points": [
+          "LG CNS named Major Player in IDC assessment",
+          "Recognized for agentic AI-based work innovation capabilities",
+          "18 global companies included in the assessment"
+        ],
+        "body": [
+          "LG CNS was named a \"Major Player\" in global market research firm IDC's \"2026 Worldwide Digital Workplace Services (DWS) Vendor Assessment.\" TechM reported that LG CNS announced this on Oct. 19, and Digital Daily and EBN also covered the news.",
+          "TechM wrote that 18 global companies were included in the assessment. In its headline, AI Newspaper (인공지능신문) said LG CNS was named a Major Player as the first Korean company to do so.",
+          "Outlets also described the assessment factors differently. AI Newspaper (인공지능신문) cited the platform's ability to use agentic AI to automate not only information search and work assistance but also actual task execution, and its capabilities in industries with high security requirements such as finance, the public sector and manufacturing. EBN explained that LG CNS was recognized for its competitiveness based on AI agent-based work innovation technology and business capabilities built up in security and regulated industries."
+        ]
+      }
     },
     {
       "id": "s20261019-87f887e8b86c",
@@ -958,7 +1162,20 @@
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=240842"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LG Electronics Shows Appliance Innovation History and AI Home Vision in New York's Times Square",
+        "points": [
+          "Brand video shown on Times Square billboard in New York",
+          "Theme is \"Life Asks, LG Answers\"",
+          "Expanding from appliances to AI homes and home robots"
+        ],
+        "body": [
+          "LG Electronics showed a brand heritage video on the history and future vision of home appliance innovation on an outdoor billboard in New York's Times Square in the United States. The theme of the video is \"Life Asks, LG Answers.\" Digital Daily reported that LG Electronics announced this on Oct. 19, and iNews24 and EBN also covered the news.",
+          "Outlets describe the period covered by the video differently. iNews24 wrote that it covers 68 years of home appliance innovation, while Industry News referred in its headline to more than 60 years of appliance innovation. Korea NGO Times (한국NGO신문) wrote that it covers the history of appliance innovation since the company's founding.",
+          "The future vision centers on AI. iNews24 reported that the company showed a vision of expanding into AI home robots, and EBN explained that the company plans to expand its business from existing appliances into physical AI fields such as AI homes and home robots. Digital Daily introduced the video as containing content about reducing the burden of housework."
+        ]
+      }
     },
     {
       "id": "b20261018",
