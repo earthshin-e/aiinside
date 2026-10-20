@@ -28,6 +28,14 @@ const KW_MIN = 3;
 const kwFile = (k) => `${k.replace(/\s+/g, '-')}.html`;
 // 기자 페이지(/recap/author/<이름>.html, 2026-10-17): 바이라인을 누르면 그 기자의 기사 목록으로 갑니다.
 const authorFile = (n) => `${n.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.html`;
+// 기자 소개(2026-10-20 운영자 승인). 담당 분야는 18:30 글쓰기 작업이 기자를 배정하는 기준과 같습니다.
+const AUTHORS = {
+  'Haley Yun': { beat: '기업 AI 전략과 제품', bio: '국내외 기업이 AI 를 제품과 사업에 어떻게 들여오는지 다룹니다. 가전, 통신, 플랫폼 기업의 AI 발표와 해외 협력 소식을 주로 씁니다.', beatEn: 'Corporate AI strategy and products', bioEn: 'Covers how Korean and global companies bring AI into their products and businesses, with a focus on consumer electronics, telecom and platform companies.' },
+  'Chloe Park': { beat: '생성형 AI 와 AI 인프라', bio: '새 AI 모델과 서비스 출시, 그리고 이를 떠받치는 칩, 서버, 데이터센터 소식을 다룹니다.', beatEn: 'Generative AI and AI infrastructure', bioEn: 'Covers new AI models and services, and the chips, servers and data centers behind them.' },
+  'Ethan Chen': { beat: 'AI 정책과 산업 생태계', bio: '정부의 AI 정책과 국책 과제, AI 인재 채용, 산업 현장의 변화를 다룹니다.', beatEn: 'AI policy and the industry ecosystem', bioEn: 'Covers Korean government AI policy and national projects, AI hiring and talent, and how AI is changing industry.' },
+  'Ashley Yang': { beat: '국내 AI 기업과 산업 행사', bio: '국내 AI 기업의 협력과 해외 진출, 주요 전시와 개발자 행사를 다룹니다.', beatEn: 'Korean AI companies and industry events', bioEn: 'Covers partnerships and overseas expansion of Korean AI companies, along with major tech exhibitions and developer events.' },
+  'Kevin Wong': { beat: 'AI 보안, 로봇, 반도체', bio: 'AI 보안 기술, 로봇과 자율주행, AI 칩과 GPU 확보 경쟁을 다룹니다.', beatEn: 'AI security, robotics and chips', bioEn: 'Covers AI security, robotics and autonomous systems, and the race for AI chips and GPUs.' },
+};
 const storyKw = new Map(stories.map((s) => [s.id, keywordsOf(s.title, (s.points || []).join(' '))]));
 const kwStories = new Map();
 for (const s of stories) for (const k of storyKw.get(s.id)) { if (!kwStories.has(k)) kwStories.set(k, []); kwStories.get(k).push(s); }
@@ -211,14 +219,15 @@ await mkdir(auDir, { recursive: true });
 for (const f of await readdir(auDir)) if (!authors.some((n) => authorFile(n) === f)) await unlink(path.join(auDir, f));
 for (const n of authors) {
   const l = sorted.filter((x) => x.author === n);
-  const ld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { '@type': 'Person', name: n, worksFor: { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE } } };
+  const ld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { '@type': 'Person', name: n, jobTitle: '기자', ...(AUTHORS[n] ? { description: AUTHORS[n].bio, knowsAbout: AUTHORS[n].beat } : {}), worksFor: { '@type': 'Organization', name: 'AI 뉴스웨이브', url: SITE } } };
   const html = listPage({
     title: `${n} 기자`,
-    desc: `AI 뉴스웨이브 ${n} 기자의 기사 ${l.length}건 모음입니다.`,
+    desc: `AI 뉴스웨이브 ${n} 기자${AUTHORS[n] ? `(${AUTHORS[n].beat})` : ''}의 기사 ${l.length}건 모음입니다.`,
     canon: `author/${authorFile(n)}`,
     main: `  <script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>
-  <p class="meta">AI 뉴스웨이브 기자</p>
+  <p class="meta">AI 뉴스웨이브 기자${AUTHORS[n] ? ` | ${esc(AUTHORS[n].beat)}` : ''}</p>
   <h1>${esc(n)}</h1>
+  ${AUTHORS[n] ? `<p>${esc(AUTHORS[n].bio)}</p>` : ''}
   <p>${esc(n)} 기자가 담당한 기사 ${l.length}건입니다. 여러 매체 보도에서 확인된 사실을 바탕으로 AI 작성 도구가 쓰고 먼저 발행한 뒤 기자가 검토합니다. 글마다 근거가 된 언론사 기사를 밝힙니다.</p>
   <ul class="cards">${l.map((x) => `<li><a href="../${esc(x.id)}.html">${esc(x.title)}</a>${x.points && x.points.length ? `<br><span class="sum">${esc(x.points.join(', '))}</span>` : ''}<br><span class="meta">${kstDate(x.published)} | ${x.sources.length}개 매체</span></li>`).join('')}</ul>
   <h2>다른 기자</h2>
@@ -446,10 +455,11 @@ await mkdir(eaDir, { recursive: true });
 for (const f of await readdir(eaDir)) if (!enAuthors.some((n) => authorFile(n) === f)) await unlink(path.join(eaDir, f));
 for (const n of enAuthors) {
   const l = enStories.filter((x) => x.author === n);
-  const ld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { '@type': 'Person', name: n, worksFor: { '@type': 'Organization', name: 'AI NewsWave', url: SITE } } };
-  await writeFile(path.join(eaDir, authorFile(n)), enHead(`${n} | AI NewsWave`, `Articles by ${n}, reporter at AI NewsWave.`, `${SITE}/en/author/${authorFile(n)}`, `${SITE}/recap/author/${authorFile(n)}`, `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`) + `<main class="wrap">
-  <p class="meta">Reporter, AI NewsWave</p>
+  const ld = { '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { '@type': 'Person', name: n, jobTitle: 'Reporter', ...(AUTHORS[n] ? { description: AUTHORS[n].bioEn, knowsAbout: AUTHORS[n].beatEn } : {}), worksFor: { '@type': 'Organization', name: 'AI NewsWave', url: SITE } } };
+  await writeFile(path.join(eaDir, authorFile(n)), enHead(`${n} | AI NewsWave`, `Articles by ${n}, reporter at AI NewsWave${AUTHORS[n] ? ` covering ${AUTHORS[n].beatEn.toLowerCase()}` : ''}.`, `${SITE}/en/author/${authorFile(n)}`, `${SITE}/recap/author/${authorFile(n)}`, `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>`) + `<main class="wrap">
+  <p class="meta">Reporter, AI NewsWave${AUTHORS[n] ? ` | ${esc(AUTHORS[n].beatEn)}` : ''}</p>
   <h1>${esc(n)}</h1>
+  ${AUTHORS[n] ? `<p>${esc(AUTHORS[n].bioEn)}</p>` : ''}
   <p>${l.length} articles by ${esc(n)}. Drafted with AI writing tools from facts confirmed in Korean media reports, published first, and reviewed by the reporter after publication.</p>
   <ul class="cards">${l.map((x) => `<li><a href="/en/recap/${esc(x.id)}.html">${esc(x.en.title)}</a>${x.en.points && x.en.points[0] ? `<br><span class="sum">${esc(x.en.points[0])}</span>` : ''}<br><span class="meta">${enDate(x.published)}</span></li>`).join('')}</ul>
 </main>
