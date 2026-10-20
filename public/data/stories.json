@@ -58,7 +58,21 @@
           "title": "KT-아크릴, 의료 데이터부터 AI 서비스까지 협력…병원 AX 사업 확대",
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408419"
         }
-      ]
+      ],
+      "en": {
+        "title": "KT and Medical AI Firm Acryl to Jointly Pursue Medical AX Projects for Healthcare Institutions",
+        "points": [
+          "KT and Acryl sign agreement to jointly pursue medical AX",
+          "Cooperation from hospital data standardization to AI service validation",
+          "Plan to identify AI models tailored to each hospital"
+        ],
+        "body": [
+          "KT will jointly pursue a medical AX (AI transformation) project with medical AI firm Acryl to help healthcare institutions use data and adopt AI services. KT announced this on Oct. 20. According to iNews24, the two companies' CEOs are KT CEO Park Yoon-young and Acryl CEO Park Oi-jin.",
+          "Digital Today reported that the two companies signed a memorandum of understanding (MOU) at Acryl's headquarters in Seolleung, Seoul. The cooperation is based on KT's integrated build-out capabilities in AI, cloud and data and its experience running medical AX projects, along with Acryl's medical data and AI technology.",
+          "Outlets described the scope of cooperation differently. IT Chosun reported that the companies will cooperate from hospital data standardization through AI service development and validation. EBN reported that they will work to identify AI models tailored to each hospital, and Techworld News described the project as spanning everything from using medical data to building AI services.",
+          "iNews24 also reported the background that the use of AI in healthcare is widening beyond clinical support into data use, research and administration."
+        ]
+      }
     },
     {
       "id": "h20261020-099050a947bc",
@@ -126,7 +140,21 @@
           "title": "HS효성인포메이션시스템, 역삼동으로 사옥 이전...AX 센터도 마련",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708343"
         }
-      ]
+      ],
+      "en": {
+        "title": "HS Hyosung Information Systems Moves to Yeoksam-dong Building and Opens AX Center",
+        "points": [
+          "HS Hyosung Information Systems moves HQ to Yeoksam-dong, Seoul",
+          "AX Center opened to support customers' AI transformation",
+          "Upgraded BMT room expands performance testing and demo environment"
+        ],
+        "body": [
+          "HS Hyosung Information Systems, an AI and data infrastructure solutions company, has moved its office to Yeoksam-dong, Gangnam District, Seoul. The company announced the move on Oct. 20 and said it will speed up support for customers' AI transformation (AX). Boannews and Datanet reported that its CEO is Yang Jung-kyu.",
+          "The new building houses an AX Center that supports customized AI transformation for customers. Techworld News and Datanet reported that the benchmark test (BMT) room was upgraded to provide an environment for verifying product performance and demonstrating technology.",
+          "Bloter explained the reason for the move. Bloter reported that the company moved from Cheongdam-dong, Gangnam District, to Yeoksam-dong because of the redevelopment of its aging former Cheongdam-dong building.",
+          "Outlets worded the company's business direction differently. Boannews reported that it is expanding its AI and data infrastructure business, while Industry News reported that it is stepping up efforts to strengthen its AI future vision. Chosun Biz said the strategy is to speed up support for customers' AI transformation from the move onward."
+        ]
+      }
     },
     {
       "id": "h20261020-c76729f31680",
@@ -182,7 +210,21 @@
           "title": "세일즈포스, AI 에이전트 전문가 양성 '파트너 FDE' 국내 첫 도입",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708328"
         }
-      ]
+      ],
+      "en": {
+        "title": "Salesforce Brings AI Agent Talent Development Program to Korea",
+        "points": [
+          "Salesforce introduces Partner FDE program in Korea for the first time",
+          "44 people from 11 partner firms join Seoul workshop",
+          "Goal of training 100 AI agent experts in Korea"
+        ],
+        "body": [
+          "Salesforce will introduce Partner FDE (Forward Deployed Engineer), a program for developing AI agent specialists, in Korea for the first time. Salesforce announced the plan on Oct. 20. According to Chosun Biz, an FDE is an engineer who understands a customer's business environment and work processes and supports the entire process of designing, building, deploying, operating and optimizing AI agents.",
+          "The program began with a workshop held in Seoul for three days from Oct. 13. VentureSquare reported that 44 people from 11 Korean systems integration and consulting partner firms took part, and that the workshop covered topics such as designing AI agents with Agentforce and Slack.",
+          "The target number is described differently by outlet. TechM reported that Salesforce will train 100 or more domestic experts by 2027, and VentureSquare said in its headline that the goal is to train 100.",
+          "TechM reported that the introduction is part of strengthening partner capabilities to support Korean companies' transition to an agentic enterprise. Datanet also mentioned support for the agentic enterprise transition to the same effect."
+        ]
+      }
     },
     {
       "id": "h20261020-4e14ed5512e1",
@@ -232,7 +274,21 @@
           "title": "나루씨큐리티, AI로 웹 공격 흔적 찾는다…'제로티카 라이트 웹' 출시",
           "link": "https://www.bloter.net/news/articleView.html?idxno=676076"
         }
-      ]
+      ],
+      "en": {
+        "title": "Naru Security Launches AI Web Defense Service ZeroTiCA Lite Web",
+        "points": [
+          "Naru Security launches AI web defense service",
+          "Analyzes web server logs with AI to trace signs of attack",
+          "Extends firewall log-based breach assessment to the web"
+        ],
+        "body": [
+          "Naru Security is launching ZeroTiCA Lite Web, an AI web defense service. The company announced the launch on Oct. 20. According to Datanet, its CEO is Kim Hyuk-jun.",
+          "Chosun Biz introduced the service as a subscription-based breach assessment service that uses AI to analyze large volumes of logs from companies' web servers and services and trace signs of attack and abnormal behavior. Bloter described it as a subscription security service that checks past traces of intrusion, the current state of attack and the possibility of future attacks.",
+          "Datanet reported that the company is extending breach assessment technology that previously analyzed firewall logs to the web, building a threat analysis system that spans networks and the web. TechM also reported that the company is strengthening an AI-based integrated threat response system by expanding firewall log-centered breach assessment technology to the web.",
+          "The threat of AI-powered cyberattacks was cited as the background for the launch. Techworld News reported that the service came out as the threat of cyberattacks using AI tools grows, and TechM reported that attacks using AI were behind the launch."
+        ]
+      }
     },
     {
       "id": "h20261020-54b207e3191e",
@@ -276,7 +332,21 @@
           "title": "놀고 있는 GPU를 일하게 하는 소프트웨어, 래블업 코스닥 상장 추진",
           "link": "https://platum.kr/archives/296533"
         }
-      ]
+      ],
+      "en": {
+        "title": "Lablup Pursues KOSDAQ Listing, Touting GPU Operating Efficiency",
+        "points": [
+          "Lablup holds IPO briefing and pursues KOSDAQ listing",
+          "Case of raising GPU utilization from 30% to 85%",
+          "Expanding from GPU management to token cost management"
+        ],
+        "body": [
+          "Lablup, an AI infrastructure operations software company, is pursuing a listing on the KOSDAQ market. According to Techworld News and Platum, Lablup held an initial public offering (IPO) investor briefing on Oct. 19 at the Conrad Hotel in Yeouido, Seoul, and VentureSquare reported that it unveiled a global market expansion strategy ahead of the listing.",
+          "Byline Network reported that Lablup is targeting the market for AI infrastructure operating efficiency with GPU resource partitioning virtualization and automatic failure recovery technology. Performance figures were also presented. Byline Network reported that in an actual customer case, GPU utilization rose from 30% to 85% and the training time for a large-scale AI model fell from 120 days to 66 days. VentureSquare reported that the company said it improved GPU utilization from 30% to 85% in a specific operating case, and its headline expressed this as a 2.8-fold improvement in GPU operating efficiency.",
+          "According to VentureSquare, the flagship platform Backend.AI is operated at more than 120 sites in Korea and abroad. Platum pointed out that a common concern among companies running AI infrastructure is that a large share of the expensive GPUs they buy sits idle.",
+          "Techworld News reported on the direction of business expansion. Lablup plans to widen its business from managing AI accelerators such as GPUs to model inference and token usage and cost management, and to target the global neocloud market. It also plans to increase investment in overseas business and technology development on the occasion of the listing."
+        ]
+      }
     },
     {
       "id": "b20261020",
@@ -414,7 +484,24 @@
           "link": "https://www.inews24.com/view/2016809"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 20 AI Briefing: U.S. Orders DeepSeek Removal and AI Companies Race for Funding",
+        "points": [
+          "U.S. orders DeepSeek removal as AI security debate spreads",
+          "OpenAI and Anthropic compete for funding and computing capacity",
+          "In Korea, AX partnerships in healthcare and talent continue"
+        ],
+        "body": [
+          "The U.S. Department of Homeland Security ordered all federal civilian agencies to remove the Chinese AI company DeepSeek's products from their IT systems. According to Digital Daily, the order came on Oct. 19 (U.S. time), and Digital Today reported that third-party services using DeepSeek are also subject to removal.",
+          "OpenAI is speeding up a new fundraising of about $30 billion ahead of Anthropic's initial public offering (IPO). Digital Daily reported that the corporate value being discussed as a target exceeds $1.4 trillion, and Digital Today, citing Cryptopolitan, put the valuation at $1.4 trillion. Digital Daily pointed out that the two companies are competing for the same institutional investors' money.",
+          "Anthropic is negotiating a computing supply contract with British AI cloud company Nscale. AI Times reported that it is an additional contract worth $45 billion (about 59.751 trillion won) and that, if concluded, it would bring the total to about $90 billion together with the existing contract. EBN reported that the talks involve up to $45 billion (about 65 trillion won), so the won conversions differ.",
+          "Microsoft defined autonomous AI agents deployed inside companies as \"Agentic Insiders.\" According to Boannews, it introduced a new security approach that tracks and controls behavioral risk in real time, and Hellot reported that it is an approach for continuously supervising and protecting them.",
+          "Korea entered the top group of AI leaders in BCG's AI maturity assessment for the first time. TechM reported that it was included along with the United States, China, the United Kingdom, Singapore and Canada, and Digital Daily reported that public investment in developing proprietary AI models and computing infrastructure was credited.",
+          "KT will jointly pursue a medical AX project with medical AI firm Acryl. Digital Today reported that the two companies signed a memorandum of understanding at Acryl's headquarters in Seolleung, Seoul, and IT Chosun reported that they will cooperate from hospital data standardization through AI service development and validation.",
+          "Salesforce will introduce Partner FDE, a program for developing AI agent specialists, in Korea for the first time. VentureSquare reported that 44 people from 11 domestic partner firms took part in the Seoul workshop, and TechM introduced a plan to train 100 or more domestic experts by 2027."
+        ]
+      }
     },
     {
       "id": "s20261020-048f43ec2f5b",
@@ -451,7 +538,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408474"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "BCG Report: Korea Enters Group of AI Leaders for the First Time",
+        "points": [
+          "Korea enters AI leaders group in BCG AI maturity assessment for the first time",
+          "Six countries including the U.S. and China are in the top group",
+          "Next challenge is turning it into industrial results"
+        ],
+        "body": [
+          "Korea has entered the top group of AI leaders in the Boston Consulting Group (BCG) AI maturity assessment for the first time. On Oct. 20, BCG released \"The AI Maturity Matrix 2026,\" a report covering more than 75 economies worldwide.",
+          "According to TechM and Techworld News, Korea was included among the AI leaders along with the United States, China, the United Kingdom, Singapore and Canada. Digital Daily reported that public investment in developing proprietary AI models and computing infrastructure was credited.",
+          "Challenges were also presented. Digital Daily reported that the next challenge is the ability to turn the foundation Korea has secured into industrial competitiveness and economic results, and TechM said in its headline that accelerating industrial AX is the key."
+        ]
+      }
     },
     {
       "id": "s20261020-8951f8a150d7",
@@ -494,7 +594,20 @@
           "link": "https://www.dailypharm.com/user/news/343612"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Dong-A ST to Exclusively Sell Salted's AI Gait Analysis Solution in Korea",
+        "points": [
+          "Dong-A ST and Salted sign exclusive sales contract for NEUROGAIT",
+          "Dong-A ST handles domestic distribution, sales and marketing",
+          "Expanding digital healthcare in musculoskeletal field"
+        ],
+        "body": [
+          "Dong-A ST signed an exclusive domestic sales contract with digital healthcare company Salted for NEUROGAIT, an AI gait analysis solution. Dong-A ST announced the contract on Oct. 20.",
+          "According to Chosun Biz, Dong-A ST will handle NEUROGAIT's domestic distribution, sales and marketing. Daily Pharm reported that the companies signed the contract at Dong-A ST's headquarters in Dongdaemun District, Seoul, attended by Dong-A ST President Jung Jae-hoon and Salted CEO Cho Hyung-jin, among others.",
+          "The business direction can be summed up as expansion in the musculoskeletal field. EBN reported that Dong-A ST plans to expand its digital healthcare business using the network of medical institutions it has built in the existing musculoskeletal field. HIT News also reported that the company is extending its digital healthcare business into the musculoskeletal field by adopting the AI gait analysis solution."
+        ]
+      }
     },
     {
       "id": "s20261020-fd9c4868e36c",
@@ -537,7 +650,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215203"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Deepfine and Seoul Transportation Corporation Begin Developing AI Tram Safety Operations Platform",
+        "points": [
+          "Deepfine and Seoul Transportation Corporation develop tram safety AI platform",
+          "Part of Ministry of Science and ICT's AX innovation creative technology development project",
+          "On-site validation planned on the Wirye Line"
+        ],
+        "body": [
+          "Deepfine, a spatial AI-based industrial AI platform company, will work with Seoul Transportation Corporation to develop a safety operations AI platform that detects in advance the risks that can arise while trams are running. According to Datanet, Deepfine announced this on Oct. 20, and its CEO is Kim Hyun-bae.",
+          "Hellot and Datanet reported that the platform recognizes and analyzes risks in advance and supports the judgment and response of traffic control and drivers. VentureSquare explained that it analyzes the movements of pedestrians and vehicles using multi-sensor data such as CCTV and lidar and judges the level of risk based on factors such as estimated time to collision.",
+          "The development is being carried out under the 2026 AX Innovation Company Creative Technology Development Project promoted by the Ministry of Science and ICT and the Institute of Information & Communications Technology Planning & Evaluation (IITP). Techworld News and VentureSquare mentioned on-site validation on the Wirye Line in their headlines."
+        ]
+      }
     },
     {
       "id": "s20261020-df169993f99e",
@@ -580,7 +706,20 @@
           "link": "https://www.inews24.com/view/2016722"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Millie's Library Adds AI Briefing to Search Results",
+        "points": [
+          "Millie's Library introduces AI Briefing at the top of search results",
+          "Understands the meaning of search terms and provides needed information",
+          "Connects to reading and related book recommendations"
+        ],
+        "body": [
+          "Reading platform KT Millie's Library has launched an AI Briefing service. Millie's Library announced this on Oct. 20. Techworld News and TechM reported that the service has been introduced, while Digital Today and iNews24 reported that it will be introduced.",
+          "According to iNews24 and Techworld News, AI Briefing understands the meaning of the search term a user enters, provides the needed information at the top of the search results, and connects everything from book search to immediate reading and related book recommendations.",
+          "Digital Today explained that AI Briefing works out whether a search term refers to a book, an author or a topic and summarizes related information. TechM reported that this improves users' convenience in finding books. iNews24 reported that the CEO is Jung Jae-wook."
+        ]
+      }
     },
     {
       "id": "s20261020-6599c045e8b5",
@@ -617,7 +756,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728417"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Ministry of Trade and Industry Moves to Mutually Recognize M.AX Certification With Switzerland for Overseas Use",
+        "points": [
+          "Ministry and Switzerland's CertX mutually recognize M.AX certification",
+          "Domestic test results used for overseas certification",
+          "Hyundai AutoEver and WIZCORE receive joint overseas certificates"
+        ],
+        "body": [
+          "The Ministry of Trade and Industry is moving in earnest to mutually recognize with Switzerland its manufacturing AI transformation (M.AX) certification so that it can be used overseas. According to Hellot, the ministry held the 4th Industrial AI International Certification Forum at COEX in Seoul on Oct. 20 together with the Korea Testing Laboratory (KTL) and the Korea Institute for Advancement of Technology (KIAT), among others.",
+          "Electimes reported that, as domestic testing and certification bodies reached mutual recognition with a Swiss certification body, industrial AI test and evaluation results obtained in Korea can now also be used to obtain overseas certification. Hyundai AutoEver and WIZCORE received joint overseas certificates through this.",
+          "EBN reported that the plan is to use domestic test results for overseas certification as well, reducing companies' burden of duplicate testing and certification costs. Electimes reported that the burden on Korean industrial AI companies of entering global markets is expected to ease."
+        ]
+      }
     },
     {
       "id": "s20261020-b439d025b89e",
@@ -653,7 +805,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728419"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Bigwave Robotics Launches Hyper Foundry, an Integrated Robot AI Development Platform",
+        "points": [
+          "Bigwave Robotics launches Hyper Foundry",
+          "Connects robot data collection through training and deployment",
+          "Physical AI development platform for industry"
+        ],
+        "body": [
+          "Bigwave Robotics, an industrial physical AI company, launched Hyper Foundry, a robot AI development platform. The company announced this on Oct. 20, and according to AI Times its CEO is Kim Min-kyo.",
+          "AI Times explained that the product is an end-to-end platform that uses data generated by robots for AI training and turns trained models back into robot behavior. Digital Today and EBN reported that it is an integrated development platform that runs from collecting robot data through AI model training and validation to deployment on real robots."
+        ]
+      }
     },
     {
       "id": "s20261020-d274c44272af",
@@ -703,7 +867,21 @@
           "link": "https://www.inews24.com/view/2016747"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Smilegate Hope Studio Starts AI Game Creation Workshop for Seongnam Youth",
+        "points": [
+          "Smilegate Hope Studio partners with Seongnam Arts and Culture Foundation",
+          "Youth and young mentors make games with AI",
+          "Six weeks starting Nov. 6"
+        ],
+        "body": [
+          "Smilegate Hope Studio is launching \"Our Neighborhood Player,\" an AI creation workshop for Seongnam youth, together with the Seongnam Arts and Culture Foundation. Digital Today and iNews24 reported that this was announced on Oct. 20.",
+          "According to Inven, youth and young mentors will form teams and make games using AI for six weeks starting Nov. 6. Participants go through a process of finding material in everyday spaces and completing the narrative and art, among other things.",
+          "Digital Today reported that the workshop will include 20 teenagers from the after-school academy at the Jeongja Youth Center of the Seongnam Youth and Young Adult Foundation, along with software and AI majors, among others. Betanews introduced the program as one designed so that young people can build future skills with AI and a creative environment can spread within the region.",
+          "Kukmin Ilbo reported that young mentors took part in the workshop orientation held at the Seongnam Arts and Culture Foundation on the 16th."
+        ]
+      }
     },
     {
       "id": "s20261020-c9320ce603b3",
@@ -746,7 +924,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708013"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "aT's Chatty and Megazone Soft Win at Science and Technology Innovation Awards",
+        "points": [
+          "News of winners at the 20th Science and Technology Innovation Awards",
+          "aT's agri-food export information AI service Chatty wins gold",
+          "Megazone Soft wins Deputy Prime Minister and Minister of Science and ICT Award"
+        ],
+        "body": [
+          "News of winners with AI services continued at the 20th Science and Technology Innovation Awards. According to Newsis, the Korea Agro-Fisheries & Food Trade Corporation (aT)'s agri-food export information (KATI) AI service Chatty (ChaTi) won the gold prize in the contest hosted by the Korea Information Science Promotion Association, and aT announced this on Oct. 20. Newsis introduced Chatty as a service that takes questions in everyday language.",
+          "Megazone Soft, an affiliate of Megazone Cloud, announced its award on Oct. 19. According to IT Chosun and Digital Today, it was chosen as a winner of the Deputy Prime Minister and Minister of Science and ICT Award in the AI industrial innovation category for building a generative AI-based company-wide work platform and for its AX innovation results. The award level was described differently by outlet. IT Chosun's headline called it the overall grand prize, VentureSquare called it the Deputy Prime Minister's award, which is the overall grand prize, and Digital Today called it the Deputy Prime Minister's award.",
+          "According to VentureSquare, 93 projects were entered this year, and 19 projects were chosen as winners after expert review."
+        ]
+      }
     },
     {
       "id": "s20261020-8ae0302f03fd",
@@ -789,7 +980,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215180"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Bespin Global Publishes Industry-by-Industry AX Customer Case Book",
+        "points": [
+          "Bespin Global publishes 2026 industry AX customer case book",
+          "Includes cases in finance, public sector, manufacturing, retail and services",
+          "Domestic cases include Korea Hydro & Nuclear Power and Korea Forest Service"
+        ],
+        "body": [
+          "Bespin Global, an AI services and solutions company, published its 2026 industry-by-industry AX customer case book. The company announced this on Oct. 20.",
+          "According to iNews24 and Datanet, the case book contains AI transformation (AX) results in major industries such as finance, the public sector, manufacturing, retail and services. Datanet and Techworld News reported that it includes leading global cases along with cases from Korean companies and institutions such as KB Life, Woori Financial Group, Korea Hydro & Nuclear Power and the Korea Forest Service.",
+          "Techworld News said in its headline that the book contains 34 transformation cases. Digital Today reported that this content is based on the company's explanation."
+        ]
+      }
     },
     {
       "id": "b20261019",
@@ -1663,7 +1867,20 @@
           "link": "https://www.hellot.net/news/article.html?no=115578"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Klleon Pilots Samsung 3D Signage-Based AI Station Attendant at Seoul Station",
+        "points": [
+          "Klleon and Korail pilot AI station attendant at Seoul Station",
+          "Uses Samsung Electronics' glasses-free 3D display",
+          "Multilingual real-time conversation with facial expressions, gaze and gestures"
+        ],
+        "body": [
+          "Klleon, a conversational AI company, is piloting an AI station attendant at Seoul Station in cooperation with Korail. According to Hellot, Klleon announced this on Oct. 19. The AI station attendant uses Samsung Electronics' glasses-free 3D display Spatial Signage.",
+          "Platum reported that passengers will be able to ask the AI station attendant on the 3D screen for directions in several languages and receive guidance. VentureSquare explained that the AI station attendant provides passengers with the information they need through multilingual real-time conversation and facial expressions, gaze and gestures.",
+          "AI Newspaper (인공지능신문) pointed out that AI on screens is becoming a guide that talks directly with people as a station attendant and concierge, going beyond information boards, and reported that the CEO is Jin Seung-hyuk."
+        ]
+      }
     },
     {
       "id": "s20261019-e285c1a6f800",
