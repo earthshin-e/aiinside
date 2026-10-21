@@ -5,6 +5,1041 @@
   ],
   "stories": [
     {
+      "id": "h20261021-ecc9deff1c5c",
+      "title": "채널톡, 전화 상담 AI 에이전트 보이스 알프 정식 출시",
+      "category": "생성형AI",
+      "published": "2026-10-21T09:40:26.975Z",
+      "points": [
+        "채널톡 운영사, 음성 AI 상담 정식 출시",
+        "인바운드와 아웃바운드 전화 상담 지원",
+        "고객에게 먼저 거는 알프 마케팅 공개"
+      ],
+      "body": [
+        "고객 AI 플랫폼 '채널톡'을 운영하는 채널코퍼레이션이 음성 AI 상담 서비스 '보이스 알프(Voice ALF)'를 정식 출시했다. 회사는 21일 이를 밝혔다. 조선비즈는 보이스 알프를 고객과 음성으로 대화하며 상담 업무를 수행하는 생성형 AI 에이전트라고 전했다.",
+        "이번 출시에는 고객에게 먼저 전화를 거는 '알프 마케팅' 기능이 함께 소개됐다. 벤처스퀘어는 보이스 알프가 고객 문의에 응답하는 인바운드 상담과 잠재 고객 대상 아웃바운드 상담을 모두 지원한다고 전했다. 아이뉴스24도 제목에서 인바운드와 아웃바운드 상담을 모두 수행한다고 적었다.",
+        "매체마다 강조한 지점은 조금씩 달랐다. AI타임스는 고객센터 전화 응대는 물론 고객에게 먼저 전화를 걸어 상담하는 AI가 등장했다는 점을 앞세웠다. 인공지능신문은 고객의 전화를 받는 수동적인 상담을 넘어 AI가 먼저 고객에게 전화를 걸어 영업과 제품 안내 등을 수행하는 기능까지 제공한다는 점을 짚었다. 벤처스퀘어는 제목에서 고객 응대부터 아웃바운드 영업까지 자동화한다고 표현했다.",
+        "채널톡은 앞서 채팅 상담용 AI 에이전트 '알프'를 운영해 왔고, 이번 서비스는 같은 이름을 쓰는 전화 상담 서비스다. AI타임스와 데이터넷, 아이뉴스24는 채널코퍼레이션 대표가 최시원이라고 적었다."
+      ],
+      "sources": [
+        {
+          "id": "ecc9deff1c5c",
+          "name": "조선비즈",
+          "title": "채널톡, AI 전화 상담 ‘보이스 알프’ 출시",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/MRH5CKHIDRBRTJ2DRI24IVTZOY"
+        },
+        {
+          "id": "94b550c31b27",
+          "name": "벤처스퀘어",
+          "title": "채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시…고객 응대부터 아웃바운드 영업까지 자동화",
+          "link": "https://www.venturesquare.net/1121742"
+        },
+        {
+          "id": "f5c69e363826",
+          "name": "AI타임스",
+          "title": "\"고객센터 응대부터 영업 전화까지\"...채널톡, 음성 AI 상담 '보이스 알프' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216464"
+        },
+        {
+          "id": "927ba3a4acf8",
+          "name": "인공지능신문",
+          "title": "고객에게 먼저 전화하는 AI 에이전트...채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42373"
+        },
+        {
+          "id": "972a58ce2f6a",
+          "name": "데이터넷",
+          "title": "채널코퍼레이션, AI 전화 상담 ‘보이스 알프’ 출시",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215235"
+        },
+        {
+          "id": "88fadae3e1c1",
+          "name": "아이뉴스24",
+          "title": "채널톡, AI 전화 상담 '보이스 알프' 출시…인·아웃바운드 상담 수행",
+          "link": "https://www.inews24.com/view/2017203"
+        },
+        {
+          "id": "1948b3a61382",
+          "name": "베타뉴스",
+          "title": "채널톡, AI 전화 상담 보이스 알프 정식 출시",
+          "link": "https://www.betanews.net/article/view/beta202610210045"
+        },
+        {
+          "id": "3dab2b15d88d",
+          "name": "디지털투데이",
+          "title": "채널톡, AI 전화 상담 ‘보이스 알프’ 출시...고객에 먼저 연락하는 아웃바운드도 지원",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708699"
+        }
+      ],
+      "author": "Chloe Park"
+    },
+    {
+      "id": "h20261021-6c1f70b58ac2",
+      "title": "LG전자, 듀얼 AI 상업용 시스템 에어컨 멀티 브이 7 첫 공개",
+      "category": "기업",
+      "published": "2026-10-21T09:40:26.975Z",
+      "points": [
+        "LG전자, 상업용 시스템 에어컨 멀티 브이 7 공개",
+        "하프코 2026에서 AI 적용 신제품 첫선",
+        "데이터센터 냉각까지 냉난방공조 기술 소개"
+      ],
+      "body": [
+        "LG전자가 21일 경기 고양시 일산 킨텍스에서 열린 한국국제냉난방공조전 '하프코 2026(HARFKO 2026)'에서 상업용 시스템 에어컨 신제품 'LG 멀티 브이 7'을 처음 공개했다.",
+        "AI 적용 방식은 매체 설명이 조금 다르다. 디지털데일리는 멀티 브이 7이 제품 자체에 탑재된 온디바이스 AI와 클라우드 AI를 결합한 듀얼 AI를 갖췄다고 전했다. IT조선과 아이뉴스24는 AI와 신형 압축기(컴프레서)를 적용해 냉난방 성능과 에너지 효율을 높인 제품이라고 전했다. 디지털투데이는 실외기 한 대에 실내기 여러 대를 연결하는 제품이라고 설명했고, IT조선은 대용량 시스템 에어컨이라고 적었다.",
+        "LG전자는 이 제품 외에도 공동주택용 히트펌프부터 AI 데이터센터 냉각 기술까지 다양한 냉난방공조(HVAC) 솔루션을 함께 선보였다고 전기신문이 전했다. EBN은 가정과 상업, 산업시설을 넘어 AI 데이터센터까지 아우르는 냉각 기술로 HVAC 시장 공략에 속도를 낸다고 전했다.",
+        "앞서 20일 아이뉴스24는 LG전자에 따르면 류재철 사장이 AI 데이터센터의 경쟁력을 좌우할 핵심 요소로 냉각 기술을 꼽으며 통합 열관리의 중요성을 강조했다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "6c1f70b58ac2",
+          "name": "디지털데일리",
+          "title": "LG전자, 듀얼 AI 적용 '멀티 브이 7' 공개…시스템 에어컨 냉난방 성능 강화",
+          "link": "https://www.ddaily.co.kr/page/view/2026102107584397265"
+        },
+        {
+          "id": "2345ab2fd820",
+          "name": "전기신문",
+          "title": "LG전자, AI 시스템 에어컨 ‘멀티 브이 7’ 첫 공개",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=373701"
+        },
+        {
+          "id": "0645cce62896",
+          "name": "IT조선",
+          "title": "LG전자, 듀얼 AI 시스템 에어컨 첫 공개",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172443"
+        },
+        {
+          "id": "fcc6b9139d29",
+          "name": "아이뉴스24",
+          "title": "LG전자, 듀얼 AI 탑재 '멀티 브이 7' 첫 공개…냉난방 효율 강화",
+          "link": "https://www.inews24.com/view/2017177"
+        },
+        {
+          "id": "5bc103da8d62",
+          "name": "디지털투데이",
+          "title": "LG전자, 듀얼 AI 시스템 에어컨 '멀티 브이 7' 공개",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708668"
+        },
+        {
+          "id": "95212faff7e4",
+          "name": "EBN",
+          "title": "LG전자, '듀얼 AI' 시스템 에어컨 공개…AI 데이터센터 냉각 기술 총출동",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728561"
+        },
+        {
+          "id": "d789023794f4",
+          "name": "한국NGO신문",
+          "title": "LG전자, 듀얼 AI·신형 컴프레서 탑재 시스템 에어컨 ‘멀티 브이 7’ 공개",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=241061"
+        },
+        {
+          "id": "a99e80937bcd",
+          "name": "테크월드뉴스",
+          "title": "LG전자, AI 에어컨부터 데이터센터 냉각까지…HVAC 사업 확장",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408490"
+        },
+        {
+          "id": "a76a3d5fb9de",
+          "name": "아이뉴스24",
+          "title": "류재철 LG전자 사장 \"AI 데이터센터 경쟁력, 냉각 기술이 좌우\"",
+          "link": "https://www.inews24.com/view/2017115"
+        }
+      ],
+      "author": "Haley Yun"
+    },
+    {
+      "id": "h20261021-8631587435dc",
+      "title": "퀄컴, 산업 AI 엑스포에서 국내 AI 스타트업 6곳 기술 소개",
+      "category": "기업",
+      "published": "2026-10-21T09:40:26.975Z",
+      "points": [
+        "퀄컴, 산업 AI 엑스포에 QAIPI 파빌리온 운영",
+        "국내 AI 스타트업 6곳 기술 전시",
+        "엣지 AI와 로봇 협력 기술 시연"
+      ],
+      "body": [
+        "퀄컴이 21일부터 23일까지 일산 킨텍스에서 열리는 '산업 AI 엑스포 2026'에 참가해 국내 AI 스타트업 지원 성과를 공개했다. 디일렉에 따르면 퀄컴은 행사장에 퀄컴 AI 이노베이터 프로그램(QAIPI) 참여 기업 전용 공간인 'QAIPI 파빌리온'을 마련했다.",
+        "조선비즈와 디지털데일리는 이 공간에서 국내 AI 스타트업 6곳의 산업용 AI 솔루션이 소개됐다고 전했다. 디지털데일리는 협력사의 로보틱스 기술도 함께 선보였다고 적었다. 인더스트리뉴스는 스타트업과 산업용 사물인터넷(IoT) 협력사들이 산업 현장에 적용할 AI 기술과 로봇을 선보이고, 상용화와 해외 시장 진출을 위한 협력을 이어간다고 전했다.",
+        "퀄컴의 설명에 따르면 취지는 퀄컴 플랫폼을 활용하는 국내 스타트업의 기술을 알리고 산업용 AI와 자동화 분야의 협력 생태계를 넓히는 것이다. IT조선은 제목에서 엣지 AI와 로봇 협력 기술 시연이라고 적었고, 아이뉴스24는 스타트업 AI 기술과 산업용 로봇 솔루션을 선보인다고 전했다. 테크M은 한국 AI 생태계 구축 지원이라는 제목을 달았다.",
+        "행사 전후로 관련 보도가 이어졌다. 테크월드뉴스는 19일 아이씨뱅큐가 이번 엑스포의 QAIPI 파빌리온에서 퀄컴 프로세서 기반의 아두이노 플랫폼 2종을 전시한다고 밝혔다고 전했다. 15일에는 디지털데일리와 로봇신문이 한국AI로봇산업협회 이사회가 현대자동차와 퀄컴 테크날러지스를 신규 임원사로 선임했다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "8631587435dc",
+          "name": "디일렉",
+          "title": "퀄컴, AI 스타트업 육성 성과 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64078"
+        },
+        {
+          "id": "f634db7767fc",
+          "name": "베타뉴스",
+          "title": "퀄컴, ‘산업 AI 엑스포’서 국내 AI 스타트업 혁신 지원 및 산업 AI 생태계 협력",
+          "link": "https://www.betanews.net/article/view/beta202610210075"
+        },
+        {
+          "id": "61d8fdcee6fa",
+          "name": "로봇신문",
+          "title": "퀄컴, ‘산업 AI 엑스포’서 국내 AI 스타트업 혁신 지원·산업 AI 생태계 협력 강화",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49112"
+        },
+        {
+          "id": "ccddbe7ba94b",
+          "name": "아이뉴스24",
+          "title": "퀄컴, 2026 산업AI 엑스포 참가⋯韓 AI 스타트업 혁신 지원",
+          "link": "https://www.inews24.com/view/2017281"
+        },
+        {
+          "id": "e53dcfc72fc0",
+          "name": "인더스트리뉴스",
+          "title": "퀄컴, 산업 AI 엑스포서 국내 스타트업 6개사 기술 전시",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87947"
+        },
+        {
+          "id": "ccb8d61af20c",
+          "name": "조선비즈",
+          "title": "퀄컴, 산업 AI 엑스포서 로봇 기술 선봬… 韓 스타트업 지원 확대",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/JHKKT3KERNDPJPBQ434YPYBBCY"
+        },
+        {
+          "id": "3fd5551faa7e",
+          "name": "디지털데일리",
+          "title": "퀄컴, '산업 AI 엑스포'서 국내 스타트업 협력 기술 시연",
+          "link": "https://www.ddaily.co.kr/page/view/2026102114021604609"
+        },
+        {
+          "id": "6d5612f9d805",
+          "name": "IT조선",
+          "title": "퀄컴, ‘산업 AI 엑스포’서 엣지 AI·로봇 협력 기술 시연",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172451"
+        },
+        {
+          "id": "370c81507538",
+          "name": "디지털투데이",
+          "title": "퀄컴, 산업 AI 엑스포서 국내 스타트업 6곳과 협력 소개",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708726"
+        },
+        {
+          "id": "5319adbc2261",
+          "name": "테크M",
+          "title": "퀄컴, 韓 AI 생태계 구축 지원",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156318"
+        },
+        {
+          "id": "62c9e2fc9bce",
+          "name": "테크월드뉴스",
+          "title": "아이씨뱅큐, ‘2026 산업 AI 엑스포’서 퀄컴 프로세서 탑재 ‘아두이노 UNO Q·벤튜노 Q’ 전시",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408346"
+        },
+        {
+          "id": "a3145ef6a311",
+          "name": "디지털데일리",
+          "title": "현대차·퀄컴, 한국AI·로봇산업협회 합류…산업 간 협력 확대",
+          "link": "https://www.ddaily.co.kr/page/view/2026101515375726182"
+        },
+        {
+          "id": "4099b12e1fd2",
+          "name": "로봇신문",
+          "title": "한국AI·로봇산업협회, 현대차·퀄컴 테크날러지스 신규 임원사 선임",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49009"
+        }
+      ],
+      "author": "Ashley Yang"
+    },
+    {
+      "id": "h20261021-8af2e094793d",
+      "title": "가트너, 2027년 10대 전략 기술 트렌드 발표",
+      "category": "일반",
+      "published": "2026-10-21T09:40:26.975Z",
+      "points": [
+        "가트너, 2027년 10대 전략 기술 트렌드 발표",
+        "AI 자율화 시대의 통제와 보안 강조",
+        "AI 에이전트 신원과 소버린 테크 등 선정"
+      ],
+      "body": [
+        "가트너가 21일 '기업들이 주목해야 할 2027년 10대 전략 기술 트렌드'를 발표했다. 테크월드뉴스에 따르면 선정된 기술은 대규모 정량 모델, 음성 추론 모델, 월드 모델, AI 컨텍스트 플랫폼, AI 코딩 에이전트 하네스, AI 에이전트 신원, 자율형 노출 개선, 소버린 테크, 일회성 애플리케이션, 서비스형 웨어다.",
+        "매체들은 공통으로 AI의 자율성이 커질수록 통제가 핵심이라는 점을 짚었다. 벤처스퀘어는 AI 자율화에 따른 기술 아키텍처와 통제 체계의 중요성을 강조했다고 전했고, 헬로티는 통제와 보안, 디지털 주권을 핵심 과제로 제시했다고 전했다. EBN은 AI가 자율적으로 판단하고 실행하는 단계로 발전하는 만큼 기업이 에이전트의 접근 권한과 운영 구조를 체계적으로 관리해야 한다는 분석이라고 전했다.",
+        "AI타임스는 AI의 소프트웨어 생성 속도가 사람의 검토 능력을 앞지르고 AI 에이전트 확대가 빨라지면서 기업이 조직과 사람, 기계 간 경계를 직접 설계해야 할 시점이라는 진단이 나왔다고 전했다. 벤처스퀘어는 대규모 정량 모델, 음성 추론 모델, 월드 모델이 AI의 활용 범위를 언어 생성에서 정량 분석과 미래 예측, 물리적 환경 시뮬레이션으로 넓힌다고 적었다.",
+        "앞서 16일 데이터넷은 가트너의 별도 조사를 전했다. 가트너가 6월부터 7월까지 두 달간 미국과 영국의 IT 인프라 및 운영(I&O) 리더 300여 명을 조사한 결과 57%가 에이전틱 AI 거버넌스가 미흡하다고 답했다. 데이터넷은 제목에서 AI 이상행위를 중단시킬 정책을 마련한 기업은 20%뿐이라고 요약했다."
+      ],
+      "sources": [
+        {
+          "id": "8af2e094793d",
+          "name": "벤처스퀘어",
+          "title": "가트너, 2027년 10대 전략 기술 트렌드 발표…AI 자율화 시대 핵심은 통제와 신뢰",
+          "link": "https://www.venturesquare.net/1121714"
+        },
+        {
+          "id": "373b02e550f6",
+          "name": "헬로티",
+          "title": "가트너, 2027년 10대 기술 트렌드 발표...AI 통제·보안 중요성 강조",
+          "link": "https://www.hellot.net/news/article.html?no=115690"
+        },
+        {
+          "id": "d760ecb6f599",
+          "name": "AI타임스",
+          "title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216475"
+        },
+        {
+          "id": "833ad35f4b2f",
+          "name": "EBN",
+          "title": "가트너, 2027년 10대 전략 기술 발표…\"AI 자율성 커질수록 통제 중요\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728632"
+        },
+        {
+          "id": "1a99e7eab803",
+          "name": "테크월드뉴스",
+          "title": "“AI 자율화 시대, 통제 가능한 시스템이 핵심”",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408517"
+        },
+        {
+          "id": "a3d7347cc0d2",
+          "name": "인공지능신문",
+          "title": "가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42371"
+        },
+        {
+          "id": "a3c24ac85a9e",
+          "name": "데이터넷",
+          "title": "가트너 “AI 이상행위 중단 정책 마련한 기업 20% 뿐”",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215142"
+        }
+      ],
+      "author": "Ethan Chen"
+    },
+    {
+      "id": "h20261021-007a29ac06f8",
+      "title": "HD현대로보틱스, 피지컬 AI 기반 지능형 양팔로봇 첫 공개",
+      "category": "로봇",
+      "published": "2026-10-21T09:40:26.975Z",
+      "points": [
+        "HD현대로보틱스, 지능형 양팔로봇 첫 공개",
+        "대구 로봇 전시에서 피지컬 AI 전략 소개",
+        "정밀 조립부터 이족보행까지 단계적 개발"
+      ],
+      "body": [
+        "HD현대로보틱스가 21일 대구 엑스코(EXCO)에서 자체 개발한 '지능형 양팔로봇'을 공개했다. 아이뉴스24는 개발 중인 이 로봇을 처음 공개했다고 전했다.",
+        "행사 이름은 매체마다 달리 적혔다. 디일렉과 아이뉴스24는 '미래혁신기술박람회 2026'(아이뉴스24는 FIX 2026 병기)이라고 썼고, 로봇신문은 21일부터 24일까지 열리는 '제15회 대구국제로봇산업전(ROBEX 2026)'이라고 썼다.",
+        "디일렉에 따르면 이 로봇은 양팔과 다섯 손가락 등 인간의 상체와 유사한 형태에 피지컬 AI를 기반으로 한다. 인더스트리뉴스는 제한된 구역에서 반복 작업만 수행하던 기존 산업용 로봇의 한계를 넘어 피지컬 AI 기반 차세대 제조용 로봇 시장 선점에 나선다고 전했다. 로봇신문은 이번 전시에서 피지컬 AI 기반 제조 자동화 기술과 차세대 로봇 솔루션을 선보인다고 적었다.",
+        "디지털데일리는 산업용 로봇을 주력으로 해온 HD현대로보틱스가 휴머노이드 개발에 본격적으로 뛰어들었다고 전했고, 소제목에 정밀 조립부터 이족보행까지 단계적으로 개발을 추진한다고 적었다. 같은 매체는 두산로보틱스도 양팔 로봇을 선보였다고 소제목에 밝혔다. 인더스트리뉴스는 제목에서 휴머노이드 시장을 정조준한다고 표현했다."
+      ],
+      "sources": [
+        {
+          "id": "007a29ac06f8",
+          "name": "디지털데일리",
+          "title": "조선소 누빌 휴머노이드 만든다…HD현대로보틱스, 양팔 로봇 공개",
+          "link": "https://www.ddaily.co.kr/page/view/2026102108293718907"
+        },
+        {
+          "id": "5dc18f3e5707",
+          "name": "디일렉",
+          "title": "HD현대로보틱스, 지능형 양팔 로봇 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64071"
+        },
+        {
+          "id": "3d15c4c27358",
+          "name": "아이뉴스24",
+          "title": "HD현대로보틱스, 피지컬 AI '지능형 양팔로봇' 첫 공개",
+          "link": "https://www.inews24.com/view/2017533"
+        },
+        {
+          "id": "bd2a1529d717",
+          "name": "인더스트리뉴스",
+          "title": "HD현대로보틱스, 피지컬 AI 탑재 ‘지능형 양팔로봇’ 첫선… 휴머노이드 시장 정조준",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87946"
+        },
+        {
+          "id": "3354fa7942b0",
+          "name": "로봇신문",
+          "title": "HD현대로보틱스, ROBEX 2026서 '지능형 양팔로봇' 공개…제조 피지컬 AI 전략 선보인다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49128"
+        }
+      ],
+      "author": "Kevin Wong"
+    },
+    {
+      "id": "b20261021",
+      "type": "briefing",
+      "title": "10월 21일 AI 브리핑: 가트너 2027 기술 트렌드와 크래프톤 자체 LLM",
+      "category": "일반",
+      "published": "2026-10-21T09:40:26.975Z",
+      "points": [
+        "AI 자율화 시대 통제와 보안이 기업 과제로",
+        "크래프톤 자체 LLM과 채널톡 음성 AI 상담 출시",
+        "스페이스X 흑자 전환과 세일즈포스 인수 발표"
+      ],
+      "body": [
+        "가트너가 21일 2027년 10대 전략 기술 트렌드를 발표했다. 대규모 정량 모델, 음성 추론 모델, 월드 모델 등이 포함됐고, 매체들은 AI 자율성이 커질수록 통제와 보안이 핵심 과제라는 점을 짚었다. EBN은 기업이 에이전트의 접근 권한과 운영 구조를 체계적으로 관리해야 한다는 분석이라고 전했다.",
+        "크래프톤이 자체 개발한 300억 개(30B) 매개변수 규모의 LLM '라온-1 미니'의 프리뷰 버전을 공개했다. 조선비즈에 따르면 모델 설계부터 학습까지 전 과정을 독자적으로 수행했다. EBN은 전체 매개변수 가운데 약 13%만 활성화하는 구조로 연산 부담을 줄였다고 전했다.",
+        "오픈AI가 20일(현지시간) 챗GPT에 민감한 대화를 숨기는 잠금 기능을 도입했다. 디지털투데이에 따르면 사용자는 4자리 PIN이나 페이스ID, 터치ID로 특정 대화를 보호할 수 있다.",
+        "채널톡 운영사 채널코퍼레이션이 음성 AI 상담 서비스 보이스 알프를 정식 출시했다. 고객에게 먼저 전화를 거는 알프 마케팅 기능도 함께 소개됐다고 데이터넷이 전했다.",
+        "LG전자가 한국국제냉난방공조전에서 상업용 시스템 에어컨 LG 멀티 브이 7을 처음 공개했다. 디지털데일리는 온디바이스 AI와 클라우드 AI를 결합한 듀얼 AI를 탑재했다고 전했고, 전기신문은 AI 데이터센터 냉각 기술도 함께 선보였다고 전했다.",
+        "HD현대로보틱스가 대구에서 열린 로봇 전시에서 피지컬 AI 기반의 지능형 양팔로봇을 공개했다. 디일렉에 따르면 양팔과 다섯 손가락을 갖춘 인간 상체와 유사한 형태의 로봇이다.",
+        "스페이스X가 20일(현지시간) 3분기 실적을 발표하고 흑자 전환했다. 조선비즈, 블로터, EBN은 매출이 전년 동기보다 161% 늘었다고 전했고, 뉴시스는 AI 관련 매출이 9배 이상 늘었다고 전했다.",
+        "세일즈포스가 고객 참여 플랫폼 기업 브레이즈를 인수한다고 20일(현지시각) 밝혔다. 금액은 조선비즈가 57억달러, 디지털데일리와 디지털투데이가 약 56억6000만달러로 적었고, 원화로는 세 매체 모두 약 7조5000억원이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "8af2e094793d",
+          "name": "벤처스퀘어",
+          "title": "가트너, 2027년 10대 전략 기술 트렌드 발표…AI 자율화 시대 핵심은 통제와 신뢰",
+          "link": "https://www.venturesquare.net/1121714"
+        },
+        {
+          "id": "373b02e550f6",
+          "name": "헬로티",
+          "title": "가트너, 2027년 10대 기술 트렌드 발표...AI 통제·보안 중요성 강조",
+          "link": "https://www.hellot.net/news/article.html?no=115690"
+        },
+        {
+          "id": "d760ecb6f599",
+          "name": "AI타임스",
+          "title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216475"
+        },
+        {
+          "id": "833ad35f4b2f",
+          "name": "EBN",
+          "title": "가트너, 2027년 10대 전략 기술 발표…\"AI 자율성 커질수록 통제 중요\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728632"
+        },
+        {
+          "id": "a358f97d630d",
+          "name": "조선비즈",
+          "title": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 프리뷰 공개",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/NCKAB64QPVHWLKHUFWIYRS5XHE"
+        },
+        {
+          "id": "b0fa35e87764",
+          "name": "디지털투데이",
+          "title": "크래프톤, 30B급 LLM '라온-1 미니' 공개…비용 효율성 강화",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708828"
+        },
+        {
+          "id": "7a19ffea269c",
+          "name": "EBN",
+          "title": "크래프톤, 300억 매개변수 AI 모델 개발…‘가성비 LLM’ 승부수",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728674"
+        },
+        {
+          "id": "feb8fc7f085c",
+          "name": "아이뉴스24",
+          "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 프리뷰 공개",
+          "link": "https://www.inews24.com/view/2017390"
+        },
+        {
+          "id": "92df3fd42fc2",
+          "name": "AI타임스",
+          "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216470"
+        },
+        {
+          "id": "34463f878f9f",
+          "name": "조선비즈",
+          "title": "오픈AI, 챗GPT에 ‘대화 잠금’ 기능 도입",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/X2OXLPITXFGOZPQJEV6LNBPGTU"
+        },
+        {
+          "id": "e5f4e6b424de",
+          "name": "디지털투데이",
+          "title": "오픈AI, 챗GPT '잠금 대화' 도입…PIN·생체인증으로 민감한 채팅 보호",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708710"
+        },
+        {
+          "id": "ecc9deff1c5c",
+          "name": "조선비즈",
+          "title": "채널톡, AI 전화 상담 ‘보이스 알프’ 출시",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/MRH5CKHIDRBRTJ2DRI24IVTZOY"
+        },
+        {
+          "id": "94b550c31b27",
+          "name": "벤처스퀘어",
+          "title": "채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시…고객 응대부터 아웃바운드 영업까지 자동화",
+          "link": "https://www.venturesquare.net/1121742"
+        },
+        {
+          "id": "f5c69e363826",
+          "name": "AI타임스",
+          "title": "\"고객센터 응대부터 영업 전화까지\"...채널톡, 음성 AI 상담 '보이스 알프' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216464"
+        },
+        {
+          "id": "972a58ce2f6a",
+          "name": "데이터넷",
+          "title": "채널코퍼레이션, AI 전화 상담 ‘보이스 알프’ 출시",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215235"
+        },
+        {
+          "id": "6c1f70b58ac2",
+          "name": "디지털데일리",
+          "title": "LG전자, 듀얼 AI 적용 '멀티 브이 7' 공개…시스템 에어컨 냉난방 성능 강화",
+          "link": "https://www.ddaily.co.kr/page/view/2026102107584397265"
+        },
+        {
+          "id": "2345ab2fd820",
+          "name": "전기신문",
+          "title": "LG전자, AI 시스템 에어컨 ‘멀티 브이 7’ 첫 공개",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=373701"
+        },
+        {
+          "id": "0645cce62896",
+          "name": "IT조선",
+          "title": "LG전자, 듀얼 AI 시스템 에어컨 첫 공개",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172443"
+        },
+        {
+          "id": "5bc103da8d62",
+          "name": "디지털투데이",
+          "title": "LG전자, 듀얼 AI 시스템 에어컨 '멀티 브이 7' 공개",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708668"
+        },
+        {
+          "id": "007a29ac06f8",
+          "name": "디지털데일리",
+          "title": "조선소 누빌 휴머노이드 만든다…HD현대로보틱스, 양팔 로봇 공개",
+          "link": "https://www.ddaily.co.kr/page/view/2026102108293718907"
+        },
+        {
+          "id": "5dc18f3e5707",
+          "name": "디일렉",
+          "title": "HD현대로보틱스, 지능형 양팔 로봇 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64071"
+        },
+        {
+          "id": "3d15c4c27358",
+          "name": "아이뉴스24",
+          "title": "HD현대로보틱스, 피지컬 AI '지능형 양팔로봇' 첫 공개",
+          "link": "https://www.inews24.com/view/2017533"
+        },
+        {
+          "id": "3354fa7942b0",
+          "name": "로봇신문",
+          "title": "HD현대로보틱스, ROBEX 2026서 '지능형 양팔로봇' 공개…제조 피지컬 AI 전략 선보인다",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49128"
+        },
+        {
+          "id": "b569875351cb",
+          "name": "조선비즈",
+          "title": "스페이스X, 3분기 매출 161% 늘어 19조원… AI 성장에 흑자 전환",
+          "link": "https://biz.chosun.com/science-chosun/science/2026/10/21/QUXBSK2KS5G5JHOJ6CQNYTH63Y"
+        },
+        {
+          "id": "2ef9301ce717",
+          "name": "뉴시스",
+          "title": "스페이스X 3분기 흑자 전환…AI 매출, 9배 급증(종합)",
+          "link": "https://www.newsis.com/view/NISX20261021_0003834327"
+        },
+        {
+          "id": "3e2c7d2c1738",
+          "name": "IT조선",
+          "title": "스페이스X, AI 사업 급성장에 흑자 전환",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172433"
+        },
+        {
+          "id": "d44ad7150e9f",
+          "name": "EBN",
+          "title": "스페이스X, 3분기 매출 161% 급증…AI 성장에 흑자 전환",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728544"
+        },
+        {
+          "id": "b913bcdd9340",
+          "name": "조선비즈",
+          "title": "세일즈포스, 브레이즈 7조5000억원에 인수… AI 마케팅 역량 강화",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/XWDNXH7UPBH5FH4DZETELSU4TQ"
+        },
+        {
+          "id": "e3e1d6f6e712",
+          "name": "디지털데일리",
+          "title": "세일즈포스, 브레이즈 56억 달러에 인수…AI 마케팅·고객 참여 확대",
+          "link": "https://www.ddaily.co.kr/page/view/2026102108264604181"
+        },
+        {
+          "id": "aa10209cef7a",
+          "name": "디지털투데이",
+          "title": "세일즈포스, AI 마케팅 기업 브레이즈 56억6000만달러에 인수",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708636"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-92df3fd42fc2",
+      "title": "오픈AI, 챗GPT에 민감한 대화 숨기는 잠금 기능 도입",
+      "category": "보안/윤리",
+      "published": "2026-10-21T08:57:53.000Z",
+      "points": [
+        "오픈AI, 챗GPT 민감 대화 잠금 기능 도입",
+        "4자리 PIN 또는 생체인증으로 보호",
+        "대화 기록과 메모리를 일반 채팅과 분리"
+      ],
+      "body": [
+        "오픈AI가 챗GPT에 민감한 대화를 따로 보호하는 기능을 도입했다. 조선비즈와 디지털투데이는 오픈AI가 20일(현지시간) 이를 밝혔다고 전했다. 기능 이름은 매체마다 달라 AI타임스는 '채팅 잠금', 조선비즈는 '대화 잠금', 디지털투데이는 '잠금 대화'라고 적었다.",
+        "디지털투데이에 따르면 사용자는 4자리 PIN을 설정하거나 지원 기기에서 페이스ID와 터치ID로 특정 대화를 보호할 수 있다. AI타임스는 대화 기록과 메모리를 일반 채팅과 분리해 사적인 정보가 노출될 가능성을 줄이는 데 초점을 맞췄다고 전했다.",
+        "조선비즈는 오픈AI가 타인과 화면을 공유하거나 공용 기기를 쓸 때 민감한 대화가 보이지 않게 하는 기능이라고 설명했다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "92df3fd42fc2",
+          "name": "AI타임스",
+          "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216470"
+        },
+        {
+          "id": "34463f878f9f",
+          "name": "조선비즈",
+          "title": "오픈AI, 챗GPT에 ‘대화 잠금’ 기능 도입",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/X2OXLPITXFGOZPQJEV6LNBPGTU"
+        },
+        {
+          "id": "e5f4e6b424de",
+          "name": "디지털투데이",
+          "title": "오픈AI, 챗GPT '잠금 대화' 도입…PIN·생체인증으로 민감한 채팅 보호",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708710"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-578fccf76f0b",
+      "title": "삼성증권 AI 걸그룹 루미나, 데뷔곡 뮤비 250만 조회 돌파",
+      "category": "기업",
+      "published": "2026-10-21T08:29:18.000Z",
+      "points": [
+        "삼성증권 자체 제작 4인조 AI 걸그룹 루미나",
+        "데뷔곡 OVERRIDE 뮤비 한 달 만에 250만 회",
+        "금융교육과 광고 콘텐츠 활용 계획"
+      ],
+      "body": [
+        "삼성증권이 자체 제작한 4인조 AI 걸그룹 '루미나(LUMINA)'의 데뷔곡 'OVERRIDE(오버라이드)' 뮤직비디오가 유튜브에서 조회수 250만 회를 넘었다. 인더스트리뉴스와 한국NGO신문은 삼성증권이 21일 이를 밝혔다고 전했고, 영상은 삼성증권 공식 유튜브 채널에 공개된 지 약 한 달 만에 이 기록을 세웠다.",
+        "베타뉴스는 공개 일주일 만에 조회수 100만 회를 기록했다고 전했다. 디지털데일리는 삼성증권이 이 그룹을 활용한 영상 제작을 이어가고 금융교육과 광고 콘텐츠에도 활용할 계획이라고 전했다.",
+        "인공지능신문은 삼성증권이 AI 걸그룹을 금융 마케팅 전면에 내세웠다며, 투자 정보를 직접 전하는 전통적인 금융 광고에서 벗어나 K팝 음악과 퍼포먼스로 브랜드 메시지를 전하는 방식이라고 짚었다."
+      ],
+      "sources": [
+        {
+          "id": "578fccf76f0b",
+          "name": "인더스트리뉴스",
+          "title": "삼성증권, 자체 제작 4인조 AI 걸그룹 '루미나' K-POP 영상 250만뷰 돌파",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87957"
+        },
+        {
+          "id": "de51e7ecf945",
+          "name": "인공지능신문",
+          "title": "삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 250만뷰…금융 마케팅에 K팝 입혔다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42381"
+        },
+        {
+          "id": "56f1ed9b2341",
+          "name": "베타뉴스",
+          "title": "삼성證 AI 걸그룹 '루미나', 데뷔곡 뮤직비디오 한 달 만에 250만 뷰 '돌파'",
+          "link": "https://www.betanews.net/article/view/beta202610210157"
+        },
+        {
+          "id": "5651eb156f1a",
+          "name": "디지털데일리",
+          "title": "삼성증권, AI 걸그룹 선봬…데뷔곡 뮤비 250만뷰 돌파",
+          "link": "https://www.ddaily.co.kr/page/view/2026102114335502785"
+        },
+        {
+          "id": "cec214a8c293",
+          "name": "한국NGO신문",
+          "title": "삼성증권 AI 걸그룹 ‘루미나’ 데뷔곡, 유튜브 조회수 250만회 돌파",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=241071"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-b913bcdd9340",
+      "title": "세일즈포스, 브레이즈 인수 발표",
+      "category": "기업",
+      "published": "2026-10-21T08:25:47.000Z",
+      "points": [
+        "세일즈포스, 고객 참여 플랫폼 브레이즈 인수",
+        "인수 규모 약 57억달러, 약 7조5000억원",
+        "2028 회계연도 안에 거래 마무리 예정"
+      ],
+      "body": [
+        "세일즈포스가 고객 참여 플랫폼 기업 브레이즈(Braze)를 인수한다고 20일(현지시각) 밝혔다. 조선비즈는 브레이즈가 뉴욕에 본사를 둔 클라우드 기반 소프트웨어 기업이며, 세일즈포스의 약점으로 꼽히는 마케팅 플랫폼 역량을 강화하려는 움직임으로 풀이된다고 전했다.",
+        "인수 금액 표기는 매체마다 조금 다르다. 조선비즈는 57억달러, 디지털데일리와 디지털투데이는 약 56억6000만달러라고 적었고, 세 매체 모두 원화로는 약 7조5000억원이라고 전했다.",
+        "디지털데일리는 브레이즈 A종 보통주 주주가 주당 47.50달러를 현금으로 받는다고 전했다. 디지털투데이는 CNBC 보도를 인용해 세일즈포스가 주주와 규제 당국 승인을 거쳐 2028 회계연도 안에 거래를 마무리할 예정이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "b913bcdd9340",
+          "name": "조선비즈",
+          "title": "세일즈포스, 브레이즈 7조5000억원에 인수… AI 마케팅 역량 강화",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/XWDNXH7UPBH5FH4DZETELSU4TQ"
+        },
+        {
+          "id": "e3e1d6f6e712",
+          "name": "디지털데일리",
+          "title": "세일즈포스, 브레이즈 56억 달러에 인수…AI 마케팅·고객 참여 확대",
+          "link": "https://www.ddaily.co.kr/page/view/2026102108264604181"
+        },
+        {
+          "id": "aa10209cef7a",
+          "name": "디지털투데이",
+          "title": "세일즈포스, AI 마케팅 기업 브레이즈 56억6000만달러에 인수",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708636"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-a358f97d630d",
+      "title": "크래프톤, 30B급 LLM 라온-1 미니 프리뷰 공개",
+      "category": "생성형AI",
+      "published": "2026-10-21T08:13:44.000Z",
+      "points": [
+        "크래프톤, 30B급 LLM 라온-1 미니 프리뷰 공개",
+        "설계부터 학습까지 전 과정 자체 수행",
+        "허깅페이스에 아파치 2.0 라이선스로 공개"
+      ],
+      "body": [
+        "크래프톤이 자체 개발한 300억 개(30B) 매개변수 규모의 거대언어모델(LLM) '라온-1 미니(Raon-1 mini)'의 프리뷰 버전을 21일 공개했다. 조선비즈는 크래프톤이 모델 설계부터 학습까지 전 과정을 독자적으로 수행했다고 전했고, 한국어와 영어를 지원한다고 적었다.",
+        "아이뉴스24는 이 모델이 정식 출시에 앞서 선보이는 버전이며 허깅페이스에 아파치 2.0 라이선스로 공개됐다고 전했다. 인더스트리뉴스는 응답 속도를 높이고 추론 비용을 낮췄다고 설명했다.",
+        "구조에 대해서는 EBN이 전체 매개변수 가운데 약 13%만 활성화하는 방식으로 연산 부담을 줄였다고 전했다. EBN은 한국어 대화와 AI 에이전트 수행 능력을 강화해 성능 대비 비용 효율성을 높인 모델이라며 제목에 '가성비 LLM'이라는 표현을 썼다."
+      ],
+      "sources": [
+        {
+          "id": "a358f97d630d",
+          "name": "조선비즈",
+          "title": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 프리뷰 공개",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/NCKAB64QPVHWLKHUFWIYRS5XHE"
+        },
+        {
+          "id": "b0fa35e87764",
+          "name": "디지털투데이",
+          "title": "크래프톤, 30B급 LLM '라온-1 미니' 공개…비용 효율성 강화",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708828"
+        },
+        {
+          "id": "60c917d5b155",
+          "name": "인더스트리뉴스",
+          "title": "크래프톤, 30B급 LLM ‘라온-1 미니’ 공개…\"응답속도 높이고,추론 비용 낮췄다\"",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87935"
+        },
+        {
+          "id": "feb8fc7f085c",
+          "name": "아이뉴스24",
+          "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 프리뷰 공개",
+          "link": "https://www.inews24.com/view/2017390"
+        },
+        {
+          "id": "7a19ffea269c",
+          "name": "EBN",
+          "title": "크래프톤, 300억 매개변수 AI 모델 개발…‘가성비 LLM’ 승부수",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728674"
+        },
+        {
+          "id": "4027877ef380",
+          "name": "IT조선",
+          "title": "“가성비 LLM으로 승부”… 크래프톤, 독자 개발 AI 공개",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172461"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-535bd8add700",
+      "title": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자",
+      "category": "기업",
+      "published": "2026-10-21T08:06:41.388Z",
+      "points": [
+        "네이버 D2SF, 트레이스위브에 신규 투자",
+        "메모리 사용량을 일정하게 유지하는 AI 구조",
+        "벤처스퀘어는 시드 30억원 유치로 보도"
+      ],
+      "body": [
+        "네이버의 스타트업 양성 및 전략 투자 조직 D2SF가 온디바이스 AI 스타트업 트레이스위브(TraceWeave)에 신규 투자했다. 아이뉴스24와 테크월드뉴스, AI타임스 등은 네이버가 21일 이를 밝혔다고 전했다.",
+        "트레이스위브는 기존 트랜스포머 구조를 대체하는 'Phase-TITAN'(페이즈-타이탄)을 개발했다. 이 구조는 처리하는 정보가 길어져도 메모리 사용량을 일정하게 유지하도록 설계됐고, 긴 맥락을 이해하며 여러 단계의 작업을 수행할 수 있다고 매체들은 전했다. AI타임스는 온디바이스 AI의 걸림돌로 꼽히던 메모리 문제를 해결한 스타트업이 네이버의 투자를 받았다고 표현했다.",
+        "투자 규모는 매체마다 다루는 정도가 다르다. 벤처스퀘어는 제목에서 시드 라운드로 30억원을 유치했다고 밝혔고, 다른 매체 요약에서는 금액이 확인되지 않는다."
+      ],
+      "sources": [
+        {
+          "id": "535bd8add700",
+          "name": "벤처스퀘어",
+          "title": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자…시드 라운드 30억원 유치",
+          "link": "https://www.venturesquare.net/1121716"
+        },
+        {
+          "id": "3e127776a8a8",
+          "name": "아이뉴스24",
+          "title": "네이버, AI 스타트업 '트레이스위브'에 투자",
+          "link": "https://www.inews24.com/view/2017469"
+        },
+        {
+          "id": "238302afcc1e",
+          "name": "테크월드뉴스",
+          "title": "네이버 D2SF, 온디바이스 AI 스타트업 ‘트레이스위브’에 신규 투자",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408543"
+        },
+        {
+          "id": "25bfa22162ea",
+          "name": "AI타임스",
+          "title": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216461"
+        },
+        {
+          "id": "0b3bfa57c1b2",
+          "name": "EBN",
+          "title": "[Digital & Now] 네이버 D2SF, 온디바이스 AI 스타트업 '트레이스위브' 신규 투자",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728575"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-a93a8831fe3c",
+      "title": "KAI, 우주 궤도에서 AI 위성 자율운영 기술 실증 성공",
+      "category": "연구",
+      "published": "2026-10-21T07:08:23.000Z",
+      "points": [
+        "KAI, 궤도에서 AI 위성 자율운영 파일럿 성공",
+        "위성이 스스로 이상 상태를 진단하고 대응",
+        "BEE-1012 큐브위성에서 20일 수행"
+      ],
+      "body": [
+        "한국항공우주산업(KAI)이 우주 궤도에서 AI로 위성의 이상 상태를 진단하고 대응 방안을 도출하는 자율운영 기술의 실증에 성공했다. KAI는 지난 20일 우주 궤도상에서 파일럿 임무를 성공적으로 수행했다고 21일 밝혔다.",
+        "디일렉은 이 임무가 BEE-1012 큐브위성에서 이뤄졌다고 전했고, 해당 위성은 누리호 5차 발사로 우주에 올라갔다고 적었다. 아이뉴스24는 파일럿 임무가 본격적인 임무 수행에 앞서 기술을 시험하는 단계라는 취지로 설명했다.",
+        "후속 일정과 평가는 매체마다 다르다. 디지털데일리는 제목에서 12월에 메인 실증에 들어간다고 밝혔다. 인더스트리뉴스는 제목에서 완전 자율 위성 기술을 확보했다고 표현했고, 글로벌 뉴스페이스 시장 선점에 속도를 낸다고 전했다. 다른 매체는 파일럿 임무 성공이라는 표현에 머물렀다."
+      ],
+      "sources": [
+        {
+          "id": "a93a8831fe3c",
+          "name": "EBN",
+          "title": "KAI, 우주 궤도서 'AI 기반 위성 자율운영 기술' 실증 성공",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728661"
+        },
+        {
+          "id": "fbdcc83d3a35",
+          "name": "인더스트리뉴스",
+          "title": "KAI, 궤도서 AI 위성 자율운영 실증… ‘완전 자율 위성’ 기술 확보",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87939"
+        },
+        {
+          "id": "54be08d2f896",
+          "name": "디일렉",
+          "title": "KAI, AI로 인공위성 자율 운영 성공",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64042"
+        },
+        {
+          "id": "58a2c8c19903",
+          "name": "아이뉴스24",
+          "title": "\"AI가 스스로 고장 진단\"⋯KAI, 우주서 AI기반 위성 자율운영 실증 성공",
+          "link": "https://www.inews24.com/view/2017315"
+        },
+        {
+          "id": "8011c8e288b7",
+          "name": "디지털데일리",
+          "title": "KAI, 우주 궤도서 AI 위성 자율운영 기술 실증 성공…12월 메인 실증 돌입",
+          "link": "https://www.ddaily.co.kr/page/view/2026102110513628654"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-87932d950605",
+      "title": "오라클, 아스트라제네카와 AI 기반 임상시험 환자 발굴 협력",
+      "category": "기업",
+      "published": "2026-10-21T06:14:29.000Z",
+      "points": [
+        "오라클과 아스트라제네카, AI 임상시험 협약",
+        "실제 임상데이터로 적격 환자 발굴 지원",
+        "조선비즈는 비구속적 협약으로 전해"
+      ],
+      "body": [
+        "오라클이 글로벌 제약사 아스트라제네카와 AI와 실제 임상데이터(RWD)를 활용해 임상시험 효율을 높이는 협약을 맺었다. 데이터넷과 조선비즈는 오라클이 21일 이를 밝혔다고 전했다.",
+        "매체들이 전한 협력 내용은 임상시험에 참여할 적격 환자를 발굴하도록 의료진을 돕고, 임상 근거 생성을 앞당기며, 연구 인사이트를 일상 진료에 접목하는 방안을 모색하는 것이다. 디지털데일리는 환자 모집에 걸리는 시간을 줄이는 것을 목표로 한다고 전했다.",
+        "협약의 성격은 조선비즈가 구체적으로 짚었다. 조선비즈는 두 회사가 비구속적 협약을 체결했다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "87932d950605",
+          "name": "데이터넷",
+          "title": "오라클·아스트라제네카, AI 기반 임상시험 지원 맞손",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215252"
+        },
+        {
+          "id": "d056a34bc70e",
+          "name": "히트뉴스",
+          "title": "아스트라제네카·오라클, AI 활용 임상시험 환자 발굴 협력",
+          "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80079"
+        },
+        {
+          "id": "ce3496ef33d7",
+          "name": "조선비즈",
+          "title": "오라클, 아스트라제네카와 AI 기반 임상시험 환자 발굴 협력",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/E3CNI6FUCBAUREK6AQRFKVZ6IM"
+        },
+        {
+          "id": "de8dad5d8b17",
+          "name": "테크월드뉴스",
+          "title": "오라클-아스트라제네카, AI 기반 헬스케어 혁신 ‘맞손’",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408505"
+        },
+        {
+          "id": "1eba10c2731a",
+          "name": "디지털데일리",
+          "title": "임상시험 환자 모집에 AI 활용…오라클, 아스트라제네카와 '맞손'",
+          "link": "https://www.ddaily.co.kr/page/view/2026102110372166488"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-8b5bf40fe410",
+      "title": "셀렉트스타, 시스코와 AI 보안과 신뢰성 협력 의향서 체결",
+      "category": "보안/윤리",
+      "published": "2026-10-21T06:08:37.000Z",
+      "points": [
+        "셀렉트스타와 시스코, 협력 의향서 체결",
+        "AI 보안과 신뢰성 분야 전략적 협력",
+        "기업 고객의 AI 도입과 활용 공동 지원"
+      ],
+      "body": [
+        "AI 데이터 및 신뢰성 평가 전문기업 셀렉트스타가 네트워크와 보안 기업 시스코와 AI 보안과 신뢰성 분야의 전략적 협력을 위한 의향서(LOI)를 맺었다. 양사는 20일 시스코코리아 본사에서 서명식을 열었고, 회사는 21일 이를 밝혔다고 아이뉴스24와 디지털투데이가 전했다.",
+        "양사는 각자의 기술과 경험을 활용해 기업 고객의 AI 도입과 활용을 함께 지원하기로 했다. AI타임스에 따르면 셀렉트스타는 자체 AI 신뢰성 평가 플랫폼 '다투모 플랫폼'으로 평가 데이터 생성, 모델 성능과 안전성 평가, 레드티밍, 결과 분석을 지원한다.",
+        "표현에는 차이가 있다. AI타임스는 의향서를 교환했다고 썼고, 아이뉴스24와 디지털투데이는 체결했다고 썼다."
+      ],
+      "sources": [
+        {
+          "id": "8b5bf40fe410",
+          "name": "아이뉴스24",
+          "title": "셀렉트스타, 시스코와 AI 보안·신뢰성 분야 협력 LOI 체결",
+          "link": "https://www.inews24.com/view/2017455"
+        },
+        {
+          "id": "d0546fbaa9c1",
+          "name": "AI타임스",
+          "title": "셀렉트스타, 시스코와 AI 신뢰성 검증 협력 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216465"
+        },
+        {
+          "id": "758b08b955df",
+          "name": "데이터넷",
+          "title": "셀렉트스타·시스코, AI 보안·신뢰성 강화 맞손",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215233"
+        },
+        {
+          "id": "6f0e27450f6a",
+          "name": "디지털투데이",
+          "title": "셀렉트스타, 시스코와 AI 보안·신뢰성 분야 협력",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708656"
+        },
+        {
+          "id": "ca3473460a97",
+          "name": "테크월드뉴스",
+          "title": "셀렉트스타-시스코, AI 보안·신뢰성 분야 협력…기업 안전한 AI 활용 지원",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408492"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-b569875351cb",
+      "title": "스페이스X, 3분기 매출 161% 증가와 함께 흑자 전환",
+      "category": "기업",
+      "published": "2026-10-21T02:39:16.000Z",
+      "points": [
+        "스페이스X 3분기 매출 전년 대비 161% 증가",
+        "AI 사업 성장에 힘입어 흑자 전환",
+        "매출 금액은 매체별로 소수점 차이"
+      ],
+      "body": [
+        "스페이스X가 20일(현지시간) 3분기 실적을 발표하며 AI 사업 성장에 힘입어 흑자 전환에 성공했다. 조선비즈, 블로터, EBN은 3분기 매출이 지난해 같은 기간보다 161% 늘었다고 전했다.",
+        "금액은 매체별로 다르게 적혔다. 블로터는 145억8000만달러, EBN은 145억7500만 달러라고 전했고, 조선비즈는 제목에서 19조원이라고 밝혔다.",
+        "AI 사업의 비중은 보도마다 다른 각도로 다뤄졌다. 조선비즈는 AI 등을 포함한 슈퍼지능(SI) 부문이 스타링크를 포함한 통신 부문을 제치고 최대 매출원이 됐다고 전했다. 뉴시스는 CNBC 등에 따르면 AI 관련 매출이 9배 이상 늘었다고 전했다. IT조선은 AI 컴퓨팅 자원 임대 사업이 급성장해 시장 예상을 웃도는 실적을 냈다고 전했고, 블로터는 위성 인터넷 스타링크도 꾸준히 성장했다고 덧붙였다."
+      ],
+      "sources": [
+        {
+          "id": "b569875351cb",
+          "name": "조선비즈",
+          "title": "스페이스X, 3분기 매출 161% 늘어 19조원… AI 성장에 흑자 전환",
+          "link": "https://biz.chosun.com/science-chosun/science/2026/10/21/QUXBSK2KS5G5JHOJ6CQNYTH63Y"
+        },
+        {
+          "id": "2ef9301ce717",
+          "name": "뉴시스",
+          "title": "스페이스X 3분기 흑자 전환…AI 매출, 9배 급증(종합)",
+          "link": "https://www.newsis.com/view/NISX20261021_0003834327"
+        },
+        {
+          "id": "3e2c7d2c1738",
+          "name": "IT조선",
+          "title": "스페이스X, AI 사업 급성장에 흑자 전환",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172433"
+        },
+        {
+          "id": "e183a549f226",
+          "name": "블로터",
+          "title": "스페이스X, AI·스타링크 급성장에 3분기 호실적",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676198"
+        },
+        {
+          "id": "d44ad7150e9f",
+          "name": "EBN",
+          "title": "스페이스X, 3분기 매출 161% 급증…AI 성장에 흑자 전환",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728544"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261021-36ed420d1e09",
+      "title": "NC AI, 바르코 3D와 사운드 첫 달 구독료 50% 할인",
+      "category": "생성형AI",
+      "published": "2026-10-20T13:33:19.875Z",
+      "points": [
+        "바르코 3D와 사운드 첫 달 구독료 50% 할인",
+        "11월 30일까지 프로모션 진행",
+        "신규 가입자와 기존 무료 이용자 대상"
+      ],
+      "body": [
+        "NC AI가 3D 생성 AI '바르코 3D'와 사운드 생성 AI '바르코 사운드'의 상품 구성을 개편하면서 첫 달 구독료를 50% 깎아 주는 프로모션을 연다. 조선비즈와 벤처스퀘어에 따르면 프로모션은 11월 30일까지 이어진다. 조선비즈와 아이뉴스24는 회사가 20일 이를 밝혔다고 전했다.",
+        "대상은 신규 가입자와 기존 무료 이용자다. 벤처스퀘어는 계정당 각 서비스에서 한 번씩 할인을 받을 수 있다고 전했고, AI타임스는 유료 요금제를 결제하면 할인과 함께 보너스 포인트도 지급한다고 전했다.",
+        "EBN은 이번 개편이 3D 모델링과 사운드 생성에 AI를 접목해 콘텐츠 제작의 진입 장벽을 낮추려는 흐름이라고 설명했다. 아이뉴스24는 회사명을 '엔씨 AI'로 적었고, 나머지 매체는 'NC AI'로 적었다."
+      ],
+      "sources": [
+        {
+          "id": "36ed420d1e09",
+          "name": "벤처스퀘어",
+          "title": "NC AI, ‘바르코 3D·사운드’ 첫 달 구독료 50% 할인…AI 콘텐츠 제작 지원",
+          "link": "https://www.venturesquare.net/1121533"
+        },
+        {
+          "id": "34fc9d5013d1",
+          "name": "AI타임스",
+          "title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216455"
+        },
+        {
+          "id": "bd8f18197d09",
+          "name": "테크월드뉴스",
+          "title": "NC AI, ‘바르코 3D·사운드’ 개편…생성형 AI 콘텐츠 제작 지원 확대",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408468"
+        },
+        {
+          "id": "5882bf189a2d",
+          "name": "EBN",
+          "title": "NC AI, ‘바르코 3D·사운드’ 구독료 반값…AI 콘텐츠 창작 지원",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728518"
+        },
+        {
+          "id": "e3641b28b849",
+          "name": "조선비즈",
+          "title": "NC AI, ‘바르코 3D·사운드’ 첫 달 구독료 50% 할인",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/20/K5SVBF4E3BCOTKW47ZUNLSCH6U"
+        },
+        {
+          "id": "c48ba10a10a6",
+          "name": "아이뉴스24",
+          "title": "엔씨 AI, '바르코 3D·사운드' 첫 달 구독료 50% 할인",
+          "link": "https://www.inews24.com/view/2016729"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "h20261020-59e0e9bd609e",
       "title": "KT, 의료 AI 전문기업 아크릴과 의료기관 AX 사업 공동 추진",
       "category": "기업",
