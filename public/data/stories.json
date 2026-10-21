@@ -70,7 +70,21 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708699"
         }
       ],
-      "author": "Chloe Park"
+      "author": "Chloe Park",
+      "en": {
+        "title": "Channel Talk Officially Launches Voice ALF, a Phone Support AI Agent",
+        "points": [
+          "Channel Talk operator launches voice AI support",
+          "Supports inbound and outbound phone support",
+          "ALF Marketing, which calls customers first, unveiled"
+        ],
+        "body": [
+          "Channel Corporation, which operates the customer AI platform Channel Talk, officially launched Voice ALF, a voice AI support service. The company announced it on Oct. 21. Chosun Biz described Voice ALF as a generative AI agent that handles support work by talking with customers by voice.",
+          "The launch also introduced ALF Marketing, a feature that calls customers first. VentureSquare reported that Voice ALF supports both inbound support that answers customer inquiries and outbound support aimed at prospective customers. iNews24 also wrote in its headline that it handles both inbound and outbound support.",
+          "The outlets emphasized slightly different points. AI Times led with the fact that an AI has arrived that not only answers customer center calls but also phones customers first to provide support. AI Newspaper (인공지능신문) noted that the service goes beyond passive support that receives customer calls and offers a feature in which the AI calls customers first to handle sales, product guidance and more. VentureSquare said in its headline that it automates everything from customer response to outbound sales.",
+          "Channel Talk had previously operated ALF, an AI agent for chat support, and the new service is a phone support service under the same name. AI Times, Datanet and iNews24 wrote that the Channel Corporation CEO is Choi Si-won."
+        ]
+      }
     },
     {
       "id": "h20261021-6c1f70b58ac2",
@@ -144,7 +158,21 @@
           "link": "https://www.inews24.com/view/2017115"
         }
       ],
-      "author": "Haley Yun"
+      "author": "Haley Yun",
+      "en": {
+        "title": "LG Electronics Unveils Multi V 7 Dual AI Commercial System Air Conditioner for the First Time",
+        "points": [
+          "LG Electronics unveils Multi V 7 commercial system air conditioner",
+          "New AI-equipped product debuts at HARFKO 2026",
+          "HVAC technology showcased, including data center cooling"
+        ],
+        "body": [
+          "LG Electronics unveiled its new commercial system air conditioner, the LG Multi V 7, for the first time on Oct. 21 at the Korea International HVAC&R Exhibition (HARFKO 2026) at KINTEX in Ilsan, Goyang, Gyeonggi Province.",
+          "Outlets described the AI differently. Digital Daily reported that the Multi V 7 combines on-device AI built into the product with cloud AI, calling it dual AI. IT Chosun and iNews24 reported that the product applies AI and a new compressor to improve heating and cooling performance and energy efficiency. Digital Today described it as a product that connects multiple indoor units to a single outdoor unit, and IT Chosun called it a large-capacity system air conditioner.",
+          "Jeongi Shinmun (전기신문) reported that LG Electronics also presented a range of heating, ventilation and air conditioning (HVAC) solutions, from heat pumps for apartment complexes to cooling technology for AI data centers. EBN reported that the company is stepping up its push into the HVAC market with cooling technology spanning homes, commercial and industrial facilities, and AI data centers.",
+          "Earlier, on Oct. 20, iNews24 reported, citing LG Electronics, that President Ryu Jae-cheol named cooling technology as a key factor that will decide the competitiveness of AI data centers and stressed the importance of integrated thermal management."
+        ]
+      }
     },
     {
       "id": "h20261021-8631587435dc",
@@ -242,7 +270,21 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=49009"
         }
       ],
-      "author": "Ashley Yang"
+      "author": "Ashley Yang",
+      "en": {
+        "title": "Qualcomm Introduces Technologies of Six Korean AI Startups at Industrial AI Expo",
+        "points": [
+          "Qualcomm runs QAIPI Pavilion at Industrial AI Expo",
+          "Technologies of six Korean AI startups on display",
+          "Edge AI and robotics collaboration technologies demonstrated"
+        ],
+        "body": [
+          "Qualcomm is taking part in Industrial AI Expo 2026, held Oct. 21 to 23 at KINTEX in Ilsan, and unveiled the results of its support for Korean AI startups. According to The Elec, Qualcomm set up the QAIPI Pavilion, a dedicated space for companies in the Qualcomm AI Innovator Program (QAIPI), at the venue.",
+          "Chosun Biz and Digital Daily reported that industrial AI solutions from six Korean AI startups were introduced in the space. Digital Daily wrote that partners' robotics technologies were also shown. Industry News reported that startups and industrial Internet of Things (IoT) partners are showing AI technologies and robots for industrial sites and continuing cooperation toward commercialization and overseas expansion.",
+          "According to Qualcomm, the aim is to publicize the technologies of Korean startups that use Qualcomm platforms and to broaden the cooperation ecosystem in industrial AI and automation. IT Chosun wrote in its headline that edge AI and robotics collaboration technologies were demonstrated, and iNews24 reported that startup AI technologies and industrial robot solutions are on display. TechM titled its report on support for building Korea's AI ecosystem.",
+          "Related reports continued before and after the event. Techworld News reported that on Oct. 19, ICbanQ announced it would exhibit two Arduino platforms based on Qualcomm processors at the expo's QAIPI Pavilion. On Oct. 15, Digital Daily and Robot Newspaper reported that the board of the Korea AI Robot Industry Association elected Hyundai Motor and Qualcomm Technologies as new executive member companies."
+        ]
+      }
     },
     {
       "id": "h20261021-8af2e094793d",
@@ -304,7 +346,21 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215142"
         }
       ],
-      "author": "Ethan Chen"
+      "author": "Ethan Chen",
+      "en": {
+        "title": "Gartner Announces Top 10 Strategic Technology Trends for 2027",
+        "points": [
+          "Gartner announces top 10 strategic technology trends for 2027",
+          "Stresses control and security in the age of AI autonomy",
+          "AI agent identity, sovereign tech and others selected"
+        ],
+        "body": [
+          "Gartner announced its top 10 strategic technology trends for 2027, titled \"trends enterprises should watch,\" on Oct. 21. According to Techworld News, the selected technologies are large quantitative models, voice reasoning models, world models, AI context platforms, AI coding agent harnesses, AI agent identity, autonomous exposure remediation, sovereign tech, disposable applications and wear as a service.",
+          "The outlets commonly pointed out that control is the key as AI becomes more autonomous. VentureSquare reported that Gartner stressed the importance of technology architecture and control systems amid AI autonomy, and Helloti reported that it presented control, security and digital sovereignty as core challenges. EBN reported that the analysis says that as AI evolves to the stage of judging and acting on its own, enterprises must systematically manage agents' access rights and operating structures.",
+          "AI Times reported a diagnosis that, as AI generates software faster than people can review it and the spread of AI agents accelerates, it is time for enterprises to directly design the boundaries between organizations, people and machines. VentureSquare wrote that large quantitative models, voice reasoning models and world models expand the scope of AI use from language generation to quantitative analysis, future prediction and simulation of physical environments.",
+          "Earlier, on Oct. 16, Datanet reported on a separate Gartner survey. In a survey of about 300 IT infrastructure and operations (I&O) leaders in the U.S. and U.K. conducted over two months from June to July, 57% said agentic AI governance is inadequate. Datanet summarized in its headline that only 20% of companies have policies to stop AI misbehavior."
+        ]
+      }
     },
     {
       "id": "h20261021-007a29ac06f8",
@@ -354,7 +410,21 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=49128"
         }
       ],
-      "author": "Kevin Wong"
+      "author": "Kevin Wong",
+      "en": {
+        "title": "HD Hyundai Robotics Unveils Physical AI-Based Intelligent Dual-Arm Robot for the First Time",
+        "points": [
+          "HD Hyundai Robotics unveils intelligent dual-arm robot for the first time",
+          "Physical AI strategy presented at Daegu robot exhibition",
+          "Phased development from precision assembly to bipedal walking"
+        ],
+        "body": [
+          "HD Hyundai Robotics unveiled its in-house developed \"intelligent dual-arm robot\" on Oct. 21 at EXCO in Daegu. iNews24 reported that this is the first showing of the robot, which is under development.",
+          "The name of the event was written differently by outlet. The Elec and iNews24 called it \"Future Innovation Technology Expo 2026\" (iNews24 also gave FIX 2026), while Robot Newspaper called it the \"15th Daegu International Robot Industry Fair (ROBEX 2026),\" held Oct. 21 to 24.",
+          "According to The Elec, the robot has a form similar to a human upper body, with two arms and five fingers, and is based on physical AI. Industry News reported that the company is moving to capture the market for next-generation physical AI-based manufacturing robots, going beyond the limits of existing industrial robots that only performed repetitive tasks in restricted areas. Robot Newspaper wrote that the exhibition presents physical AI-based manufacturing automation technology and next-generation robot solutions.",
+          "Digital Daily reported that HD Hyundai Robotics, which has focused on industrial robots, has begun developing humanoids in earnest, and wrote in a subheading that it is pursuing development in phases, from precision assembly to bipedal walking. The same outlet noted in a subheading that Doosan Robotics also showed a dual-arm robot. Industry News said in its headline that the company is targeting the humanoid market."
+        ]
+      }
     },
     {
       "id": "b20261021",
@@ -559,7 +629,25 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708636"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 21 AI Briefing: Gartner's 2027 Tech Trends and Krafton's In-House LLM",
+        "points": [
+          "Control and security become enterprise challenges in the age of AI autonomy",
+          "Krafton's in-house LLM and Channel Talk's voice AI support launch",
+          "SpaceX returns to profit and Salesforce acquisition announced"
+        ],
+        "body": [
+          "Gartner announced its top 10 strategic technology trends for 2027 on Oct. 21. They include large quantitative models, voice reasoning models and world models, and outlets pointed out that control and security are key challenges as AI autonomy grows. EBN reported that the analysis says enterprises must systematically manage agents' access rights and operating structures.",
+          "Krafton unveiled a preview version of Raon-1 mini, an in-house developed LLM with 30 billion (30B) parameters. According to Chosun Biz, the company handled the entire process, from model design to training, on its own. EBN reported that the model reduces computational load by activating only about 13% of its total parameters.",
+          "OpenAI introduced a lock feature in ChatGPT on Oct. 20 (local time) that hides sensitive conversations. According to Digital Today, users can protect specific conversations with a four-digit PIN, Face ID or Touch ID.",
+          "Channel Corporation, the operator of Channel Talk, officially launched Voice ALF, a voice AI support service. Datanet reported that the launch also introduced ALF Marketing, a feature that calls customers first.",
+          "LG Electronics unveiled its commercial system air conditioner LG Multi V 7 for the first time at the Korea International HVAC&R Exhibition. Digital Daily reported that it is equipped with dual AI that combines on-device AI and cloud AI, and Jeongi Shinmun (전기신문) reported that AI data center cooling technology was also presented.",
+          "HD Hyundai Robotics unveiled a physical AI-based intelligent dual-arm robot at a robot exhibition in Daegu. According to The Elec, the robot has a form similar to a human upper body, with two arms and five fingers.",
+          "SpaceX announced its third-quarter results on Oct. 20 (local time) and returned to profit. Chosun Biz and EBN reported that revenue rose 161% from a year earlier, and Newsis reported that AI-related revenue grew more than ninefold.",
+          "Salesforce announced on Oct. 20 (local time) that it will acquire the customer engagement platform company Braze. Chosun Biz put the price at 5.7 billion dollars, while Digital Daily and Digital Today put it at about 5.66 billion dollars, and Chosun Biz and Digital Daily reported it at about 7.5 trillion won."
+        ]
+      }
     },
     {
       "id": "s20261021-92df3fd42fc2",
@@ -596,7 +684,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708710"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI Introduces Lock Feature in ChatGPT to Hide Sensitive Conversations",
+        "points": [
+          "OpenAI introduces sensitive-conversation lock in ChatGPT",
+          "Protected by a four-digit PIN or biometric authentication",
+          "Chat history and memory separated from regular chats"
+        ],
+        "body": [
+          "OpenAI has introduced a feature in ChatGPT that separately protects sensitive conversations. Chosun Biz and Digital Today reported that OpenAI announced it on Oct. 20 (local time). The name of the feature differs by outlet: AI Times wrote \"chat lock,\" Chosun Biz \"conversation lock,\" and Digital Today \"locked conversation.\"",
+          "According to Digital Today, users can protect specific conversations by setting a four-digit PIN or using Face ID and Touch ID on supported devices. AI Times reported that the feature focuses on reducing the chance that private information is exposed by separating chat history and memory from regular chats.",
+          "Chosun Biz reported that OpenAI described it as a feature that keeps sensitive conversations from being visible when a ChatGPT screen is shared with others or a shared device is used."
+        ]
+      }
     },
     {
       "id": "s20261021-578fccf76f0b",
@@ -645,7 +746,20 @@
           "link": "https://www.ngonews.kr/news/articleView.html?idxno=241071"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Samsung Securities' AI Girl Group Lumina Passes 2.5 Million Views for Debut Music Video",
+        "points": [
+          "Samsung Securities' in-house four-member AI girl group Lumina",
+          "Debut song OVERRIDE video hits 2.5 million views in a month",
+          "Plans to use for financial education and advertising content"
+        ],
+        "body": [
+          "The music video for \"OVERRIDE,\" the debut song of LUMINA, a four-member AI girl group created in-house by Samsung Securities, has passed 2.5 million views on YouTube. Industry News and Korea NGO News (한국NGO신문) reported that Samsung Securities announced it on Oct. 21, and the video reached the mark about a month after it was released on Samsung Securities' official YouTube channel.",
+          "Betanews reported that it hit 1 million views within a week of release. Digital Daily reported that Samsung Securities plans to continue producing videos with the group and to use it for financial education and advertising content.",
+          "AI Newspaper (인공지능신문) noted that Samsung Securities has put an AI girl group at the forefront of its financial marketing, moving away from traditional financial advertising that delivers investment information directly and instead conveying brand messages through K-pop music and performance."
+        ]
+      }
     },
     {
       "id": "s20261021-b913bcdd9340",
@@ -682,7 +796,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708636"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Salesforce Announces Acquisition of Braze",
+        "points": [
+          "Salesforce to acquire customer engagement platform Braze",
+          "Deal valued at about 5.7 billion dollars, about 7.5 trillion won",
+          "Expected to close within fiscal 2028"
+        ],
+        "body": [
+          "Salesforce announced on Oct. 20 (local time) that it will acquire the customer engagement platform company Braze. Chosun Biz reported that Braze is a New York-based cloud software company and that the move is interpreted as an effort to strengthen marketing platform capabilities, long seen as a weakness of Salesforce.",
+          "The deal value is reported slightly differently by outlet. Chosun Biz wrote 5.7 billion dollars, while Digital Daily and Digital Today wrote about 5.66 billion dollars, and Chosun Biz and Digital Daily reported about 7.5 trillion won.",
+          "Digital Daily reported that holders of Braze Class A common stock will receive 47.50 dollars per share in cash. Digital Today, citing CNBC, reported that Salesforce plans to close the deal within fiscal 2028 after approval from shareholders and regulators."
+        ]
+      }
     },
     {
       "id": "s20261021-a358f97d630d",
@@ -737,7 +864,20 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172461"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Krafton Unveils Preview of Raon-1 mini, a 30B-Class LLM",
+        "points": [
+          "Krafton unveils preview of 30B-class LLM Raon-1 mini",
+          "Entire process from design to training handled in-house",
+          "Released on Hugging Face under the Apache 2.0 license"
+        ],
+        "body": [
+          "Krafton unveiled on Oct. 21 a preview version of Raon-1 mini, a large language model (LLM) with 30 billion (30B) parameters that it developed in-house. Chosun Biz reported that Krafton handled the entire process, from model design to training, on its own, and wrote that the model supports Korean and English.",
+          "iNews24 reported that the model is a version shown ahead of its official release and has been released on Hugging Face under the Apache 2.0 license. Industry News said the model raises response speed and lowers inference costs.",
+          "On its structure, EBN reported that the model reduces computational load by activating only about 13% of its total parameters. EBN said the model strengthens Korean conversation and AI agent capabilities to improve cost efficiency relative to performance, and used the phrase \"cost-effective LLM\" in its headline."
+        ]
+      }
     },
     {
       "id": "s20261021-535bd8add700",
@@ -786,7 +926,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728575"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Naver D2SF Invests in On-Device AI Startup TraceWeave",
+        "points": [
+          "Naver D2SF makes new investment in TraceWeave",
+          "AI architecture that keeps memory usage constant",
+          "VentureSquare reports a 3 billion won seed round"
+        ],
+        "body": [
+          "D2SF, Naver's startup nurturing and strategic investment arm, made a new investment in TraceWeave, an on-device AI startup. iNews24, Techworld News, AI Times and others reported that Naver announced it on Oct. 21.",
+          "TraceWeave developed Phase-TITAN, which replaces the existing Transformer architecture. The architecture is designed to keep memory usage constant even as the information it processes grows longer, and outlets reported that it can understand long contexts and carry out multi-step tasks. AI Times described it as a startup that solved the memory problem long seen as a stumbling block for on-device AI receiving an investment from Naver.",
+          "Outlets covered the size of the investment to differing degrees. VentureSquare said in its headline that the company raised 3 billion won in a seed round, and the amount cannot be confirmed from the other outlets' summaries."
+        ]
+      }
     },
     {
       "id": "s20261021-a93a8831fe3c",
@@ -835,7 +988,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102110513628654"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KAI Succeeds in Demonstrating AI Satellite Autonomous Operation Technology in Orbit",
+        "points": [
+          "KAI's AI satellite autonomous operation pilot succeeds in orbit",
+          "Satellite diagnoses abnormal conditions and responds on its own",
+          "Carried out on the BEE-1012 CubeSat on Oct. 20"
+        ],
+        "body": [
+          "Korea Aerospace Industries (KAI) succeeded in demonstrating autonomous operation technology that uses AI in space orbit to diagnose a satellite's abnormal conditions and work out responses. KAI announced on Oct. 21 that it successfully carried out a pilot mission in orbit on Oct. 20.",
+          "The Elec reported that the mission was carried out on the BEE-1012 CubeSat, and wrote that the satellite was launched into space on the fifth Nuri rocket launch. iNews24 explained that the pilot mission is a stage that tests the technology ahead of the full mission.",
+          "Outlets differ on follow-up plans and assessments. Digital Daily said in its headline that the main demonstration begins in December. Industry News expressed in its headline that KAI secured fully autonomous satellite technology, and reported that the company is speeding up its push to win the global New Space market."
+        ]
+      }
     },
     {
       "id": "s20261021-87932d950605",
@@ -884,7 +1050,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102110372166488"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oracle Partners With AstraZeneca to Find Clinical Trial Patients Using AI",
+        "points": [
+          "Oracle and AstraZeneca agree on AI clinical trial collaboration",
+          "Using real-world clinical data to help identify eligible patients",
+          "Chosun Biz reports it as a non-binding agreement"
+        ],
+        "body": [
+          "Oracle has entered into an agreement with global pharmaceutical company AstraZeneca to improve the efficiency of clinical trials using AI and real-world clinical data (RWD). Datanet and Chosun Biz reported that Oracle announced it on Oct. 21.",
+          "According to the outlets, the collaboration involves helping clinicians identify eligible patients for clinical trials, accelerating the generation of clinical evidence, and exploring ways to bring research insights into everyday care. Digital Daily reported that the goal is to reduce the time it takes to recruit patients.",
+          "Chosun Biz specifically noted the nature of the agreement. It reported that the two companies signed a non-binding agreement."
+        ]
+      }
     },
     {
       "id": "s20261021-8b5bf40fe410",
@@ -933,7 +1112,20 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408492"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Selectstar and Cisco Sign Letter of Intent on AI Security and Trustworthiness",
+        "points": [
+          "Selectstar and Cisco sign letter of intent",
+          "Strategic cooperation on AI security and trustworthiness",
+          "Jointly supporting enterprise customers' AI adoption and use"
+        ],
+        "body": [
+          "Selectstar, a company specializing in AI data and trustworthiness evaluation, signed a letter of intent (LOI) with network and security company Cisco for strategic cooperation in AI security and trustworthiness. The two companies held a signing ceremony at Cisco Korea's headquarters on Oct. 20, and the company announced it on Oct. 21, iNews24 and Digital Today reported.",
+          "The two companies agreed to jointly support enterprise customers' AI adoption and use by drawing on their respective technologies and experience. According to AI Times, Selectstar supports evaluation data generation, model performance and safety evaluation, red teaming and results analysis through its own AI trustworthiness evaluation platform, the Datumo Platform.",
+          "The wording differs. AI Times wrote that the letters of intent were exchanged, while iNews24 and Digital Today wrote that they were signed."
+        ]
+      }
     },
     {
       "id": "s20261021-b569875351cb",
@@ -982,7 +1174,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728544"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SpaceX Returns to Profit as Third-Quarter Revenue Rises 161%",
+        "points": [
+          "SpaceX third-quarter revenue up 161% from a year earlier",
+          "Returns to profit on AI business growth",
+          "Revenue figure differs slightly by outlet"
+        ],
+        "body": [
+          "SpaceX announced its third-quarter results on Oct. 20 (local time) and returned to profit on the back of growth in its AI business. Chosun Biz, Blotter (블로터) and EBN reported that third-quarter revenue rose 161% from the same period last year.",
+          "The amount was written differently by outlet. Blotter reported 14.58 billion dollars and EBN reported 14.575 billion dollars, while Chosun Biz gave 19 trillion won in its headline.",
+          "Reports covered the weight of the AI business from different angles. Chosun Biz reported that the superintelligence (SI) division, which includes AI, overtook the communications division including Starlink to become the largest source of revenue. Newsis reported, citing CNBC and others, that AI-related revenue grew more than ninefold. IT Chosun reported that the rapidly growing AI computing resource rental business produced results above market expectations, and Blotter added that the Starlink satellite internet service also continued to grow."
+        ]
+      }
     },
     {
       "id": "s20261021-36ed420d1e09",
@@ -1037,7 +1242,20 @@
           "link": "https://www.inews24.com/view/2016729"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "NC AI Offers 50% Off First Month for VARCO 3D and Sound Subscriptions",
+        "points": [
+          "50% off first month for VARCO 3D and Sound",
+          "Promotion runs through Nov. 30",
+          "For new subscribers and existing free users"
+        ],
+        "body": [
+          "NC AI is revamping its product lineup for VARCO 3D, its 3D generative AI, and VARCO Sound, its sound generative AI, and launching a promotion that takes 50% off the first month's subscription fee. According to Chosun Biz and VentureSquare, the promotion runs through Nov. 30. Chosun Biz and iNews24 reported that the company announced it on Oct. 20.",
+          "It targets new subscribers and existing free users. VentureSquare reported that each account can receive the discount once per service, and AI Times reported that bonus points are also given along with the discount when users pay for a paid plan.",
+          "EBN explained that the revamp is part of a trend toward lowering the barrier to content creation by applying AI to 3D modeling and sound generation. iNews24 wrote the company name as \"엔씨 AI\" (NC AI), while the other outlets wrote \"NC AI.\""
+        ]
+      }
     },
     {
       "id": "h20261020-59e0e9bd609e",
