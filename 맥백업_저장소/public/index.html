@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>AI 뉴스웨이브</title>
+<meta name="naver-site-verification" content="a9b2f633479929a7c411808a5c47b98047cce690">
+<meta name="description" content="국내 80개 매체의 AI 뉴스를 30분마다 모아 보여 드립니다. 많이 보도된 소식은 여러 매체를 종합한 정리 기사와 매일 AI 브리핑으로 전합니다.">
+<link rel="alternate" hreflang="ko" href="https://ainewswave.com/">
+<link rel="alternate" hreflang="en" href="https://ainewswave.com/en/">
+<link rel="canonical" href="https://ainewswave.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI 뉴스웨이브">
+<meta property="og:title" content="AI 뉴스웨이브">
+<meta property="og:description" content="국내 AI 뉴스를 한곳에서, 30분마다. 매일 AI 브리핑과 정리 기사.">
+<meta property="og:url" content="https://ainewswave.com/">
+<meta property="og:image" content="https://ainewswave.com/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#f7f7f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<!-- Google Analytics 4 (측정 ID G-TPL7MTLPRB, 계정 AI 뉴스웨이브) -->
+<script src="/consent.js"></script>
+<meta name="google-adsense-account" content="ca-pub-2376619512263295">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2376619512263295" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TPL7MTLPRB"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-TPL7MTLPRB');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="alternate" type="application/rss+xml" title="AI 뉴스웨이브 정리 기사" href="/recap/feed.xml">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="AI 뉴스웨이브">
+<link rel="stylesheet" href="style.css">
+<script src="/feedback.js" defer></script>
+</head>
+<body>
+<header class="top">
+  <div class="wrap head">
+    <a class="brand" href="./" aria-label="AI 뉴스웨이브 홈">
+      <svg class="mark" viewBox="0 0 512 512" aria-hidden="true"><rect width="512" height="512" fill="currentColor"/><path d="M56 372C132 372 150 300 182 236C218 166 284 120 356 128C424 136 462 196 452 252C444 296 404 316 374 300C348 286 352 252 378 242C336 222 296 246 282 300C266 362 238 404 180 404H56Z" fill="var(--accent-ink)"/><path d="M56 444Q120 406 184 444T312 444T456 444" fill="none" stroke="var(--accent-ink)" stroke-width="28" stroke-linecap="square"/><circle cx="412" cy="92" r="22" fill="var(--accent-ink)"/></svg>
+      <h1>AI 뉴스웨이브</h1>
+    </a>
+    <div class="tabbar" id="tabbar">
+      <button class="tscroll prev" type="button" aria-label="키워드 왼쪽으로 넘기기" tabindex="-1">‹</button>
+      <nav class="tabs" id="tabs" role="tablist" aria-label="키워드"></nav>
+      <button class="tscroll next" type="button" aria-label="키워드 오른쪽으로 넘기기" tabindex="-1">›</button>
+    </div>
+    <form id="searchWrap" class="search" role="search" hidden>
+      <input id="q" type="search" placeholder="제목, 요약, 매체명 검색" autocomplete="off" enterkeyhint="search" aria-label="기사 검색">
+    </form>
+    <div class="actions">
+      <button id="btnSearch" class="icon" aria-label="검색" aria-expanded="false">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      </button>
+      <button id="btnTheme" class="icon" aria-label="다크 모드 전환">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap"><section id="detail" class="detail" hidden></section></div>
+
+<div class="wrap kwbar"><p id="kwNote" class="kwnote" hidden></p></div>
+
+<div class="wrap toolbar">
+  <button id="btnSource" class="chip" type="button">전체 매체</button>
+  <button id="btnSaved" class="chip" type="button" aria-pressed="false">북마크 <b id="savedCount">0</b></button>
+  <a class="chip linkchip" href="recap/">AI 브리핑과 정리 기사</a>
+  <span class="grow"></span>
+</div>
+
+<div class="wrap listwrap">
+  <div id="notice" class="notice" hidden></div>
+  <div id="brief" class="brief" hidden></div>
+  <section id="hot" class="hot" hidden></section>
+  <main id="list" class="grid" aria-live="polite"></main>
+  <div class="more-wrap"><button id="more" class="more" hidden>기사 더 보기</button></div>
+</div>
+<footer class="foot">
+  기사 저작권은 각 언론사에 있으며, 원문은 각 언론사에서 확인하세요.<br>
+  <nav class="foot-links"><a href="recap/">정리 기사</a><a href="about.html">소개</a><a href="privacy.html">개인정보처리방침</a><a href="contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a><a href="/en/" hreflang="en">English</a></nav>
+</footer>
+
+<dialog id="kwSheet" class="sheet" aria-label="키워드 선택">
+  <div class="sheet-head">
+    <strong>키워드 상위 30 <small>여러 개 선택 가능</small></strong>
+    <button id="kwReset" class="link" type="button">선택 해제</button>
+  </div>
+  <div id="kwList" class="kw-list"></div>
+  <button id="kwClose" class="done" type="button">확인</button>
+</dialog>
+
+<dialog id="sheet" aria-label="매체 선택">
+  <div class="sheet-head">
+    <strong>매체 선택</strong>
+    <button id="sheetReset" class="link" type="button">전체 보기</button>
+  </div>
+  <div id="sheetList" class="sheet-list"></div>
+  <button id="sheetClose" class="done" type="button">확인</button>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
