@@ -95,7 +95,22 @@
           "link": "https://biz.chosun.com/stock/stock_general/2026/10/22/6BEWBZFUCNBNBCQ4UE4YCQXXKI"
         }
       ],
-      "author": "Chloe Park"
+      "author": "Chloe Park",
+      "en": {
+        "title": "Samsung Electro-Mechanics and Nvidia Build Dedicated AI Chip Substrate Lines With Joint Investment",
+        "points": [
+          "Samsung Electro-Mechanics to supply AI chip substrates to Nvidia long term",
+          "Dedicated lines to be built in Sejong and Busan with joint investment",
+          "Nvidia supply volume to grow by double digits annually"
+        ],
+        "body": [
+          "Samsung Electro-Mechanics has formed a strategic business partnership with Nvidia to supply package substrates for AI chips. Industry News and Kukmin Ilbo reported that the two companies will build dedicated production lines at the Sejong and Busan sites with joint investment. Kukmin Ilbo wrote that Samsung Electro-Mechanics and Nvidia announced the deal on the 21st.",
+          "Outlets word the timing and target of the supply slightly differently. Digital Today reported that the deal involves supplying package substrates to Nvidia over multiple years starting in 2026, while Bloter wrote that the company will begin long-term supply this year. Chosun Biz and EBN reported long-term supply of substrates for next-generation AI chips and high-speed networking chips. Chosun Biz covered the news alongside GTC 2026, Nvidia's annual developer event held in Berlin, Germany, on the 21st.",
+          "A volume outlook also emerged. Bloter reported that supply volume to Nvidia will grow by double digits a year on average. Digital Daily said in its headline that the business will play a key role in total substrate capacity in 2028, and also introduced technology that embeds silicon capacitors and MLCCs in large-area FC-BGA.",
+          "The background to the expansion was also reported. According to TheElec, a plan to expand a new package substrate line based on customer investment, under review since the first half of this year, took concrete shape through the cooperation with Nvidia. TheElec called the new facility an FC-BGA dedicated fab, while Digital Today called it an AI substrate dedicated fab.",
+          "The news also affected the share price. Chosun Biz reported that as of 9:35 a.m. on the 22nd, Samsung Electro-Mechanics traded on the KOSPI at 1,204,000 won, up 36,000 won (3.08%) from the previous session. It said the stock rose more than 3% in early trading even as the KOSPI weakened. TechM added that LG Innotek, on the same day, also announced cooperation with Nvidia on physical AI sensing solutions."
+        ]
+      }
     },
     {
       "id": "h20261022-f8d27e7b3128",
@@ -176,7 +191,22 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728710"
         }
       ],
-      "author": "Kevin Wong"
+      "author": "Kevin Wong",
+      "en": {
+        "title": "LG Innotek to Develop Sensing Solutions for Physical AI Robots With Nvidia",
+        "points": [
+          "LG Innotek to develop robot sensing solutions with Nvidia",
+          "3MP camera using Nvidia HSB technology unveiled",
+          "Cooperation to expand to humanoid vision and robot hands"
+        ],
+        "body": [
+          "LG Innotek will work with Nvidia to develop sensing solutions for physical AI and robots. Robot Newspaper, TheElec and Techworld News reported that LG Innotek announced this at Nvidia's GTC Berlin in Berlin, Germany, on the 20th (local time). EBN's summary gives the event date as the 22nd, so outlets differ on the date.",
+          "Digital Today and Digital Daily gave technical details. According to the two outlets, LG Innotek unveiled a sensing solution using Nvidia's Holoscan Sensor Bridge (HSB) technology. Digital Today introduced a 3-megapixel camera module and multimodal vision, while Digital Daily reported that the approach sends data directly to AI without passing through the CPU, reducing latency.",
+          "TheElec outlined how the two fit together: Nvidia's sensor data transmission technology combined with LG Innotek's camera, lidar and radar technology. EBN reported that the plan is to link complex sensing, such as cameras and lidar, with Nvidia's AI platform to widen business opportunities in the robot and autonomous driving markets.",
+          "The scope of cooperation is expected to widen. TheElec, Bloter and Chosun Biz reported that it will extend to vision sensing for humanoids and robot hands. iNews24 wrote that the two companies plan to unveil new technology developed together next year.",
+          "IT Chosun covered the news together with Samsung Electro-Mechanics on the same day, reporting that both companies are widening their businesses, centered on smartphones and automotive electronics, toward AI infrastructure and physical AI."
+        ]
+      }
     },
     {
       "id": "h20261022-390364a0bf39",
@@ -257,7 +287,22 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708992"
         }
       ],
-      "author": "Haley Yun"
+      "author": "Haley Yun",
+      "en": {
+        "title": "OpenAI Models Added to Google Cloud Model Garden, Reaching All Three Major Clouds",
+        "points": [
+          "Google Cloud adds OpenAI models to Model Garden",
+          "Three OpenAI models and Codex agent features offered",
+          "OpenAI now on all three major clouds after AWS and Microsoft"
+        ],
+        "body": [
+          "Google Cloud is adding OpenAI models to Model Garden, its AI model service. According to Techworld News, Google Cloud and OpenAI said on the 21st (local time) that Model Garden will offer OpenAI models and Codex. Digital Daily described Model Garden as a service where developers pick from multiple AI models.",
+          "Outlets described the lineup in similar terms. Hellot, Datanet and TechM reported that Google Cloud will offer all three major closed LLMs alongside more than 200 first-party, third-party and open models on a single unified enterprise AI platform. IT Chosun summarized that enterprise customers can now use OpenAI's GPT models after Google's Gemini and Anthropic's Claude. On the number of models, Datanet's headline says three GPT-6 models, while TechM's headline says three OpenAI models.",
+          "For OpenAI, distribution channels have grown. Chosun Biz and AI Times reported that by selling models on Google Cloud after AWS and Microsoft Azure, OpenAI now has all three major clouds. AI Times wrote that the two companies, rivals with ChatGPT and Gemini, are cooperating on sales in the enterprise market.",
+          "Reports differ slightly on timing. Digital Today, citing CNBC, reported that Google will add OpenAI GPT models to Model Garden and its coding tool Antigravity within weeks. Other outlets wrote that they are being released or offered, so when use actually begins reads differently across reports.",
+          "AI Newspaper (인공지능신문) analyzed that cloud providers that have built platforms around their own models are actively embracing outside models to win enterprise customers, speeding up competition in opening up models."
+        ]
+      }
     },
     {
       "id": "h20261022-3c0cb774fe28",
@@ -336,7 +381,20 @@
           "link": "https://www.thelec.kr/news/articleView.html?idxno=64092"
         }
       ],
-      "author": "Ashley Yang"
+      "author": "Ashley Yang",
+      "en": {
+        "title": "LG Electronics and K-water Partner on AI Transformation of Sihwa Tidal Power Plant",
+        "points": [
+          "LG Electronics and K-water sign AI tidal power plant agreement",
+          "Smart factory technology to be applied to plant operations",
+          "AI, digital twins and robots to be tested jointly"
+        ],
+        "body": [
+          "LG Electronics will cooperate with the Korea Water Resources Corporation (K-water) on the AI transformation of the Sihwa Tidal Power Plant. According to Techworld News and Digital Daily, the two companies signed a technical cooperation agreement on the 22nd at the Sihwa Tidal Culture Center in Ansan, Gyeonggi Province, to promote an AI tidal power plant at Sihwa Lake. Chosun Biz described the Sihwa plant as the world's largest by generating capacity.",
+          "Chosun Biz gave specifics of the cooperation. The plan is to jointly verify ways to apply AI, digital twins and robots to power generation forecasting, equipment management and safety inspections, using smart factory technology built up at manufacturing sites. IT Chosun also said the companies will verify the potential of these applications, and Robot Newspaper wrote that LG Electronics is pooling its smart factory capabilities, including physical AI and digital twins.",
+          "Several outlets noted the expansion of its business area. Industry News reported that this is a move to diversify its solutions business beyond factory automation into public energy infrastructure. TheElec wrote that it is the first case of extending smart factory technology to public infrastructure such as power plants, and EBN reported that the plan is to widen its business into energy and public infrastructure markets."
+        ]
+      }
     },
     {
       "id": "h20261022-30406470a3ad",
@@ -386,7 +444,21 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102109373977478"
         }
       ],
-      "author": "Ethan Chen"
+      "author": "Ethan Chen",
+      "en": {
+        "title": "Health Ministry and WHO Announce Seoul Declaration on AI Healthcare, Setting International Principles for Medical AI",
+        "points": [
+          "Ministry and WHO announce Seoul Declaration on AI Healthcare",
+          "Medical staff oversight and final human judgment guaranteed",
+          "Equitable sharing of AI benefits and safety stressed"
+        ],
+        "body": [
+          "The Ministry of Health and Welfare and the World Health Organization (WHO) have issued the Seoul Declaration on AI Healthcare, which sets out principles for using medical AI. According to HIT News, the two sides announced the declaration while co-hosting the 2026 World Bio Summit at COEX Magok Convention Center in Seoul from the 21st to the 22nd.",
+          "The core is the role of people and verification. Uihak Shinmun (의학신문) reported that the declaration guarantees oversight by medical staff and final human judgment, and is an international set of joint principles for spreading AI technologies whose clinical effectiveness and safety have been verified. Cheongnyeon Uisa (청년의사) wrote that the Korean government and WHO presented joint principles for healthcare innovation using AI, safety assurance and international cooperation.",
+          "The aim is to narrow gaps. Chosun Biz reported that, as AI-driven drug discovery, diagnosis and treatment innovation accelerates, the purpose is to reduce healthcare gaps caused by technological progress and set principles for safe use. Cheongnyeon Uisa reported that the purpose is to spread the benefits of AI innovation equitably around the world, and HIT News wrote that it is international cooperation for equitable access and responsible use.",
+          "Leader-level talks were also held. Digital Daily reported that President Lee Jae-myung will meet the head of WHO to discuss AI medical innovation and ways to expand international health cooperation. The plan is to introduce Korea's AI primary care strategy and cooperate with WHO on related technology and workforce training."
+        ]
+      }
     },
     {
       "id": "b20261022",
@@ -573,7 +645,25 @@
           "link": "https://www.bloter.net/news/articleView.html?idxno=676402"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 22 AI Briefing: Samsung Electro-Mechanics and Nvidia Partner, OpenAI Models Come to Google Cloud",
+        "points": [
+          "Nvidia-centered AI supply chain cooperation extends to Korean component makers",
+          "Clouds embrace rivals' models in an openness race",
+          "AI-found security flaws and AI investment burden both stand out"
+        ],
+        "body": [
+          "Samsung Electro-Mechanics formed a partnership with Nvidia to supply package substrates for AI chips and will build dedicated production lines in Sejong and Busan with joint investment. Industry News and Kukmin Ilbo reported this, and Digital Today wrote that it involves multiyear supply starting in 2026. On the same day, LG Innotek also said it will develop sensing solutions for robots with Nvidia.",
+          "Google Cloud is adding OpenAI models to Model Garden. Hellot and Datanet reported that Google Cloud will offer all three major closed LLMs alongside more than 200 models, and Chosun Biz wrote that OpenAI has entered all three major clouds. Digital Today, citing CNBC, reported that Google will add them within weeks, so outlets word the timing differently.",
+          "Two critical vulnerabilities were found in PHP, which is widely used on websites worldwide. Chosun Biz reported that they were found using AI and that major European countries temporarily suspended government websites. According to iNews24, the Korean government raised its cyber crisis alert from Attention to Caution on the 22nd.",
+          "Anthropic unveiled Claude Duet, an AI agent that checks and handles tasks without waiting for user instructions. TechM reported that it organizes important work every morning and supports scheduling and financial analysis. AI Times wrote that it takes on Meta's Muse and OpenAI's Dots, and Digital Today reported that it is currently a research preview.",
+          "Meta posted record third-quarter revenue, but free cash flow turned negative for the first time since its listing amid expanded AI investment, Newsis reported. Digital Today, citing the WSJ, wrote that Meta plans to create a new class C common stock without voting rights to raise funds for AI investment. Revenue grew 26%.",
+          "China's ByteDance, Alibaba and Tencent placed large orders for Nvidia GPUs. Chosun Biz reported more than 3 million regulation-compliant graphics cards, worth about 47 trillion won, while Kukmin Ilbo wrote of 46 trillion won worth that bypassed export controls. iNews24, citing Reuters, reported that the volume they can actually secure may be less than 10% of the order.",
+          "POSCO Future M signed a contract to adopt Palantir's data platform Foundry and AI platform AIP. Bloter reported that the goal is to cut battery materials development time roughly in half, and Digital Daily wrote that adoption starts in sales and marketing and expands to production and R&D.",
+          "KT Cloud will begin construction of an AI data center with 50MW of received power capacity in Ansan, Gyeonggi Province. TheElec and IT Chosun reported that it aims for completion in 2029, and Bloter wrote that it is part of a plan to build a 1GW AI data center supply system by 2031."
+        ]
+      }
     },
     {
       "id": "s20261022-4b4b8e5fab9f",
@@ -616,7 +706,20 @@
           "link": "https://www.hellot.net/news/article.html?no=115707"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Mobilint to Develop NPU and AI Computing Platform for Humanoid Robots",
+        "points": [
+          "Mobilint develops NPU platform for humanoids",
+          "Multiple AI models run at once inside the robot",
+          "Validation planned in LG Electronics humanoid environment"
+        ],
+        "body": [
+          "AI chip company Mobilint will develop a neural processing unit (NPU) and AI computing platform for humanoid robots. AI Times reported that the company said so on the 22nd. According to AI Times, the project is part of the K-On-Device AI Semiconductor technology development program of the Ministry of Trade, Industry and Resources, with Mobilint as the lead research institution.",
+          "Digital Daily reported that it will build a low-power computing platform that can run multiple AI models at once inside a robot. Chosun Biz described it as technology linking environmental perception to judgment and motion control, and Hellot reported that it integrates the NPU, accelerator modules and software into one platform.",
+          "Reports differ slightly on the relationship with LG Electronics. AI Times wrote that it is being developed with LG Electronics, while Digital Daily and Chosun Biz reported plans to validate it in LG Electronics' humanoid systems in the future."
+        ]
+      }
     },
     {
       "id": "s20261022-bc43ca02874a",
@@ -665,7 +768,20 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215277"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nvidia Unveils OpenShell Reference Architecture for Controlling AI Agents",
+        "points": [
+          "Nvidia unveils OpenShell reference architecture",
+          "Supports safe building and operation of enterprise AI agents",
+          "Red Hat also expands OpenShell-based security cooperation"
+        ],
+        "body": [
+          "Nvidia has unveiled the OpenShell reference architecture, which helps build and operate AI agents safely. TheElec reported that Nvidia unveiled it on the 21st (local time) at its annual conference GTC 2026 Berlin, and Datanet wrote that it said so on the 22nd. The product name appears in two spellings in Korean reports.",
+          "TheElec described a reference architecture as a standard blueprint to consult when building new data center systems. Digital Today, citing The Register, introduced OpenShell as a secure runtime for AI agents developed by Nvidia. AI Newspaper (인공지능신문) reported that it integrates the execution environment and security control system for AI agents.",
+          "Datanet reported that it supports building and operating AI agents safely across enterprise infrastructure and edge systems. On the same day, Red Hat also said it is expanding cooperation with Nvidia to support secure adoption of enterprise agentic AI across open hybrid clouds."
+        ]
+      }
     },
     {
       "id": "s20261022-c636e493deed",
@@ -732,7 +848,20 @@
           "link": "http://www.snmnews.com/news/articleView.html?idxno=576253"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "POSCO Future M Adopts Palantir AI Platform to Drive Manufacturing Innovation",
+        "points": [
+          "POSCO Future M adopts Palantir Foundry and AIP",
+          "Expanding from sales and marketing to production and R&D",
+          "Goal of halving battery materials development time"
+        ],
+        "body": [
+          "POSCO Future M, a secondary battery materials company, signed a contract to adopt Foundry, the data operations and analytics platform of US firm Palantir, and AIP, its AI platform. TheElec, Electrical Times (전기신문) and Steel & Metal News (철강금속신문) reported that the contract was signed on the 21st, while AI Times and Digital Today wrote that the company announced it on the 22nd.",
+          "TheElec described Foundry as a platform that integrates and analyzes data scattered across a company. Digital Daily reported that AI will start in sales and marketing and expand to production and R&D.",
+          "Bloter reported a plan to expand AI in manufacturing and R&D and cut battery materials development time roughly in half. Electrical Times and Steel & Metal News described the adoption as aimed at AI-based manufacturing innovation and work innovation."
+        ]
+      }
     },
     {
       "id": "s20261022-429a2f0b6eb5",
@@ -799,7 +928,20 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/22/BJYQG7FHSRHZHAGDXS4U6NNLVY"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Cloud Starts Construction of 50MW AI Data Center in Ansan",
+        "points": [
+          "KT Cloud breaks ground on 50MW AI data center in Ansan, Gyeonggi",
+          "Completion targeted for 2029",
+          "Plan for 1GW AI data center supply system by 2031"
+        ],
+        "body": [
+          "KT Cloud will begin construction of an AI-dedicated data center with 50MW of received power capacity in Ansan, Gyeonggi Province. AI Times, Digital Today and IT Chosun reported that the company announced on the 22nd its plan to start building the Ansan AI Data Center on its own site. Digital Today, IT Chosun and TheElec gave 2029 as the completion target.",
+          "Bloter, Digital Today and TechM reported that the project is part of KT Cloud's plan for a 1GW AI data center supply system by 2031. TheElec explained that it secures the power and cooling infrastructure needed for high-performance GPU servers to expand supply in the Seoul metropolitan area.",
+          "News about construction also emerged. Chosun Biz reported that CJ Logistics' construction division won the contract to build the data center in Banwol National Industrial Complex in Ansan, Gyeonggi Province. The building is said to run from two floors below ground to nine floors above."
+        ]
+      }
     },
     {
       "id": "s20261022-0d615030b1a8",
@@ -860,7 +1002,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728715"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK Telecom Strengthens Math Reasoning of Its A.X K2 AI Model With Seoul National University, KAIST and Others",
+        "points": [
+          "SKT strengthens A.X K2 math reasoning",
+          "Working with researchers from Seoul National University, KAIST and others",
+          "Tackling hard math problems to inform agentic AI development"
+        ],
+        "body": [
+          "SK Telecom is working with Korean mathematics and AI researchers to improve the math reasoning of its homegrown AI foundation model A.X K2. Korea NGO Times (한국NGO신문) and Digital Today reported that SK Telecom shared the cooperation with researchers from Seoul National University, KAIST and others at its Euljiro headquarters in Seoul on the 22nd.",
+          "Chosun Biz reported that the idea is to raise the model's problem-solving ability while taking on hard math problems, and use it to develop agentic AI that performs complex tasks on its own. EBN wrote that expertise in each area of mathematics and reasoning ability are being built into the model.",
+          "AI Times explained the background: SK Telecom is also taking on hard math problems just as OpenAI drew attention for solving more than 300 unsolved math problems."
+        ]
+      }
     },
     {
       "id": "s20261022-cdd74f53f6a0",
@@ -921,7 +1076,20 @@
           "link": "https://www.boannews.com/news/articleView.html?idxno=146640"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Two Critical PHP Vulnerabilities Found by AI, Prompting Urgent Responses Worldwide",
+        "points": [
+          "Two critical vulnerabilities found in PHP",
+          "Some European government sites temporarily suspended",
+          "Korea raises cyber crisis alert from Attention to Caution"
+        ],
+        "body": [
+          "Two critical security vulnerabilities were found in PHP, a programming language widely used on websites worldwide, and countries have moved into urgent response. IT Chosun reported that the PHP team on the 21st (local time) mentioned two vulnerabilities known as PHP2Shell. They allow a server to be taken over without authentication, and actual attack attempts have been detected. Chosun Biz and iNews24 wrote that they were found using AI.",
+          "Given the high risk of damage, measures followed. Chosun Biz reported that major European countries temporarily suspended government websites as a precaution, and AI Times wrote that European governments, hospitals and schools suspended websites one after another. According to iNews24, the Korean government raised its cyber crisis alert from Attention to Caution on the 22nd.",
+          "Corporate responses were also reported. Newsis reported that Google and OpenAI analyzed the vulnerabilities with AI and verified security patches, and that Amazon detected attack attempts. Boannews reported that Palo Alto Networks said about 22 million PHP instances worldwide appear to be exposed. AI Times reported that an emergency fix has been released."
+        ]
+      }
     },
     {
       "id": "s20261022-0f67eced46db",
@@ -976,7 +1144,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102108391568017"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI to Acquire Orchestra Bio, an AI Platform for Coordinating Drug Development",
+        "points": [
+          "OpenAI announces acquisition of Orchestra Bio",
+          "Technology to be combined with life sciences AI tool Rosalind",
+          "Building AI agents to support the whole drug development process"
+        ],
+        "body": [
+          "OpenAI said it will acquire Orchestra Bio, an AI platform company that coordinates drug development. Chosun Biz reported that OpenAI said so on the 20th (local time), and Digital Today, citing TechCrunch, wrote that specific deal terms were not disclosed.",
+          "OpenAI will combine Orchestra Bio's technology and staff with Rosalind, its AI model and tools for life sciences research. The tool's name is spelled differently across Korean outlets, such as GPT-Rosalind in Uihak Shinmun (의학신문) and a different transliteration in Chosun Biz. AI Times reported that the aim is to build AI agents that support drug development as a whole.",
+          "AI Newspaper (인공지능신문) explained the background: a new drug takes 10 to 15 years on average to reach patients, and many decisions and collaborations interlock from preclinical research through manufacturing, clinical trials and regulatory approval. Digital Today described Orchestra Bio, in its fourth year since founding, as a biotech software startup."
+        ]
+      }
     },
     {
       "id": "h20261021-ecc9deff1c5c",
@@ -1669,7 +1850,19 @@
           "link": "https://www.inews24.com/view/2017232"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Estsoft Wins Project to Build In-House sLLM for Jeju Free International City Development Center",
+        "points": [
+          "Estsoft wins JDC in-house generative AI project",
+          "Generative AI environment to be built on JDC internal servers",
+          "Data used safely in an environment separated from the outside"
+        ],
+        "body": [
+          "Estsoft has won a project to build an in-house generative AI language model (sLLM) ordered by the Jeju Free International City Development Center (JDC). TheElec, AI Times, iNews24 and others reported that the company announced this on the 21st.",
+          "According to AI Times, the project runs for the next six months and aims to build a generative AI environment on JDC's internal servers to raise employees' work accuracy and processing speed. TheElec reported that the project lets data be used safely in an internal environment separated from the outside, in order to comply with security and privacy regulations."
+        ]
+      }
     },
     {
       "id": "s20261021-92df3fd42fc2",
@@ -2010,7 +2203,20 @@
           "link": "https://www.thelec.kr/news/articleView.html?idxno=64039"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao Open-Sources Two Kanana-2 Vision Encoders on Hugging Face",
+        "points": [
+          "Kakao open-sources two vision encoders",
+          "Two models with 426 million and 98 million parameters",
+          "Serve as the eyes of AI that understands images"
+        ],
+        "body": [
+          "Kakao has open-sourced two Kanana-2 vision encoders it developed in-house on Hugging Face, an AI development platform. Techworld News, iNews24 and Chosun Biz reported that Kakao announced this on the 21st.",
+          "The released models are a medium model with 426 million parameters and a small model with 98 million parameters. Korean outlets spell the small model's name differently: Techworld News and iNews24 write one form, and Chosun Biz another.",
+          "Chosun Biz compared a vision encoder to the eyes that help AI understand images. AI Times explained that the release comes as computer use technology, in which AI looks at a screen and operates it directly, draws attention and accurate image reading becomes more important."
+        ]
+      }
     },
     {
       "id": "s20261021-a93a8831fe3c",
@@ -2250,7 +2456,19 @@
           "link": "https://www.venturesquare.net/1121637"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Xenon Passes Mass-Production Validation for AI Inspection of Nike Shoe Outsoles, Wins Follow-Up Projects",
+        "points": [
+          "Xenon's Nike outsole AI vision inspection passes mass-production validation",
+          "Follow-up projects won one after another in Indonesia",
+          "Defect detection rates of 99.7% and 99.2% for two product styles"
+        ],
+        "body": [
+          "Generative AI solutions company Xenon passed mass-production validation for AI vision inspection of Nike shoe outsoles in its AI manufacturing automation business in Indonesia. Xenon announced this on the 21st, and iNews24 and Datanet reported that it won follow-up projects one after another after passing validation.",
+          "According to Techworld News, Xenon started the project last year. VentureSquare reported defect detection rates of 99.7% and 99.2% for two product styles, and also wrote that the company plans to start developing a mass-production model within the year."
+        ]
+      }
     },
     {
       "id": "s20261021-b569875351cb",
