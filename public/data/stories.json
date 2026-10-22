@@ -5,6 +5,980 @@
   ],
   "stories": [
     {
+      "id": "h20261022-74454a1f1fd0",
+      "title": "삼성전기, 엔비디아와 공동 투자로 AI 반도체 기판 전용 라인 구축",
+      "category": "반도체",
+      "published": "2026-10-22T09:41:13.761Z",
+      "points": [
+        "삼성전기, 엔비디아에 AI 칩 기판 장기 공급",
+        "세종과 부산에 공동 투자 전용 라인 구축",
+        "엔비디아 공급 물량 연평균 두 자릿수 증가"
+      ],
+      "body": [
+        "삼성전기가 엔비디아와 AI 반도체용 패키지기판 공급을 위한 전략적 비즈니스 파트너십을 맺었다. 인더스트리뉴스와 국민일보는 양사가 공동 투자로 세종과 부산 사업장에 전용 생산라인을 구축한다고 전했다. 삼성전기와 엔비디아가 21일 이 내용을 발표했다고 국민일보는 적었다.",
+        "공급 시점과 대상은 매체마다 표현이 조금 다르다. 디지털투데이는 패키지기판을 2026년부터 다년간 엔비디아에 공급하는 내용이라고 전했고, 블로터는 올해부터 장기 공급에 나선다고 적었다. 조선비즈와 EBN은 차세대 AI 반도체와 초고속 네트워크 칩용 기판을 장기 공급한다고 전했다. 조선비즈는 21일 독일 베를린에서 열린 엔비디아 연례 개발자 행사 GTC 2026과 함께 이 소식을 다뤘다.",
+        "물량 전망도 나왔다. 블로터는 엔비디아 공급 물량이 연평균 두 자릿수 이상 증가한다고 전했다. 디지털데일리는 제목에서 2028년 전체 기판 생산능력에서 핵심을 차지한다고 정리했고, 대면적 FC-BGA에 실리콘 캐패시터와 MLCC를 내장하는 기술도 소개했다.",
+        "증설의 배경도 보도됐다. 디일렉에 따르면 올해 상반기부터 검토하던 고객사 투자 기반 신규 패키지기판 라인 증설이 엔비디아와의 협력으로 구체화됐다. 디일렉은 새 시설을 FC-BGA 전용 팹으로, 디지털투데이는 AI 기판 전용 팹으로 불렀다.",
+        "주가에도 영향이 있었다. 조선비즈는 22일 오전 9시 35분 기준 삼성전기가 유가증권시장에서 전 거래일보다 3만6000원(3.08%) 오른 120만4000원에 거래됐다고 전했다. 코스피가 약세인 가운데서도 장 초반 3% 넘게 올랐다는 설명이다. 테크M은 같은 날 LG이노텍도 엔비디아와 피지컬 AI 센싱 솔루션 협력을 밝혔다고 함께 정리했다."
+      ],
+      "sources": [
+        {
+          "id": "74454a1f1fd0",
+          "name": "인더스트리뉴스",
+          "title": "삼성전기-엔비디아, AI 반도체 기판 공급 협력…세종·부산 생산시설 증설",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87986"
+        },
+        {
+          "id": "e0b0c3ed83e3",
+          "name": "디지털투데이",
+          "title": "삼성전기-엔비디아, 공동투자로 AI 기판 전용 팹 증설",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708995"
+        },
+        {
+          "id": "de91dd5f5422",
+          "name": "국민일보",
+          "title": "삼성전기, 엔비디아 파트너십 합류⋯ AI 반도체 기판 장기 공급",
+          "link": "https://www.kmib.co.kr/article/20261021502503"
+        },
+        {
+          "id": "4b466840edf5",
+          "name": "디일렉",
+          "title": "삼성전기, 엔비디아와 FC-BGA 전용 팹 증설",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64086"
+        },
+        {
+          "id": "4d627622353b",
+          "name": "아이뉴스24",
+          "title": "삼성전기, '엔비디아 핵심 공급사' 됐다…파트너십 첫 공식화",
+          "link": "https://www.inews24.com/view/2017601"
+        },
+        {
+          "id": "b921f9a5833f",
+          "name": "테크월드뉴스",
+          "title": "삼성전기, 엔비디아 AI 반도체 기판 잡았다…세종·부산 공장 증설",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408574"
+        },
+        {
+          "id": "87fe56e36aa7",
+          "name": "블로터",
+          "title": "삼성전기, 엔비디아 차세대 AI 칩 기판 책임진다…전용 라인 증설",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676328"
+        },
+        {
+          "id": "1c1d2ef1d1e0",
+          "name": "조선비즈",
+          "title": "삼성전기, 엔비디아에 AI 반도체용 기판 장기 공급…세종·부산 생산 라인 증설",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/MZIXDSIGSJFUXMTEVRCYKCOPUU"
+        },
+        {
+          "id": "bf0fe888159f",
+          "name": "디지털데일리",
+          "title": "삼성전기, 엔비디아와 맞손… 세종·부산에 전용 팹 짓고 AI 기판 장기 공급",
+          "link": "https://www.ddaily.co.kr/page/view/2026102120164213376"
+        },
+        {
+          "id": "ce8bacb19205",
+          "name": "EBN",
+          "title": "삼성전기, 엔비디아에 AI 반도체 기판 장기 공급…세종·부산 생산라인 증설",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728684"
+        },
+        {
+          "id": "2494c36ac456",
+          "name": "테크M",
+          "title": "삼성전기 '반도체 기판'·LG이노텍 '센싱', 엔비디아 협력 강화",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156380"
+        },
+        {
+          "id": "e9a551f3ef4f",
+          "name": "조선비즈",
+          "title": "[특징주] 엔비디아가 공식 파트너로 낙점…삼성전기, 코스피 약세에도 3% ↑",
+          "link": "https://biz.chosun.com/stock/stock_general/2026/10/22/6BEWBZFUCNBNBCQ4UE4YCQXXKI"
+        }
+      ],
+      "author": "Chloe Park"
+    },
+    {
+      "id": "h20261022-f8d27e7b3128",
+      "title": "LG이노텍, 엔비디아와 피지컬 AI 로봇용 센싱 솔루션 개발",
+      "category": "로봇",
+      "published": "2026-10-22T09:41:13.761Z",
+      "points": [
+        "LG이노텍, 엔비디아와 로봇 센싱 솔루션 개발",
+        "엔비디아 HSB 기술 적용한 3MP 카메라 공개",
+        "휴머노이드 비전과 로봇 핸즈로 협력 확대"
+      ],
+      "body": [
+        "LG이노텍이 엔비디아와 손잡고 피지컬 AI와 로봇용 센싱 솔루션 개발에 나선다. 로봇신문, 디일렉, 테크월드뉴스는 LG이노텍이 20일(현지시간) 독일 베를린에서 열린 엔비디아의 GTC Berlin에서 이를 밝혔다고 전했다. EBN 요약에는 행사 날짜가 22일로 적혀 있어 매체마다 표기가 다르다.",
+        "기술 내용은 디지털투데이와 디지털데일리가 구체적으로 전했다. 두 매체에 따르면 LG이노텍은 엔비디아의 홀로스캔 센서 브리지(HSB) 기술을 적용한 센싱 솔루션을 공개했다. 디지털투데이는 3메가픽셀 카메라 모듈과 멀티모달 비전을 소개했고, 디지털데일리는 CPU를 거치지 않고 AI로 데이터를 바로 보내 지연을 줄이는 방식이라고 전했다.",
+        "결합 방식은 디일렉이 정리했다. 엔비디아의 센서 데이터 전송 기술에 LG이노텍의 카메라, 라이다, 레이더 기술을 합치는 방식이다. EBN은 카메라와 라이다 등 복합 센싱을 엔비디아의 AI 플랫폼과 연계해 로봇과 자율주행 시장에서 사업 기회를 넓힌다는 구상이라고 전했다.",
+        "협력 범위는 더 넓어질 전망이다. 디일렉, 블로터, 조선비즈는 휴머노이드용 비전 센싱과 로봇 핸즈 분야까지 협력을 확대한다고 전했다. 아이뉴스24는 내년에 양사가 협력한 신기술을 공개할 계획이라고 적었다.",
+        "IT조선은 같은 날 삼성전기와 함께 이 소식을 묶어 다루며, 두 회사가 스마트폰과 전장 중심의 사업 영역을 AI 인프라와 피지컬 AI로 넓히고 있다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "f8d27e7b3128",
+          "name": "로봇신문",
+          "title": "LG이노텍, 엔비디아 손잡고 로봇용 센싱 솔루션 개발",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49165"
+        },
+        {
+          "id": "ea8fa1392a4c",
+          "name": "디일렉",
+          "title": "LG이노텍, 엔비디아와 로봇용 센싱 솔루션 개발",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64094"
+        },
+        {
+          "id": "e02b8447bea9",
+          "name": "블로터",
+          "title": "LG이노텍, 엔비디아와 피지컬 AI 협력 확대…로봇용 센싱 시장 공략",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676381"
+        },
+        {
+          "id": "248679787b51",
+          "name": "테크월드뉴스",
+          "title": "LG이노텍, 엔비디아와 로봇 센싱 솔루션 개발…피지컬 AI 시장 공략",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408597"
+        },
+        {
+          "id": "123ba2e47e0c",
+          "name": "아이뉴스24",
+          "title": "LG이노텍, 엔비디아와 로봇용 센싱 솔루션 개발…내년 차세대 기술 공개",
+          "link": "https://www.inews24.com/view/2017657"
+        },
+        {
+          "id": "2692fbfbdc23",
+          "name": "IT조선",
+          "title": "삼성전기·LG이노텍, 엔비디아 협력 확대",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172536"
+        },
+        {
+          "id": "4016f6a293ec",
+          "name": "조선비즈",
+          "title": "LG이노텍, 엔비디아와 휴머노이드 ‘눈’ 개발… 센싱 솔루션 협력 확대",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/AAZAQJ6XGNHXVK7BMJBI7YFVWU"
+        },
+        {
+          "id": "4ddf344f92f7",
+          "name": "디지털데일리",
+          "title": "LG이노텍, 엔비디아와 맞손… '피지컬 AI' 센싱 솔루션 공동 개발",
+          "link": "https://www.ddaily.co.kr/page/view/2026102208512025140"
+        },
+        {
+          "id": "7d9144b0ed1b",
+          "name": "디지털투데이",
+          "title": "LG이노텍, 엔비디아와 로봇 센싱 솔루션 개발",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709017"
+        },
+        {
+          "id": "59dcaf0f1c00",
+          "name": "EBN",
+          "title": "LG이노텍, 엔비디아 손잡고 로봇 센싱 사업 확대 속도",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728710"
+        }
+      ],
+      "author": "Kevin Wong"
+    },
+    {
+      "id": "h20261022-390364a0bf39",
+      "title": "구글 클라우드 모델 가든에 오픈AI 모델 추가, 3대 클라우드 모두 진출",
+      "category": "생성형AI",
+      "published": "2026-10-22T09:41:13.761Z",
+      "points": [
+        "구글 클라우드, 모델 가든에 오픈AI 모델 추가",
+        "오픈AI 모델 3종과 코덱스 에이전트 기능 제공",
+        "오픈AI, AWS와 MS 이어 3대 클라우드 확보"
+      ],
+      "body": [
+        "구글 클라우드가 AI 모델 서비스 모델 가든에 오픈AI 모델을 추가한다. 테크월드뉴스에 따르면 구글 클라우드와 오픈AI는 21일(현지시간) 모델 가든에서 오픈AI 모델과 코덱스를 제공한다고 밝혔다. 디지털데일리는 모델 가든을 개발자가 여러 AI 모델을 골라 쓰는 서비스로 소개했다.",
+        "구성은 매체들이 비슷하게 전했다. 헬로티, 데이터넷, 테크M은 구글 클라우드가 단일 통합 엔터프라이즈 AI 플랫폼에서 200개 이상의 자사, 타사, 오픈 모델과 함께 주요 폐쇄형 LLM 3종을 모두 제공한다고 전했다. IT조선은 기업 고객이 구글의 제미나이와 앤트로픽의 클로드에 이어 오픈AI의 GPT 모델까지 쓸 수 있게 됐다고 정리했다. 모델 수는 데이터넷 제목이 GPT-6 3종, 테크M 제목이 오픈AI 모델 3종으로 적었다.",
+        "오픈AI 입장에서는 유통 경로가 늘었다. 조선비즈와 AI타임스는 오픈AI가 AWS와 마이크로소프트 애저에 이어 구글 클라우드에도 모델을 판매하면서 3대 클라우드를 모두 확보했다고 전했다. AI타임스는 챗GPT와 제미나이로 경쟁하는 두 회사가 기업 시장에서는 판매 협력에 나선 것이라고 썼다.",
+        "시점 표현은 보도마다 조금 다르다. 디지털투데이는 CNBC 보도를 인용해 구글이 몇 주 안에 오픈AI GPT 모델을 모델 가든과 코딩 도구 안티그래비티에 추가한다고 전했다. 다른 매체들은 출시 또는 제공한다고 적어 구체적인 이용 시작 시점은 보도마다 다르게 읽힌다.",
+        "인공지능신문은 자체 모델 중심으로 플랫폼을 구축해 온 클라우드 사업자들이 외부 모델까지 적극 수용하면서 기업 고객을 확보하려는 모델 개방 경쟁이 빨라지고 있다고 분석했다."
+      ],
+      "sources": [
+        {
+          "id": "390364a0bf39",
+          "name": "테크월드뉴스",
+          "title": "구글클라우드, 오픈AI 모델 품는다…멀티모델 전략 확대",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408620"
+        },
+        {
+          "id": "8606b1133fb5",
+          "name": "디지털데일리",
+          "title": "구글클라우드에 GPT 입점…코덱스도",
+          "link": "https://www.ddaily.co.kr/page/view/2026102216280555469"
+        },
+        {
+          "id": "fbab65a294d5",
+          "name": "헬로티",
+          "title": "구글 클라우드, 모델 가든에 오픈AI 모델 추가...고객 선택권 확대",
+          "link": "https://www.hellot.net/news/article.html?no=115723"
+        },
+        {
+          "id": "2f1ade0d8b9b",
+          "name": "인공지능신문",
+          "title": "구글 클라우드서 '오픈AI' 모델 쓴다…AI 플랫폼 ‘모델 개방 경쟁’ 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42390"
+        },
+        {
+          "id": "d31e30e43ec0",
+          "name": "IT조선",
+          "title": "오픈AI GPT, 구글 클라우드서 제공… 구글과 협력 확대",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172559"
+        },
+        {
+          "id": "d72cd58f9e3c",
+          "name": "데이터넷",
+          "title": "구글 클라우드, 모델 가든에 오픈AI 모델 추가 ··· GPT-6 3종 제공",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215266"
+        },
+        {
+          "id": "4c0d1947a883",
+          "name": "테크M",
+          "title": "구글 클라우드, 모델 가든에 오픈AI 모델 3종 출시",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156373"
+        },
+        {
+          "id": "3e04b25b82e2",
+          "name": "조선비즈",
+          "title": "오픈AI, 구글 클라우드에 최신 AI 모델 판매…3대 클라우드 모두 진출",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/UUOLW6IPLZEILHUFO674SJRMYE"
+        },
+        {
+          "id": "bb51acdde9e2",
+          "name": "AI타임스",
+          "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216500"
+        },
+        {
+          "id": "94c4b7cd3957",
+          "name": "디지털투데이",
+          "title": "오픈AI, 마이크로소프트·AWS 이어 구글 클라우드서도 AI 모델 판다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708992"
+        }
+      ],
+      "author": "Haley Yun"
+    },
+    {
+      "id": "h20261022-3c0cb774fe28",
+      "title": "LG전자, 수자원공사와 시화조력발전소 AI 전환 기술 협력",
+      "category": "기업",
+      "published": "2026-10-22T09:41:13.761Z",
+      "points": [
+        "LG전자와 수자원공사, AI 조력발전소 협약",
+        "스마트팩토리 기술을 발전소 운영에 적용",
+        "AI, 디지털트윈, 로봇 적용 방안 공동 검증"
+      ],
+      "body": [
+        "LG전자가 한국수자원공사(K-water)와 시화조력발전소의 AI 전환을 위한 기술 협력에 나선다. 테크월드뉴스와 디지털데일리에 따르면 양사는 22일 경기도 안산시 시화조력문화관에서 시화호 AI 조력발전소 추진을 위한 기술협력 업무협약을 맺었다. 조선비즈는 시화조력발전소를 발전용량 기준 세계 최대 규모로 소개했다.",
+        "협력 내용은 조선비즈가 구체적으로 전했다. 제조 현장에서 쌓은 스마트팩토리 기술을 활용해 발전량 예측, 설비 관리, 안전 점검 등에 AI, 디지털트윈, 로봇을 적용하는 방안을 공동으로 검증한다는 계획이다. IT조선도 활용 가능성을 검증할 계획이라고 전했고, 로봇신문은 피지컬 AI와 디지털트윈 등 스마트팩토리 사업 역량을 모은다고 적었다.",
+        "사업 영역의 확장이라는 점은 여러 매체가 짚었다. 인더스트리뉴스는 공장 자동화를 넘어 공공 에너지 인프라로 솔루션 사업을 다각화하는 행보라고 전했다. 디일렉은 스마트팩토리 기술을 발전소 같은 공공 인프라로 넓히는 첫 사례라고 적었고, EBN은 에너지와 공공 인프라 시장으로 사업 영역을 넓히려는 구상이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "3c0cb774fe28",
+          "name": "인더스트리뉴스",
+          "title": "LG전자, K-water와 손잡고 ‘시화호 조력발전소’ AI 대전환 나선다",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88036"
+        },
+        {
+          "id": "94998a8332c0",
+          "name": "로봇신문",
+          "title": "LG전자, 한국수자원공사와 세계 최대 조력발전소 AI 전환 나서",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49166"
+        },
+        {
+          "id": "8856172141be",
+          "name": "테크월드뉴스",
+          "title": "LG전자 스마트팩토리, 발전소로 확장…시화조력발전소 AI 전환 나선다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408598"
+        },
+        {
+          "id": "7e2f4f8134f0",
+          "name": "IT조선",
+          "title": "LG전자, 시화조력발전소에 AI·로봇 적용",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172539"
+        },
+        {
+          "id": "204c5a44d639",
+          "name": "아이뉴스24",
+          "title": "LG전자, 세계 최대 조력발전소 AI 전환 추진…K-water와 기술 협력",
+          "link": "https://www.inews24.com/view/2017650"
+        },
+        {
+          "id": "e29bedffc617",
+          "name": "디지털데일리",
+          "title": "LG전자, K-water와 시화호 조력발전소 AI 전환 협력",
+          "link": "https://www.ddaily.co.kr/page/view/2026102208571556542"
+        },
+        {
+          "id": "c53c59b187ab",
+          "name": "조선비즈",
+          "title": "LG전자, 한국수자원공사와 시화조력발전소 AI 전환 추진",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/YH52QNSZJFHIPECZEZL7CWE3XA"
+        },
+        {
+          "id": "3e6a65fdd7ae",
+          "name": "EBN",
+          "title": "LG전자, 한국수자원공사와 AI 조력발전소 구축 협력…스마트팩토리 사업 확장",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728741"
+        },
+        {
+          "id": "82e7b9ee0bad",
+          "name": "한국NGO신문",
+          "title": "LG전자·수자원공사, 시화호 조력발전소 AI 전환 추진",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=241156"
+        },
+        {
+          "id": "720c4192015d",
+          "name": "디일렉",
+          "title": "LG전자, 한국수자원공사와 시화조력발전소 AI 전환 협력",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64092"
+        }
+      ],
+      "author": "Ashley Yang"
+    },
+    {
+      "id": "h20261022-30406470a3ad",
+      "title": "복지부와 WHO, 'AI 헬스케어 서울선언' 발표, 의료 AI 국제 원칙 제시",
+      "category": "정책",
+      "published": "2026-10-22T09:41:13.761Z",
+      "points": [
+        "복지부와 WHO, AI 헬스케어 서울선언 발표",
+        "의료인 감독과 인간의 최종 판단 보장",
+        "AI 혜택의 공평한 공유와 안전성 강조"
+      ],
+      "body": [
+        "보건복지부와 세계보건기구(WHO)가 의료 AI 활용 원칙을 담은 AI 헬스케어 서울선언을 내놨다. 히트뉴스에 따르면 양측은 21일부터 22일까지 서울 코엑스마곡 컨벤션센터에서 2026 세계 바이오 서밋을 공동 개최하며 이 선언문을 발표했다.",
+        "핵심은 사람의 역할과 검증이다. 의학신문은 선언문이 의료인의 감독과 인간의 최종 판단을 보장하고, 임상적 효과와 안전성이 검증된 AI 기술을 확산하기 위한 국제 공동 원칙이라고 전했다. 청년의사는 한국 정부와 WHO가 AI를 활용한 보건의료 혁신과 안전성 확보, 국제협력을 위한 공동 원칙을 제시했다고 적었다.",
+        "취지는 격차 해소다. 조선비즈는 AI를 활용한 신약 개발과 진단, 치료 혁신이 빨라지는 가운데 기술 발전에 따른 의료 격차를 줄이고 안전한 활용 원칙을 마련하겠다는 취지라고 전했다. 청년의사는 AI 혁신의 혜택을 전 세계에 공평하게 확산하겠다는 취지라고 전했고, 히트뉴스는 공평한 접근과 책임 있는 활용을 위한 국제협력이라고 적었다.",
+        "정상 차원의 논의도 있었다. 디지털데일리는 이재명 대통령이 WHO 수장과 만나 AI 의료 혁신과 국제 보건협력 확대 방안을 논의한다고 전했다. 한국이 추진하는 AI 기본의료 전략을 소개하고, 관련 기술과 인력양성 분야에서 WHO와 협력할 방침이라는 내용이다."
+      ],
+      "sources": [
+        {
+          "id": "30406470a3ad",
+          "name": "히트뉴스",
+          "title": "복지부·WHO, 'AI 헬스케어 서울선언문' 공동 발표",
+          "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80061"
+        },
+        {
+          "id": "1fd6b65125c3",
+          "name": "의학신문",
+          "title": "복지부·WHO, AI 헬스케어 서울선언문 채택...의료 AI 최종 판단은 인간이",
+          "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014484"
+        },
+        {
+          "id": "5fd2b4a0dd2c",
+          "name": "청년의사",
+          "title": "한국·WHO, 첫 의료 AI 공동선언…혁신 혜택 공평한 공유 강조",
+          "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043825"
+        },
+        {
+          "id": "4ea601249ebf",
+          "name": "조선비즈",
+          "title": "한국·WHO, ‘AI 헬스케어 서울선언’ 발표…의료 AI 혜택 공유 약속",
+          "link": "https://biz.chosun.com/science-chosun/medicine-health/2026/10/21/6DKPUONKMVCQ3GKBNQJ2P7S7JQ"
+        },
+        {
+          "id": "e1286ddda3f3",
+          "name": "디지털데일리",
+          "title": "이 대통령, WHO와 ‘AI 의료 협력’ 논의…한국 전략 알린다",
+          "link": "https://www.ddaily.co.kr/page/view/2026102109373977478"
+        }
+      ],
+      "author": "Ethan Chen"
+    },
+    {
+      "id": "b20261022",
+      "type": "briefing",
+      "title": "10월 22일 AI 브리핑: 삼성전기와 엔비디아 협력, 구글 클라우드에 오픈AI 모델",
+      "category": "일반",
+      "published": "2026-10-22T09:41:13.761Z",
+      "points": [
+        "엔비디아 중심 AI 공급망 협력이 국내 부품사로 확대",
+        "클라우드가 경쟁사 모델까지 수용하는 개방 경쟁",
+        "AI가 찾은 보안 결함과 AI 투자 부담이 동시에 부각"
+      ],
+      "body": [
+        "삼성전기가 엔비디아와 AI 반도체용 패키지기판 공급 파트너십을 맺고 세종과 부산에 공동 투자로 전용 생산라인을 구축한다. 인더스트리뉴스와 국민일보가 이를 전했고, 디지털투데이는 2026년부터 다년간 공급하는 내용이라고 적었다. 같은 날 LG이노텍도 엔비디아와 로봇용 센싱 솔루션을 개발한다고 밝혔다.",
+        "구글 클라우드가 모델 가든에 오픈AI 모델을 추가한다. 헬로티와 데이터넷은 구글 클라우드가 200개 이상의 모델과 함께 주요 폐쇄형 LLM 3종을 모두 제공한다고 전했고, 조선비즈는 오픈AI가 3대 클라우드에 모두 진출했다고 적었다. 디지털투데이는 CNBC를 인용해 구글이 몇 주 안에 추가한다고 전해 시점 표현은 매체마다 다르다.",
+        "전 세계 웹사이트에서 널리 쓰는 PHP에서 치명적인 취약점 2건이 발견됐다. 조선비즈는 AI를 활용해 발견했고 유럽 주요국이 정부기관 웹사이트 운영을 일시 중단했다고 전했다. 아이뉴스24에 따르면 우리 정부는 22일 사이버위기 경보를 관심에서 주의로 올렸다.",
+        "앤트로픽이 이용자의 지시를 기다리지 않고 업무를 확인하고 처리하는 AI 에이전트 클로드 듀엣을 공개했다. 테크M은 매일 아침 중요한 업무를 정리하고 일정 관리와 재무 분석을 지원한다고 전했다. AI타임스는 메타의 뮤즈, 오픈AI의 닷츠와 경쟁에 나섰다고 적었고, 디지털투데이는 현재 연구 미리보기 형태라고 전했다.",
+        "메타가 3분기 사상 최대 매출을 냈지만 AI 투자 확대 속에 잉여현금흐름이 상장 이후 처음 마이너스를 기록했다고 뉴시스가 전했다. 디지털투데이는 WSJ를 인용해 메타가 AI 투자 자금을 마련하기 위해 의결권 없는 클래스C 보통주를 신설할 계획이라고 적었다. 매출은 26% 늘었다.",
+        "중국 바이트댄스, 알리바바, 텐센트가 엔비디아 GPU를 대량 주문했다. 조선비즈는 규제를 충족하는 그래픽카드 300만장 이상, 약 47조원어치라고 전했고 국민일보는 수출 통제를 우회한 46조원어치라고 적었다. 아이뉴스24는 로이터를 인용해 실제로 확보할 수 있는 물량은 주문의 10%에도 못 미칠 수 있다고 전했다.",
+        "포스코퓨처엠이 팔란티어의 데이터 플랫폼 파운드리와 AI 플랫폼 AIP 도입 계약을 맺었다. 블로터는 배터리 소재 개발 기간을 절반 수준으로 줄이는 것이 목표라고 전했고, 디지털데일리는 영업과 마케팅에서 시작해 생산과 연구개발로 넓힌다고 적었다.",
+        "KT클라우드가 경기 안산에 수전용량 50MW 규모의 AI 데이터센터를 착공한다. 디일렉과 IT조선은 2029년 준공을 목표로 한다고 전했고, 블로터는 2031년까지 총 1GW 규모의 AI 데이터센터 공급 체계를 구축하는 계획의 일부라고 적었다."
+      ],
+      "sources": [
+        {
+          "id": "74454a1f1fd0",
+          "name": "인더스트리뉴스",
+          "title": "삼성전기-엔비디아, AI 반도체 기판 공급 협력…세종·부산 생산시설 증설",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87986"
+        },
+        {
+          "id": "de91dd5f5422",
+          "name": "국민일보",
+          "title": "삼성전기, 엔비디아 파트너십 합류⋯ AI 반도체 기판 장기 공급",
+          "link": "https://www.kmib.co.kr/article/20261021502503"
+        },
+        {
+          "id": "e0b0c3ed83e3",
+          "name": "디지털투데이",
+          "title": "삼성전기-엔비디아, 공동투자로 AI 기판 전용 팹 증설",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708995"
+        },
+        {
+          "id": "f8d27e7b3128",
+          "name": "로봇신문",
+          "title": "LG이노텍, 엔비디아 손잡고 로봇용 센싱 솔루션 개발",
+          "link": "https://www.irobotnews.com/news/articleView.html?idxno=49165"
+        },
+        {
+          "id": "fbab65a294d5",
+          "name": "헬로티",
+          "title": "구글 클라우드, 모델 가든에 오픈AI 모델 추가...고객 선택권 확대",
+          "link": "https://www.hellot.net/news/article.html?no=115723"
+        },
+        {
+          "id": "d72cd58f9e3c",
+          "name": "데이터넷",
+          "title": "구글 클라우드, 모델 가든에 오픈AI 모델 추가 ··· GPT-6 3종 제공",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215266"
+        },
+        {
+          "id": "3e04b25b82e2",
+          "name": "조선비즈",
+          "title": "오픈AI, 구글 클라우드에 최신 AI 모델 판매…3대 클라우드 모두 진출",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/UUOLW6IPLZEILHUFO674SJRMYE"
+        },
+        {
+          "id": "94c4b7cd3957",
+          "name": "디지털투데이",
+          "title": "오픈AI, 마이크로소프트·AWS 이어 구글 클라우드서도 AI 모델 판다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708992"
+        },
+        {
+          "id": "9dd3109170fb",
+          "name": "조선비즈",
+          "title": "전 세계 웹사이트 ‘해킹 비상’… AI가 치명적 PHP 보안 결함 발견",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/SXIDDQBIWZDNTG6ZH7CVSGJYB4"
+        },
+        {
+          "id": "38d46ffaa64b",
+          "name": "아이뉴스24",
+          "title": "AI가 PHP 취약점 발견⋯정부, 사이버위기 경보 '주의' 격상[상보]",
+          "link": "https://www.inews24.com/view/2017873"
+        },
+        {
+          "id": "cdd74f53f6a0",
+          "name": "IT조선",
+          "title": "웹사이트 70%가 쓰는 PHP에 비상…AI가 결함 찾아내",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172543"
+        },
+        {
+          "id": "1c91504dad15",
+          "name": "테크M",
+          "title": "[글로벌] 앤트로픽, 알아서 일하는 AI '클로드 듀엣' 공개...오픈AI·메타와 경쟁",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156397"
+        },
+        {
+          "id": "f45e34df4c1c",
+          "name": "AI타임스",
+          "title": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트 '클로드 듀엣' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216510"
+        },
+        {
+          "id": "a5aca171e6a1",
+          "name": "디지털투데이",
+          "title": "앤트로픽, 알아서 일하는 AI 비서 '클로드 듀엣' 전격 공개",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709007"
+        },
+        {
+          "id": "72bbac28075f",
+          "name": "뉴시스",
+          "title": "메타, 3분기 매출 26%↑ '사상 최대'…AI 투자에 현금흐름 첫 적자",
+          "link": "https://www.newsis.com/view/NISX20261022_0003836041"
+        },
+        {
+          "id": "52bd52211591",
+          "name": "디지털투데이",
+          "title": "메타, 3분기 매출 26% 증가...AI 투자금 마련 위해 무의결권 주식 신설",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708998"
+        },
+        {
+          "id": "9d17b931302f",
+          "name": "EBN",
+          "title": "메타, 분기 매출 26% 늘었지만…AI 투자에 현금흐름 '적자 전환'",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728689"
+        },
+        {
+          "id": "4a38cd54685b",
+          "name": "국민일보",
+          "title": "美 수출 통제 피해⋯ 中 빅테크, 엔비디아 GPU 46조원어치 주문",
+          "link": "https://www.kmib.co.kr/article/20261021502199"
+        },
+        {
+          "id": "a5643e854d8a",
+          "name": "조선비즈",
+          "title": "中 빅테크 3사, 美 규제 피한 엔비디아 GPU 47조원어치 주문… 내년 생산량 웃돌아",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/SYXU5L45D5EN3NHP7QZ7IECCCU"
+        },
+        {
+          "id": "d57a968173fb",
+          "name": "아이뉴스24",
+          "title": "中 빅테크 \"46조원어치 칩 달라\"…주문 폭주에 엔비디아도 난감",
+          "link": "https://www.inews24.com/view/2017193"
+        },
+        {
+          "id": "690195766f6c",
+          "name": "디지털투데이",
+          "title": "中 빅테크 3사, 엔비디아 칩 300만개 이상 주문…공급이 수요 못 따라간다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708803"
+        },
+        {
+          "id": "c636e493deed",
+          "name": "디지털데일리",
+          "title": "포스코퓨처엠, 美 팔란티어와 맞손… AI 도입해 배터리 제조 혁신",
+          "link": "https://www.ddaily.co.kr/page/view/2026102213125410740"
+        },
+        {
+          "id": "d026fcd5337a",
+          "name": "블로터",
+          "title": "포스코퓨처엠, 美 팔란티어 AI 도입…배터리 소재 개발 절반 단축",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676372"
+        },
+        {
+          "id": "76f76312f1e0",
+          "name": "디지털데일리",
+          "title": "포스코퓨처엠, 팔란티어 AI 플랫폼 도입…영업·제조 혁신 추진",
+          "link": "https://www.ddaily.co.kr/page/view/2026102211041969171"
+        },
+        {
+          "id": "004c2de6fb8e",
+          "name": "디일렉",
+          "title": "KT클라우드, 안산에 50MW AI 데이터센터 착공…2029년 준공",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64098"
+        },
+        {
+          "id": "da5efbbc2964",
+          "name": "IT조선",
+          "title": "KT클라우드, 안산에 50MW AI DC 건립",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172541"
+        },
+        {
+          "id": "f4b6212eb825",
+          "name": "블로터",
+          "title": "KT클라우드, 50MW 안산 AIDC 착공…수도권 AI 인프라 확대",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676402"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-4b4b8e5fab9f",
+      "title": "모빌린트, 휴머노이드 로봇용 NPU와 AI 컴퓨팅 플랫폼 개발",
+      "category": "반도체",
+      "published": "2026-10-22T08:00:00.000Z",
+      "points": [
+        "모빌린트, 휴머노이드용 NPU 플랫폼 개발",
+        "로봇 안에서 여러 AI 모델을 동시에 구동",
+        "LG전자 휴머노이드 환경에서 검증 추진"
+      ],
+      "body": [
+        "AI 반도체 기업 모빌린트가 휴머노이드 로봇용 신경망처리장치(NPU)와 AI 컴퓨팅 플랫폼을 개발한다. 이 회사는 22일 이를 밝혔다고 AI타임스가 전했다. AI타임스에 따르면 사업은 산업통상부의 K-온디바이스 AI 반도체 기술개발사업의 일환이며 모빌린트가 주관연구개발기관을 맡는다.",
+        "디지털데일리는 여러 AI 모델을 로봇 내부에서 동시에 구동할 수 있는 저전력 컴퓨팅 플랫폼을 구축하는 것이라고 전했다. 조선비즈는 주변 환경 인식부터 판단과 동작 제어까지 연결하는 기술이라고 설명했고, 헬로티는 NPU와 가속기 모듈, 소프트웨어를 하나의 플랫폼으로 통합한다고 전했다.",
+        "LG전자와의 관계는 표현이 조금 다르다. AI타임스는 LG전자와 함께 개발한다고 적었고, 디지털데일리와 조선비즈는 향후 LG전자의 휴머노이드 시스템에서 검증할 계획이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "4b4b8e5fab9f",
+          "name": "AI타임스",
+          "title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216533"
+        },
+        {
+          "id": "e56575123dbe",
+          "name": "디지털데일리",
+          "title": "모빌린트, 휴머노이드용 AI 반도체 개발…LG전자 로봇 환경서 검증",
+          "link": "https://www.ddaily.co.kr/page/view/2026102211191199249"
+        },
+        {
+          "id": "c1e795762ffa",
+          "name": "조선비즈",
+          "title": "모빌린트, 휴머노이드용 AI 반도체·SW 통합 개발… LG전자 로봇서 검증 추진",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/YK4ZLGHPKZETTJ3BIMFO7THIGE"
+        },
+        {
+          "id": "e3e190fcf017",
+          "name": "헬로티",
+          "title": "모빌린트, 휴머노이드용 NPU·모듈·소프트웨어 통합 AI 플랫폼 개발 공개",
+          "link": "https://www.hellot.net/news/article.html?no=115707"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-bc43ca02874a",
+      "title": "엔비디아, AI 에이전트 통제하는 오픈쉘 레퍼런스 아키텍처 공개",
+      "category": "보안",
+      "published": "2026-10-22T07:59:30.000Z",
+      "points": [
+        "엔비디아, 오픈쉘 레퍼런스 아키텍처 공개",
+        "기업용 AI 에이전트의 안전한 구축과 운영 지원",
+        "레드햇도 오픈쉘 기반 보안 협력 확대"
+      ],
+      "body": [
+        "엔비디아가 AI 에이전트를 안전하게 구축하고 운영하도록 돕는 오픈쉘 레퍼런스 아키텍처를 공개했다. 디일렉은 엔비디아가 21일(현지시간) 연례 콘퍼런스 GTC 2026 베를린에서 이를 공개했다고 전했고, 데이터넷은 22일 밝혔다고 적었다. 제품 이름은 오픈쉘과 오픈셸 표기가 섞여 쓰인다.",
+        "디일렉은 레퍼런스 아키텍처를 새 데이터센터 시스템을 구축할 때 참고하는 표준 청사진이라고 설명했다. 디지털투데이는 더레지스터 보도를 인용해 오픈셸을 엔비디아가 개발한 AI 에이전트 보안 실행 환경이라고 소개했다. 인공지능신문은 AI 에이전트의 실행 환경과 보안 통제 체계를 통합한 것이라고 전했다.",
+        "데이터넷은 기업 인프라와 엣지 시스템에서 AI 에이전트를 안전하게 구축하고 운영하도록 지원한다고 전했다. 같은 날 레드햇도 엔비디아와 협력을 확대해 오픈 하이브리드 클라우드 전반에서 안전한 엔터프라이즈 에이전틱 AI 도입을 지원하겠다고 밝혔다."
+      ],
+      "sources": [
+        {
+          "id": "bc43ca02874a",
+          "name": "디일렉",
+          "title": "엔비디아, AI 에이전트 감시 '오픈쉘' 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64088"
+        },
+        {
+          "id": "2af23e15b877",
+          "name": "인공지능신문",
+          "title": "\"AI 에이전트, 보안 판 바꾼다\"…엔비디아 OpenShell 아키텍처 공개, 위험 행동 밀리초 만에 차단",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42387"
+        },
+        {
+          "id": "3f805833916e",
+          "name": "데이터넷",
+          "title": "엔비디아, AI 에이전트 통제 위한 ‘오픈쉘 레퍼런스 아키텍처’ 공개",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215264"
+        },
+        {
+          "id": "c36e11360859",
+          "name": "디지털투데이",
+          "title": "엔비디아, AI 에이전트 통제하는 '오픈셸 레퍼런스 아키텍처' 공개",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708989"
+        },
+        {
+          "id": "025b9df66f2c",
+          "name": "데이터넷",
+          "title": "레드햇·엔비디아, 에이전틱 AI 보안 협력 확대 ··· 오픈셸 기반 통제 강화",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215277"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-c636e493deed",
+      "title": "포스코퓨처엠, 팔란티어 AI 플랫폼 도입해 제조 혁신 추진",
+      "category": "기업",
+      "published": "2026-10-22T06:54:17.000Z",
+      "points": [
+        "포스코퓨처엠, 팔란티어 파운드리와 AIP 도입",
+        "영업과 마케팅부터 생산과 R&D로 확대",
+        "배터리 소재 개발 기간 절반 단축 목표"
+      ],
+      "body": [
+        "이차전지 소재 기업 포스코퓨처엠이 미국 팔란티어의 데이터 운영과 분석 플랫폼 파운드리, AI 플랫폼 AIP를 도입하는 계약을 맺었다. 디일렉과 전기신문, 철강금속신문은 계약이 21일 체결됐다고 전했고, AI타임스와 디지털투데이는 22일 밝혔다고 적었다.",
+        "디일렉은 파운드리를 기업 안에 흩어진 데이터를 통합하고 분석하는 플랫폼이라고 설명했다. 디지털데일리는 영업과 마케팅 부문에서 시작해 생산과 연구개발까지 AI 적용 범위를 넓힐 계획이라고 전했다.",
+        "블로터는 제조와 연구개발에 AI 적용을 넓혀 배터리 소재 개발 기간을 절반 수준으로 줄이겠다는 계획이라고 전했다. 전기신문과 철강금속신문은 이번 도입을 AI 기반 제조혁신과 업무 혁신을 위한 것이라고 소개했다."
+      ],
+      "sources": [
+        {
+          "id": "c636e493deed",
+          "name": "디지털데일리",
+          "title": "포스코퓨처엠, 美 팔란티어와 맞손… AI 도입해 배터리 제조 혁신",
+          "link": "https://www.ddaily.co.kr/page/view/2026102213125410740"
+        },
+        {
+          "id": "10e289a6cd81",
+          "name": "디일렉",
+          "title": "포스코퓨처엠, 팔란티어 AI 플랫폼 도입",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64108"
+        },
+        {
+          "id": "d532211ae6eb",
+          "name": "전기신문",
+          "title": "포스코퓨처엠, 팔란티어와 AX로 초격차 경쟁력 확보",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=373769"
+        },
+        {
+          "id": "64e8f4887984",
+          "name": "AI타임스",
+          "title": "포스코퓨처엠, 팔란티어 플랫폼 도입...AI 제조혁신 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216509"
+        },
+        {
+          "id": "d026fcd5337a",
+          "name": "블로터",
+          "title": "포스코퓨처엠, 美 팔란티어 AI 도입…배터리 소재 개발 절반 단축",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676372"
+        },
+        {
+          "id": "76f76312f1e0",
+          "name": "디지털데일리",
+          "title": "포스코퓨처엠, 팔란티어 AI 플랫폼 도입…영업·제조 혁신 추진",
+          "link": "https://www.ddaily.co.kr/page/view/2026102211041969171"
+        },
+        {
+          "id": "47de787d9122",
+          "name": "디지털투데이",
+          "title": "포스코퓨처엠, AI 전환 나선다...팔란티어와 플랫폼 도입 계약",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709074"
+        },
+        {
+          "id": "27206dd205fd",
+          "name": "철강금속신문",
+          "title": "포스코퓨처엠, 팔란티어와 손잡고 AI 기반 제조혁신 추진",
+          "link": "http://www.snmnews.com/news/articleView.html?idxno=576253"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-429a2f0b6eb5",
+      "title": "KT클라우드, 안산에 50MW AI 데이터센터 착공",
+      "category": "기업",
+      "published": "2026-10-22T06:37:09.000Z",
+      "points": [
+        "KT클라우드, 경기 안산에 50MW AIDC 착공",
+        "2029년 준공 목표",
+        "2031년 1GW AI 데이터센터 공급 체계 추진"
+      ],
+      "body": [
+        "KT클라우드가 경기 안산에 수전용량 50MW 규모의 AI 전용 데이터센터를 착공한다. 이 회사는 22일 자체 보유 시설인 안산 AI 데이터센터 착공 계획을 밝혔다고 AI타임스, 디지털투데이, IT조선이 전했다. 디지털투데이와 IT조선, 디일렉은 준공 목표를 2029년으로 적었다.",
+        "블로터와 디지털투데이, 테크M은 이번 사업이 KT클라우드가 추진하는 2031년 1GW 규모 AI 데이터센터 공급 체계의 일부라고 전했다. 디일렉은 고성능 GPU 서버에 필요한 전력과 냉각 인프라를 확보해 수도권 공급을 늘리는 것이라고 설명했다.",
+        "시공 소식도 나왔다. 조선비즈는 CJ대한통운 건설부문이 경기도 안산 반월국가산업단지에 들어서는 이 데이터센터의 신축공사를 수주했다고 전했다. 건물은 지하 2층부터 지상 9층 규모라고 한다."
+      ],
+      "sources": [
+        {
+          "id": "429a2f0b6eb5",
+          "name": "조선비즈",
+          "title": "CJ대한통운 건설부문, 50MW KT클라우드 안산 AI데이터센터 수주",
+          "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/22/WKTGETX3MZHJXBJRQBUJ3WD2VE"
+        },
+        {
+          "id": "cd0727dc788c",
+          "name": "AI타임스",
+          "title": "KT클라우드, 50MW 규모 안산 AI 데이터센터 착공 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216526"
+        },
+        {
+          "id": "f4b6212eb825",
+          "name": "블로터",
+          "title": "KT클라우드, 50MW 안산 AIDC 착공…수도권 AI 인프라 확대",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676402"
+        },
+        {
+          "id": "439238c9350c",
+          "name": "디지털투데이",
+          "title": "KT클라우드 50MW 규모 자체 ‘안산 AI 데이터센터’ 착공...2029년 준공 목표",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709125"
+        },
+        {
+          "id": "da5efbbc2964",
+          "name": "IT조선",
+          "title": "KT클라우드, 안산에 50MW AI DC 건립",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172541"
+        },
+        {
+          "id": "004c2de6fb8e",
+          "name": "디일렉",
+          "title": "KT클라우드, 안산에 50MW AI 데이터센터 착공…2029년 준공",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64098"
+        },
+        {
+          "id": "9e883418bb0f",
+          "name": "테크M",
+          "title": "KT클라우드, 50MW 규모 안산 AI 데이터센터 착공",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156367"
+        },
+        {
+          "id": "b562de20dc31",
+          "name": "조선비즈",
+          "title": "KT클라우드, 50MW 규모 ‘안산 AI 데이터센터’ 착공",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/BJYQG7FHSRHZHAGDXS4U6NNLVY"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-0d615030b1a8",
+      "title": "SKT, 서울대와 KAIST 등과 독자 AI 모델 A.X K2 수학 추론 강화",
+      "category": "연구",
+      "published": "2026-10-22T06:14:51.000Z",
+      "points": [
+        "SKT, A.X K2 수학 추론 능력 강화",
+        "서울대와 KAIST 등 연구진과 협력",
+        "수학 난제 도전으로 에이전틱 AI 개발 활용"
+      ],
+      "body": [
+        "SK텔레콤이 국내 수학과 AI 연구진과 손잡고 독자 AI 파운데이션 모델 A.X K2의 수학 추론 능력을 끌어올린다. 한국NGO신문과 디지털투데이는 SK텔레콤이 22일 서울 을지로 본사에서 서울대와 KAIST 등 연구진과 협력 내용을 공유했다고 전했다.",
+        "조선비즈는 수학 난제에 도전하는 과정에서 모델의 문제 해결 역량을 높여 복잡한 작업을 스스로 수행하는 에이전틱 AI 개발에 활용할 구상이라고 전했다. EBN은 수학 분야별 전문지식과 추론 능력을 모델에 반영한다고 적었다.",
+        "AI타임스는 최근 오픈AI가 300개가 넘는 미해결 수학 문제를 풀어 화제를 모은 가운데 SK텔레콤도 수학 난제 정복에 나선다고 배경을 설명했다."
+      ],
+      "sources": [
+        {
+          "id": "0d615030b1a8",
+          "name": "조선비즈",
+          "title": "SK텔레콤, 서울대·KAIST 연구진과 수학 난제 도전… 독자 AI 추론 강화",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/65KMYHN3MZBSDERDCSUE3NRVVM"
+        },
+        {
+          "id": "316b9093b1d0",
+          "name": "AI타임스",
+          "title": "SKT, 오픈AI 이어 '수학 난제' 도전...독파모 수학 추론 역량 키운다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216508"
+        },
+        {
+          "id": "d9538952cba3",
+          "name": "테크월드뉴스",
+          "title": "SKT, 독자 AI 모델 'A.X K2'로 수학 난제 도전…추론 성능 고도화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408581"
+        },
+        {
+          "id": "bf909ed01529",
+          "name": "디지털데일리",
+          "title": "“AI로 수학 난제 푼다”…SKT, 독파모 ‘A.X K2’ 고도화",
+          "link": "https://www.ddaily.co.kr/page/view/2026102209503642115"
+        },
+        {
+          "id": "0fc2694a258a",
+          "name": "한국NGO신문",
+          "title": "SKT, 서울대·KAIST 등과 AI 수학 추론 연구…난제 해결 도전",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=241172"
+        },
+        {
+          "id": "710dc2f9c596",
+          "name": "디지털투데이",
+          "title": "SKT, 'A.X K2' 수학 추론 능력 높인다…서울대·KAIST와 협력",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709027"
+        },
+        {
+          "id": "f3559ab5ce05",
+          "name": "EBN",
+          "title": "SKT, 독자 AI 모델 'A.X K2' 수학 추론 강화…글로벌 수학 난제 도전",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728715"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-cdd74f53f6a0",
+      "title": "PHP 치명적 취약점 2건 발견, AI가 찾아내 각국 긴급 대응",
+      "category": "보안",
+      "published": "2026-10-22T04:41:56.000Z",
+      "points": [
+        "PHP에서 치명적 취약점 2건 발견",
+        "유럽 일부 정부 사이트 운영 일시 중단",
+        "국내 사이버위기 경보 관심에서 주의로 격상"
+      ],
+      "body": [
+        "전 세계 웹사이트에서 널리 쓰는 프로그래밍 언어 PHP에서 치명적인 보안 취약점 2건이 발견돼 각국이 긴급 대응에 나섰다. IT조선은 PHP 개발팀이 21일(현지시각) PHP2Shell로 불리는 취약점 2건을 언급했다고 전했다. 인증 없이 서버를 장악할 수 있고 실제 공격 시도까지 포착됐다는 내용이다. 조선비즈와 아이뉴스24는 AI를 활용해 발견했다고 적었다.",
+        "피해 우려가 큰 만큼 조치도 이어졌다. 조선비즈는 유럽 주요국이 예방 차원에서 정부기관 웹사이트 운영을 일시 중단했다고 전했고, AI타임스는 유럽 정부와 병원, 학교 등이 웹사이트를 잇달아 중단했다고 적었다. 아이뉴스24에 따르면 우리 정부는 22일 사이버위기 경보를 관심에서 주의로 올렸다.",
+        "기업 대응도 전해졌다. 뉴시스는 구글과 오픈AI가 AI로 취약점을 분석하고 보안 패치를 검증했으며 아마존이 공격 시도를 포착했다고 전했다. 보안뉴스는 팔로알토 네트웍스가 전 세계 약 2200만 개 PHP 인스턴스가 노출된 것으로 확인된다고 밝혔다고 전했다. AI타임스는 긴급 수정본이 배포됐다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "cdd74f53f6a0",
+          "name": "IT조선",
+          "title": "웹사이트 70%가 쓰는 PHP에 비상…AI가 결함 찾아내",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172543"
+        },
+        {
+          "id": "9dd3109170fb",
+          "name": "조선비즈",
+          "title": "전 세계 웹사이트 ‘해킹 비상’… AI가 치명적 PHP 보안 결함 발견",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/SXIDDQBIWZDNTG6ZH7CVSGJYB4"
+        },
+        {
+          "id": "504d1900345c",
+          "name": "AI타임스",
+          "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216499"
+        },
+        {
+          "id": "848ea47ac3c6",
+          "name": "뉴시스",
+          "title": "PHP 해킹 위험에 구글·오픈AI 긴급 대응…아마존 \"공격 시도 포착\"",
+          "link": "https://www.newsis.com/view/NISX20261022_0003836526"
+        },
+        {
+          "id": "38d46ffaa64b",
+          "name": "아이뉴스24",
+          "title": "AI가 PHP 취약점 발견⋯정부, 사이버위기 경보 '주의' 격상[상보]",
+          "link": "https://www.inews24.com/view/2017873"
+        },
+        {
+          "id": "df21d4c05c6f",
+          "name": "디지털투데이",
+          "title": "PHP 치명적 취약점 'PHP2Shell' 비상…AI가 먼저 찾았다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709111"
+        },
+        {
+          "id": "8ee5a3f8ddc6",
+          "name": "보안뉴스",
+          "title": "팔로알토 “세계 PHP 인스턴스 2200만 개 노출... AI 기반 선제 방어 시급”",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146640"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261022-0f67eced46db",
+      "title": "오픈AI, 신약 개발 조율 AI 플랫폼 오케스트라 바이오 인수",
+      "category": "기업",
+      "published": "2026-10-21T23:52:09.000Z",
+      "points": [
+        "오픈AI, 오케스트라 바이오 인수 발표",
+        "생명과학 AI 도구 로잘린드와 기술 결합",
+        "신약 개발 전 과정 지원 AI 에이전트 구축"
+      ],
+      "body": [
+        "오픈AI가 신약 개발 과정을 조율하는 AI 플랫폼 기업 오케스트라 바이오를 인수한다고 밝혔다. 조선비즈는 오픈AI가 20일(현지시각) 이를 밝혔다고 전했고, 디지털투데이는 테크크런치를 인용해 구체적인 거래 조건은 공개되지 않았다고 적었다.",
+        "오픈AI는 오케스트라 바이오의 기술과 인력을 생명과학 연구용 AI 모델과 도구인 로잘린드와 결합한다. 이 도구 이름은 의학신문이 GPT-로잘린드로, 조선비즈가 로절린드로 적는 등 표기가 매체마다 다르다. AI타임스는 이를 바탕으로 신약 개발 전반을 지원하는 AI 에이전트를 구축하려는 것이라고 전했다.",
+        "인공지능신문은 신약 하나가 환자에게 도달하기까지 평균 10년에서 15년이 걸리고, 전임상 연구부터 제조와 임상시험, 규제 승인까지 많은 의사결정과 협업이 맞물린다는 점을 배경으로 설명했다. 디지털투데이는 설립 4년 차인 오케스트라 바이오가 바이오테크 소프트웨어 스타트업이라고 소개했다."
+      ],
+      "sources": [
+        {
+          "id": "0f67eced46db",
+          "name": "의학신문",
+          "title": "오픈AI, 신약 개발 AI 플랫폼 인수",
+          "link": "https://www.bosa.co.kr/news/articleView.html?idxno=3014541"
+        },
+        {
+          "id": "0f891bb77311",
+          "name": "AI타임스",
+          "title": "오픈AI, 신약 개발 관리 플랫폼 '오케스트라 바이오' 인수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216485"
+        },
+        {
+          "id": "c84482e9cf47",
+          "name": "인공지능신문",
+          "title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 '오케스트라 바이오' 인수",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42379"
+        },
+        {
+          "id": "1f50ec2b433b",
+          "name": "디지털투데이",
+          "title": "챗GPT 넘어 신약개발까지…오픈AI, 바이오 스타트업 품었다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708724"
+        },
+        {
+          "id": "ed317577b59f",
+          "name": "조선비즈",
+          "title": "오픈AI, 제약 AI에이전트 기업 인수…신약개발 사업 가속",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/FDBVXHFBGFD45BIE64L42ISN7E"
+        },
+        {
+          "id": "265ccc36bccc",
+          "name": "디지털데일리",
+          "title": "오픈AI, 바이오 AI 스타트업 인수…신약 개발 전 과정 지원 겨냥",
+          "link": "https://www.ddaily.co.kr/page/view/2026102108391568017"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "h20261021-ecc9deff1c5c",
       "title": "채널톡, 전화 상담 AI 에이전트 보이스 알프 정식 출시",
       "category": "생성형AI",
@@ -650,6 +1624,54 @@
       }
     },
     {
+      "id": "s20261022-8169c43af71d",
+      "title": "이스트소프트, 제주국제자유도시개발센터 사내 sLLM 구축 사업 수주",
+      "category": "기업",
+      "published": "2026-10-21T09:39:18.000Z",
+      "points": [
+        "이스트소프트, JDC 사내 생성형 AI 사업 수주",
+        "JDC 내부 서버에 생성형 AI 환경 구축",
+        "외부와 분리된 환경에서 데이터 안전 활용"
+      ],
+      "body": [
+        "이스트소프트가 제주국제자유도시개발센터(JDC)가 발주한 사내 생성형 AI 언어모델(sLLM) 구축 사업을 수주했다. 이 회사는 21일 이를 밝혔다고 디일렉, AI타임스, 아이뉴스24 등이 전했다.",
+        "AI타임스에 따르면 사업은 향후 6개월간 진행되며 JDC 내부 서버에 생성형 AI 환경을 구축해 임직원의 업무 정확도와 처리 속도를 높이는 것이 목표다. 디일렉은 보안과 개인정보 관련 규제를 지키기 위해 외부와 분리된 내부 환경에서 안전하게 데이터를 활용할 수 있도록 하는 사업이라고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "8169c43af71d",
+          "name": "디일렉",
+          "title": "이스트소프트, 제주국제자유도시개발센터 sLLM 구축 사업 수주",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64080"
+        },
+        {
+          "id": "a7c2ee7191be",
+          "name": "AI타임스",
+          "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216484"
+        },
+        {
+          "id": "2df9d2efd51e",
+          "name": "테크월드뉴스",
+          "title": "이스트소프트, JDC ‘사내 생성형 AI 언어모델 구축 사업’ 수주",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408535"
+        },
+        {
+          "id": "441ef6294536",
+          "name": "테크M",
+          "title": "이스트소프트, 제주국제자유도시개발센터 사내 sLLM 사업 수주",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156336"
+        },
+        {
+          "id": "94c7fff53f17",
+          "name": "아이뉴스24",
+          "title": "이스트소프트, JDC 사내 생성형 AI 언어모델 구축 사업 수주",
+          "link": "https://www.inews24.com/view/2017232"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "s20261021-92df3fd42fc2",
       "title": "오픈AI, 챗GPT에 민감한 대화 숨기는 잠금 기능 도입",
       "category": "보안/윤리",
@@ -942,6 +1964,55 @@
       }
     },
     {
+      "id": "s20261022-39172dec1b0d",
+      "title": "카카오, 카나나-2 비전 인코더 2종 허깅페이스에 오픈소스 공개",
+      "category": "생성형AI",
+      "published": "2026-10-21T07:10:00.000Z",
+      "points": [
+        "카카오, 비전 인코더 2종 오픈소스 공개",
+        "4억2600만과 9800만 파라미터 두 모델",
+        "이미지를 이해하는 AI의 눈 역할"
+      ],
+      "body": [
+        "카카오가 자체 개발한 카나나-2 비전 인코더 2종을 AI 개발 플랫폼 허깅페이스에 오픈소스로 공개했다. 카카오는 21일 이를 밝혔다고 테크월드뉴스, 아이뉴스24, 조선비즈가 전했다.",
+        "공개한 모델은 4억2600만 파라미터 규모의 미디엄과 9800만 파라미터 규모의 작은 모델이다. 작은 모델의 이름은 테크월드뉴스와 아이뉴스24가 타이니로, 조선비즈가 티니로 적어 표기가 다르다.",
+        "조선비즈는 비전 인코더를 AI가 이미지를 이해하도록 돕는 눈에 비유했다. AI타임스는 AI가 화면을 보고 직접 조작하는 컴퓨터 유즈 기술이 주목받으면서 이미지를 정확히 읽는 능력이 중요해지는 가운데 나온 공개라고 설명했다."
+      ],
+      "sources": [
+        {
+          "id": "39172dec1b0d",
+          "name": "테크월드뉴스",
+          "title": "카카오, ‘카나나-2 비전 인코더’ 오픈소스 공개…멀티모달 AI 기술 강화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408549"
+        },
+        {
+          "id": "f3625f443c47",
+          "name": "AI타임스",
+          "title": "컴퓨터 유즈 시대 AI의 '눈'...카카오, 비전 인코더 2종 오픈소스 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216459"
+        },
+        {
+          "id": "983589a10160",
+          "name": "아이뉴스24",
+          "title": "카카오, 'AI의 눈' 비전 인코더 2종 오픈소스로 공개",
+          "link": "https://www.inews24.com/view/2017335"
+        },
+        {
+          "id": "0662bc18a97c",
+          "name": "조선비즈",
+          "title": "카카오, 이미지 읽는 AI의 ‘눈’ 자체 개발… 비전 인코더 2종 오픈소스 공개",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/21/XRHICZB67NEHXDT4JJTWAT3MHQ"
+        },
+        {
+          "id": "7687bfc5b133",
+          "name": "디일렉",
+          "title": "카카오, 자체 개발 AI 이미지 인식 모델 '오픈소스'로 공개",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64039"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "s20261021-a93a8831fe3c",
       "title": "KAI, 우주 궤도에서 AI 위성 자율운영 기술 실증 성공",
       "category": "연구",
@@ -1126,6 +2197,60 @@
           "The wording differs. AI Times wrote that the letters of intent were exchanged, while iNews24 and Digital Today wrote that they were signed."
         ]
       }
+    },
+    {
+      "id": "s20261022-f0274e6289f3",
+      "title": "제논, 나이키 신발 밑창 AI 검사 양산 검증 통과 후속 과제 수주",
+      "category": "기업",
+      "published": "2026-10-21T05:06:29.000Z",
+      "points": [
+        "제논, 나이키 아웃솔 AI 비전 검사 양산 검증 통과",
+        "인도네시아에서 후속 과제 잇달아 수주",
+        "두 제품 스타일 불량 탐지율 99.7%와 99.2%"
+      ],
+      "body": [
+        "생성형 AI 솔루션 기업 제논이 인도네시아에서 추진해 온 AI 제조 자동화 사업에서 나이키 신발 밑창(아웃솔) AI 비전 검사의 양산 검증을 통과했다. 제논은 21일 이를 밝혔고, 아이뉴스24와 데이터넷은 검증 통과에 이어 후속 과제도 잇달아 수주했다고 전했다.",
+        "테크월드뉴스에 따르면 이 과제는 제논이 지난해 착수한 것이다. 벤처스퀘어는 두 가지 제품 스타일에서 각각 99.7%와 99.2%의 불량 탐지율을 기록했다고 전했다. 벤처스퀘어는 연내 양산 모델 개발에 착수한다는 계획도 함께 적었다."
+      ],
+      "sources": [
+        {
+          "id": "f0274e6289f3",
+          "name": "테크월드뉴스",
+          "title": "제논, 인도네시아 AI 제조 자동화 확대…나이키 양산 검증 통과",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408530"
+        },
+        {
+          "id": "c6c6e5555960",
+          "name": "플래텀",
+          "title": "나이키 신발 밑창 불량, AI 카메라가 가려낸다… 제논 인도네시아 양산 검증 통과",
+          "link": "https://platum.kr/archives/296777"
+        },
+        {
+          "id": "2d431c496495",
+          "name": "아이뉴스24",
+          "title": "제논, 인도네시아서 '나이키 AI 품질 검사' 이어 후속 과제 수주",
+          "link": "https://www.inews24.com/view/2017220"
+        },
+        {
+          "id": "9ef96a2e5d9b",
+          "name": "데이터넷",
+          "title": "제논, 인도네시아 AI 제조 자동화 사업 순항",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215243"
+        },
+        {
+          "id": "34ce9e048c30",
+          "name": "디지털투데이",
+          "title": "제논 \"나이키 AI 품질검사 양산 검증 통과",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708665"
+        },
+        {
+          "id": "dcd3228820d5",
+          "name": "벤처스퀘어",
+          "title": "제논, 나이키 신발 제조 AI 검사 양산 검증 통과…인도네시아 자동화 사업 확대",
+          "link": "https://www.venturesquare.net/1121637"
+        }
+      ],
+      "auto": true
     },
     {
       "id": "s20261021-b569875351cb",
