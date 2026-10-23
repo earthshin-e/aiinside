@@ -1,6 +1,6 @@
 # AI 뉴스웨이브
 
-> 먼저 읽기: 수익화 프로젝트 공통 정본 blogmoney 저장소 `hub/CLAUDE_수익화공통.md` (맥: ~/Dropbox/수익화프로젝트/claude_blogmoney/hub/, 클라우드: earthshin-e/blogmoney). SPOT 정본(teamspot)에는 수익화 내용이 없다 (2026-10-22).
+> 먼저 읽기: 수익화프로젝트 공통 정본 blogmoney 저장소 `hub/CLAUDE_수익화공통.md` (맥: ~/Dropbox/수익화프로젝트/claude_blogmoney/hub/, 클라우드: earthshin-e/blogmoney). SPOT 정본(teamspot)에는 수익화 내용이 없다 (2026-10-22).
 
 
 국내 언론사 RSS에서 AI 관련 기사만 모아 보여 주는 일반 공개 서비스입니다.
