@@ -77,7 +77,22 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707953"
         }
       ],
-      "author": "Kevin Wong"
+      "author": "Kevin Wong",
+      "en": {
+        "title": "AhnLab unveils AI-centered security strategy at Tech Summit",
+        "points": [
+          "AhnLab holds customer tech conference on the 22nd",
+          "Presents AI as a core pillar of its products and services",
+          "Aimed at security officers at public sector, financial and other clients"
+        ],
+        "body": [
+          "AhnLab held its customer technology conference, AhnLab Tech Summit 2026, at L-Tower in Yangjae-dong, Seoul, on the 22nd and shared a security strategy centered on AI. Chosun Biz, Boannews, iNews24 and EBN reported that AhnLab announced the details on the 23rd.",
+          "Outlets described the nature of the event slightly differently. iNews24 called it an annual technology event that introduces the latest cyber threats and responses to security officers at client companies, while EBN described it as an annual customer event sharing know-how on responding to the latest threats using AhnLab's products and services. Digital Daily said the audience was key security officers at public institutions and financial firms, and EBN mentioned clients from a range of industries this year, including public, financial, enterprise, manufacturing and IT.",
+          "Accounts of the strategy also vary. Chosun Biz reported that AhnLab presented a strategy of developing AI as a core pillar of its entire product and service portfolio. Datanet wrote that the company unveiled a next-generation security strategy centered on AI, and EBN's headline said it revealed a customized AI security roadmap for clients. Digital Today introduced AhnLab as an AI-native security platform company and wrote that the event covered a 2027 product and service roadmap and the latest threat trends.",
+          "Boannews gave the background that AhnLab introduced a strategy to strengthen its AI security business as AI automates and sophisticates security threats. Datanet and Boannews named Kang Seok-kyun as AhnLab's chief executive.",
+          "AhnLab also took part in GovWare 2026, a security event held in Singapore from the 13th to the 15th. Chosun Biz and Digital Today reported on the 18th that AhnLab presented items such as an AI security operations center (SOC) under its integrated brand, AhnLab AI Plus. The Tech Summit differs in that it was aimed at domestic customers rather than being an overseas exhibition."
+        ]
+      }
     },
     {
       "id": "h20261023-f519d2646d60",
@@ -152,7 +167,22 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102009372556062"
         }
       ],
-      "author": "Haley Yun"
+      "author": "Haley Yun",
+      "en": {
+        "title": "OpenAI lowers target valuation in funding round to $1.25 trillion",
+        "points": [
+          "Target valuation cut from $1.4 trillion to $1.25 trillion",
+          "Based on FT and CNBC reports; outlets differ on the reason",
+          "Reported to be nearing completion of a raise of up to $30 billion"
+        ],
+        "body": [
+          "OpenAI has reportedly lowered its target valuation in a new funding round from $1.4 trillion to $1.25 trillion. Chosun Biz, Newsis and EBN cited a Financial Times (FT) report on the 22nd (local time), while Digital Today said CNBC reported the same day, citing multiple people familiar with the deal.",
+          "Outlets expressed the size of the cut differently. Digital Daily wrote that the target was lowered by $150 billion, or about 11%, while AI Times and Chosun Biz said in their headlines that it was cut by about 200 trillion won. The won conversions also differ: AI Times gave 1,855 trillion won to 1,656 trillion won, while Chosun Biz gave 1,850 trillion won to 1,652 trillion won.",
+          "Explanations of the background also diverge. AI Times wrote that the cut appears to reflect a lukewarm response from some investors, fatigue over large-scale fundraising and concern about the sustainability of the AI infrastructure investment boom. Digital Daily said it reflected weaker investor sentiment amid concerns about overheated AI investment. Newsis reported that OpenAI ran into investor pushback while postponing an initial public offering (IPO) and raising new investment, and EBN wrote that it faced investor opposition.",
+          "Digital Today reported that OpenAI has entered the final stage of raising up to $30 billion at a $1.25 trillion valuation, and that the round is bridge funding ahead of a potential IPO. In its headline, the outlet wrote that the United Arab Emirates (UAE) is leading the investment.",
+          "Earlier reports put the target higher. Chosun Biz said that on the 19th (local time) Reuters reported that OpenAI was speeding up a raise of about $30 billion ahead of Anthropic's IPO. IT Chosun wrote that Reuters reported OpenAI was seeking to close funding before mid-November to be valued at more than $1.4 trillion, and Digital Daily also reported that the valuation being cited as the target exceeded $1.4 trillion."
+        ]
+      }
     },
     {
       "id": "h20261023-9badaf54ecbb",
@@ -214,7 +244,21 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214981"
         }
       ],
-      "author": "Chloe Park"
+      "author": "Chloe Park",
+      "en": {
+        "title": "Dassault Systèmes and Vertiv to validate AI factory infrastructure virtually first",
+        "points": [
+          "Dassault Systèmes and Vertiv team up on AI factory design",
+          "Power and cooling validated in a virtual environment before construction",
+          "Goal is to shorten design and build time"
+        ],
+        "body": [
+          "Dassault Systèmes said on the 23rd that it is partnering with digital infrastructure company Vertiv to speed up the design and construction of AI factories. Chosun Biz, Digital Today, Digital Daily, Techworld News and Datanet reported the news.",
+          "According to Chosun Biz, the two companies will combine Dassault Systèmes' 3DEXPERIENCE agentic platform with Vertiv's power and cooling infrastructure so that Nvidia AI factories can be simulated and validated in a virtual environment before they are built. Digital Daily and Techworld News specified the target as Nvidia DSX AI factories, and Digital Daily explained that the aim is to shorten design and construction time by validating power and cooling infrastructure virtually first.",
+          "Datanet introduced the partnership as strengthening virtual-twin-based validation, and Digital Today described Dassault Systèmes as a global virtual twin company and Vertiv as a digital infrastructure company. In its headline, Digital Today summarized it as validating AI factory infrastructure virtually before building it.",
+          "Separately, TheElec and Datanet reported in their headlines that Vertiv's 2.3MW coolchip CDU met Nvidia DSX Ready requirements. The partnership with Dassault Systèmes concerns designing and validating AI factories built on the same Nvidia DSX in a virtual environment."
+        ]
+      }
     },
     {
       "id": "h20261023-b30c674c82a3",
@@ -264,7 +308,21 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215273"
         }
       ],
-      "author": "Ashley Yang"
+      "author": "Ashley Yang",
+      "en": {
+        "title": "Korea Deep Learning pilots AI agent commerce content creation with SK Telecom",
+        "points": [
+          "Korea Deep Learning pilots automated commerce content production",
+          "Extends a document-focused agent to advertising",
+          "Short-form ads made from product pages, with self-review"
+        ],
+        "body": [
+          "Korea Deep Learning (CEO Kim Ji-hyun) said on the 22nd that it is running a pilot with SK Telecom applying its AI agent DEEP Agent to automating commerce content production. Techworld News, AI Times, Industry News and Datanet reported it the same day.",
+          "The expanded scope is the heart of the news. AI Times explained that optical character recognition (OCR) technology used for document processing is expanding into commerce advertising, and described DEEP Agent as a document-specific AI agent. Industry News said in its headline that the technology is being applied beyond documents to commerce, and Datanet summarized it as a pilot of AI-agent-based automation of commerce ad production.",
+          "Platum described the experiment in concrete terms: AI reads a shopping mall's product page, picks images and makes a short ad video, then checks on its own whether the result matches the original product information. Platum and Industry News introduced Korea Deep Learning as an enterprise AI agent company.",
+          "In explaining the pilot, Techworld News mentioned the SK Telecom Startup Open Innovation Challenge 2026 run by the Busan Center for Creative Economy and Innovation."
+        ]
+      }
     },
     {
       "id": "h20261023-0c02a0d9768a",
@@ -307,7 +365,20 @@
           "link": "https://www.newsis.com/view/NISX20261022_0003837283"
         }
       ],
-      "author": "Ethan Chen"
+      "author": "Ethan Chen",
+      "en": {
+        "title": "Korea-Japan regional industry forum expands cooperation on advanced materials, AI and robotics",
+        "points": [
+          "Ministry of Trade, Industry and Energy holds Korea-Japan forum in Daegu on the 23rd",
+          "Cooperation expands in advanced materials, AI and robotics",
+          "Seeking joint research and models for use at industrial sites"
+        ],
+        "body": [
+          "The Ministry of Trade, Industry and Energy held the 22nd Korea-Japan (Hokuriku) Economic Exchange Conference in Daegu on the 23rd, together with Japan's Chubu Bureau of Economy, Trade and Industry. Hellot reported that about 150 people from the two countries attended. Digital Daily, EBN and Newsis also covered the meeting.",
+          "Advanced materials, AI and robotics were cited as areas of cooperation. Hellot reported that the two countries are widening cooperation in future industries based on the manufacturing capabilities their regional industries have built up, and Digital Daily said the regional industries of Korea and Japan are expanding the potential for cooperation on the strength of their manufacturing capabilities.",
+          "Outlets stress different aspects of the cooperation. Digital Daily wrote that the key is finding cooperation models usable at industrial sites, such as joint research and smart factory applications, beyond technology exchange. EBN reported the plan is to expand joint research and industrial-site application and to find new growth engines through exchanges between regional companies. Newsis described a plan to link the manufacturing and research capabilities of regional companies and research institutes in both countries to promote joint research and technology exchange."
+        ]
+      }
     },
     {
       "id": "b20261023",
@@ -428,7 +499,25 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408623"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 23 AI Briefing: OpenAI cuts target valuation, Jensen Huang on memory outlook",
+        "points": [
+          "OpenAI's lower target valuation highlights AI investment concerns",
+          "Nvidia CEO expects memory demand to continue",
+          "AI agent use and on-site adoption spread in Korea"
+        ],
+        "body": [
+          "OpenAI has reportedly lowered its target valuation in a new funding round from $1.4 trillion to $1.25 trillion. Chosun Biz and Newsis cited an FT report, while Digital Today cited CNBC and said a raise of up to $30 billion is in its final stage. Digital Daily calculated the cut at $150 billion, or about 11%.",
+          "EBN reported that the U.S. 10-year Treasury yield fell below 5% for the first time in about a month as a tech stock selloff spread over concerns about the profitability of AI investment and geopolitical tension in the Middle East rose. Kukmin Ilbo also wrote that doubts about the profitability of AI investment combined with Middle East tensions are sending funds toward U.S. Treasuries.",
+          "Nvidia CEO Jensen Huang forecast that a memory oversupply through 2029 is unlikely. Chosun Biz said this reflects his view that AI infrastructure investment will sustain demand for HBM and LPDDR, and Digital Today described it as a rebuttal made as memory stocks recently plunged.",
+          "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon said the Frontier AI project is not one pursued on the president's instruction. iNews24 reported that whether to set up a special purpose company (SPC) has not been finalized either. The project's size is given differently: iNews24 wrote 16 trillion won, while Digital Today wrote 4.7 trillion won.",
+          "OpenAI held a developer event in Seoul on the 22nd and said Korea ranks third in the world by weekly active users of the AI agent dots. AI Times and Digital Today reported that Korea ranks among the top five in the world for ChatGPT Pro users.",
+          "AhnLab held AhnLab Tech Summit 2026 in Yangjae-dong, Seoul, on the 22nd and shared an AI-centered security strategy. Chosun Biz reported that it presented a strategy of developing AI as a core pillar of its entire product and service portfolio.",
+          "Dassault Systèmes and Vertiv are partnering to speed up the design and construction of AI factories. Chosun Biz explained that the effort will simulate and validate Nvidia AI factories in a virtual environment before they are built.",
+          "Hyundai AutoEver showcased a public safety solution combining patrol robots, AI video analytics and integrated control at the 2026 Korea Public Safety Industry Expo, which opened on the 21st. Techworld News reported that it uses MobED, the mobile robot platform of Hyundai Motor and Kia's Robotics LAB."
+        ]
+      }
     },
     {
       "id": "s20261023-120f89b85ab1",
@@ -471,7 +560,20 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728884"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Raon Robotics breaks ground on roughly 60 billion won new Yongin factory",
+        "points": [
+          "Raon Robotics holds groundbreaking for new Yongin factory",
+          "Wafer transfer robot maker; three times the size of its current site",
+          "Total floor area of 23,861 sq m, one basement level and seven floors above ground"
+        ],
+        "body": [
+          "Raon Robotics, a maker of semiconductor wafer transfer robots, held a groundbreaking ceremony for a new factory in the Second Yongin Techno Valley in Cheoin District, Yongin, Gyeonggi Province. TheElec, Robot Newspaper and EBN reported that the ceremony took place on the 20th and that Raon Robotics announced it on the 23rd.",
+          "TheElec wrote that the project involves about 60 billion won and that the site is three times the size of the existing one. Datanet reported a site area of 4,499 sq m and a total floor area of 23,861 sq m, with one basement level and seven floors above ground, and said it is three times the size of the existing Suwon site. EBN gave the same site area and floor area.",
+          "The CEO's name was written differently across outlets. TheElec wrote Kim Kyung-won, while Datanet, Robot Newspaper and EBN wrote Kim Won-kyung. In their headlines, Datanet, Robot Newspaper and EBN described the new factory as a forward base for the company's leap to become a global robotics company."
+        ]
+      }
     },
     {
       "id": "s20261023-e0ad2db5ef20",
@@ -514,7 +616,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709409"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "42Maru joins second phase of Busan's expanded AI administrative service",
+        "points": [
+          "42Maru joins the expansion of Busan's AI service",
+          "Applies multiple small language models and tailored RAG",
+          "Second-phase project to upgrade the AI Bugi Jumugwan"
+        ],
+        "body": [
+          "Agentic AI company 42Maru said on the 23rd that it is taking part in Busan Metropolitan City's project to expand its AI services. Digital Today explained that this is the second phase of a project to upgrade the functions of AI Bugi Jumugwan, an administrative AI platform the city introduced last year.",
+          "Techworld News reported that 42Maru will apply multiple small language models (sLLMs) and department- and individual-tailored retrieval-augmented generation (RAG) environments, building on its experience building AI Bugi Jumugwan, to expand administrative support functions. Digital Daily wrote that the key is expanding the government-specific administrative AI built last year to fit real work environments.",
+          "Hellot and Digital Today reported that AI Bugi Jumugwan is based on a model trained on about 160,000 items of municipal data and administrative documents. Hellot described the participation as strengthening an AX partnership with Busan."
+        ]
+      }
     },
     {
       "id": "s20261023-57590dcfedc4",
@@ -544,7 +659,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728869"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "U.S. 10-year Treasury yield falls below 5% on AI profitability worries and Middle East tension",
+        "points": [
+          "U.S. 10-year yield below 5% for the first time in about a month",
+          "Tech selloff spreads on doubts about AI investment returns",
+          "Safe-haven demand combines with Middle East tension"
+        ],
+        "body": [
+          "The U.S. 10-year Treasury yield fell below 5% for the first time in about a month. EBN explained that funds flowed into U.S. Treasuries, a safe-haven asset, as a tech stock selloff spread over concerns about the profitability of AI investment and geopolitical tension in the Middle East rose.",
+          "Kukmin Ilbo also reported that doubts about the profitability of AI investment combined with military tension in the Middle East are sending global investors' funds toward U.S. Treasuries."
+        ]
+      }
     },
     {
       "id": "s20261023-e5ce037197ab",
@@ -592,7 +719,19 @@
           "link": "https://www.venturesquare.net/1122235"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "AIM Intelligence unveils app security assessment service linked to OpenAI's Daybreak",
+        "points": [
+          "AIM Intelligence expands cybersecurity cooperation with OpenAI",
+          "Links its AI red team solution Stinger with Daybreak",
+          "Assesses security of AI apps, web services and APIs"
+        ],
+        "body": [
+          "AIM Intelligence (CEO Yoo Sang-yoon), an AI security company, on the 23rd unveiled an application security assessment service that links its AI red team solution Stinger with OpenAI's cybersecurity program Daybreak. Hellot introduced it as an expansion of cybersecurity cooperation with OpenAI, and Boannews described it as a service that applies frontier AI to security practice.",
+          "AI Times and VentureSquare reported that the assessment targets AI applications, web services and application programming interfaces (APIs). AI Times added that this includes code analysis and validation of the execution environment. Outlets used different words for the launch: AI Times wrote that the service was released, while Digital Today, Boannews and VentureSquare wrote that it was unveiled."
+        ]
+      }
     },
     {
       "id": "s20261023-eeaff38be6ba",
@@ -629,7 +768,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709416"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Jensen Huang says memory oversupply through 2029 is unlikely",
+        "points": [
+          "Huang says memory oversupply through 2029 is unlikely",
+          "Judges AI infrastructure investment will sustain HBM and LPDDR demand",
+          "Remarks cited from CNBC amid recent plunge in memory stocks"
+        ],
+        "body": [
+          "Nvidia CEO Jensen Huang forecast that the global memory chip market is unlikely to fall into oversupply through 2029. Chosun Biz, iNews24 and Digital Today cited a CNBC report and said the remarks were made on the 22nd (local time).",
+          "Chosun Biz explained that the view is that expanding AI infrastructure investment will sustain demand for high-bandwidth memory (HBM) and low-power DRAM (LPDDR). iNews24 wrote that Huang dismissed oversupply concerns, saying memory demand from AI data centers will keep growing, and added in its headline that he said he is open-minded about China's CXMT.",
+          "Digital Today reported that although memory stocks have recently plunged, Huang rebutted oversupply concerns by pointing to memory demand in AI and data centers."
+        ]
+      }
     },
     {
       "id": "s20261023-937efa30f9f2",
@@ -672,7 +824,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102216255567007"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI Korea says Korea ranks third for dots use and top five for ChatGPT Pro",
+        "points": [
+          "Korea ranks third globally in dots weekly active users",
+          "ChatGPT Pro users rank among the world's top five",
+          "OpenAI DevDay Exchange: Seoul held on the 22nd"
+        ],
+        "body": [
+          "OpenAI held a developer event, OpenAI DevDay Exchange: Seoul, in Seoul on the 22nd and said Korea ranks third in the world by weekly active users of its AI agent dots. AI Times reported that users of ChatGPT Pro, which costs $100 a month, rank among the world's top five, and Digital Today also wrote top five. Chosun Biz wrote that the same ranking is fifth in the world.",
+          "AI Times explained that Korea reached third place less than a month after dots launched, and Chosun Biz introduced dots as an AI agent OpenAI newly launched last month. AI Times gave the venue as Raum Art Center in Seoul, while Digital Daily wrote Gangnam District, Seoul.",
+          "Kim Kyung-hoon, head of OpenAI Korea, was mentioned as a speaker. Chosun Biz reported that the event presented a blueprint for \"the era of working with AI,\" and Digital Daily wrote that OpenAI said developer feedback drives innovation."
+        ]
+      }
     },
     {
       "id": "s20261023-159f8f76c79f",
@@ -702,7 +867,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709522"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Deputy PM Bae says Frontier AI is not a presidential directive at parliamentary audit",
+        "points": [
+          "Answer that the Frontier AI project is not a presidential directive",
+          "Whether to set up an SPC is not yet finalized",
+          "Outlets give different figures for the project's size"
+        ],
+        "body": [
+          "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon said the Frontier AI project is not one pursued on the president's instruction. iNews24 reported that he explained that whether to set up a special purpose company (SPC), which had been mentioned as a way to carry out the project, has not been finalized either. Digital Today wrote that the remark came at the National Assembly's Science, ICT, Broadcasting and Communications Committee audit on the 23rd.",
+          "The project's size differed by outlet. iNews24 wrote of a 16 trillion won \"Frontier AI\" project, while Digital Today wrote of a 4.7 trillion won \"Frontier AI\" project, using a different Korean spelling."
+        ]
+      }
     },
     {
       "id": "s20261023-80fd15dfc400",
@@ -738,7 +915,19 @@
           "link": "https://www.venturesquare.net/1122293"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "a16z Crypto renames itself Frontier and expands investment to AI and robotics",
+        "points": [
+          "a16z Crypto renamed a16z Frontier",
+          "Investment scope widens from crypto to new technologies",
+          "Chosun Biz cites AI, robotics and bio as targets"
+        ],
+        "body": [
+          "Venture capital firm Andreessen Horowitz (a16z) said on the 23rd that it is renaming a16z Crypto as a16z Frontier and broadening its investment targets. AI Newspaper (인공지능신문) reported that the scope widens from crypto startups to developing new technologies.",
+          "Outlets describe the expanded areas differently. Chosun Biz wrote of new technologies in general, including AI, robotics and bio, while VentureSquare wrote of next-generation technology fields such as AI, robotics, and bio and healthcare. VentureSquare also wrote that a16z mentioned new products and user experiences, not just using AI to make existing work more efficient."
+        ]
+      }
     },
     {
       "id": "s20261023-f1a8f7344bb7",
@@ -780,7 +969,19 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102210310533933"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hyundai AutoEver unveils public safety solution combining MobED-based robots and AI control",
+        "points": [
+          "Hyundai AutoEver shows solution at Korea Public Safety Industry Expo",
+          "Combines patrol robots, AI video analytics and integrated control",
+          "Uses MobED from Hyundai Motor and Kia's Robotics LAB"
+        ],
+        "body": [
+          "Hyundai AutoEver showcased a next-generation public safety and security solution combining patrol robots, AI video analytics and integrated control at the 2026 Korea Public Safety Industry Expo, which opened on the 21st. Digital Daily, IT Chosun, Techworld News and Robot Newspaper reported it.",
+          "Techworld News explained that it is an integrated public safety and security operations model using MobED, the mobile robot platform of Hyundai Motor and Kia's Robotics LAB. Robot Newspaper wrote that the solution fills blind spots and gaps in staffing that CCTV and patrol personnel struggle to cover, and IT Chosun reported a plan to support patrol and control work at public sites."
+        ]
+      }
     },
     {
       "id": "s20261023-b468be640f6c",
@@ -822,7 +1023,19 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709044"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Enhans and Autoand sign agreement to build AI-native auto commerce",
+        "points": [
+          "Enhans and Autoand sign a memorandum of understanding",
+          "Building commerce on AI agents and ontology",
+          "Plans vehicle management and subscription services linked to SDVs"
+        ],
+        "body": [
+          "Enhans, an enterprise agentic AI company, said on the 22nd that it signed a memorandum of understanding (MOU) with Autoand, a mobility lifestyle company, to develop AI agents and build ontology-based \"AI-native commerce.\" Hellot, Digital Today, Techworld News and VentureSquare reported the news.",
+          "VentureSquare explained that the aim is to combine Enhans' AI agent operating system AgentOS with Autoand's auto commerce data to automate product search, price analysis, product listing and sales operations. Techworld News reported that cooperation will expand to vehicle management and subscription services linked to software-defined vehicles (SDVs), and VentureSquare wrote in its headline that it targets SDV integration in 2028."
+        ]
+      }
     },
     {
       "id": "h20261022-74454a1f1fd0",
