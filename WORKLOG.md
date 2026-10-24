@@ -61,3 +61,4 @@
 - 2026-10-12: 기자 바이라인과 5명 체제, 영문판 1단계(/en), 애드센스 재심사 요청(robots.txt 수정), 주간 점검 46문장 수정.
 - 2026-10-10: 이용 제한 매체 제외, 기사별 핵심 요약과 검색용 페이지(/a/), 주제별 모음 페이지, GA 대시보드.
 - 2026-10-16: WORKLOG 도입. 세션 이어가기 규칙을 CLAUDE.md 에 추가.
+- 2026-10-24 21:55 광고 켜기 점검(사용자 요청): ainewswave.com 라이브 HTML 에 애드센스 스크립트(ca-pub-2376619512263295)와 google-adsense-account 메타, ads.txt(DIRECT) 모두 있음. 게시자 ID 는 donworrybehappy 와 같은 계정. 애드센스 광고 > 사이트 화면(사용자 캡처 21:41)에는 donworrybehappy.tistory.com 만 나오고 ainewswave.com 은 없음 -> 아직 광고 설정 가능한 준비 상태가 아닌 것으로 보임(10/20 기준 Getting ready). 코드는 이미 있어 더 넣을 것 없음. 다음: 애드센스 사이트 목록에서 ainewswave.com 상태 캡처, 준비 완료 뒤 광고 > 사이트에서 Auto ads ON, 유럽 방문자용 동의 관리(CMP) 켜기
