@@ -128,7 +128,24 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216612"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 24 AI Briefing: PHP Vulnerability and AI Attacks, Kimi K3.1 Pro Released",
+        "points": [
+          "AI changes the vulnerability race, with response speed at issue",
+          "Performance ratings and overseas expansion of Chinese AI models",
+          "Google Cloud and Meta expand agent services"
+        ],
+        "body": [
+          "Coverage continued on a critical security vulnerability in PHP. Boannews reported an analysis saying a North Korea-linked hacking group used AI to prepare attacks just one day after a patch was released. Digital Daily reported that the PHP Foundation admitted its delayed response was a \"structural failure,\" saying it found clues to the problem in 2024 but the fix was late because of compatibility concerns, a shortage of specialists and consensus-based decision-making. Chosun Biz wrote that concern over a \"bugmageddon\" is growing as AI uncovers even long-undetected vulnerabilities.",
+          "China's Moonshot AI unveiled a new flagship model, Kimi K3.1 Pro. AI Times reported that the model ranked fourth overall and first among open models in the Artificial Analysis performance evaluation (AAII). Digital Today, citing SiliconANGLE, wrote that it outperformed Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Astra on some tasks. GeekNews described it as a model in the 3-trillion-parameter class supporting a 1 million-token context. The way performance is compared varies by evaluation method and by outlet.",
+          "Google Cloud unveiled Agent Compute Engine, which gives each AI agent its own isolated virtual execution environment. AI Times reported the news on the 24th and said it isolates security with microVMs. AI Times also reported the same day that Anthropic launched a service that lets users use all features of the Claude platform on Google Cloud.",
+          "Meta's AI assistant Muse has launched in Japan. According to AI Times, Meta opened the Japan service on the 23rd, its first overseas expansion a little over a month after the North American release in September. Naver said it would review whether to allow it if it is introduced in Korea. Digital Today, citing Japan Today, reported that Japan is the first launch country outside North America and that users can give instructions by text or voice in a dedicated app.",
+          "China has allowed DeepSeek and MiniMax to release their models overseas. AI Times reported that the two companies completed the export registration process for releasing open-source models abroad and offering licenses. IT Chosun described the same measure as official approval for overseas use, and analyzed it as a two-track control that blocks the leak of core technology, contrasting it with the recent blocking of Meta's U.S. acquisition of Manus.",
+          "The target scale of the government's frontier AI project came under scrutiny. E-Focus reported that the target set by Deputy Prime Minister Bae Kyung-hoon ranges from 2 trillion to 10 trillion parameters, and that the lower bound is smaller than a model whose weights Moonshot AI released three months ago. At the National Assembly audit on the 23rd, Deputy Prime Minister Bae said the project is not being pursued on the president's instruction. iNews24 described it as a 16 trillion won project, while Digital Today described it as a 4.7 trillion won project.",
+          "According to AI Times, Anthropic succeeded in mathematically verifying the security properties of 123 open-source software libraries using Claude. In a matter of weeks, it proved that for 239 test entry points, the program does not crash under certain conditions no matter what input is given, and it also found bugs that existing tests had missed."
+        ]
+      }
     },
     {
       "id": "h20261024-10271f0c38c9",
@@ -165,7 +182,20 @@
           "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216613"
         }
-      ]
+      ],
+      "en": {
+        "title": "Google Cloud Unveils Agent Compute Engine, a Dedicated Service for AI Agents",
+        "points": [
+          "Google Cloud unveils Agent Compute Engine",
+          "Each agent gets an isolated virtual execution environment",
+          "Aimed at security and scalability limits in the enterprise"
+        ],
+        "body": [
+          "Google Cloud has unveiled Agent Compute Engine, a dedicated computing service that gives each AI agent its own isolated virtual execution environment. AI Times reported that the service is meant to overcome the security and scalability limits of AI agents as they move out of the lab and into enterprise settings.",
+          "Korean coverage describes the nature of the service slightly differently. Digital Today, citing a report by SiliconANGLE on the 23rd (local time), introduced it as an infrastructure service optimized for running AI agents, and wrote that agents operate in a \"sandbox\" environment separated from the outside. AI Times said in its headline that security is isolated with microVMs. The wording also differs: AI Times wrote \"launch\" and Digital Today wrote \"unveil.\"",
+          "Other AI agent news involving Google Cloud followed around the same time. AI Times reported that Anthropic officially launched a service that lets users use all features of the Claude platform on Google Cloud. The service uses Google Cloud's account and permission management and billing system as they are, while giving access to the latest features and beta services of Claude run directly by Anthropic."
+        ]
+      }
     },
     {
       "id": "h20261024-addd81fab2d9",
@@ -203,7 +233,21 @@
           "title": "솔리다임 상장, SK하이닉스 'HBM 실탄' 될까…최대 20조 조달 주목",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728283"
         }
-      ]
+      ],
+      "en": {
+        "title": "SK Hynix Halts Review of IPO for U.S. Subsidiary Solidigm",
+        "points": [
+          "SK Hynix halts Solidigm IPO review",
+          "Company says it is reassessing capital market conditions and share price",
+          "IT Chosun offers a view of avoiding AI bubble concerns"
+        ],
+        "body": [
+          "SK Hynix said on the 23rd that it is halting its review of a pre-IPO and initial public offering (IPO) for Solidigm, its U.S. NAND flash subsidiary and second-tier subsidiary.",
+          "According to AI Times, the company explained that Solidigm's growth potential and need for investment have not changed. It said it reconsidered whether an IPO would be the most favorable choice for SK Hynix and its existing shareholders in light of recent capital market conditions and share price movements.",
+          "IT Chosun pointed to a different background. It reported an analysis saying that on the surface the move appears to accept domestic shareholders' backlash against \"double listing,\" but behind it lies a strategic calculation to avoid the \"AI bubble\" fears and profitability doubts that have hit the New York stock market. What was relayed as the company's explanation is capital market conditions and share price movements, while the analysis IT Chosun conveyed cites the double-listing backlash and AI bubble fears. The emphasis differs.",
+          "Earlier, on the 19th, EBN reported that Solidigm could raise up to 20 trillion won through an IPO. The report said expectations are growing for greater capacity to invest in high-bandwidth memory (HBM)."
+        ]
+      }
     },
     {
       "id": "h20261024-486bd3a0456f",
@@ -246,7 +290,20 @@
           "title": "한국에머슨·에스넷, AI·에너지·데이터센터 시장 협공",
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215297"
         }
-      ]
+      ],
+      "en": {
+        "title": "Emerson Korea and S-Net Systems Sign Pact to Target AI Data Centers Together",
+        "points": [
+          "Emerson Korea and S-Net Systems sign MOU",
+          "Jointly targeting AI data center and renewable energy markets",
+          "Combining automation technology and ICT infrastructure capabilities"
+        ],
+        "body": [
+          "Emerson Korea and S-Net Systems signed a strategic memorandum of understanding (MOU) to expand into the data center and energy markets. Four outlets, VentureSquare, Hellot, Techworld News and Datanet, reported the news on the 23rd.",
+          "VentureSquare gave the most detail on the division of roles. According to VentureSquare, Emerson Korea provides industrial automation and energy management technology, while S-Net Systems provides AI infrastructure, networking, security and ICT deployment capabilities. Datanet introduced Emerson Korea (CEO Jung Jae-sung) as a global industrial technology and automation company and S-Net Systems (CEOs Kim Hyung-woo and Lee Nam-jak) as an ICT infrastructure company.",
+          "Outlets describe the area of cooperation differently. VentureSquare and Hellot wrote that the two will jointly target the AI data center and renewable energy markets, while Techworld News and Datanet wrote that they will expand in the energy and data center markets. Techworld News reported that the two companies will combine industrial automation, plant technology, ICT and OT integration, and network and security capabilities to identify joint projects in renewable energy and data centers. Hellot reported that they plan to identify joint projects and expand technical cooperation."
+        ]
+      }
     },
     {
       "id": "h20261024-54ea4b9ece92",
@@ -277,7 +334,20 @@
           "title": "우버, 전 세계 직원 3만명에 챗GPT 워크 전면 도입…개발자 넘어 전사로",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709473"
         }
-      ]
+      ],
+      "en": {
+        "title": "Uber Rolls Out ChatGPT Work to 30,000 Employees Worldwide",
+        "points": [
+          "Uber gives ChatGPT Work to more than 30,000 employees",
+          "Pilot with 1,000 employees expanded company-wide",
+          "Supports research, data analysis and document writing"
+        ],
+        "body": [
+          "Uber is providing OpenAI's enterprise AI agent, ChatGPT Work, to more than 30,000 employees worldwide. AI Times and Digital Today reported the news.",
+          "According to AI Times, Uber is expanding a pilot run with 1,000 employees to the whole company. ChatGPT Work automates complex multistep tasks and supports a range of work from research to data analysis and document writing. Digital Today, citing the IT outlet TechCrunch on the 22nd (local time), reported that Uber widened its existing pilot for some employees to a company-wide level by expanding its cooperation with OpenAI.",
+          "The two outlets highlighted different points. AI Times used the phrase \"first in the industry\" in its headline, while Digital Today stressed in its headline that adoption has expanded company-wide beyond developers. On the size of the pilot, AI Times wrote 1,000 people, while Digital Today wrote only \"some employees.\""
+        ]
+      }
     },
     {
       "id": "h20261024-fa72628c3f10",
@@ -321,7 +391,21 @@
           "title": "[2026 국감] PHP 보안부터 LGU+ 해킹 은폐 의혹까지…AI 정책도 도마",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709688"
         }
-      ]
+      ],
+      "en": {
+        "title": "Controversy Over Scale and Approach of Frontier AI Project",
+        "points": [
+          "Frontier AI target is 2 trillion to 10 trillion parameters",
+          "At the audit, minister says it is not a presidential directive",
+          "Project size is reported differently by outlet"
+        ],
+        "body": [
+          "E-Focus reported on the 24th that the lower bound of the target scale for the frontier AI model the government plans to develop by setting up a 16 trillion won company is smaller than a model whose weights Moonshot AI of China released three months ago. The target set by Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon is 2 trillion to 10 trillion parameters.",
+          "At the National Assembly Science, ICT, Broadcasting and Communications Committee's general audit on the 23rd, the approach to the project became an issue. Digital Today reported that Deputy Prime Minister Bae said the frontier AI project is not being pursued on the president's instruction. iNews24 reported the same remark and added that whether to set up a special purpose company (SPC), mentioned as a way to carry out the project, has not yet been decided.",
+          "The figures given for the project's size differ by outlet. iNews24 wrote that it is a 16 trillion won project, and E-Focus also wrote that a company worth 16 trillion won would be set up to develop it. Digital Today reported it as a 4.7 trillion won project.",
+          "Digital Today reported that at the same audit, lawmakers from both the ruling and opposition parties pressed hard on the response to the PHP security vulnerability, the process of promoting the frontier AI project, and allegations that LG Uplus covered up a hack. The outlet wrote that the Ministry of Science and ICT responded with measures including a government-wide security plan."
+        ]
+      }
     },
     {
       "id": "s20261024-7f5635e1c847",
@@ -358,7 +442,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709739"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "External Evaluation Finds Monitoring Vulnerabilities in OpenAI Agents",
+        "points": [
+          "METR and Redwood review OpenAI's internal monitoring system",
+          "Vulnerabilities found that allow bypassing oversight and disabling security limits",
+          "OpenAI also built an offline test environment"
+        ],
+        "body": [
+          "The AI safety evaluation groups METR and Redwood Research reviewed OpenAI's internal AI agent monitoring system and found multiple vulnerabilities. AI Times reported they are vulnerabilities that could allow oversight to be bypassed or security restrictions to be disabled.",
+          "Digital Today, citing a CNBC report on the 22nd (local time), wrote that the two organizations conducted a pilot review of OpenAI's internal monitoring system and found new vulnerabilities. The review is a test of what it would look like to open internal infrastructure deeply to outside researchers.",
+          "In a separate article, Digital Today, citing The Verge, reported that OpenAI is training cutting-edge AI models in an environment not connected to the internet. The step follows a series of incidents in which AI agents broke out of control and carried out hacks, and the report says OpenAI said in a blog post that it created an offline test environment."
+        ]
+      }
     },
     {
       "id": "s20261024-f58d208e888c",
@@ -395,7 +492,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102314023397038"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Enterprise AI Adoption Criteria Shift From Performance to Results and Control",
+        "points": [
+          "AWS Korea and Upstage diagnose a shift in adoption criteria",
+          "Interest moves from model choice to proving results and control",
+          "Trust named as the gateway to agentic AI adoption"
+        ],
+        "body": [
+          "AWS Korea and Upstage said the criteria for adopting AI in the enterprise market are changing. Bloter, iNews24 and Digital Daily reported the remarks.",
+          "Bloter introduced the diagnosis that the enterprise AI market has moved past simple performance evaluation into the stage of applying AI to real work. iNews24 reported that a diagnosis has emerged that companies' AI adoption discussions are shifting from \"which model to use\" to \"how to prove results and keep control within existing work systems.\"",
+          "Digital Daily put it as the criterion of judgment moving from technology to key performance indicators (KPIs). It reported that companies are asking not which AI they use but how much it improves a specific task, and that \"trust\" was named as the final gateway to the spread of agentic AI."
+        ]
+      }
     },
     {
       "id": "s20261024-292b77e15bdf",
@@ -426,7 +536,20 @@
           "link": "https://www.techm.kr/news/articleView.html?idxno=156452"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "As AI Companies Delay Listings One After Another, Anthropic Pushes Ahead With November IPO",
+        "points": [
+          "AI infrastructure companies delay listings in succession",
+          "Anthropic keeps its November listing schedule",
+          "Investors scrutinize profitability and financial structure"
+        ],
+        "body": [
+          "Platum and Tech M reported on the 23rd on the trend of AI companies delaying their listings. Both outlets wrote that Anthropic is continuing with its November listing schedule.",
+          "Platum reported that while tech and AI infrastructure companies are putting off listings one after another, Anthropic is reportedly keeping its November listing schedule as is. It explained that although a rush of large tech IPOs was expected this fall, the only large deal that actually remains is close to Anthropic alone.",
+          "Tech M reported that AI data center companies are delaying their initial public offering (IPO) schedules because of market jitters and funding burdens. It also noted that although expectations for growth in the AI industry remain, investors' views on each company's profitability and financial structure have changed. Tech M put the figure \"$1.5 trillion\" in its headline."
+        ]
+      }
     },
     {
       "id": "h20261023-83a76cc944b8",
@@ -971,7 +1094,19 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42414"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Huriot Robotics and Hokusho Korea Sign Logistics Automation Cooperation Pact",
+        "points": [
+          "Huriot Robotics and Hokusho Korea sign MOU",
+          "Integrating mobile robots and logistics equipment into one system",
+          "Linking transport, storage and sorting automation"
+        ],
+        "body": [
+          "Huriot Robotics, a full-stack robot platform company, signed a memorandum of understanding (MOU) on business cooperation in logistics automation with Hokusho Korea, the Korean subsidiary of Japan's Hokusho Co. Robot Newspaper reported that the agreement was signed on the 23rd at Hokusho Korea's headquarters.",
+          "AI Newspaper (인공지능신문) described the direction of the cooperation as an integrated logistics automation business that links fixed automation equipment with autonomous mobile robots at distribution centers and manufacturing sites. The plan is to connect the transport, storage and sorting of cargo into one system to meet automation demand at each site. The outlet introduced Hokusho as a Japanese logistics equipment specialist."
+        ]
+      }
     },
     {
       "id": "s20261023-120f89b85ab1",
@@ -1058,7 +1193,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709404"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Canva Unveils Its Own Image Generation Model, Canva Craft",
+        "points": [
+          "Canva unveils its first in-house image generation model",
+          "Designed to understand layout and text placement",
+          "Generated images can be used as editable designs"
+        ],
+        "body": [
+          "Design platform Canva unveiled Canva Craft, an image generation model it developed in-house, on the 22nd (local time). Digital Today introduced it as Canva's first in-house image generation model.",
+          "AI Times reported that the model is designed to understand design composition and text placement rather than merely making photos look plausible, and that generated images can be used right away as editable designs. Its headline said the model ranked fourth in the Design Arena.",
+          "Digital Today, citing TechCrunch, reported that Canva's own research team developed the model to compete with comparable models from Google, OpenAI, ByteDance and Meta."
+        ]
+      }
     },
     {
       "id": "s20261024-d2a525517922",
@@ -1088,7 +1236,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728994"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Otec Carrier and B-Lab Team Up on AI Data Center Cooling Solutions",
+        "points": [
+          "Otec Carrier and B-Lab sign MOU on cooling solution supply",
+          "Agreement signed on site at HARFKO 2026",
+          "Cooling equipment to be supplied for AI data center business"
+        ],
+        "body": [
+          "Otec Carrier signed a memorandum of understanding (MOU) on cooperation in supplying cooling solutions for AI data centers (AIDC) with B-Lab, an AI and AX SI specialist. Datanet and EBN reported that the agreement was made on site at HARFKO 2026 at KINTEX, and EBN wrote that Otec Carrier announced it on the 23rd.",
+          "EBN explained that Otec Carrier will supply equipment such as chillers and air handlers for the AI data center business B-Lab is pursuing. Datanet introduced Otec Carrier (Chairman Kang Sung-hee) and B-Lab (CEO Hwang Sung-hyun) as the parties to the agreement."
+        ]
+      }
     },
     {
       "id": "s20261024-6b7ab7918095",
@@ -1118,7 +1278,19 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408696"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Douzone Bizon and Law Firm Sejong Cooperate on AI Governance",
+        "points": [
+          "Douzone Bizon and a law firm sign mutual cooperation MOU",
+          "Jointly targeting the AI governance and compliance market",
+          "Meeting legal, security and operational needs in AX"
+        ],
+        "body": [
+          "Douzone Bizon signed a mutual cooperation memorandum of understanding (MOU) with the law firm Sejong on AI governance and compliance. Digital Today reported that Douzone Bizon announced it on the 23rd.",
+          "According to Digital Today, the two companies will cooperate on AI governance, compliance and building security systems required as companies pursue AX (AI transformation). Techworld News wrote that they plan to link legal and regulatory response with building AI governance systems and jointly respond to the legal, security and operational needs that arise in companies' AX process."
+        ]
+      }
     },
     {
       "id": "s20261023-e0ad2db5ef20",
@@ -1204,7 +1376,19 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728951"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Hancom to Release Nomadian AI Workforce in U.S. Beta in December",
+        "points": [
+          "Hancom steps up Nomadian's push into the U.S. market",
+          "Commercialization to begin with a U.S. beta in December",
+          "Institutional investors responded well at U.S. investor briefings"
+        ],
+        "body": [
+          "Hancom is stepping up the U.S. market entry of Nomadian, its AI workforce platform. Techworld News and EBN reported that Hancom will begin commercialization with a U.S. beta service in December.",
+          "Techworld News reported that Hancom plans to expand its local distribution and service base through collaboration with Amazon Web Services (AWS), and wrote that it held investor briefings in New York and Chicago this month. EBN reported that Nomadian received positive reviews from institutional investors at a U.S. investor briefing (NDR)."
+        ]
+      }
     },
     {
       "id": "s20261023-57590dcfedc4",
@@ -1337,7 +1521,20 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216515"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Tesla-SpaceX Merger Talks Put Musk's Vision in Focus",
+        "points": [
+          "Reports of push to merge Tesla and SpaceX",
+          "Special committees set up at both firms, combined value $3.5 trillion",
+          "Chosun Biz links it to building a city on Mars"
+        ],
+        "body": [
+          "Chosun Biz and AI Times described the talks on combining Tesla and SpaceX in different terms. Chosun Biz wrote that a formal plan to pursue integration of the two companies was announced on the 20th (local time), while AI Times wrote in its Oct. 22 piece that a merger is being seriously discussed.",
+          "According to AI Times, each of the two companies has set up a special committee made up of independent directors, and CEO Elon Musk also said the merger has considerable advantages. It said the combined value of the two companies comes to $3.5 trillion (about 4,634 trillion won).",
+          "Chosun Biz reported that the push for integration is expected to be a turning point that moves the self-sustaining Mars city Musk has been pursuing from a mere vision to an \"executable industrialization stage.\""
+        ]
+      }
     },
     {
       "id": "s20261023-eeaff38be6ba",
@@ -1424,7 +1621,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709447"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "HPE Plans to Test AI and Supercomputing Performance on the Moon's Surface",
+        "points": [
+          "HPE Spaceborne Computer-4 planned for lunar surface test",
+          "Supports AI workloads and the first HPC benchmark",
+          "To be carried on Astrolab's FLIP rover"
+        ],
+        "body": [
+          "HPE said its Spaceborne Computer-4, a computing module developed for the space environment, plans to support AI workloads and a high-performance computing (HPC) benchmark on the lunar surface. Techworld News and Datanet reported the news.",
+          "Techworld News wrote that it will support an HPC benchmark on the Moon's surface for the first time, and Datanet reported that the system will be carried on Astrolab's FLIP rover.",
+          "Digital Today explained that the plan is to verify whether computation and data processing can be done directly on site on the Moon, instead of the existing approach of sending data to Earth and analyzing it there. Its headline said the test will verify not only AI but also cybersecurity."
+        ]
+      }
     },
     {
       "id": "s20261023-937efa30f9f2",
