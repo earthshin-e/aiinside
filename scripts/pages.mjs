@@ -65,7 +65,7 @@ function page(st, others, nav) {
 <title>${esc(st.title)} | AI 뉴스웨이브</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${url}">
-${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<link rel="alternate" hreflang="en" href="${SITE}/en/recap/${st.id}.html">` : ''}
+${digestOf.has(st.id) ? '<meta name="robots" content="noindex,follow">\n' : ''}${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<link rel="alternate" hreflang="en" href="${SITE}/en/recap/${st.id}.html">` : ''}
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="AI 뉴스웨이브">
 <meta property="og:title" content="${esc(st.title)}">
@@ -93,6 +93,7 @@ ${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<l
   <article>
     <p class="meta">${st.type === 'briefing' ? 'AI 브리핑' : `<a href="${topicFile(st.category)}">${esc(st.category)}</a>`}</p>
     <h1>${esc(st.title)}</h1>
+    ${digestOf.has(st.id) ? `<p class="meta">이 글은 <a href="${digestFile(digestOf.get(st.id))}">${ymdLabel(digestOf.get(st.id))} AI 정리 모음</a>에도 실려 있습니다.</p>` : ''}
     <p class="meta">${st.author ? `글 <a href="author/${authorFile(st.author)}">${esc(st.author)}</a>` : 'AI 뉴스웨이브'} | ${kstDate(st.published)} | ${st.sources.length}개 매체 보도 종합</p>
     ${st.points && st.points.length ? `<h2>핵심 요약</h2>\n    <ul>${st.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
     <h2>본문</h2>
@@ -115,11 +116,29 @@ ${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<l
 `;
 }
 
+// 얇은 정리 기사 합치기(2026-10-26): 정리 기사 본문이 중앙값 256자라 구글이 "발견됨, 색인 안 됨"으로 미룹니다.
+// 본문 THIN_MAX 자 미만인 자동 정리 기사는 같은 날 글끼리 날짜별 모음 페이지(/recap/d<날짜>.html)로 묶어 색인 대상으로 삼고,
+// 개별 페이지는 noindex,follow 로 두며 사이트맵과 피드에서 뺍니다(모음 페이지가 내용을 모두 담고 개별 페이지로 링크합니다).
+const THIN_MAX = 500;
+const bodyLen = (s) => s.body.join('').replace(/\s/g, '').length;
+const ymd = (iso) => { const d = new Date(new Date(iso).getTime() + 9 * 3600000); return `${d.getUTCFullYear()}${String(d.getUTCMonth() + 1).padStart(2, '0')}${String(d.getUTCDate()).padStart(2, '0')}`; };
+const ymdLabel = (k) => `${Number(k.slice(4, 6))}월 ${Number(k.slice(6, 8))}일`;
+const isThin = (s) => s.type !== 'briefing' && !s.author && bodyLen(s) < THIN_MAX;
+const digestGroups = new Map();
+for (const s of stories) if (isThin(s)) { const k = ymd(s.published); if (!digestGroups.has(k)) digestGroups.set(k, []); digestGroups.get(k).push(s); }
+for (const [k, l] of [...digestGroups]) if (l.length < 2) digestGroups.delete(k);
+const digestOf = new Map();
+for (const [k, l] of digestGroups) for (const s of l) digestOf.set(s.id, k);
+const digestFile = (k) => `d${k}.html`;
+const digestKeys = [...digestGroups.keys()].sort().reverse();
+
 const dir = path.join(pub, 'recap');
 await mkdir(dir, { recursive: true });
-const keep = new Set([...stories.map((s) => `${s.id}.html`), 'index.html', 'feed.xml', ...Object.keys(TOPICS).map(topicFile)]);
+const keep = new Set([...stories.map((s) => `${s.id}.html`), 'index.html', 'feed.xml', ...Object.keys(TOPICS).map(topicFile), ...digestKeys.map(digestFile)]);
 for (const f of await readdir(dir)) if (f.endsWith('.html') && !keep.has(f)) await unlink(path.join(dir, f));
 const sorted = [...stories].sort((a, b) => new Date(b.published) - new Date(a.published));
+// 피드에는 개별 얇은 글 대신 날짜별 모음 페이지를 싣습니다.
+const feedItems = [...sorted.filter((s) => !digestOf.has(s.id)), ...digestKeys.map((k) => { const l = digestGroups.get(k); return { id: digestFile(k).replace(/\.html$/, ''), title: `${ymdLabel(k)} AI 정리 모음`, published: l.map((s) => s.published).sort().pop(), category: 'AI 정리 모음', points: l.slice(0, 3).map((s) => s.title), body: [] }; })].sort((a, b) => new Date(b.published) - new Date(a.published));
 // 같은 주제 글 연결(2026-10-26): 모든 글이 같은 최신 5건만 가리키면 오래된 글로 들어오는 링크가 없어 구글이 크롤을 미룹니다.
 // 공통 키워드(2점씩), 같은 분류(1점), 같은 기자(1점)로 점수를 매겨 관련 글 6건을 붙이고, 시간순 이전 글과 다음 글도 붙여 모든 글이 서로 이어지게 합니다.
 for (let i = 0; i < sorted.length; i++) {
@@ -341,7 +360,7 @@ await writeFile(path.join(adir, 'feed.xml'), `<?xml version="1.0" encoding="UTF-
   <link>${SITE}/recap/</link>
   <description>여러 매체 보도를 AI 뉴스웨이브가 사실만 모아 새로 정리한 글과 매일 AI 브리핑</description>
   <language>ko</language>
-${sorted.slice(0, 200).map((st) => `  <item>
+${feedItems.slice(0, 200).map((st) => `  <item>
     <title>${acdata(st.title)}</title>
     <link>${SITE}/recap/${st.id}.html</link>
     <guid isPermaLink="true">${SITE}/recap/${st.id}.html</guid>
@@ -499,6 +518,30 @@ for (const n of enAuthors) {
   if (next !== ihtml) await writeFile(ipath, next);
 }
 
+// 날짜별 정리 모음 페이지(/recap/d<날짜>.html)
+for (let i = 0; i < digestKeys.length; i++) {
+  const k = digestKeys[i];
+  const l = [...digestGroups.get(k)].sort((a, b) => new Date(b.published) - new Date(a.published));
+  const cats = Object.keys(TOPICS).filter((c) => l.some((s) => s.category === c));
+  const prevK = digestKeys[i + 1], nextK = digestKeys[i - 1];
+  const sections = cats.map((c) => `  <h2>${esc(c)}</h2>
+  ${l.filter((s) => s.category === c).map((s) => `<article>
+    <h3><a href="${esc(s.id)}.html">${esc(s.title)}</a></h3>
+    ${s.points && s.points.length ? `<ul>${s.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
+    ${s.body.map((p) => `<p>${esc(p)}</p>`).join('\n    ')}
+    <p class="meta">출처: ${s.sources.map((x) => `${esc(x.name)}(<a href="${esc(x.link)}" rel="noopener nofollow" target="_blank">${esc(x.title)}</a>)`).join(', ')}</p>
+  </article>`).join('\n  ')}`).join('\n');
+  await writeFile(path.join(dir, digestFile(k)), listPage({
+    title: `${ymdLabel(k)} AI 정리 모음`,
+    desc: `${ymdLabel(k)} 여러 매체가 함께 보도한 AI 소식 ${l.length}건을 핵심 요약, 본문, 출처와 함께 모았습니다.`,
+    canon: digestFile(k),
+    main: `  <h1>${ymdLabel(k)} AI 정리 모음</h1>
+  <p>${ymdLabel(k)} 여러 매체가 함께 보도한 AI 소식 ${l.length}건을 AI 뉴스웨이브가 사실만 모아 새로 정리했습니다. 분야는 ${cats.map(esc).join(', ')}이며, 글마다 근거가 된 언론사 기사를 밝힙니다.</p>
+${sections}
+  <p class="meta">${nextK ? `<a href="${digestFile(nextK)}">다음 모음: ${ymdLabel(nextK)}</a> | ` : ''}${prevK ? `<a href="${digestFile(prevK)}">이전 모음: ${ymdLabel(prevK)}</a> | ` : ''}<a href="./">정리 기사 전체 보기</a></p>`,
+  }));
+}
+
 const now = new Date().toISOString();
 const urls = [
   { loc: `${SITE}/`, lastmod: now, freq: 'hourly', pri: '1.0' },
@@ -510,7 +553,8 @@ const urls = [
   ...['about', 'privacy', 'contact'].map((p) => ({ loc: `${SITE}/${p}.html`, freq: 'monthly', pri: '0.3' })),
   { loc: `${SITE}/en/`, lastmod: now, freq: 'daily', pri: '0.8' },
   ...enStories.map((s) => ({ loc: `${SITE}/en/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: '0.7' })),
-  ...stories.map((s) => ({ loc: `${SITE}/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: s.type === 'briefing' ? '0.8' : '0.7' })),
+  ...digestKeys.map((k) => ({ loc: `${SITE}/recap/${digestFile(k)}`, lastmod: digestGroups.get(k).map((s) => s.published).sort().pop(), freq: 'daily', pri: '0.8' })),
+  ...stories.filter((s) => !digestOf.has(s.id)).map((s) => ({ loc: `${SITE}/recap/${s.id}.html`, lastmod: s.published, freq: 'never', pri: s.type === 'briefing' ? '0.8' : '0.7' })),
 ];
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -533,7 +577,7 @@ const feed = `<?xml version="1.0" encoding="UTF-8"?>
   <description>여러 매체가 함께 보도한 AI 소식을 사실만 모아 새로 정리한 글과 매일 AI 브리핑</description>
   <language>ko</language>
   <lastBuildDate>${rfc822(now)}</lastBuildDate>
-${sorted.slice(0, 500).map((st) => `  <item>
+${feedItems.slice(0, 500).map((st) => `  <item>
     <title>${cdata(st.title)}</title>
     <link>${SITE}/recap/${st.id}.html</link>
     <guid isPermaLink="true">${SITE}/recap/${st.id}.html</guid>
