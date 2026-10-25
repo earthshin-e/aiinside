@@ -33,7 +33,20 @@
           "title": "삼성, 하반기 GSAT 실시…AI·반도체 이끌 핵심 인재 찾는다",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729035"
         }
-      ]
+      ],
+      "en": {
+        "title": "Samsung Holds Second-Half GSAT to Secure AI and Semiconductor Talent",
+        "points": [
+          "Samsung holds second-half GSAT on Oct. 24-25",
+          "19 affiliates take part in second-half hiring",
+          "Plan to secure core talent in chips, AI and bio"
+        ],
+        "body": [
+          "Samsung administered the Samsung Aptitude Test (GSAT) for its second-half 2026 open recruitment of new employees. Samsung said on the 25th that it ran the test for applicants over two days, from the 24th to the 25th. Techworld News and EBN reported the news.",
+          "Techworld News reported that Samsung plans to secure the core talent needed for future growth businesses such as semiconductors, artificial intelligence (AI) and bio, and to continue creating jobs for young people. EBN said in its headline that Samsung is looking for the key talent that will lead AI and semiconductors.",
+          "According to EBN, 19 affiliates, including Samsung Electronics, Samsung C&T and Samsung Biologics, are taking part in this second-half hiring. EBN described the GSAT as a test that evaluates applicants' comprehensive thinking ability and problem-solving skills."
+        ]
+      }
     },
     {
       "id": "h20261025-f39fa472945c",
@@ -64,7 +77,20 @@
           "title": "AWS 2027년분 거의 매진…울산 AI센터도 그해 가동",
           "link": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003139"
         }
-      ]
+      ],
+      "en": {
+        "title": "AWS Compute Capacity Through 2027 Virtually Sold Out as AI Demand Surges",
+        "points": [
+          "AWS compute capacity for 2026-2027 virtually sold",
+          "Much of the 2028 supply is also reserved",
+          "AI infrastructure demand exceeds expectations"
+        ],
+        "body": [
+          "Amazon Web Services (AWS) compute capacity has mostly been sold through 2027 amid surging demand for AI infrastructure. AI Times and Efocus (이포커스) reported that Amazon CEO Andy Jassy described the situation on the 23rd, U.S. time.",
+          "According to AI Times, AWS's compute capacity for 2026 and 2027 is virtually all sold. Because AI infrastructure demand has surged beyond expectations, a significant portion of the supply for 2028 is already reserved, it said. Efocus wrote that Jassy said most of the 2027 capacity has been sold because of AI demand. The two outlets' wording differs, with AI Times saying virtually all sold and Efocus saying mostly sold.",
+          "Efocus reported that the amount AWS customers have contracted for but not yet booked as revenue stood at $496 billion as of the end of June. The outlet also reported that the target start date of the Ulsan AI data center overlaps with the sold-out period."
+        ]
+      }
     },
     {
       "id": "h20261025-ee22c2c97725",
@@ -88,7 +114,19 @@
           "title": "한국판 CES 대구 ‘FIX’에 11만7000여명 다녀가⋯AI·로봇 관심 증가",
           "link": "https://www.kmib.co.kr/article/20261025500291"
         }
-      ]
+      ],
+      "en": {
+        "title": "Daegu FIX 2026 Draws 117,000 Visitors, Largest Ever",
+        "points": [
+          "Daegu FIX 2026 draws about 117,000 visitors",
+          "Largest-ever scale, held Oct. 21-24 at EXCO",
+          "Theme: AI, Beyond Technology to Everyday Life"
+        ],
+        "body": [
+          "According to Kukmin Ilbo, the Daegu city government said on the 25th that about 117,000 visitors attended the 2026 Future Innovation Technology Expo (FIX 2026), held at EXCO in Daegu from the 21st to the 24th. This year's event was the largest ever.",
+          "The theme of the event was \"AI, Beyond Technology to Everyday Life.\" Kukmin Ilbo introduced the event as Korea's version of CES and said in its headline that interest in AI and robots grew."
+        ]
+      }
     },
     {
       "id": "h20261025-ee2caef0aa5d",
@@ -112,7 +150,19 @@
           "title": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216624"
         }
-      ]
+      ],
+      "en": {
+        "title": "Musk Predicts AI Agents Will Raise Telecom Demand 1,000-Fold",
+        "points": [
+          "Musk forecasts 1,000-fold telecom demand in 3-5 years",
+          "AI agents to exchange data with one another",
+          "SpaceX acquires low-band spectrum"
+        ],
+        "body": [
+          "According to AI Times, Elon Musk predicted that as AI agents increase, demand for telecom bandwidth will reach 1,000 times the current level within three to five years.",
+          "Musk's explanation is that more AI agents than people will each exchange more data than people do. AI Times reported that SpaceX recently signed a deal to acquire low-band spectrum across the United States. In its headline, the outlet said SpaceX is pushing to secure 80,000 base stations."
+        ]
+      }
     },
     {
       "id": "h20261025-62324b07ee57",
@@ -136,7 +186,19 @@
           "title": "젠슨 황 시연에 미니로봇 주문 급증…“올해 가장 많이 팔릴 수도”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216626"
         }
-      ]
+      ],
+      "en": {
+        "title": "Micro Duck, Mini Robot Shown by Jensen Huang, Nears 20,000 Preorders",
+        "points": [
+          "Micro Duck nears 20,000 preorders",
+          "Interest surges after Jensen Huang's stage demo",
+          "Developer expects it to be this year's best-selling robot"
+        ],
+        "body": [
+          "According to AI Times, Micro Duck, the small robot that Nvidia CEO Jensen Huang played with on stage, is nearing 20,000 preorders.",
+          "Micro Duck drew attention by waddling and even doing somersaults on command. AI Times reported that the developer said it could become the best-selling robot this year."
+        ]
+      }
     },
     {
       "id": "b20261025",
@@ -231,7 +293,23 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216626"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 25 AI Briefing: AWS Capacity Sold Out, UK Announces AI Investment",
+        "points": [
+          "AI infrastructure demand is reflected in cloud capacity and telecom forecasts",
+          "UK investment and an Anthropic bill spread AI safety discussion",
+          "FSS AI tracking of illegal private lending, Samsung hiring and Daegu FIX news continue"
+        ],
+        "body": [
+          "According to AI Times, AWS's compute capacity for 2026 and 2027 is virtually all sold. Efocus (이포커스) reported that Amazon CEO Andy Jassy said most of the 2027 capacity has been sold. AI Times explained that much of the 2028 supply is also already reserved.",
+          "The UK government announced on the 24th, local time, an AI investment plan of more than 600 million pounds (about 1 trillion won). AI Newspaper (인공지능신문) reported that it covers responding to biological threats and cyberattacks, domestic AI companies and advanced semiconductors, and fostering physical AI. Efocus compared that Korea's AI safety and trust budget is about one thirty-ninth of the UK's AI security investment.",
+          "IT Chosun reported that Anthropic is proposing to the U.S. Congress a bill that would allow the deployment of AI models at risk of causing large-scale loss of life and property damage to be halted.",
+          "According to AI Times, Elon Musk predicted that as AI agents increase, demand for telecom bandwidth will reach 1,000 times the current level within three to five years.",
+          "The Financial Supervisory Service said on the 25th that it has built a system that uses AI to track illegal private lending rings. Digital Daily reported that the FSS analyzed 380,000 pieces of related information and identified hidden loan-shark rings and additional cases of harm. Chosun Biz reported that inspections and crackdowns on dozens of lenders are planned.",
+          "Samsung said on the 25th that it administered the GSAT for its second-half new-hire recruitment from the 24th to the 25th. According to EBN, 19 affiliates, including Samsung Electronics, Samsung C&T and Samsung Biologics, took part. Kukmin Ilbo reported that the Daegu city government said about 117,000 people attended FIX 2026, held from the 21st to the 24th. AI Times reported that Micro Duck, the small robot Jensen Huang used in a demo, is nearing 20,000 preorders."
+        ]
+      }
     },
     {
       "id": "s20261025-25c1cb3b8272",
@@ -262,7 +340,20 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102514393778246"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Financial Supervisory Service Builds AI System to Track Illegal Private Lending Rings",
+        "points": [
+          "FSS builds AI-based system to track illegal private lending",
+          "380,000 pieces of illegal lending information analyzed as big data",
+          "Registered lenders also found to be involved"
+        ],
+        "body": [
+          "The Financial Supervisory Service (FSS) said on the 25th that it has built an analysis system that uses artificial intelligence (AI) to track the people behind illegal private lending rings. Chosun Biz and Digital Daily reported the news.",
+          "According to Chosun Biz, the FSS plans to inspect and crack down on dozens of lenders based on the big data analysis results. Chosun Biz explained that illegal private lending rings operate as loosely linked cells, dividing roles such as advertising, lending, collection and sales.",
+          "Digital Daily reported that the FSS analyzed 380,000 pieces of information on illegal private lending with AI and identified previously undetected loan-shark rings and additional cases of harm. It also reported signs that formally registered lenders took part in illegal lending."
+        ]
+      }
     },
     {
       "id": "s20261025-c2d1a1e381c2",
@@ -292,7 +383,19 @@
           "link": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003141"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "UK Announces AI Investment of Over 600 Million Pounds, Compared With Korea's AI Safety Budget",
+        "points": [
+          "UK government announces AI investment of over 600 million pounds",
+          "Fostering biosecurity, cyber defense and physical AI",
+          "Korea's AI safety budget is 1/39 of UK investment"
+        ],
+        "body": [
+          "The UK government announced on the 24th, local time, an investment plan of more than 600 million pounds (about 1 trillion won), treating artificial intelligence (AI) as a core foundation of national security and industrial competitiveness. AI Newspaper (인공지능신문) reported that the plan aims to use AI to counter biological threats and cyberattacks while also fostering domestic AI companies, advanced semiconductors and the physical AI industry.",
+          "Efocus (이포커스) compared the announcement with Korea's budget. Korea's AI safety and trust budget rises from 5.8 billion won in 2024 to 27.4 billion won in 2027, but that is only about one thirty-ninth of the AI security investment the UK announced on the 24th. Efocus reported that over the same period the AI performance and infrastructure budget grows about 29-fold, from 208.8 billion won to 6.149 trillion won. In its headline, Efocus said the UK is setting up a biosecurity research institute."
+        ]
+      }
     },
     {
       "id": "b20261024",
