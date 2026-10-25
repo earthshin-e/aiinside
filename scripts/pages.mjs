@@ -42,7 +42,7 @@ for (const s of stories) for (const k of storyKw.get(s.id)) { if (!kwStories.has
 for (const [k, l] of [...kwStories]) if (l.length < KW_MIN) kwStories.delete(k);
 
 
-function page(st, others) {
+function page(st, others, nav) {
   const url = `${SITE}/recap/${st.id}.html`;
   const desc = (st.points && st.points.length ? st.points.join('. ') : st.body[0] || '').slice(0, 150);
   const ld = {
@@ -103,8 +103,10 @@ ${st.en && st.en.title ? `<link rel="alternate" hreflang="ko" href="${url}">\n<l
   </article>
   ${(storyKw.get(st.id) || []).filter((k) => kwStories.has(k)).length ? `<h2>관련 키워드</h2>
   <p class="topics">${storyKw.get(st.id).filter((k) => kwStories.has(k)).map((k) => `<a href="kw/${encodeURI(kwFile(k))}">${esc(k)} ${kwStories.get(k).length}</a>`).join('')}</p>` : ''}
-  ${others.length ? `<h2>다른 정리 기사</h2>
+  ${others.length ? `<h2>같은 주제 정리 기사</h2>
   <ul>${others.map((o) => `<li><a href="${esc(o.id)}.html">${esc(o.title)}</a></li>`).join('')}</ul>` : ''}
+  ${nav && (nav.prev || nav.next) ? `<h2>이전 글, 다음 글</h2>
+  <ul>${nav.next ? `<li>다음 글: <a href="${esc(nav.next.id)}.html">${esc(nav.next.title)}</a></li>` : ''}${nav.prev ? `<li>이전 글: <a href="${esc(nav.prev.id)}.html">${esc(nav.prev.title)}</a></li>` : ''}</ul>` : ''}
   <p><a href="./">정리 기사 전체 보기</a> | <a href="../">AI 뉴스웨이브에서 최신 AI 뉴스 보기</a></p>
 </main>
 <footer class="wrap foot"><a href="../">홈</a><a href="./">정리 기사</a><a href="../about.html">소개</a><a href="../privacy.html">개인정보처리방침</a><a href="../contact.html">문의</a><a href="#feedback" data-feedback>의견 보내기</a><a href="/en/" hreflang="en">English</a></footer>
@@ -118,9 +120,22 @@ await mkdir(dir, { recursive: true });
 const keep = new Set([...stories.map((s) => `${s.id}.html`), 'index.html', 'feed.xml', ...Object.keys(TOPICS).map(topicFile)]);
 for (const f of await readdir(dir)) if (f.endsWith('.html') && !keep.has(f)) await unlink(path.join(dir, f));
 const sorted = [...stories].sort((a, b) => new Date(b.published) - new Date(a.published));
-for (const st of sorted) {
-  const others = sorted.filter((o) => o.id !== st.id).slice(0, 5);
-  await writeFile(path.join(dir, `${st.id}.html`), page(st, others));
+// 같은 주제 글 연결(2026-10-26): 모든 글이 같은 최신 5건만 가리키면 오래된 글로 들어오는 링크가 없어 구글이 크롤을 미룹니다.
+// 공통 키워드(2점씩), 같은 분류(1점), 같은 기자(1점)로 점수를 매겨 관련 글 6건을 붙이고, 시간순 이전 글과 다음 글도 붙여 모든 글이 서로 이어지게 합니다.
+for (let i = 0; i < sorted.length; i++) {
+  const st = sorted[i];
+  const mine = new Set(storyKw.get(st.id) || []);
+  const scored = sorted.filter((o) => o.id !== st.id).map((o) => {
+    let sc = 0;
+    for (const k of storyKw.get(o.id) || []) if (mine.has(k)) sc += 2;
+    if (o.category === st.category) sc += 1;
+    if (st.author && o.author === st.author) sc += 1;
+    return { o, sc };
+  }).filter((x) => x.sc > 0).sort((a, b) => b.sc - a.sc || new Date(b.o.published) - new Date(a.o.published));
+  const others = scored.slice(0, 6).map((x) => x.o);
+  if (others.length < 5) for (const o of sorted) { if (others.length >= 5) break; if (o.id !== st.id && !others.includes(o)) others.push(o); }
+  const nav = { next: i > 0 ? sorted[i - 1] : null, prev: i < sorted.length - 1 ? sorted[i + 1] : null };
+  await writeFile(path.join(dir, `${st.id}.html`), page(st, others, nav));
 }
 
 // 정리 기사 모음 페이지 (/recap/): 브리핑과 정리 기사를 날짜별로 모아 보여 줍니다.

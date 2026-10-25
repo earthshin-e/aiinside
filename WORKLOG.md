@@ -29,6 +29,7 @@
 - 2026-10-16: 맥, 폰 어디서든 이어서 작업하도록 GitHub(earthshin-e/ainewswave)와 구글 드라이브(hazel@teamspot.biz/ainewswave)로 관리하기로 함.
 
 ## 기록 (최신이 위)
+- 2026-10-26 색인 점검과 매일 색인 요청 루틴 추가(사용자 요청, 금융블로그 방식): Search Console(hazelyuu@gmail.com, authuser=0)에서 ainewswave.com 접근 정상 확인(10/20 접근 불가는 해소). 색인 9건(10/16 2건에서 증가), 미색인 151(발견됨 색인 안 됨 149, 크롤됨 2). /recap/feed.xml 10/23 읽음 240건. 예약 작업 ainewswave-index-daily(매일 19:40, 하루 최대 10건, 로그 통계/색인요청_로그.csv)
 - 2026-10-20: 기자 페이지에 소개 문구와 담당 분야(한국어, 영문, ProfilePage description, knowsAbout). 18:30 글쓰기 작업의 기자 배정을 순번에서 담당 분야로 바꿈.
 - 2026-10-20: 애드센스 여전히 Getting ready(ads.txt Authorized, 마지막 갱신 10/12). Search Console 은 hazelyuu@gmail.com 에서 속성 접근 불가로 확인, 색인 요청 못 함.
 - 2026-10-19: 어젯밤 자동 작업 정상(글쓰기, 당일 점검 5문장 수정, 번역 9건, 주간 수익 기록). 색인 요청 7건(키워드 4, 10/18 브리핑, 기자 기사 2). Search Console 은 그대로(색인 2, 대기 150).
