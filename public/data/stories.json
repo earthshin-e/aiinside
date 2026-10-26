@@ -196,7 +196,26 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102616040446714"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 26 AI Briefing: From SK Telecom's Governance Report to the Elvis Copyright Suit",
+        "points": [
+          "AI trust and security management frameworks continue to be disclosed",
+          "Support and commercialization news for Korean startups keeps coming",
+          "AI training copyright lawsuit and server infrastructure unveiled"
+        ],
+        "body": [
+          "SK Telecom published its \"AI Governance Report,\" covering AI governance principles, accountability structure, implementation plans and key results, on the 26th. IT Chosun reported that the company set standards for managing AI agents across their entire lifecycle, from development through operation to retirement, while Boan News wrote that it disclosed an AI management standard that builds security in from planning through disposal.",
+          "The rights holders to Elvis Presley's songs have sued Anthropic for copyright infringement. They claim Anthropic used 274 songs to train AI without permission. AI Times reported damages of more than $41 million (about 54 billion won), while iNews24 reported a suit worth about $41.1 million (about 54.5 billion won).",
+          "Supermicro unveiled a liquid-cooled rack holding 256 Nvidia Vera CPUs. It is designed for high-density CPU computing for agentic AI, reinforcement learning workloads and data processing, and Betanews reported that a single rack can run up to 22,500 AI agent sandboxes at the same time.",
+          "Genon launched \"GenGuard,\" an AI guardrail solution that evaluates and blocks requests to and responses from generative AI services according to corporate security policies. Platier said it will launch \"XGEN TMS,\" an AI-based test management solution that can be used even in closed networks.",
+          "The Ministry of Science and ICT is accepting public suggestions for the policy brand name and slogan of \"AI for Everyone\" from the 26th through Nov. 6. Chosun Biz described the project as one that lets anyone use services built on domestic AI models easily and without burden, and Digital Daily wrote that the service is being prepared for launch within the year.",
+          "Seoul AI Hub is working toward opening a \"Baby Unicorn Center\" in 2027 for AI companies that have raised at least 5 billion won in cumulative investment. VentureSquare reported that it will link expandable office space, Series B and later follow-on investment, investor relations (IR) sessions for global venture capital firms, GPU resources and more.",
+          "Oracle Korea released case studies of three Korean AI startups, Farmkit, Silicopharm and Superb AI, using Oracle Cloud Infrastructure (OCI). Hellot reported that the three have secured the scalability and stability needed for large-scale data processing and AI model operation on OCI and have begun targeting global markets.",
+          "OpenAI held its first \"OpenAI Model Masters\" in Korea at its Seoul office on the 23rd, presenting AI services from 11 startups. Separately, Chosun Biz, citing a report by the IT outlet The Information on the 24th (U.S. time), said OpenAI is winning over Anthropic's customers with discounts.",
+          "Denodo released the effects of adopting an AI data layer, based on research by market research firm Vector8. Chosun Biz reported that AI operating costs can be cut by 68%, while Tech M reported that a 290% return on investment (ROI) over three years is achievable. Chosun Biz described the work as research conducted jointly with Vector8, while Tech M said it cited a report carried out by Vector8."
+        ]
+      }
     },
     {
       "id": "h20261026-afe62cbfda9d",
@@ -295,7 +314,22 @@
           "title": "SK하이퍼, AI 데이터센터 투자 유치 추진… 첫 5GW 구축에 463조원 예상",
           "link": "https://biz.chosun.com/it-science/ict/2026/10/23/7YXZGXSEUFF77OBG3IFSVYCPJE"
         }
-      ]
+      ],
+      "en": {
+        "title": "SK Telecom Publishes First AI Governance Report, Managing Agents Across Their Full Lifecycle",
+        "points": [
+          "SK Telecom publishes AI governance report",
+          "Company steps up its \"AI trust management\" push",
+          "Agent management standards and integrated management system established"
+        ],
+        "body": [
+          "SK Telecom (CEO Jung Jae-hun) said on the 26th that it has published an \"AI Governance Report\" laying out AI governance principles, an accountability structure, concrete implementation plans and key results. Boan News and Techworld News reported it as the first such report. SK Telecom plans to use it to strengthen \"AI trust management,\" building trust so that customers and society can use its services with confidence by raising the safety of AI technology.",
+          "The outlets emphasized slightly different points. IT Chosun reported that SK Telecom set standards for managing AI agents across their entire lifecycle, from development through operation to retirement, and also strengthened an integrated management system linking privacy protection with AI governance. Boan News noted that the spread of generative AI and AI agents that act on their own judgment has raised concerns about data leaks and privacy violations, and wrote that SK Telecom disclosed an AI management standard that builds security in from planning through disposal. IT Chosun described the managed span as development to retirement, while Boan News described it as planning to disposal.",
+          "The report's contents were also described. Tech M reported that it covers AI governance (strategy and decision-making structure), principles, systems, implementation plans and results. Digital Today wrote that it contains a management system and concrete implementation plans for raising the safety and reliability of AI technology, and AI Newspaper (인공지능신문) reported that SK Telecom disclosed a governance framework that manages AI agents, which make their own judgments and carry out tasks, across their entire lifecycle from development through operation to retirement.",
+          "Other recent SK Telecom AI news has also continued. Chosun Biz reported that SK Telecom is teaming up with Korean mathematics and AI researchers to improve the reasoning ability of its in-house AI model \"A.X K2.\" The aim is to raise the model's problem-solving ability by taking on difficult math problems, and the development of agentic AI that carries out complex tasks on its own was also mentioned. Chosun Biz also reported, citing Bloomberg, that SK Hyper, SK Telecom's company for AI data center business development, has begun raising funds from global Big Tech companies and investors. It was described as a move to secure data centers totaling 15 gigawatts (GW) in Korea by 2035.",
+          "Glossary: AI governance is a system that sets the principles, lines of responsibility and management procedures an organization must follow when developing and operating AI. An AI agent is AI that judges for itself and carries out multiple tasks toward a goal without the user instructing it at every step."
+        ]
+      }
     },
     {
       "id": "h20261026-5cbc4a09db78",
@@ -364,7 +398,22 @@
           "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216484"
         }
-      ]
+      ],
+      "en": {
+        "title": "Estsoft Expands AI Avatar \"Perso Interactive\" in the Public Sector",
+        "points": [
+          "Estsoft steps up push into local governments and public agencies",
+          "Moving beyond AI kiosks to tailored service builds",
+          "Use expanding to city halls, district offices and libraries"
+        ],
+        "body": [
+          "Estsoft (CEO Jung Sang-won) said on the 26th that it is stepping up its push into the local government and public agency market with \"Perso Interactive,\" its real-time conversational AI avatar service. Digital Today described the service as one that provides information by talking with users in real time through an AI avatar.",
+          "The core of the announcement is a change in how it supplies the service. Bloter reported that Estsoft is moving beyond simply supplying AI kiosks and expanding its business to building tailored AI services that connect the data and work systems of local governments and public agencies. Tech M wrote that it is widening its business scope from the private sector to local governments and public agencies by building AI services linked to each institution's website, data and work characteristics.",
+          "The outlets described the targets differently. Tech M named AI avatar use at city halls, district offices and libraries in its headline. Digital Daily reported that the scope is expanding to public services overall, including local governments, education and cultural facilities, and put AI civil service and education in its headline.",
+          "Estsoft said earlier, on the 21st, that it won the Jeju Free International City Development Center (JDC) project to \"build an in-house generative AI language model (sLLM) for JDC.\" According to AI Times, the project will run for six months and builds a generative AI environment on JDC's internal servers. The Elec described it as a project run in an environment separated from the outside in order to comply with security and privacy regulations.",
+          "Glossary: An sLLM is a language model smaller than a typical large language model, making it easier to run on an organization's own servers. A kiosk is an unmanned guide terminal in public facilities and stores where users look up information or use services themselves."
+        ]
+      }
     },
     {
       "id": "h20261026-1ec6c2c93c5f",
@@ -434,7 +483,23 @@
           "title": "[강릉 ITS 세계총회] 엣지디엑스, VLM 품은 AI 브리지로 폐쇄망 시장 정조준",
           "link": "https://www.boannews.com/news/articleView.html?idxno=146614"
         }
-      ]
+      ],
+      "en": {
+        "title": "Platier Launches AI Test Management Solution XGEN TMS for Closed Networks",
+        "points": [
+          "Platier launches XGEN TMS",
+          "AI-based test management that works in closed networks",
+          "Targeting finance, manufacturing and public sectors"
+        ],
+        "body": [
+          "Platier (CEO Lee Sang-hoon) said on the 26th that it is launching \"XGEN Test Management System (XGEN TMS),\" an AI-based test management solution that can be used even in corporate closed network environments. Datanet wrote that it \"has launched\" it, while EBN, AI Times and Digital Daily said it \"will launch\" it.",
+          "According to AI Times, XGEN TMS is a solution that integrates the entire quality verification process in software development, from requirements management through test design and execution to defect tracking. Digital Daily stressed that software tests can be designed with AI without sending data outside.",
+          "The integration structure was also described. Datanet reported that connecting XGEN TMS to Platier's agentic AI platform \"XGEN\" lets users also use AI agents and workflows. EBN described XGEN TMS as a solution that can be used in combination with XGEN. The summaries of both outlets also mentioned other AI engines, such as in-house large language models (LLMs) and open-source models.",
+          "As its market target, Hellot reported that Platier is going after the software quality management market, centered on finance, manufacturing and the public sector.",
+          "AI supply aimed at closed networks and internal environments is continuing at other companies too. Estsoft said on the 21st that it won a project to build an in-house generative AI language model for the Jeju Free International City Development Center, and AI Times reported that the project builds a generative AI environment on JDC's internal servers. Boan News reported that EdgeDX targeted the closed-network market with its \"AI Bridge,\" which carries a vision language model (VLM), at the Gangneung ITS World Congress.",
+          "Glossary: A closed network is a network separated from the external internet that only internal users can access. Agentic AI refers to AI that plans on its own and uses tools to carry out tasks toward a goal without step-by-step human instructions."
+        ]
+      }
     },
     {
       "id": "h20261026-9619241d0fe5",
@@ -504,7 +569,23 @@
           "title": "제논, 나이키 신발 제조 AI 검사 양산 검증 통과…인도네시아 자동화 사업 확대",
           "link": "https://www.venturesquare.net/1121637"
         }
-      ]
+      ],
+      "en": {
+        "title": "Genon Launches Enterprise AI Guardrail Solution GenGuard",
+        "points": [
+          "Genon launches AI guardrail \"GenGuard\"",
+          "Evaluates requests and responses against corporate security policy",
+          "Built on experience running its own platform \"GenOS\""
+        ],
+        "body": [
+          "Genon (CEO Ko Seok-tae) said on the 26th that it has launched \"GenGuard,\" an AI guardrail solution that responds to security threats to generative AI services and manages security policies for each company. AI Times said it \"has launched\" it, while iNews24 and Techworld News said it \"will launch\" it.",
+          "Digital Today explained that GenGuard evaluates and blocks requests entered into AI services and the responses they generate according to security policies set by the company, and said in its headline that security policies can be set in natural language. Hellot reported that it applies company-specific security policies to respond to personal data leaks and prompt attacks.",
+          "As for the background to its development, AI Times wrote that Genon developed the standalone solution based on its experience running the guardrail function of its own generative AI platform, \"GenOS.\" Digital Daily and iNews24 also described the solution in connection with the existing GenOS platform.",
+          "The market backdrop was also mentioned. Techworld News, citing Genon, pointed out that AI-enabled cyberattacks have recently been increasing. Hellot described the launch as a move to expand the business into the enterprise AI security market.",
+          "Genon said earlier, on the 21st, that it passed mass-production verification in an AI manufacturing automation project in Indonesia and then won follow-up projects. According to iNews24, Genon began work last year on a project for AI vision inspection of outsoles for the global sports brand Nike. VentureSquare reported that the technology recorded defect detection rates of 99.7% and 99.2% on two product styles.",
+          "Glossary: An AI guardrail is a safeguard that keeps generative AI from receiving dangerous or inappropriate input or producing such output. A prompt attack is an attack that manipulates the text entered into an AI to induce it to break its set rules or leak internal information."
+        ]
+      }
     },
     {
       "id": "h20261026-32d5134b6cea",
@@ -567,7 +648,22 @@
           "title": "AI 스타트업 4곳, 오라클과 싱가포르서 동남아 시장 문 두드린다",
           "link": "https://platum.kr/archives/296906"
         }
-      ]
+      ],
+      "en": {
+        "title": "Oracle Korea Releases OCI-Based Commercialization Cases of Three Korean AI Startups",
+        "points": [
+          "Farmkit, Silicopharm and Superb AI's OCI use unveiled",
+          "Foundation for large-scale data processing and AI model operation",
+          "Support for global market push"
+        ],
+        "body": [
+          "Oracle Korea released cases of three Korean AI startups, Farmkit, Silicopharm and Superb AI, using Oracle Cloud Infrastructure (OCI). Digital Daily reported that the three startups are developing and expanding AI services on OCI. The news came at the same time as \"Oracle AI World 2026,\" being held in Las Vegas from Oct. 25 to 28 (local time).",
+          "The outlets' focus differed slightly. Hellot reported that the three have secured the scalability and stability needed for large-scale data processing and AI model operation on OCI and have begun targeting global markets, and in its headline called them LLM Challenge startups. Techworld News relayed Oracle's explanation that OCI supports large-scale data processing and AI model operation, and wrote that the startups' AI innovation is accelerating.",
+          "Datanet reported that Oracle said on the 26th it is expanding OCI-based cooperation to support Korean AI startups' technology upgrades and entry into global markets. Digital Daily used the phrase \"beyond experiments to business\" in its headline, and Datanet put strengthened service competitiveness in its headline.",
+          "Cooperation between Oracle and Korean startups is also extending to overseas sites. According to VentureSquare, the Gyeonggi Center for Creative Economy and Innovation will hold the \"2026 AroundX Miracle Singapore Partnership Roadshow\" with Oracle in Singapore from Oct. 26 to 29. Platum reported that four Korean startups using AI for store analysis, aircraft asset management and dental prosthetics design will meet local companies and investors in Singapore together with Oracle.",
+          "Glossary: OCI (Oracle Cloud Infrastructure) is a cloud computing service provided by Oracle, an infrastructure service in which companies rent servers, storage and databases. Scalability is the quality of being able to flexibly increase processing capacity as usage grows."
+        ]
+      }
     },
     {
       "id": "s20261026-fb80973e9ca1",
@@ -641,7 +737,21 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102313492606699"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Ministry of Science and ICT Opens Public Contest for \"AI for Everyone\" Brand Name and Slogan",
+        "points": [
+          "Public invited to suggest policy brand name and slogan",
+          "Submissions accepted through Nov. 6",
+          "National AI service being prepared for launch within the year"
+        ],
+        "body": [
+          "The Ministry of Science and ICT said on the 26th that it is holding a contest to receive public suggestions for the policy brand name and slogan of \"AI for Everyone\" from the 26th through Nov. 6. \"AI for Everyone\" is a project that supports letting anyone use services based on domestic AI models easily and without burden.",
+          "Digital Daily, iNews24 and AI Newspaper (인공지능신문) wrote that the government is preparing to launch the service within the year. AI Newspaper reported that the contest aims to publicize the project's purpose and broaden public interest and participation ahead of the official launch.",
+          "Recent reports on the project have continued. iNews24 reported that at the National Assembly audit on the 23rd, it was pointed out that liability for compensation is unclear if damage is caused by errors in \"AI for Everyone,\" which is due for official launch in December, and that Minister Bae Kyung-hoon replied that he would clarify the sharing of responsibility among participating companies. The same outlet earlier reported that the National Assembly Research Service judged it could be hard for users to prove operators' liability for damage from errors. Digital Daily reported that Kakao is training its \"Kanana\" model for \"AI for Everyone\" on AWS cloud while running the service on government GPUs, a split infrastructure setup.",
+          "Glossary: A GPU (graphics processing unit) was originally a semiconductor for graphics computation, but because it can handle many calculations at once, it is widely used for training and running AI models. The cloud is a way of renting servers and storage over the internet."
+        ]
+      }
     },
     {
       "id": "s20261026-c3fdfcd63af7",
@@ -697,7 +807,21 @@
           "link": "https://www.betanews.net/article/view/beta202610240086"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Anthropic Sued Over Unauthorized Training on 274 Elvis Presley Songs",
+        "points": [
+          "Elvis song rights holders sue Anthropic",
+          "Claim of unauthorized training on 274 songs",
+          "Damages figure differs by report"
+        ],
+        "body": [
+          "The rights holders to Elvis Presley's songs have filed a copyright infringement suit against AI company Anthropic. They claim Anthropic used 274 of Presley's songs to train its AI model Claude without permission. Chosun Biz and IT Chosun reported this citing a Los Angeles Times (LAT) report from the 25th (U.S. time).",
+          "AI Times reported that the plaintiffs claim Anthropic even generated output that infringes copyright. The damages figure was stated differently across reports. AI Times wrote that they are seeking more than $41 million (about 54 billion won) in damages, while iNews24 described a suit worth about $41.1 million (about 54.5 billion won). IT Chosun put a $50 million lawsuit in its headline, and Chosun Biz put a 54 billion won suit in its headline.",
+          "Recent reports about Anthropic have also continued. IT Chosun reported that Anthropic is proposing a bill to the U.S. Congress that would allow the deployment of AI models that risk causing large-scale loss of life and property to be halted. Betanews wrote that, with Anthropic pursuing a listing in mid-November, earnings releases and initial public offerings (IPOs) of global AI companies have emerged as a new variable for SK hynix's share price.",
+          "Glossary: Training an AI model is the process in which it analyzes large amounts of data such as text, music and images to learn patterns. In a copyright infringement suit, damages are a civil claim demanding monetary compensation for the harm caused by the infringement."
+        ]
+      }
     },
     {
       "id": "s20261026-cfe32439faee",
@@ -759,7 +883,21 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172650"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Seoul AI Hub to Build \"Baby Unicorn Center\" in 2027",
+        "points": [
+          "For AI companies with at least 5 billion won in funding",
+          "Linking space, investment, infrastructure, talent and sales channels",
+          "Opening planned for 2027"
+        ],
+        "body": [
+          "Seoul AI Hub (director Byun Woo-seok), the Seoul city government's base for supporting AI startups, said on the 26th that it is moving to build a new \"Baby Unicorn Center\" to help AI startups that have succeeded in raising investment scale up. VentureSquare and IT Chosun reported that the target is AI companies with at least 5 billion won in cumulative investment and that the center is slated for 2027.",
+          "The outlets summarized the support differently. AI Times and Techworld News reported that it will link space, investment, infrastructure, talent and sales channels for AI companies that have entered the growth stage, going beyond housing and nurturing early-stage startups. IT Chosun explained that it widens the scope of support to follow-on investment, talent acquisition and market entry for AI companies that have already raised investment. VentureSquare listed specifics: expandable office space, Series B and later follow-on investment, investor relations (IR) sessions for global venture capital firms, GPU resources, hiring and sales channel development.",
+          "IT Chosun has recently been running a feature series, \"Seoul AI Hub 2027,\" covering the technology, services and commercialization status of startups housed in the hub. Nextom (an AI agent specialized for manufacturing), Aero Robotics Innovation (autonomy for drones and robots) and Sling (an AI tutor platform) have been profiled.",
+          "Glossary: Scale-up refers to the growth stage after the early startup phase, when a company seriously expands its revenue, organization and market. Series B is a stage of investment round in which a startup receives funding to grow after its business results have been confirmed."
+        ]
+      }
     },
     {
       "id": "s20261026-7d411cbc51af",
@@ -821,7 +959,21 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102205500403950"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Supermicro Unveils Liquid-Cooled Rack with 256 Nvidia Vera CPUs",
+        "points": [
+          "Liquid-cooled rack with 256 Vera CPUs unveiled",
+          "Built for agentic AI and reinforcement learning work",
+          "22,500 agent sandboxes per rack"
+        ],
+        "body": [
+          "Supermicro unveiled an Nvidia Vera CPU rack as the latest product in its Data Center Building Block Solutions (DCBBS) portfolio. Techworld News and Betanews reported that the rack holds 256 Nvidia Vera CPUs and is designed to handle high-density CPU computing for agentic AI and reinforcement learning (RL) workloads and data processing.",
+          "Descriptions of the cooling method differed slightly across outlets. Techworld News and Digital Daily described it as 100% liquid cooling (Digital Daily said direct liquid cooling), while Datanet used a different Korean spelling for liquid-cooled. Betanews reported that a single rack can run up to 22,500 AI agent sandboxes at the same time.",
+          "Supermicro also recently raised its earnings outlook. Chosun Biz reported that Supermicro forecast quarterly revenue to grow about 3.8 times from a year earlier, raising its previous forecast by about 27% and also lifting its profitability outlook. EBN reported that its quarterly revenue forecast rose to $19.5 billion. Digital Daily wrote that Supermicro rose 9% on the New York stock market on the 21st (U.S. time).",
+          "Glossary: Reinforcement learning (RL) is a learning method in which AI improves its behavior by trial and error toward earning more reward. A sandbox is an independent environment, isolated from external systems, where programs can be run and tested safely."
+        ]
+      }
     },
     {
       "id": "s20261026-4ca1949294c4",
@@ -877,7 +1029,21 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/26/OFHSUAQQXJGYDER7EWFVM2FAFE"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI Holds First \"Model Masters\" in Korea With 11 Startups",
+        "points": [
+          "First OpenAI Model Masters held at Seoul office",
+          "Services from 11 Korean startups demonstrated",
+          "Voice, work automation and video editing products shown"
+        ],
+        "body": [
+          "OpenAI said on the 26th that it held \"OpenAI Model Masters,\" a program supporting Korean startups' AI service development, for the first time. The event was held at OpenAI's Seoul office on the 23rd, and 11 startups took part, showing services they built with OpenAI models.",
+          "AI Times described Model Masters as a program that helps startups turn AI ideas into actual products and features. Techworld News reported that participating companies used OpenAI's models and APIs to show a range of products and features, from voice services to work automation and video editing. Chosun Biz summarized it in its headline as support for Korean startups' AI service development.",
+          "There has also been recent reporting on OpenAI. Chosun Biz, citing a report by the IT outlet The Information on the 24th (U.S. time), said OpenAI is winning over customers of rival Anthropic with discounts, and mentioned AI usage fee discounts of 20 to 40% in its headline. AI Times reported that OpenAI is leading with price discounts and free credits on Codex and API models, and that at some companies the share of use between the two companies' models has reversed.",
+          "Glossary: An API is a set of connection rules that lets one program call the functions of another service. Developers use APIs to connect OpenAI models to their own services."
+        ]
+      }
     },
     {
       "id": "h20261025-a2e2b27939c3",
