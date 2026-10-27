@@ -126,7 +126,23 @@
           "title": "한국공학대, KT와 AI 실무 인재 양성 협약…AIDU·AICE 지원",
           "link": "https://www.kyosu.net/news/articleView.html?idxno=211702"
         }
-      ]
+      ],
+      "en": {
+        "title": "KT Launches 'Token Factory' Integrating 500 Domestic and Foreign AI Models on the 30th",
+        "points": [
+          "KT unveils Token Factory, an enterprise AI platform",
+          "Model selection, cost management and trust features in one place",
+          "Token costs cut by up to 25%; launch on the 30th"
+        ],
+        "body": [
+          "KT unveiled 'KT Token Factory,' an AI platform supporting enterprise AI transformation (AX), on the 27th. AI Times, Korea NGO News and The Elec reported that KT will launch the service on the 30th. Datanet reported that KT plans to grow Token Factory into a core platform for customers' AX and a new growth business.",
+          "Outlets described the service somewhat differently. According to Korea NGO News, Token Factory offers AI model selection, cost management, and AI trust and safety features on one platform to meet surging demand for AI tokens. AI Times introduced it as an enterprise service where users can select, manage and pay for more than 500 domestic and foreign AI models on a single platform. Bloter said the key point is that it connects multiple AI models through a single API and automatically picks the model suited to each task to cut costs. iNews24 named OpenAI's GPT-6 Astra, KT's Mi:dm K 3.0 Pro and Upstage's Solar Pro 4 as examples of models available on the one platform.",
+          "Several outlets reported the same cost savings of up to 25%, but described the method differently. EBN wrote that automatic recommendation of the company's own AI models and prompt compression technology cut token costs by up to 25%, while iNews24 explained that the platform reduces token use by automatically choosing a model suited to the nature of the work. In a headline on its on-site report, EBN said KT is aiming at a 215 trillion won global market with Token Factory. IT Chosun reported that Park Sang-won, executive vice president of KT's AX business division, said on the 27th that the yardstick for AI competitiveness is widening from performance to results.",
+          "A KT executive also explained the revenue model. According to Chosun Biz, Lee Jin-hyung, head of KT's AX business unit, said on the 27th that brokerage fees are not the main business model and that KT will earn revenue by running models directly on GPUs in its data centers to produce tokens. A Q&A by Digital Daily reported that the business combines token production on KT's own AI infrastructure with distribution of external AI models, and that its main source of revenue is the margin on tokens it produces itself. In a headline, the same outlet's on-site report said KT is moving beyond brokering models to become a producer. Tech M said in a headline that the service will start with 66 overseas and 7 domestic models, a different figure from the 500 or more reported by other outlets.",
+          "Among KT's recent AI news, Kyosu Shinmun reported on an agreement. Korea Polytechnic University signed a memorandum of understanding with KT on Oct. 21 on campus to cooperate on training practical AI talent and on the AICE program.",
+          "Glossary: A token is the unit an AI model uses to process text, and many AI services bill by token usage. An API is a set of rules that lets programs exchange functions and data with each other."
+        ]
+      }
     },
     {
       "id": "h20261027-4e04d740d9ac",
@@ -207,7 +223,22 @@
           "title": "오픈AI, 구글클라우드에도 공급⋯AI 모델 '멀티클라우드' 경쟁",
           "link": "https://www.inews24.com/view/2018447"
         }
-      ]
+      ],
+      "en": {
+        "title": "OpenAI Unveils 'GPT-6.1 Terra' With API Prices Cut in Half",
+        "points": [
+          "OpenAI unveils GPT-6.1 Terra",
+          "API price about half that of previous models",
+          "Available via ChatGPT Work, Codex and the API"
+        ],
+        "body": [
+          "OpenAI unveiled 'GPT-6.1 Terra,' an AI model with stronger computer-work abilities and lower usage costs. Digital Today reported that the model, released on the 26th (local time), is a mid-tier model, while Korean outlets such as iNews24 and Betanews reported on the 27th what OpenAI said. According to Chosun Biz and Digital Daily, GPT-6.1 Terra is available through ChatGPT Work, Codex and the OpenAI API.",
+          "The outlets agreed that the model's features are understanding visual information and carrying out computer tasks. Betanews wrote that it combines visual reasoning, computer control and writing to handle high-volume work quickly and cheaply. Drafting documents, interpreting blueprints, filling in forms and editing video were given as examples, and IT Chosun said its feature is automating tasks such as writing proposals, interpreting technical drawings, entering data and editing video while improving cost efficiency. AI Newspaper (인공지능신문) explained that its ability to interpret visual information on screen and actually perform tasks has been strengthened. Chosun Biz reported that reasoning and coding abilities were also strengthened.",
+          "The price comparison point was described differently by each outlet. iNews24 wrote that the standard API price was cut 50% below the earlier 'GPT-5.6 Terra' and 'GPT-6.1 Sol,' while AI Times reported that the API price was set at half that of GPT-6.1 Sol. AI Times said external evaluations also showed lower cost per task and fewer hallucinations, and Chosun Biz said in its headline that performance and hallucinations improved. Betanews highlighted double the coding performance in its headline.",
+          "Reports on price competition around OpenAI also continued recently. AI Times reported on the 26th that OpenAI is drawing away Anthropic customers' spending with price discounts and free credits on Codex and API models, and that at some companies the usage shares of the two companies' models have reversed. The same article wrote that Anthropic also regained the lead in usage on a model brokerage service after releasing a new model. iNews24 reported on the 25th that OpenAI will also provide its AI models and Codex-based agentic work features through Google Cloud while keeping Microsoft as its main cloud partner.",
+          "Glossary: An API is a set of rules that lets programs exchange functions and data with each other, and developers use APIs to connect AI models to their own services. A hallucination is when an AI plausibly produces content that is not true."
+        ]
+      }
     },
     {
       "id": "h20261027-e7f291fe3b5a",
@@ -282,7 +313,22 @@
           "title": "엔비디아 1.5조 투자금 들어온다…네이버 'AI 팩토리' 시험대",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710210"
         }
-      ]
+      ],
+      "en": {
+        "title": "Naver Signs $9 Billion AI Infrastructure Deal With Brookfield",
+        "points": [
+          "Naver signs AI infrastructure deal with Brookfield",
+          "Precondition for Nvidia investment met",
+          "1GW global AI factory project gets under way"
+        ],
+        "body": [
+          "Naver signed a $9 billion deal with global asset manager Brookfield to secure AI computing infrastructure. AI Times and iNews24 reported that Naver announced this on the 27th. Bloter, The Elec, Digital Daily and IT Chosun jointly reported that the deal satisfies the precondition for Nvidia's strategic equity investment.",
+          "The project the deal will support is a 1-gigawatt (GW) global AI factory pursued jointly by the three companies. Bloter wrote that the project is expected to get on track, and Tech M reported that the three-way alliance with Nvidia has taken shape. Outlets also described Brookfield differently: The Elec and IT Chosun called it a global asset manager, iNews24 an alternative investment firm, and Digital Daily a global investment firm. Bloter described the project stage as getting on track, and Tech M as a full-scale start. Digital Daily reported that Naver disclosed the contract and revealed the detailed operating structure. According to that article, the structure involves establishing a separate entity fully funded by Brookfield.",
+          "The numbers differed by outlet. Converted into won, the $9 billion contract was about 11.9259 trillion won in Bloter, about 11.9 trillion won in The Elec, about 12 trillion won in AI Times and iNews24, and up to 12 trillion won in IT Chosun. Digital Daily put it at 18.74 trillion won, a large gap in the converted amount. The Elec and IT Chosun wrote that Nvidia's equity investment is $1 billion (about 1.3 trillion won), while Digital Today reported about 1.5 trillion won.",
+          "Expressions about Nvidia's standing also varied. AI Times said in its headline that Nvidia becomes the third-largest shareholder, and iNews24 wrote that Nvidia will soon become the third-largest shareholder. Digital Today pointed out on the 27th that, ahead of Nvidia's payment of its investment, Naver's AI factory project is being put to the test. The article explained that, for the payment, the precondition of securing computing infrastructure worth at least $9 billion must be met.",
+          "Glossary: A gigawatt (GW) is a unit of power equal to one billion watts and is sometimes used to express the size of a data center in terms of power capacity."
+        ]
+      }
     },
     {
       "id": "h20261027-5d5fe52d5109",
@@ -381,7 +427,22 @@
           "title": "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
           "link": "https://www.ddaily.co.kr/page/view/2026102705422729984"
         }
-      ]
+      ],
+      "en": {
+        "title": "Anthropic Files for Nasdaq IPO",
+        "points": [
+          "Anthropic files IPO registration with the U.S. SEC",
+          "Seeks Nasdaq listing under ticker ANT",
+          "Computing costs and loss of control cited as investment risks"
+        ],
+        "body": [
+          "Anthropic, the U.S. AI company that developed Claude, has begun the process of an initial public offering (IPO). Chosun Biz and iNews24, citing Reuters, reported that Anthropic submitted its filing to the U.S. Securities and Exchange Commission (SEC) on the 26th (local time). Kukmin Ilbo, citing Bloomberg and others, reported that Anthropic filed to list on the Nasdaq Global Select Market and that its ticker is ANT.",
+          "Outlets worded their outlook on the size differently. Chosun Biz, Newsis and iNews24 reported expectations that it could be the largest IPO ever. IT Chosun, based on a Wall Street Journal report, wrote that the market sees a valuation of up to $2 trillion (about 2,853 trillion won). Industry News said in its headline that the company aims to raise 133 trillion won at a $2 trillion valuation.",
+          "Financial details and risk factors revealed in the registration statement were also reported. Industry News said first-half revenue surged and operating losses narrowed, but long-term computing costs and uncertainty in demand forecasts were presented as investment risks. Newsis pointed out that revenue jumped in the fast-growing enterprise AI market but that huge infrastructure investment costs and losses were also revealed, making it a test of AI industry profitability. IT Chosun cited the burden of astronomical AI infrastructure investment and a unique governance structure as variables for the IPO's success.",
+          "Follow-up reports continued. Digital Daily reported that Anthropic cited the possibility of AI control failure and semiconductor supply instability as business risks, and Newsis reported that, in a warning running about 90 pages, Anthropic said its technology could contribute to curing diseases and economic growth but could also cause a catastrophe threatening humanity's survival. Digital Today, citing The Information, reported that seven Anthropic co-founders pledged not to put ads in Claude. On market reaction, Digital Daily reported that tech stocks rebounded on Wall Street, Newsis reported that Japanese stocks closed higher on expectations of Anthropic's listing, with the Nikkei up 1.73%, and Industry News wrote that the KOSPI closed up 3.09% as investor sentiment recovered on news of Anthropic's IPO.",
+          "Glossary: An initial public offering (IPO) is the process by which an unlisted company first offers its shares to the general public so they can trade on a stock market. A ticker is a short code that identifies a stock on an exchange."
+        ]
+      }
     },
     {
       "id": "h20261027-1ddd1be8ae0a",
@@ -468,7 +529,22 @@
           "title": "메타, AI 투자재원 마련 위해 125조원 자본조달… 주식공모 46조원등",
           "link": "https://www.newsis.com/view/NISX20261026_0003841902"
         }
-      ]
+      ],
+      "en": {
+        "title": "Broadcom Helps Anthropic Raise $63 Billion for AI Chip Purchases",
+        "points": [
+          "Broadcom backs financing of Anthropic's AI chip purchases",
+          "$63 billion raise structured as chip leasing",
+          "Broadcom CEO negotiates directly as banks hesitate"
+        ],
+        "body": [
+          "U.S. semiconductor company Broadcom has moved to raise $63 billion to support AI company Anthropic's purchase of AI chips. iNews24 reported that Broadcom put together a financing structure for this, and Digital Daily, citing foreign media, reported that Broadcom reached an agreement with major U.S. financial firms.",
+          "The structure is a chip lease. According to AI Times, Wall Street banks such as Bank of America, Citigroup and Morgan Stanley, along with alternative asset manager Blackstone, will raise the funds, buy Broadcom's AI chips and networking equipment, and lease them to Anthropic. Chosun Biz explained that financial firms buy AI chips with money raised through loans and other means and lease them to Anthropic, and said in its headline that Broadcom bears the risk of value decline. IT Chosun also reported that it is a method of buying Broadcom's AI chips and network equipment and then leasing them to Anthropic.",
+          "EBN and Newsis reported on the negotiation process. Newsis reported that the deal struggled until the last minute as financing conditions worsened amid concerns over an AI investment bubble and rising interest rates, and that Broadcom stepped in when some banks considered pulling out. EBN wrote that Broadcom's CEO personally joined last-minute talks with banks and the contract was sealed, and reported that although it is the largest financial transaction ever in AI infrastructure, banks hesitated to take part. iNews24 wrote that Broadcom did more than simply connect financial institutions, and Digital Daily said in its headline that it breaks Nvidia's stronghold. The won conversion of the amount was about 83.4681 trillion won in iNews24, about 83 trillion won in AI Times, about 83.5 trillion won in Chosun Biz and about 90 trillion won in IT Chosun.",
+          "News of AI infrastructure financing followed one after another around the same time. Hellodd said in its headline that Anthropic, SpaceX, Meta and others are competing to raise $200 billion to secure AI chips. Chosun Biz reported that Meta said on the 26th (local time) it plans to raise up to $95 billion through a rights offering and the sale of newly planned Class C non-voting shares, while iNews24 reported that it will raise $35 billion by issuing common and preferred stock. Newsis described this as raising funds to expand infrastructure such as AI data centers and cloud computing.",
+          "Glossary: Networking equipment is communications hardware that lets servers and AI chips exchange large amounts of data."
+        ]
+      }
     },
     {
       "id": "b20261027",
@@ -667,7 +743,25 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408804"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 27 AI Briefing: From KT's Token Factory to Anthropic's IPO",
+        "points": [
+          "Cost competition through enterprise AI platforms and model price cuts",
+          "Naver, Anthropic and Meta expand AI infrastructure financing",
+          "Anthropic pursues IPO; Microsoft restructures its workforce"
+        ],
+        "body": [
+          "Anthropic, the maker of Claude, submitted an initial public offering (IPO) filing to the U.S. Securities and Exchange Commission on the 26th (local time). Kukmin Ilbo reported that it applied to list on the Nasdaq Global Select Market under the ticker ANT. Industry News wrote that first-half revenue surged and operating losses narrowed, but long-term computing costs and uncertainty in demand forecasts were presented as investment risks.",
+          "Broadcom put together a financing structure of $63 billion to help Anthropic buy AI chips. According to AI Times, Wall Street banks and Blackstone will buy Broadcom's AI chips and networking equipment and lease them to Anthropic. EBN reported that, with banks hesitating to take part, Broadcom's CEO personally joined last-minute talks and the contract was sealed.",
+          "Naver signed a $9 billion AI computing infrastructure contract with Brookfield, satisfying the precondition for Nvidia's strategic equity investment. Bloter and AI Times reported that the 1GW global AI factory project pursued jointly by the three companies is expected to move into full swing. The won conversions differed by outlet, ranging from around 12 trillion won to 18.74 trillion won.",
+          "Meta said on the 26th (local time) that it will raise up to $95 billion to fund AI infrastructure investment. Chosun Biz reported that this will be done through a rights offering and the sale of newly planned Class C non-voting shares, while iNews24 wrote that it will raise $35 billion by issuing common and preferred stock. The won conversions were about 126 trillion won in Chosun Biz and iNews24, and 125.8 trillion won in Newsis.",
+          "OpenAI unveiled GPT-6.1 Terra, which has stronger computer-work abilities and a lower API price. iNews24 reported that the standard API price is 50% lower than the earlier GPT-5.6 Terra and GPT-6.1 Sol, and AI Times wrote that it was set at half that of GPT-6.1 Sol. According to Chosun Biz, it is available through ChatGPT Work, Codex and the API.",
+          "KT unveiled Token Factory on the 27th, an enterprise service for selecting and managing more than 500 domestic and foreign AI models on one platform. It launches on the 30th. IT Chosun and iNews24 reported that it can cut token costs by up to 25%.",
+          "Chosun Biz reported that Microsoft has offered a voluntary departure program to about 60,000 employees. That is about 27% of its workforce, and the number who actually leave has not yet been decided. Newsis, citing the Financial Times and others, reported that employees below vice president level in the U.S., Canada, India and the U.K. are eligible, and IT Chosun wrote that some areas such as data centers, security and quantum computing are reportedly excluded.",
+          "Deepbrain AI said on the 27th that it has completed development of Face ID verification technology that prevents identity theft through deepfakes. According to Platum, it automatically blocks image or video generation requests when the face of a protected person is included. AI Newspaper (인공지능신문) reported that it compares the face of a protected person against a database to determine the possibility of misuse."
+        ]
+      }
     },
     {
       "id": "s20261027-593cb915dbf4",
@@ -718,7 +812,22 @@
           "link": "https://www.irobotnews.com/news/articleView.html?idxno=49217"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Fasto Robotics Launches Logistics Robot Subscription Service That Needs No Pilot Run",
+        "points": [
+          "Fasto Robotics launches logistics robot subscription service",
+          "Deployed within a month of the decision, no pilot run",
+          "Robots, software and after-sales service for a monthly fee"
+        ],
+        "body": [
+          "Fasto Robotics launched a robots-as-a-service (RaaS) offering that lets customers use logistics autonomous mobile robots (AMRs) for a monthly subscription fee. Logistics News (물류신문) and Hellot reported that Fasto Robotics announced this on the 27th. Both outlets described the company as a leading physical AI company.",
+          "The core of the service is speed of adoption. According to Logistics News and Hellot, customers can use the robots on site within a month of deciding to adopt them, without a separate pilot run (PoC). Logistics News reported that the monthly fee includes robots, software and after-sales service, and VentureSquare explained that robots, operating software and maintenance are provided for a monthly fee. VentureSquare added that it can be introduced without changing the racks and aisles of an existing distribution center.",
+          "VentureSquare said in its headline that the service supports automation adoption within a month without a pilot run, and explained that it does not require a separate pilot run as a mandatory step. Hellot wrote that the launch of this rental product marks the company's full-scale entry into the logistics robot subscription business. Digital Daily pointed out that the service cuts the time and cost needed to bring autonomous robots into a distribution center. It is read as a strategy to widen demand for logistics automation by lowering the burden of upfront equipment investment and maintenance.",
+          "There was also news from the same AMR field. Robot Newspaper (로봇신문) reported that T Robotics said on the 26th that its AMR and automated guided vehicle (AGV) product lines received conditional approval from the U.S. Department of War (DoW). The approval relates to the U.S. Federal Communications Commission (FCC) rules on its list of equipment posing security threats.",
+          "Glossary: An AMR is an autonomous logistics robot that senses its surroundings with sensors and finds its own path. RaaS is a model in which customers pay a usage fee to use robots as a service instead of buying them."
+        ]
+      }
     },
     {
       "id": "s20261027-67b95570812c",
@@ -792,7 +901,21 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102707222186026"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Bespin Global Wins Oracle Partner Award for Samsung Securities AI Data Platform",
+        "points": [
+          "Bespin Global wins Oracle Partner Award",
+          "Samsung Securities AI-ready data platform case",
+          "APAC Data Platform Breakthrough category"
+        ],
+        "body": [
+          "Bespin Global won the Asia-Pacific (APAC) Data Platform Breakthrough category at the '2026 Oracle Partner Awards.' Digital Daily reported that Bespin Global announced this on the 27th. According to the same article, the awards ceremony was held in the United States on the 25th (local time).",
+          "The award was based on the case of building an AI data platform for Samsung Securities. Digital Today said in its headline that the results of the Samsung Securities AI-ready data platform were reflected, and VentureSquare described it as winning the Oracle APAC Partner Award. Digital Today and Industry News reported that Bespin Global built an AI-ready data platform on Oracle Autonomous AI Database that reflects the financial sector's requirements for data sovereignty and security. VentureSquare reported that the award recognized the Samsung Securities AI-Ready Data Platform case and that the project was based on Oracle Autonomous AI Database.",
+          "News from Oracle's AI event followed around the same time. iNews24 reported that Oracle unveiled the 'Deep Trust AI Architecture' on the 27th to reduce data access risks from AI agents and AI-generated applications. Bloter reported that Oracle introduced a design that enforces AI agents' data access rules directly in the database. Digital Daily reported from the site that Oracle put forward a strategy of protecting trust in enterprise AI at the database and software platform level rather than in the AI model. The same outlet wrote that three Korean AI startups are speeding up their push into the North American enterprise market on Oracle Cloud Infrastructure (OCI).",
+          "Glossary: Data sovereignty is the concept that the storage location and management rights of data should be controlled by the country or organization concerned."
+        ]
+      }
     },
     {
       "id": "s20261027-4b5f472f9f51",
@@ -849,7 +972,22 @@
           "link": "https://byline.network/2026/10/21-625"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Maestro Forensic Launches AI Agent That Analyzes Evidence in Natural Language",
+        "points": [
+          "Maestro Forensic launches WiSDOM AI Agent",
+          "Evidence search and analysis requested in natural language",
+          "Supports automatic investigation report writing"
+        ],
+        "body": [
+          "Maestro Forensic released the 'MAESTRO WiSDOM AI Agent,' which investigates and analyzes digital evidence in natural language. Techworld News and Datanet reported that Maestro Forensic announced the product's launch on the 26th. Datanet identified the company's CEO as Kim Jong-gwang.",
+          "Outlets' descriptions of the features overlapped but differed slightly. VentureSquare explained that when a user enters an investigation goal as a prompt, the AI searches for relevant evidence, analyzes timelines and relationships, and writes up the results as a report. The Elec reported that it is a tool that searches and analyzes evidence when investigators make requests in natural language and completes an investigation report with supporting material attached. Hellot said in its headline that it automates digital forensic investigation as an AI agent linked via MCP, and Techworld News described it as a product supporting an AI-based intelligent investigation system.",
+          "The wording also differed by outlet. Datanet and Techworld News wrote that it will be launched, VentureSquare and Hellot that it has been launched, and The Elec said in its headline that it was unveiled. VentureSquare described the company as a security firm, and Hellot reported that users can enter an investigation goal with just a few lines of prompt.",
+          "Adoption of AI in digital forensics can be seen at other companies as well. Byline Network reported on the 22nd that digital forensics firm UROCK, founded in 2018, has been developing tools that first select the records needed at investigation sites. The article said in its headline that UROCK is applying AI to extend into data risk management.",
+          "Glossary: Digital forensics is the activity of finding and analyzing evidence on digital devices such as computers and mobile phones. MCP is an open protocol that lets AI models connect to external tools and data."
+        ]
+      }
     },
     {
       "id": "b20261026",
@@ -1673,7 +1811,22 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408492"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Selectstar Unveils 'DAVI,' Judgment-Focused AI That Picks Models Based on Question Difficulty",
+        "points": [
+          "Selectstar unveils judgment-focused AI DAVI",
+          "Chooses suitable AI model by question difficulty",
+          "Model routing plugin released as open source"
+        ],
+        "body": [
+          "Selectstar, an AI reliability evaluation company, unveiled 'DAVI,' a judgment-focused AI model. iNews24 and Digital Today reported that Selectstar (CEO Kim Se-yeop) announced this on the 26th. Platum wrote that a model routing plugin built with DAVI was also released as open source.",
+          "Hellot summarized DAVI's uses most specifically. It is a decision AI that can be used for decision-making tasks such as judging question difficulty to choose a suitable AI model, evaluating the appropriateness of AI answers, and predicting the likelihood that an agent's task will succeed. AI Times reported that the open-source plugin was released on GitHub under the Apache 2.0 license, which allows commercial use, modification and redistribution.",
+          "Claims about performance and cost differed by outlet. Datanet reported that DAVI showed superior results in a self-run performance evaluation against the global judgment AI model 'Jev.' Digital Today said in its headline that it cuts model operating costs by 28%.",
+          "Selectstar also announced a recent partnership. iNews24 and AI Times reported that Selectstar said on the 21st it signed a letter of intent (LOI) with Cisco for strategic cooperation in AI security and reliability. Techworld News reported that the two companies held an LOI signing ceremony on the 20th, and AI Times mentioned Selectstar's AI reliability evaluation platform 'DATUMO.'",
+          "Glossary: Model routing is a method of choosing which AI model to assign a task based on conditions such as the difficulty of the question. Open source is a way of releasing source code, the blueprint of software, so that anyone can inspect and modify it."
+        ]
+      }
     },
     {
       "id": "s20261026-c3fdfcd63af7",
@@ -2040,7 +2193,22 @@
           "link": "https://www.inews24.com/view/2017650"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LG Electronics Launches 'LG STEM' Refrigerator With AI and a Drawer-Type Freezer",
+        "points": [
+          "LG Electronics launches new ice-and-water refrigerator on the 26th",
+          "AI food management and drawer-type freezer",
+          "New model of the STEM direct-water refrigerator brand"
+        ],
+        "body": [
+          "LG Electronics launched the 'LG DIOS AI Objet Collection STEM ice and water refrigerator,' featuring AI functions and a drawer-type freezer, on the 26th. Chosun Biz, Korea NGO News and IT Chosun reported the same content. IT Chosun and iNews24 explained that STEM is LG Electronics' direct-water refrigerator brand that makes ice with water supplied through a direct water line.",
+          "Each outlet emphasized a different point. Industry News wrote that LG is moving to expand its dominance of the premium kitchen appliance market by combining AI-based personalized management with an ergonomic drawer-type freezer. EBN reported that it improved ease of use and space efficiency with food-specific storage functions and AI technology that learns users' living patterns. Korea NGO News highlighted the AI-based food management function and introduced the drawer-type freezer, unlike the existing bottom freezer with double doors that open to both sides. IT Chosun described it in its headline as an AI refrigerator that switches between freezing and refrigerating.",
+          "IT Chosun and iNews24 reported that the ice comes in various forms, including craft ice, cubes and crushed pieces.",
+          "There was other recent AI news from LG Electronics as well. Chosun Biz and iNews24 reported that LG Electronics, together with Korea Water Resources Corporation, will pursue AI transformation of the Sihwa Tidal Power Plant, the world's largest, on the 22nd. IT Chosun reported that LG Electronics plans to apply the digital twin, AI and robot technologies it has built up on manufacturing floors to the power plant to verify their potential, extending its smart factory business to energy and public infrastructure.",
+          "Glossary: A digital twin is a technology that recreates real equipment or spaces exactly in a virtual space so that their status can be monitored or tested."
+        ]
+      }
     },
     {
       "id": "h20261025-a2e2b27939c3",
