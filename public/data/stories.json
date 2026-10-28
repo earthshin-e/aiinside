@@ -5,6 +5,883 @@
   ],
   "stories": [
     {
+      "id": "h20261028-dea065c4fa6b",
+      "title": "애플, M6 칩 맥북 프로와 아이맥 공개, 창작 앱에 AI 더해",
+      "category": "기업",
+      "published": "2026-10-28T09:42:07.160Z",
+      "author": "Haley Yun",
+      "points": [
+        "M6 칩 14인치 맥북 프로와 아이맥 공개",
+        "국내 맥북 프로 329만원, 아이맥 249만원부터",
+        "크리에이터 스튜디오 AI 기능, 11월 무료 제공"
+      ],
+      "body": [
+        "애플이 27일(현지시간) 자체 설계 칩 M6를 탑재한 14인치 맥북 프로와 24인치 아이맥을 공개했다. AI타임스는 두 제품이 외관은 이전 세대와 비슷하지만 AI 처리 성능과 그래픽 성능을 대폭 강화한 것이 특징이라고 전했다. 아이뉴스24는 사진과 영상 편집, AI 작업 속도를 높인 모델이라고 소개했다.",
+        "조선비즈는 신형 맥북 프로 14가 12코어 CPU와 GPU를 갖춘 M6를 탑재했고, 기기 안에서 AI를 구동하는 온디바이스 AI 성능을 높인 점이 특징이라고 보도했다. 테크크런치 보도를 인용한 디지털투데이는 새 맥북 프로가 배터리를 최대 24시간 쓸 수 있고 와이파이 7과 블루투스 6을 지원하며, 미국 가격은 1999달러부터 시작한다고 전했다.",
+        "국내 가격은 아이뉴스24 기준으로 맥북 프로 14가 329만원부터, 아이맥이 249만원부터다. 두 제품 모두 28일부터 사전주문을 받는다. 조선비즈도 애플이 28일 신제품의 사전 예약을 시작한다고 밝혔다고 전했다.",
+        "소프트웨어 소식도 함께 나왔다. 아이뉴스24는 애플이 영상, 음악, 이미지 편집 앱을 묶은 구독 서비스 크리에이터 스튜디오에 AI 기능을 추가한다고 27일 밝혔다고 전했다. 업데이트는 11월에 제공되며 기존 구독자는 추가 비용 없이 이용할 수 있다. 디지털투데이는 테크레이더를 인용해 생성형 AI 기능과 신규 창작 도구가 더해지고 기존 구독료는 유지된다고 소개했다.",
+        "최근 14일 사이 애플의 AI 관련 보도는 이어졌다. AI타임스는 애플이 26일(현지시간) 배포한 iOS 27.2 업데이트로 시리 AI를 한국어 등 5개 언어로 확대했다고 전했고, OLED 디스플레이와 A20 프로 칩을 탑재한 신형 아이패드 미니를 공개했으며 AI 성능이 최대 4.5배라고 보도했다. IT조선은 삼성전자와 애플이 스마트폰 AI 기능을 새로운 수익원으로 삼기 위해 유료화 카드를 만지작거리고 있다고 전했다.",
+        "용어 풀이: 온디바이스 AI는 클라우드 서버를 거치지 않고 스마트폰이나 PC 같은 기기 안에서 AI 연산을 처리하는 방식이다."
+      ],
+      "sources": [
+        {
+          "id": "3f8430dddeda",
+          "name": "디지털데일리",
+          "title": "애플, M6 탑재 '맥북 프로 14'·'아이맥' 및 크리에이터 스튜디오 공개",
+          "link": "https://www.ddaily.co.kr/page/view/2026102800165666694"
+        },
+        {
+          "id": "657d7e41cc21",
+          "name": "아이뉴스24",
+          "title": "애플, M6 탑재 맥북 프로 공개…\"AI·그래픽 작업 더 빠르게\"",
+          "link": "https://www.inews24.com/view/2019652"
+        },
+        {
+          "id": "75992ada7a75",
+          "name": "아이뉴스24",
+          "title": "애플, M6 탑재 아이맥 공개…\"사진 편집·AI 작업 더 빠르게\"",
+          "link": "https://www.inews24.com/view/2019653"
+        },
+        {
+          "id": "1b470c674669",
+          "name": "AI타임스",
+          "title": "애플, 'M6' 칩 탑재 아이맥·맥북 프로 공개...AI 성능 대폭 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216735"
+        },
+        {
+          "id": "79f980e30dec",
+          "name": "조선비즈",
+          "title": "애플, M6 탑재한 신형 맥북프로·아이맥 공개… 온디바이스 AI 성능 강화",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/A6ZYTOZ57ZEYVEJUKJSLUA3OZY"
+        },
+        {
+          "id": "9fb0f8e91cd9",
+          "name": "디지털투데이",
+          "title": "애플, M6 칩 기반 맥북 프로·아이맥 동시 공개...AI 지원 강화",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710421"
+        },
+        {
+          "id": "dea065c4fa6b",
+          "name": "디지털투데이",
+          "title": "애플, 크리에이터 스튜디오에 AI 탑재…기존 가입자 무료",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710625"
+        },
+        {
+          "id": "e6ff02af2145",
+          "name": "아이뉴스24",
+          "title": "애플, 창작 앱에 AI 비서 추가…영상·음악·문서 작업 돕는다",
+          "link": "https://www.inews24.com/view/2019654"
+        },
+        {
+          "id": "0724a1814ad0",
+          "name": "AI타임스",
+          "title": "애플, '시리 AI' 한국어 서비스 개시...iOS27.2 업데이트 배포",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216713"
+        },
+        {
+          "id": "bac2c1e06d3f",
+          "name": "AI타임스",
+          "title": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216710"
+        },
+        {
+          "id": "c4ebec0e6150",
+          "name": "IT조선",
+          "title": "단말 판매 넘어 구독도?…삼성·애플, AI 유료화 카드 만지작",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172781"
+        }
+      ]
+    },
+    {
+      "id": "h20261028-9c6e0085c76e",
+      "title": "SK하이닉스, 3분기 매출 104조원 첫 100조 돌파, 2029년까지 완판",
+      "category": "반도체",
+      "published": "2026-10-28T09:42:07.160Z",
+      "author": "Chloe Park",
+      "points": [
+        "3분기 매출 104조원, 영업이익 83조원 기록",
+        "2029년까지 D램과 HBM 물량 사실상 완판",
+        "HBM 요청 물량이 공급 가능량의 2배"
+      ],
+      "body": [
+        "SK하이닉스가 28일 2026년 3분기 실적을 발표하며 분기 매출 100조원을 사상 처음 넘겼다. AI타임스에 따르면 연결 기준 매출은 104조6155억원, 영업이익은 83조3338억원, 순이익은 39조7756억원이다. 베타뉴스는 영업이익률이 80%에 근접했다고 전했고, 인더스트리뉴스는 영업이익률 80%와 함께 전년 대비 632.1%라는 수치를 제목에 올렸다.",
+        "디지털투데이는 차세대 HBM인 HBM4 출하가 본격화되고 서버용 D램과 기업용 SSD(eSSD) 가격이 오르면서 데이터센터용 고부가 제품 판매가 늘었다고 설명했다. EBN과 인더스트리뉴스는 회사가 올해 약 100조원 규모의 주주환원을 추진한다고 전했고, AI타임스는 제목에서 주당 2만원 분기 배당을 함께 알렸다.",
+        "컨퍼런스콜에서 SK하이닉스는 이미 확보한 장기공급계약(LTA) 물량과 고객사와 협의 중인 수요를 합하면 2029년까지 D램과 HBM 생산 물량이 사실상 모두 판매된 상태라고 밝혔다. 아이뉴스24는 글로벌 대형 클라우드 기업 등 14곳과 LTA를 체결했고 5년이 넘는 계약을 요청한 고객도 있다고 전했다. IT조선은 향후 3년간 생산량에 맞먹는 수요를 확보했다는 회사 설명을 소개했고, 테크M은 계약을 추가로 연장하는 논의가 진행 중이라고 보도했다.",
+        "EBN과 조선비즈는 HBM 고객사의 요청 물량이 실제 공급 가능한 물량의 약 2배에 달한다고 회사가 밝혔다고 전했다. 일부 고객이 HBM 적층 단수를 낮추는 움직임을 보이는 것에 대해서도 회사는 중장기 수요 전망에는 변화가 없다는 입장이다. 아이뉴스24는 회사가 12단에서 8단으로 낮추는 움직임을 공급 부족 때문이라고 설명하며 수요가 공급을 압도하고 있음을 보여 주는 사례라고 말했다고 전했다.",
+        "아이뉴스24와 조선비즈는 SK하이닉스가 에이전틱 AI와 긴 컨텍스트 확산으로 KV 캐시 규모가 빠르게 커져 이를 모두 HBM과 D램에 저장하기에는 용량과 비용의 한계가 있다고 밝혔다고 보도했다. 조선비즈는 AI 추론용 KV 캐시를 SSD로 분산하는 방식이 확산하면서 낸드플래시에 새로운 수요가 생길 것으로 회사가 전망했다고 전했다.",
+        "실적 발표 전후로 관련 보도가 이어졌다. EBN은 카운터포인트를 인용해 시장의 관심이 엔비디아 차세대 AI 가속기 루빈에 탑재될 HBM4의 품질 인증과 공급 여부에 쏠려 있다고 전했다. 아이뉴스24는 번스타인 분석을 인용해 삼성전자가 3분기 HBM 매출에서 SK하이닉스를 추월했을 것이라는 분석이 나왔다고 보도했다. 이포커스는 앤스로픽 상장 신고서 위험요인에 HBM 제조사로 SK하이닉스, 삼성전자, 마이크론이 명시됐다고 전했고, AI타임스는 SK하이닉스가 23일 솔리다임의 IPO 검토를 중단한다고 밝혔다고 보도했다.",
+        "용어 풀이: HBM(고대역폭메모리)은 D램을 여러 층 쌓아 데이터 전송 폭을 넓힌 메모리로 AI 가속기에 주로 쓰인다. KV 캐시는 대규모 언어 모델이 앞서 처리한 문맥의 중간 계산값을 저장해 두는 공간이다."
+      ],
+      "sources": [
+        {
+          "id": "2f50fc28a256",
+          "name": "AI타임스",
+          "title": "SK하이닉스, 분기 매출 100조 시대 열어...주당 2만원 분기 배당",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216746"
+        },
+        {
+          "id": "e15560147077",
+          "name": "IT조선",
+          "title": "SK하이닉스, 분기 매출 첫 100조 돌파…영업익 83조",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172921"
+        },
+        {
+          "id": "54a73816b031",
+          "name": "테크월드뉴스",
+          "title": "SK하이닉스, 분기 매출 100조 시대 열었다…HBM4로 성장 가속",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408847"
+        },
+        {
+          "id": "d3840f7c89a6",
+          "name": "EBN",
+          "title": "SK하이닉스, 3분기 영업익 83조 '사상 최대'…올해 100조 주주환원 추진",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729416"
+        },
+        {
+          "id": "9c6e0085c76e",
+          "name": "디지털투데이",
+          "title": "SK하이닉스, D램·HBM 앞세워 사상 최대 실적...\"2029년까지 메모리 솔드아웃\"",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710566"
+        },
+        {
+          "id": "729b801548dd",
+          "name": "아이뉴스24",
+          "title": "SK하이닉스 \"2029년까지 D램·HBM 완판…5년 넘는 계약도 요청\"[컨콜종합]",
+          "link": "https://www.inews24.com/view/2019831"
+        },
+        {
+          "id": "aa4b0ebd5a3f",
+          "name": "IT조선",
+          "title": "SK하이닉스 “2029년까지 D램·HBM 사실상 완판”",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172942"
+        },
+        {
+          "id": "7fc8fba465cf",
+          "name": "디지털데일리",
+          "title": "[종합] SK하이닉스, HBM4 공급 확대 본격화…향후 3년 물량 사실상 '완판'",
+          "link": "https://www.ddaily.co.kr/page/view/2026102810515586037"
+        },
+        {
+          "id": "4962552a4594",
+          "name": "테크M",
+          "title": "SK하이닉스, D램·HBM 장기 공급계약 '완판 행진'…\"계약 추가 연장 논의 중\"",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156583"
+        },
+        {
+          "id": "aee22735e177",
+          "name": "EBN",
+          "title": "[컨콜] SK하이닉스 \"HBM 고객 요청 물량, 공급 가능량의 2배\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729458"
+        },
+        {
+          "id": "617a6f138c0b",
+          "name": "아이뉴스24",
+          "title": "SK하이닉스 \"HBM 12단→8단 하향은 공급 부족 때문…고객 주문 2배\"",
+          "link": "https://www.inews24.com/view/2019777"
+        },
+        {
+          "id": "482f1466c3a9",
+          "name": "조선비즈",
+          "title": "[컨콜] SK하이닉스 “HBM 적층 단수 낮춰도 수요 영향 없어…주문량 공급능력 2배 이상”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/PJEFAK6V4FEP5E55WSX4AF3GEE"
+        },
+        {
+          "id": "57918153438f",
+          "name": "베타뉴스",
+          "title": "SK하이닉스, 3분기 영업익 83조 '역대 최대'…매출 104조 첫 돌파",
+          "link": "https://www.betanews.net/article/view/beta202610280085"
+        },
+        {
+          "id": "e47ac6a537c7",
+          "name": "아이뉴스24",
+          "title": "SK하이닉스 \"KV 캐시 급증…낸드에 새로운 수요 기회\"",
+          "link": "https://www.inews24.com/view/2019795"
+        },
+        {
+          "id": "8c74b9eb5969",
+          "name": "조선비즈",
+          "title": "[컨콜] SK하이닉스 “AI 추론용 KV 캐시, SSD로 분산… 낸드 수요 확대 기대”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/PW4KS6HFPZH63CEOMBZKXHGIIU"
+        },
+        {
+          "id": "fc1df5ddd255",
+          "name": "EBN",
+          "title": "카운터포인트 \"SK하이닉스 실적 정점 아직\"…HBM4·가격 전략 주목",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729401"
+        },
+        {
+          "id": "422d3869f581",
+          "name": "아이뉴스24",
+          "title": "삼성전자, 3분기 HBM 매출서 SK하이닉스 추월 전망…번스타인 분석",
+          "link": "https://www.inews24.com/view/2018911"
+        },
+        {
+          "id": "e510d4887802",
+          "name": "이포커스",
+          "title": "앤스로픽 상장 서류에 SK하이닉스·삼성 HBM 공급 위험 명시",
+          "link": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003156"
+        },
+        {
+          "id": "addd81fab2d9",
+          "name": "AI타임스",
+          "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216601"
+        }
+      ]
+    },
+    {
+      "id": "h20261028-1520b0868411",
+      "title": "KB증권, SK텔레콤이 이끄는 ‘모두의 AI’ 컨소시엄 합류",
+      "category": "정책",
+      "published": "2026-10-28T09:42:07.160Z",
+      "author": "Ethan Chen",
+      "points": [
+        "KB증권, 22일 SK텔레콤과 업무협약 체결",
+        "정부 사업 ‘모두의 AI’ 컨소시엄에 참여",
+        "금융 AI와 SKT 플랫폼 결합 방안 추진"
+      ],
+      "body": [
+        "KB증권이 SK텔레콤이 이끄는 ‘모두의 AI’ 컨소시엄에 참여한다. 베타뉴스와 인더스트리뉴스에 따르면 KB증권은 SK텔레콤과 업무협약(MOU)을 체결했다. 인더스트리뉴스와 디지털데일리는 협약 체결일이 22일이라고 전했고, 회사는 28일 이를 밝혔다.",
+        "인더스트리뉴스는 ‘모두의 AI’를 국민 누구나 AI를 쉽게 활용할 수 있도록 지원하는 정부 사업이라고 설명했다. 베타뉴스는 컨소시엄을 여러 기업이 공동 목적을 위해 구성한 연합체라고 풀이했다.",
+        "협력 내용을 전하는 표현은 매체마다 달랐다. 디지털데일리는 KB증권의 금융 AI ‘깨비AI’ 기술과 SK텔레콤 플랫폼의 결합을 추진하며, 고령층과 금융 초보자의 접근성 강화, 투자정보 분석, 금융소비자 보호에 초점을 둔다고 전했다. 디일렉은 양사가 금융 특화 AI 기술과 AI 플랫폼을 연계해 개인 맞춤형 자산관리 서비스를 제공하는 방안을 검토한다고 보도했다. 인더스트리뉴스는 금융 분야의 AI 활용 방안을 모색하기로 했다고 썼다.",
+        "‘모두의 AI’를 둘러싼 최근 보도도 이어졌다. 아이뉴스24는 과학기술정보통신부가 26일부터 다음 달 6일까지 정책 브랜드명과 슬로건 공모전을 열며, 정부가 연내 출시를 준비 중이라고 전했다. 헬로티는 대상 1점을 포함한 우수작 6점에 총상금이 550만원이라고 보도했다. 아이뉴스24는 23일 국정감사에서 오는 12월 정식 출시를 앞둔 서비스에서 오류로 피해가 생길 경우 배상책임이 불분명하다는 지적이 나왔고, 배경훈 부총리가 참여 기업의 책임 분담을 명확히 하겠다고 답했다고 전했다. 디지털데일리는 카카오가 ‘카나나’ 모델 학습은 AWS 클라우드에서, 서비스는 정부 GPU에서 하는 이원화 구조를 택했다고 보도했다.",
+        "용어 풀이: 컨소시엄은 여러 기업이나 기관이 공동의 목적을 위해 구성한 연합체를 가리킨다."
+      ],
+      "sources": [
+        {
+          "id": "1520b0868411",
+          "name": "베타뉴스",
+          "title": "KB증권, SK텔레콤 '모두의 AI' 컨소시엄 참여",
+          "link": "https://www.betanews.net/article/view/beta202610280144"
+        },
+        {
+          "id": "9be9aa28cee3",
+          "name": "인더스트리뉴스",
+          "title": "KB증권, SK텔레콤과 '모두의 AI' 금융서비스 협력 방안 모색키로",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88400"
+        },
+        {
+          "id": "a216a5619735",
+          "name": "디지털데일리",
+          "title": "“AI 비서로 주식·자산관리까지”…KB증권, SKT ‘모두의 AI’ 합류",
+          "link": "https://www.ddaily.co.kr/page/view/2026102809424050959"
+        },
+        {
+          "id": "76d665a918d3",
+          "name": "디일렉",
+          "title": "KB증권, SK텔레콤 '모두의 AI' 합류…금융 AI 서비스 참전",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64395"
+        },
+        {
+          "id": "fb80973e9ca1",
+          "name": "헬로티",
+          "title": "'모두의 AI' 브랜드, 국민들이 직접 만든다",
+          "link": "https://www.hellot.net/news/article.html?no=115781"
+        },
+        {
+          "id": "2d4e62787caf",
+          "name": "아이뉴스24",
+          "title": "'모두의 AI' 이름 국민이 짓는다…과기정통부, 브랜드 공모전 개최",
+          "link": "https://www.inews24.com/view/2018968"
+        },
+        {
+          "id": "422722690401",
+          "name": "아이뉴스24",
+          "title": "[2026 국감] \"모두의 AI 오류 피해 누가 배상하나\"…배경훈 \"참여 기업 책임 분담 명확히 할 것\"",
+          "link": "https://www.inews24.com/view/2018483"
+        },
+        {
+          "id": "314bbfe221b0",
+          "name": "디지털데일리",
+          "title": "학습은 AWS, 서비스는 정부 GPU…카카오, '모두의 AI' 인프라 이원화",
+          "link": "https://www.ddaily.co.kr/page/view/2026102313492606699"
+        }
+      ]
+    },
+    {
+      "id": "h20261028-0e62b3ede664",
+      "title": "LG유플러스, 한국이콜랩과 AI 데이터센터 액체냉각 운영표준 개발",
+      "category": "기업",
+      "published": "2026-10-28T09:42:07.160Z",
+      "author": "Ashley Yang",
+      "points": [
+        "LGU+와 한국이콜랩, 냉각 운영 최적화 협약",
+        "냉각유체 관리부터 설비 이상 감지까지 추진",
+        "AI 서버 발열 증가에 액체냉각 운영 기준 마련"
+      ],
+      "body": [
+        "LG유플러스가 글로벌 수처리 솔루션 기업 이콜랩의 한국법인 한국이콜랩과 AI 데이터센터(AIDC) 액체냉각 운영표준 개발에 나선다. 디일렉, EBN, 한국NGO신문에 따르면 두 회사는 27일 서울 용산사옥에서 ‘AI 데이터센터 냉각 시스템 운영 최적화를 위한 업무협약(MOU)’을 체결했고, AI타임스와 디지털데일리는 28일 이 사실이 밝혀졌다고 전했다.",
+        "배경으로는 AI 서버의 발열 증가가 꼽혔다. 인더스트리뉴스는 고성능 AI 서버의 발열량 증가에 대응해 냉각유체 관리와 설비 모니터링 기술을 공동 검증하고 데이터센터 운영 안정성을 높인다는 구상이라고 전했다. 데이터넷은 최근 AI 추론 수요 증가와 GPU 서버 고집적화로 데이터센터의 발열 관리가 중요해졌다고 설명했다.",
+        "협력 내용은 매체별로 조금씩 다르게 소개됐다. 디일렉은 냉각유체 관리부터 설비 이상 감지까지 통합 운영체계를 만드는 것이 목표라고 전했다. 한국NGO신문은 평촌2센터에서 관련 기술을 검증하고 냉각유체 관리와 AI 기반 예측 유지보수 체계를 구축할 계획이라고 보도했다.",
+        "보도 주체에도 차이가 있었다. AI타임스는 LGU+ 대표 홍범식을, 데이터넷은 한국이콜랩 대표 류양권을 함께 소개했다. 테크월드뉴스는 한국이콜랩을 주어로 협약 소식을 전하며 장소를 서울 용산구 LG유플러스 본사라고 적었다.",
+        "최근 14일 사이 AI 데이터센터 냉각을 둘러싼 협력 소식이 이어졌다. 디지털데일리는 다쏘시스템과 버티브가 AI 팩토리의 전력과 냉각 인프라를 가상 환경에서 먼저 검증한다고 23일 전했다. 데이터넷은 오텍캐리어가 비이랩과 AIDC 냉각솔루션 공급 협력을 위한 MOU를 맺었다고 보도했고, 벤처스퀘어는 데이터빈이 한국남동발전과 발전소 해수냉각설비를 활용한 AI 엣지 데이터센터 냉각 기술을 공동개발한다고 전했다. 테크월드뉴스는 슈퍼마이크로가 엔비디아 베라 CPU 256개를 탑재한 100% 수냉식 랙을 공개했다고 보도했다.",
+        "용어 풀이: 액체냉각은 서버와 GPU에서 나는 열을 공기 대신 액체를 이용해 식히는 방식이다. 예측 유지보수는 설비 상태 데이터를 분석해 고장이 나기 전에 정비 시점을 파악하는 방식이다."
+      ],
+      "sources": [
+        {
+          "id": "0e62b3ede664",
+          "name": "인더스트리뉴스",
+          "title": "LG유플러스, 한국이콜랩과 AI 데이터센터 액체냉각 운영표준 개발",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88406"
+        },
+        {
+          "id": "8ddbbe151259",
+          "name": "AI타임스",
+          "title": "LGU+, 한국이콜랩과 데이터센터 액체냉각 운영표준 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216733"
+        },
+        {
+          "id": "5a3af1d1cd92",
+          "name": "디지털데일리",
+          "title": "AI 데이터센터 발열 잡기 나선 LGU+…액체냉각 운영표준 개발",
+          "link": "https://www.ddaily.co.kr/page/view/2026102809375937353"
+        },
+        {
+          "id": "9554c5b85edf",
+          "name": "디일렉",
+          "title": "LG U+, AI 데이터센터 액체냉각 운영표준 개발 추진",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64398"
+        },
+        {
+          "id": "d3e242ab0792",
+          "name": "EBN",
+          "title": "[Telecom & Now] LGU+, 이콜랩과 AI 데이터센터 액체냉각 표준 만든다",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729437"
+        },
+        {
+          "id": "0a394ff07e19",
+          "name": "데이터넷",
+          "title": "한국이콜랩·LG유플러스, AIDC 냉각 시스템 운영 최적화 맞손",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215402"
+        },
+        {
+          "id": "4a649c51f5b2",
+          "name": "테크월드뉴스",
+          "title": "한국이콜랩, LG유플러스와 AI 데이터센터 냉각 운영 표준 만든다",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408851"
+        },
+        {
+          "id": "50e5104dc207",
+          "name": "한국NGO신문",
+          "title": "LG유플러스, AI 데이터센터 액체냉각 운영표준 만든다",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=241660"
+        },
+        {
+          "id": "bfce056dbb05",
+          "name": "디지털데일리",
+          "title": "다쏘시스템·버티브, AI 팩토리 전력·냉각 설계 가상 검증",
+          "link": "https://www.ddaily.co.kr/page/view/2026102310202108093"
+        },
+        {
+          "id": "d2a525517922",
+          "name": "데이터넷",
+          "title": "오텍캐리어·비이랩, AIDC 냉각솔루션 사업 맞손",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215322"
+        },
+        {
+          "id": "535a4cdc96cd",
+          "name": "벤처스퀘어",
+          "title": "데이터빈·한국남동발전, 발전소 해수 활용 AI 데이터센터 냉각 기술 공동개발",
+          "link": "https://www.venturesquare.net/1122067"
+        },
+        {
+          "id": "7d411cbc51af",
+          "name": "테크월드뉴스",
+          "title": "슈퍼마이크로, 엔비디아 베라 CPU 256개 탑재 100% 수냉식 랙 공개",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408760"
+        }
+      ]
+    },
+    {
+      "id": "h20261028-488f645b7c34",
+      "title": "AI스페라, 인터폴 ‘게이트웨이’ 참여 협약, 사이버범죄 대응 지원",
+      "category": "보안",
+      "published": "2026-10-28T09:42:07.160Z",
+      "author": "Kevin Wong",
+      "points": [
+        "AI스페라, 인터폴과 사이버범죄 대응 협약",
+        "인터폴 ‘게이트웨이’ 이니셔티브에 참여",
+        "‘크리미널 IP’ 위협정보와 분석 전문성 공유"
+      ],
+      "body": [
+        "사이버 위협 인텔리전스 기업 AI스페라가 국제형사경찰기구(인터폴)와 글로벌 사이버범죄 대응을 위한 협약을 체결하고 인터폴의 ‘게이트웨이’ 이니셔티브에 참여한다. 테크월드뉴스, 디지털데일리, 헬로티는 이 사실을 28일 전했다.",
+        "AI타임스는 게이트웨이를 인터폴이 2019년 출범한 민간 파트너와의 사이버 위협 인텔리전스 공유 협력체계라고 설명했다. 헬로티는 사이버보안 기업, 기술 제공 기업, 금융기관 등 신뢰할 수 있는 파트너와 협력하는 민간 협력체계라고 적었다.",
+        "벤처스퀘어는 AI스페라가 자사 플랫폼 ‘크리미널 IP’를 통해 확보한 IP, 도메인, 인터넷 노출 자산 관련 위협정보와 분석 전문성을 공유할 예정이라고 전했다. 보안뉴스는 AI스페라가 사이버 위협 인텔리전스(CTI) 플랫폼 크리미널 IP를 기반으로 인터폴의 사이버범죄 분석을 지원한다고 보도했다.",
+        "제목의 표현은 매체마다 달랐다. 헬로티는 인터폴 민간 협력 파트너로 합류한다고, 보안뉴스는 인터폴의 사이버범죄 분석을 지원한다고, 벤처스퀘어는 협력망에 합류해 위협정보를 공유한다고 적었다.",
+        "위협 인텔리전스 제품에는 AI 기능을 더하는 움직임도 이어지고 있다. 헬로티는 카스퍼스키가 AI 기반 요약 기능과 모델 컨텍스트 프로토콜(MCP) 연동을 지원하는 위협 인텔리전스 포털 업데이트를 발표했다고 26일 전했다. 보안뉴스는 방대한 위협 데이터의 자동 요약과 외부 AI 연동을 지원한다고 보도했다.",
+        "용어 풀이: 사이버 위협 인텔리전스(CTI)는 악성 IP와 도메인 같은 사이버 공격 관련 정보를 수집하고 분석해 보안 담당자가 위협에 대응하도록 돕는 정보를 말한다."
+      ],
+      "sources": [
+        {
+          "id": "488f645b7c34",
+          "name": "AI타임스",
+          "title": "[게시판] AI스페라, 국제 사이버범죄 수사 지원 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216740"
+        },
+        {
+          "id": "10d859cbd6ac",
+          "name": "헬로티",
+          "title": "AI스페라, 인터폴 민간 협력 파트너로 합류...국제 사이버범죄 대응 역량 강화",
+          "link": "https://www.hellot.net/news/article.html?no=115865"
+        },
+        {
+          "id": "54091c9d10ae",
+          "name": "벤처스퀘어",
+          "title": "AI스페라, 인터폴 사이버범죄 대응 협력망 합류…’크리미널 IP’ 위협정보 공유",
+          "link": "https://www.venturesquare.net/1123724"
+        },
+        {
+          "id": "10f4d2b74710",
+          "name": "보안뉴스",
+          "title": "AI스페라, 인터폴 사이버범죄 분석 지원… ‘게이트웨이’ 이니셔티브 참여",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146825"
+        },
+        {
+          "id": "06ac3e3a8461",
+          "name": "디지털데일리",
+          "title": "AI스페라, 국제 사이버범죄 대응 돕는다…인터폴 '게이트웨이' 합류",
+          "link": "https://www.ddaily.co.kr/page/view/2026102809501363172"
+        },
+        {
+          "id": "7bf311da6869",
+          "name": "테크월드뉴스",
+          "title": "AI스페라, 인터폴 ‘게이트웨이’ 이니셔티브 참여…“글로벌 사이버범죄 대응 협력”",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408857"
+        },
+        {
+          "id": "0013e72a8342",
+          "name": "헬로티",
+          "title": "카스퍼스키, 위협 인텔리전스 포털 업데이트...클릭 한 번에 침해 지표 AI 요약",
+          "link": "https://www.hellot.net/news/article.html?no=115763"
+        },
+        {
+          "id": "fded7bdea6a2",
+          "name": "보안뉴스",
+          "title": "“방대한 보안 로그, AI가 요약한다” 카스퍼스키, 위협 인텔리전스 포털 개편",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146741"
+        }
+      ]
+    },
+    {
+      "id": "b20261028",
+      "type": "briefing",
+      "title": "10월 28일 AI 브리핑: SK하이닉스 분기 매출 100조 돌파부터 애플 M6까지",
+      "category": "일반",
+      "published": "2026-10-28T09:42:07.160Z",
+      "points": [
+        "AI 메모리와 부품 업체의 사상 최대 실적",
+        "엔비디아의 메타 투자와 구글 TPU 공급처 확대",
+        "애플 신형 맥과 AI 데이터센터 냉각 협력"
+      ],
+      "body": [
+        "SK하이닉스가 28일 3분기 연결 기준 매출 104조6155억원, 영업이익 83조3338억원을 기록했다고 AI타임스가 전했다. 분기 매출이 100조원을 넘은 것은 처음이라고 IT조선이 보도했다. 조선비즈와 EBN은 장기공급계약 물량과 협의 중인 수요를 합하면 2029년까지 D램과 HBM 생산 물량이 사실상 모두 판매됐다고 회사가 밝혔다고 전했다.",
+        "삼성전기도 AI 데이터센터용 부품 수요로 3분기 영업이익 6910억원, 역대 최대 실적을 냈다고 EBN이 전했다. 조선비즈는 AI 서버용 FCBGA 공급 부족이 심화돼 고객사와 가격 인상을 협의한다고 제목에서 밝혔다.",
+        "엔비디아가 메타의 유상증자에 30억달러 규모로 참여한다. 디일렉은 엔비디아가 26일(현지시간) 투자 사실을 밝혔다고 전했고, 디지털투데이는 양사가 메타 AI 서비스 ‘뮤즈’를 중심으로 협력을 넓힌다고 보도했다.",
+        "오픈AI가 구글의 AI 칩 TPU 구매를 추진한다는 보도가 나왔다. 디지털투데이는 디인포메이션을 인용해 구매 규모와 세부 조건은 알려지지 않았다고 전했고, 뉴시스는 컴퓨팅 용량 확장과 공급처 다변화를 위해 구매를 논의 중이라고 보도했다. 조선비즈는 오라클이 클라우드 AI 인프라에 구글과 신생 반도체 기업의 칩을 추가한다고 전했다.",
+        "애플이 27일(현지시간) M6 칩을 탑재한 14인치 맥북 프로와 24인치 아이맥을 공개했다고 AI타임스가 전했다. 아이뉴스24에 따르면 국내 가격은 맥북 프로 14가 329만원부터, 아이맥이 249만원부터이며 28일부터 사전주문을 받는다. 애플은 크리에이터 스튜디오에도 AI 기능을 추가해 11월 기존 구독자에게 추가 비용 없이 제공한다고 아이뉴스24가 전했다.",
+        "LG전자는 AI 데이터센터 냉각솔루션 누적 수주가 상반기 약 6000억원에서 3분기 3조원을 넘었다고 IT조선이 전했다. LG유플러스는 27일 한국이콜랩과 AI 데이터센터 냉각 시스템 운영 최적화 업무협약을 맺었다고 디일렉과 EBN이 보도했다.",
+        "KB증권이 SK텔레콤이 이끄는 정부 사업 ‘모두의 AI’ 컨소시엄에 참여한다. 디일렉은 금융 특화 AI 기술과 AI 플랫폼을 연계한 개인 맞춤형 자산관리 서비스를 검토한다고 전했다.",
+        "AI스페라는 인터폴과 사이버범죄 대응 협약을 맺고 ‘게이트웨이’ 이니셔티브에 참여한다. 보안뉴스는 AI스페라가 크리미널 IP 플랫폼을 기반으로 인터폴의 사이버범죄 분석을 지원한다고 전했다."
+      ],
+      "sources": [
+        {
+          "id": "2f50fc28a256",
+          "name": "AI타임스",
+          "title": "SK하이닉스, 분기 매출 100조 시대 열어...주당 2만원 분기 배당",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216746"
+        },
+        {
+          "id": "e15560147077",
+          "name": "IT조선",
+          "title": "SK하이닉스, 분기 매출 첫 100조 돌파…영업익 83조",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172921"
+        },
+        {
+          "id": "482f1466c3a9",
+          "name": "조선비즈",
+          "title": "[컨콜] SK하이닉스 “HBM 적층 단수 낮춰도 수요 영향 없어…주문량 공급능력 2배 이상”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/PJEFAK6V4FEP5E55WSX4AF3GEE"
+        },
+        {
+          "id": "bb4061a72641",
+          "name": "EBN",
+          "title": "[컨콜] SK하이닉스 \"2029년까지 D램·HBM 사실상 완판\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729445"
+        },
+        {
+          "id": "3ce284cfdef5",
+          "name": "EBN",
+          "title": "[컨콜 종합] 삼성전기, AI 부품 숏티지에 자신감…\"내년 매분기 최대 실적 쓴다\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729512"
+        },
+        {
+          "id": "e8faa755aa6d",
+          "name": "EBN",
+          "title": "삼성전기, 3분기 영업익 6910억원 '역대 최대'…AI 부품 성장 견인",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729483"
+        },
+        {
+          "id": "c26e49ec90ac",
+          "name": "조선비즈",
+          "title": "[컨콜] 삼성전기 “AI 서버용 FCBGA 공급 부족 심화…고객사와 가격 인상 협의”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/VULZ7MHD6NEFBPZEL2WJRTFB2U"
+        },
+        {
+          "id": "cbee809aeb89",
+          "name": "디일렉",
+          "title": "엔비디아, 메타에 4조 규모 지분 투자...AI 협력 확대",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64386"
+        },
+        {
+          "id": "a40fd87f50c2",
+          "name": "디지털투데이",
+          "title": "엔비디아, 메타 유상증자에 30억달러 투자...AI 에이전트 협력 확대",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710417"
+        },
+        {
+          "id": "466ce4049b03",
+          "name": "디지털투데이",
+          "title": "오픈AI, 구글 AI 칩 'TPU' 구입한다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710657"
+        },
+        {
+          "id": "202f411fcf30",
+          "name": "뉴시스",
+          "title": "\"오픈AI도 구글 AI칩 TPU 구매 추진…엔비디아 독주 흔들까\"",
+          "link": "https://www.newsis.com/view/NISX20261028_0003844594"
+        },
+        {
+          "id": "76016988d5a8",
+          "name": "조선비즈",
+          "title": "오라클, 구글 TPU까지 품는다… AI 클라우드 반도체 다변화",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/LVEGNKC6YJCBHMVXGUFIAKEDAQ"
+        },
+        {
+          "id": "b0366bd4de9b",
+          "name": "디지털투데이",
+          "title": "구글, 오라클 클라우드에서도 AI 칩 TPU 판다",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710420"
+        },
+        {
+          "id": "1b470c674669",
+          "name": "AI타임스",
+          "title": "애플, 'M6' 칩 탑재 아이맥·맥북 프로 공개...AI 성능 대폭 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216735"
+        },
+        {
+          "id": "657d7e41cc21",
+          "name": "아이뉴스24",
+          "title": "애플, M6 탑재 맥북 프로 공개…\"AI·그래픽 작업 더 빠르게\"",
+          "link": "https://www.inews24.com/view/2019652"
+        },
+        {
+          "id": "e6ff02af2145",
+          "name": "아이뉴스24",
+          "title": "애플, 창작 앱에 AI 비서 추가…영상·음악·문서 작업 돕는다",
+          "link": "https://www.inews24.com/view/2019654"
+        },
+        {
+          "id": "320bd3f350c2",
+          "name": "IT조선",
+          "title": "LG전자, 3분기 실적 개선…AI 냉각 수주 3조",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172965"
+        },
+        {
+          "id": "9554c5b85edf",
+          "name": "디일렉",
+          "title": "LG U+, AI 데이터센터 액체냉각 운영표준 개발 추진",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64398"
+        },
+        {
+          "id": "d3e242ab0792",
+          "name": "EBN",
+          "title": "[Telecom & Now] LGU+, 이콜랩과 AI 데이터센터 액체냉각 표준 만든다",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729437"
+        },
+        {
+          "id": "b1a1f83a2bf6",
+          "name": "EBN",
+          "title": "[컨콜] LG전자, AI 냉각 수주 3조원 돌파…美 생산거점 신설",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729558"
+        },
+        {
+          "id": "76d665a918d3",
+          "name": "디일렉",
+          "title": "KB증권, SK텔레콤 '모두의 AI' 합류…금융 AI 서비스 참전",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64395"
+        },
+        {
+          "id": "1520b0868411",
+          "name": "베타뉴스",
+          "title": "KB증권, SK텔레콤 '모두의 AI' 컨소시엄 참여",
+          "link": "https://www.betanews.net/article/view/beta202610280144"
+        },
+        {
+          "id": "10f4d2b74710",
+          "name": "보안뉴스",
+          "title": "AI스페라, 인터폴 사이버범죄 분석 지원… ‘게이트웨이’ 이니셔티브 참여",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146825"
+        },
+        {
+          "id": "488f645b7c34",
+          "name": "AI타임스",
+          "title": "[게시판] AI스페라, 국제 사이버범죄 수사 지원 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216740"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261028-3ce284cfdef5",
+      "title": "삼성전기, AI 부품 호황에 3분기 영업이익 6910억원 역대 최대",
+      "category": "반도체",
+      "published": "2026-10-28T06:06:37.000Z",
+      "points": [
+        "3분기 영업이익 6910억원, 역대 최대",
+        "AI 서버용 MLCC와 FC-BGA 공급 부족 지속",
+        "4분기 초대형 기판 공급 물량 2배 확대 계획"
+      ],
+      "body": [
+        "삼성전기가 28일 2026년 3분기 실적을 발표했다. EBN은 AI 데이터센터용 고부가 부품 수요 확대에 힘입어 영업이익 6910억원으로 역대 최대 실적을 냈다고 전했고, IT조선은 영업이익이 지난해 같은 기간보다 2배 이상 늘었다고 보도했다. 두 매체 모두 적층세라믹콘덴서(MLCC)와 반도체 패키지 기판 판매 증가를 배경으로 꼽았다.",
+        "컨퍼런스콜 발언도 보도됐다. EBN은 AI 서버용 MLCC와 FC-BGA 공급 부족이 수익성 개선을 이끌며 내년 1분기부터 매분기 사상 최대 실적을 갈아치울 것이라는 자신감을 드러냈다고 전했다. 조선비즈는 AI 서버용 FCBGA 공급 부족이 이어지고 고객사와 가격 인상을 협의하고 있다고 보도했으며, 서버 CPU용 초대형 기판의 4분기 공급 물량을 기존보다 2배로 늘릴 계획이라고 전했다.",
+        "IT조선은 삼성전기가 기판 생산능력을 확대하고 있지만 고객사 수요를 따라가지 못하고 있고 MLCC도 장기공급계약이 확대되고 있다고 전했다. 조선비즈는 주요 빅테크 고객사의 장기 공급계약 요구에 계속 대응하고 초고용량 MLCC 공급을 확대하겠다고 밝혔다고 보도했다.",
+        "로봇 분야 소식도 나왔다. 조선비즈와 EBN은 삼성전기가 휴머노이드 로봇용 카메라 모듈 양산을 시작했다고 전했다. 조선비즈에 따르면 3분기 광학솔루션 사업부 매출은 9413억원으로 전 분기보다 소폭 줄었지만 전년 같은 기간보다 약 3% 늘었다. 테크월드뉴스는 엔비디아가 28일 앰코테크놀로지, 이비덴, 킹위안전자, 삼성전기, 실리콘웨어정밀공업, 유니마이크론 등 공급망 파트너와 반도체 제조 생산능력 확대에 나선다고 전했다.",
+        "삼성전기는 최근 엔비디아와의 협력을 공식화했다. 아이뉴스24는 삼성전기가 엔비디아와 AI 반도체용 첨단 패키지기판 생산시설에 공동 투자하고 장기 공급 협력에 나선다고 21일 보도했고, 인더스트리뉴스는 세종과 부산에 전용 생산시설을 확충한다고 전했다. 조선비즈는 22일 삼성전기가 미국 빅테크 기업들로부터 수조원대 투자를 받아 패키지기판 생산시설을 증설한다고 보도했다.",
+        "용어 풀이: MLCC(적층세라믹콘덴서)는 전자회로에서 전기를 잠시 저장하고 전류를 안정시키는 작은 부품이다. FC-BGA 같은 반도체 패키지 기판은 반도체 칩과 메인보드를 전기적으로 연결하는 기판이다."
+      ],
+      "sources": [
+        {
+          "id": "3ce284cfdef5",
+          "name": "EBN",
+          "title": "[컨콜 종합] 삼성전기, AI 부품 숏티지에 자신감…\"내년 매분기 최대 실적 쓴다\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729512"
+        },
+        {
+          "id": "0dba29ea0d82",
+          "name": "디지털데일리",
+          "title": "[종합] 삼성전기, AI 부품 공급난에 '미소'…내년 최대 실적 경신에 자신감",
+          "link": "https://www.ddaily.co.kr/page/view/2026102814480171087"
+        },
+        {
+          "id": "6f696ea53c28",
+          "name": "IT조선",
+          "title": "삼성전기, AI 부품 호황에 3분기 역대 최대 실적",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172954"
+        },
+        {
+          "id": "e8faa755aa6d",
+          "name": "EBN",
+          "title": "삼성전기, 3분기 영업익 6910억원 '역대 최대'…AI 부품 성장 견인",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729483"
+        },
+        {
+          "id": "abc555aaba37",
+          "name": "IT조선",
+          "title": "삼성전기, AI 기판 증설에도 공급 부족",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172961"
+        },
+        {
+          "id": "3edd5adf21c3",
+          "name": "조선비즈",
+          "title": "[컨콜] 삼성전기 “AI 서버용 초대형 기판 4분기 공급 2배 확대”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/5MJ5FZUTTNHZBCC7KO5SBLRGRM"
+        },
+        {
+          "id": "c26e49ec90ac",
+          "name": "조선비즈",
+          "title": "[컨콜] 삼성전기 “AI 서버용 FCBGA 공급 부족 심화…고객사와 가격 인상 협의”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/VULZ7MHD6NEFBPZEL2WJRTFB2U"
+        },
+        {
+          "id": "15a6c4662c61",
+          "name": "EBN",
+          "title": "[컨콜] 삼성전기 \"3Q 휴머노이드용 모듈 양산…신규 개발 진행 중\"",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729500"
+        },
+        {
+          "id": "0d6ba4fe22c8",
+          "name": "조선비즈",
+          "title": "[컨콜] 삼성전기 “휴머노이드 카메라 모듈 양산 개시…전장·로봇 사업 확대”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/AVNB7NDDRNADVJFJPNQURWG5PM"
+        },
+        {
+          "id": "2bb6cd75221c",
+          "name": "테크월드뉴스",
+          "title": "엔비디아, 삼성전기와 AI 반도체 기판 공급망 강화",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408894"
+        },
+        {
+          "id": "9cfaf71d3e73",
+          "name": "조선비즈",
+          "title": "[컨콜] 삼성전기 “빅테크 장기 공급계약 대응…AI용 MLCC·반도체 기판 공급 확대”",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/28/YWNWTXGC3BHABG74FEDFS7VJZM"
+        },
+        {
+          "id": "4d627622353b",
+          "name": "아이뉴스24",
+          "title": "삼성전기, '엔비디아 핵심 공급사' 됐다…파트너십 첫 공식화",
+          "link": "https://www.inews24.com/view/2017601"
+        },
+        {
+          "id": "74454a1f1fd0",
+          "name": "인더스트리뉴스",
+          "title": "삼성전기-엔비디아, AI 반도체 기판 공급 협력…세종·부산 생산시설 증설",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87986"
+        },
+        {
+          "id": "01605cff686e",
+          "name": "조선비즈",
+          "title": "삼성전기, 美 빅테크 자금으로 기판 공장 증설… 투자비 상당 부분 조달",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/22/B5H66MRTLVE65FG3Y5QYE7R6QM"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261028-cbee809aeb89",
+      "title": "엔비디아, 메타 유상증자에 30억달러 투자하고 AI 협력 확대",
+      "category": "기업",
+      "published": "2026-10-28T01:12:39.000Z",
+      "points": [
+        "엔비디아, 메타 유상증자에 30억달러 참여",
+        "AI 에이전트 ‘뮤즈’ 중심으로 협력 확대",
+        "메타는 최대 950억달러 조달 추진"
+      ],
+      "body": [
+        "엔비디아가 메타의 유상증자에 30억달러 규모로 참여한다. 디일렉은 엔비디아가 26일(현지시간) 투자 사실을 밝혔고 금액이 약 3조9840억원이라고 전했다. 디지털투데이는 월스트리트저널 보도를 인용해 27일(현지시간) 소식을 전했고, 인공지능신문은 약 4조원이라고 썼다.",
+        "디일렉에 따르면 메타는 같은 날 주당 50달러의 시리즈A 예탁 주식 2억5000만주와 주당 625달러인 클래스A 보통주를 250억달러(약 33조2020억원) 규모로 공모한다고 알렸다.",
+        "협력 내용은 AI 에이전트가 중심이다. 디지털투데이는 양사가 메타 AI 서비스 ‘뮤즈’를 중심으로 협력을 넓힌다고 전했다. 인공지능신문은 뮤즈 및 관련 AI 모델 제품군을 중심으로 전략적 협력을 강화한다고 보도했다. 디지털데일리는 제목에서 베라 루빈 기반 AI 모델 최적화를 언급했다.",
+        "메타는 AI 인프라 자금 조달 규모를 키우고 있다. 조선비즈는 메타가 26일(현지 시각) 유상증자와 신설 예정인 C형 무의결권 주식 등으로 최대 950억달러(약 126조원) 규모의 자금 조달에 나선다고 전했다. 테크M은 엔비디아와 AMD, 브로드컴 등 주요 반도체 기업도 투자에 관심을 보이고 있다고 보도했다. AI타임스는 메타가 23일 일본에서 뮤즈 서비스를 시작했다고 전했고, 출시 40일 만에 미국 다운로드 1000만건을 돌파했다고 보도했다. 디지털투데이는 비즈니스인사이더를 인용해 메타가 적자를 내고 있는 AI와 하드웨어 사업의 수익성 개선 시점을 내년으로 제시했다고 전했다.",
+        "용어 풀이: 유상증자는 회사가 새 주식을 발행해 투자자에게 팔고 그 대금으로 자금을 조달하는 일이다."
+      ],
+      "sources": [
+        {
+          "id": "cbee809aeb89",
+          "name": "디일렉",
+          "title": "엔비디아, 메타에 4조 규모 지분 투자...AI 협력 확대",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=64386"
+        },
+        {
+          "id": "a40fd87f50c2",
+          "name": "디지털투데이",
+          "title": "엔비디아, 메타 유상증자에 30억달러 투자...AI 에이전트 협력 확대",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710417"
+        },
+        {
+          "id": "9a91fcf8e9d3",
+          "name": "인공지능신문",
+          "title": "엔비디아, 메타에 4조원 투자…‘뮤즈’ AI 동맹 확대, 개인용 슈퍼인텔리전스 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42448"
+        },
+        {
+          "id": "adb38b6ea3e0",
+          "name": "디지털데일리",
+          "title": "엔비디아, 메타에 30억달러 투자 단행…베라 루빈 기반 AI 모델 최적화",
+          "link": "https://www.ddaily.co.kr/page/view/2026102808174301094"
+        },
+        {
+          "id": "9befa292430d",
+          "name": "조선비즈",
+          "title": "메타, AI 투자 위해 유상증자 등으로 126조원 조달 추진",
+          "link": "https://biz.chosun.com/it-science/ict/2026/10/27/4PKRMI266VCBXLJWRPV2QDTIM4"
+        },
+        {
+          "id": "9858ab733978",
+          "name": "테크M",
+          "title": "[글로벌] 메타, AI에 950억달러 더 쏟는다...엔비디아·AMD까지 투자 나서나",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156531"
+        },
+        {
+          "id": "7fd689b357b4",
+          "name": "AI타임스",
+          "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216600"
+        },
+        {
+          "id": "43b03b8ea4fb",
+          "name": "AI타임스",
+          "title": "메타 '뮤즈', 출시 40일 만에 미국 다운로드 1000만건 돌파...역대 12번째 기록",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216479"
+        },
+        {
+          "id": "98d16de0d7c8",
+          "name": "디지털투데이",
+          "title": "메타 AI 비서 '뮤즈' 적자 인정…마크 저커버그, 내년 반전 예고",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709059"
+        }
+      ],
+      "auto": true
+    },
+    {
+      "id": "s20261028-39422f65185b",
+      "title": "지란지교소프트 생성형 AI 정보유출 방지 ‘AX필터 2.0’ GS인증 1등급",
+      "category": "보안",
+      "published": "2026-10-27T13:19:38.195Z",
+      "points": [
+        "AX필터 2.0, GS인증 1등급 획득",
+        "프롬프트의 개인정보를 탐지해 마스킹 또는 차단",
+        "연내 조달 등록 거쳐 정식 출시 준비"
+      ],
+      "body": [
+        "지란지교소프트의 생성형 AI 정보유출 방지 솔루션 ‘AX필터 2.0’이 굿소프트웨어(GS)인증 1등급을 획득했다. 데이터넷, 보안뉴스, 아이뉴스24, 테크월드뉴스는 회사가 27일 이를 밝혔다고 전했다. 벤처스퀘어는 시험기관이 한국화학융합시험연구원(KTR)이라고 적었다.",
+        "데이터넷은 GS인증을 소프트웨어의 기능과 성능, 사용성, 보안성 등을 시험하고 평가하는 국가 품질 인증 제도라고 설명했다.",
+        "벤처스퀘어는 AX필터 2.0이 생성형 AI에 입력하는 프롬프트에서 개인정보를 탐지하고 기관별 보안 정책에 따라 마스킹하거나 전송을 차단한다고 소개했다. 보안뉴스는 프롬프트를 전송 전에 검사해 개인정보 등을 마스킹하거나 전송을 차단하는 솔루션이라고 설명했다. 테크월드뉴스는 공공과 기업용 생성형 AI 보안 솔루션이며 연내 조달 등록을 거쳐 정식 출시를 준비한다고 전했다.",
+        "생성형 AI 정보 유출을 막는 제품 소식이 이어지고 있다. 벤처스퀘어는 제논이 자연어 기반 보안 정책 설정과 개인정보 마스킹 등을 갖춘 기업용 AI 보안 솔루션 ‘젠가드’를 출시했다고 26일 전했다. 인공지능신문은 솔트웨어가 임직원이 생성형 AI를 쓰는 과정에서 개인정보와 기업 기밀이 외부로 전송되는 것을 사전에 탐지하고 차단하는 기술의 특허를 확보했다고 26일 보도했다. 데이터넷은 아이티센글로벌의 멀티 AI 에이전트 관리 플랫폼 ‘에이전트고 2026’도 GS인증 1등급을 받았다고 21일 전했다.",
+        "용어 풀이: 마스킹은 개인정보처럼 민감한 정보의 일부를 가리거나 다른 문자로 바꿔 원래 내용이 드러나지 않게 하는 처리를 말한다. 프롬프트는 생성형 AI에 입력하는 질문이나 지시문이다."
+      ],
+      "sources": [
+        {
+          "id": "39422f65185b",
+          "name": "벤처스퀘어",
+          "title": "지란지교소프트, 생성형 AI 정보유출 방지 ‘AX필터 2.0’ GS인증 1등급 획득",
+          "link": "https://www.venturesquare.net/1123506"
+        },
+        {
+          "id": "21742bc56792",
+          "name": "데이터넷",
+          "title": "지란지교소프트, AI 정보 유출 방지 ‘AX필터 2.0’ GS인증 획득",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215388"
+        },
+        {
+          "id": "68d975d5f154",
+          "name": "테크월드뉴스",
+          "title": "지란지교소프트, ‘AX필터 2.0’ GS인증 1등급 획득…연내 정식 출시 준비",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408802"
+        },
+        {
+          "id": "e5776d987414",
+          "name": "보안뉴스",
+          "title": "지란지교소프트, 생성형 AI 보안 솔루션 ‘AX필터 2.0’ GS인증 1등급 획득",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=146758"
+        },
+        {
+          "id": "ca03af194116",
+          "name": "아이뉴스24",
+          "title": "지란지교소프트, 생성형 AI 보안 솔루션 'AX필터 2.0' GS인증 획득",
+          "link": "https://www.inews24.com/view/2019219"
+        },
+        {
+          "id": "00c281349e30",
+          "name": "벤처스퀘어",
+          "title": "제논, 기업용 AI 보안 솔루션 ‘젠가드’ 출시…자연어로 보안 정책 설정·개인정보 유출 차단",
+          "link": "https://www.venturesquare.net/1123078"
+        },
+        {
+          "id": "793228f9b457",
+          "name": "인공지능신문",
+          "title": "챗GPT에 기업 기밀 입력하면 AI가 사전 차단…솔트웨어, 민감정보 유출 방지 기술 특허 확보",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42429"
+        },
+        {
+          "id": "dc2ae87e3fab",
+          "name": "데이터넷",
+          "title": "아이티센글로벌, ‘에이전트고 2026’ GS인증 1등급 획득",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215253"
+        }
+      ],
+      "auto": true
+    },
+    {
       "id": "h20261027-8d8a8bac76fb",
       "title": "KT, 국내외 AI 모델 500개 통합 ‘토큰팩토리’ 30일 출시",
       "category": "기업",
