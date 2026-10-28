@@ -90,7 +90,23 @@
           "title": "단말 판매 넘어 구독도?…삼성·애플, AI 유료화 카드 만지작",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172781"
         }
-      ]
+      ],
+      "en": {
+        "title": "Apple Unveils M6 MacBook Pro and iMac, Adds AI to Creative Apps",
+        "points": [
+          "Apple unveils 14-inch MacBook Pro and iMac with M6 chip",
+          "In Korea, MacBook Pro starts at 3.29 million won and iMac at 2.49 million won",
+          "Creator Studio AI features arrive in November for existing subscribers"
+        ],
+        "body": [
+          "Apple unveiled a 14-inch MacBook Pro and a 24-inch iMac with its in-house M6 chip on Oct. 27 (local time). AI Times said the two products look similar to the previous generation but have sharply improved AI processing and graphics performance. iNews24 described the models as faster for photo and video editing and AI tasks.",
+          "Chosun Biz reported that the new MacBook Pro 14 carries an M6 with a 12-core CPU and GPU, and that its main feature is stronger on-device AI performance, which runs AI inside the device. Digital Today, citing TechCrunch, said the new MacBook Pro offers up to 24 hours of battery life and supports Wi-Fi 7 and Bluetooth 6, with a U.S. starting price of $1,999.",
+          "Domestic prices, according to iNews24, start at 3.29 million won for the MacBook Pro 14 and 2.49 million won for the iMac. Preorders for both products begin Oct. 28. Chosun Biz also reported that Apple announced on Oct. 28 that it will begin preorders for the new products.",
+          "Software news came as well. iNews24 reported that Apple said on Oct. 27 it will add AI features to Creator Studio, a subscription service bundling video, music and image editing apps. The update arrives in November, and existing subscribers can use it at no extra cost. Digital Today, citing TechRadar, said generative AI features and new creative tools will be added while the existing subscription fee stays the same.",
+          "Apple-related AI coverage continued over the past 14 days. AI Times reported that the iOS 27.2 update released Oct. 26 (local time) expanded Siri AI to five languages including Korean, and that Apple unveiled a new iPad mini with an OLED display and an A20 Pro chip, with AI performance up to 4.5 times higher. IT Chosun reported that Samsung Electronics and Apple are weighing paid plans to turn smartphone AI features into a new source of revenue.",
+          "Glossary: On-device AI is a method of processing AI computations inside a device such as a smartphone or PC, without going through a cloud server."
+        ]
+      }
     },
     {
       "id": "h20261028-9c6e0085c76e",
@@ -227,7 +243,24 @@
           "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216601"
         }
-      ]
+      ],
+      "en": {
+        "title": "SK hynix Tops 100 Trillion Won in Quarterly Revenue for the First Time, Sold Out Through 2029",
+        "points": [
+          "Q3 revenue of 104 trillion won and operating profit of 83 trillion won",
+          "DRAM and HBM output effectively sold out through 2029",
+          "HBM orders from customers are twice the supply available"
+        ],
+        "body": [
+          "SK hynix announced its third-quarter 2026 results on Oct. 28, with quarterly revenue topping 100 trillion won for the first time. According to AI Times, consolidated revenue was 104.6155 trillion won, operating profit was 83.3338 trillion won and net profit was 39.7756 trillion won. Betanews reported that the operating margin approached 80%.",
+          "Digital Today explained that shipments of HBM4, the next-generation HBM, ramped up and prices for server DRAM and enterprise SSDs (eSSDs) rose, boosting sales of high-value data center products. EBN reported that the company plans about 100 trillion won in shareholder returns this year, and AI Times also noted a quarterly dividend of 20,000 won per share in its headline.",
+          "On the earnings call, SK hynix said that, counting long-term supply agreement (LTA) volumes it has already secured and demand under discussion with customers, its DRAM and HBM production through 2029 is effectively sold out. iNews24 reported that the company has signed LTAs with 14 customers, including large global cloud companies, and some customers have requested contracts longer than five years. IT Chosun cited the company as saying it has secured demand equal to its production over the next three years, and TechM reported that talks on further extending contracts are under way.",
+          "EBN and Chosun Biz reported that the company said HBM orders from customers are about twice the volume it can actually supply. On some customers reducing the number of stacked HBM layers, the company said its medium- to long-term demand outlook is unchanged. iNews24 reported that the company explained the move from 12 layers to 8 as a result of supply shortages and an example of demand overwhelming supply.",
+          "iNews24 reported that SK hynix said the key-value (KV) cache is growing rapidly with the spread of agentic AI and long contexts, and that storing all of it in HBM and DRAM runs into limits of capacity and cost. Chosun Biz reported that the company expects new demand for NAND flash as the approach of storing and reusing the large volumes of data generated during AI inference on SSDs spreads.",
+          "Related coverage continued around the earnings release. Citing Counterpoint, EBN reported that market attention is focused on quality certification and supply of the HBM4 to be used in Nvidia's next-generation AI accelerator Rubin. iNews24 reported that, citing a Bernstein analysis, Samsung Electronics may have overtaken SK hynix in third-quarter HBM sales. e-Focus (이포커스) reported that Anthropic's IPO filing names SK hynix, Samsung Electronics and Micron as HBM makers in its risk factors, and AI Times reported that SK hynix said on Oct. 23 it is halting its review of an IPO for Solidigm.",
+          "Glossary: HBM (high-bandwidth memory) is memory that stacks DRAM in layers to widen data transfer bandwidth and is mainly used in AI accelerators. The KV cache is space where a large language model stores intermediate calculation results from context it has already processed."
+        ]
+      }
     },
     {
       "id": "h20261028-1520b0868411",
@@ -296,7 +329,22 @@
           "title": "학습은 AWS, 서비스는 정부 GPU…카카오, '모두의 AI' 인프라 이원화",
           "link": "https://www.ddaily.co.kr/page/view/2026102313492606699"
         }
-      ]
+      ],
+      "en": {
+        "title": "KB Securities Joins SK Telecom-Led \"AI for Everyone\" Consortium",
+        "points": [
+          "KB Securities signed an MOU with SK Telecom on Oct. 22",
+          "It joins the government's \"AI for Everyone\" project consortium",
+          "Plans to combine financial AI with SK Telecom's platform"
+        ],
+        "body": [
+          "KB Securities will take part in the \"AI for Everyone\" consortium led by SK Telecom. According to Betanews and Industry News (인더스트리뉴스), KB Securities signed a memorandum of understanding (MOU) with SK Telecom. Industry News and Digital Daily reported that the agreement was signed on Oct. 22, and the company announced it on Oct. 28.",
+          "Industry News described \"AI for Everyone\" as a government project to help anyone in the country use AI easily. Betanews explained that a consortium is an alliance formed by several companies for a common purpose.",
+          "Outlets described the cooperation differently. Digital Daily reported that the two sides plan to combine KB Securities' financial AI \"KebiAI\" technology with SK Telecom's platform, focusing on easier access for older adults and financial beginners, investment information analysis and protection of financial consumers. TheElec reported that the two companies are considering ways to link finance-specific AI technology with an AI platform to offer personalized asset management services. Industry News wrote that they will explore ways to use AI in finance.",
+          "Recent coverage of \"AI for Everyone\" continued. iNews24 reported that the Ministry of Science and ICT is holding a contest for the policy brand name and slogan from Oct. 26 to Nov. 6, and that the government is preparing a launch within the year. Hellot (헬로티) reported that the total prize money is 5.5 million won for six winning entries, including one grand prize. iNews24 reported that at the National Assembly audit on Oct. 23, a lawmaker pointed out that liability for compensation is unclear if errors in the service, due for its official launch in December, cause damage, and that Science and ICT Minister Bae Kyung-hoon replied he would make the sharing of responsibility among participating companies clear. Digital Daily reported that Kakao chose a split structure in which it trains its \"Kanana\" model on AWS cloud and runs the service on government GPUs.",
+          "Glossary: A consortium is an alliance formed by several companies or institutions for a common purpose."
+        ]
+      }
     },
     {
       "id": "h20261028-0e62b3ede664",
@@ -390,7 +438,23 @@
           "title": "슈퍼마이크로, 엔비디아 베라 CPU 256개 탑재 100% 수냉식 랙 공개",
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408760"
         }
-      ]
+      ],
+      "en": {
+        "title": "LG Uplus and Korea Ecolab to Develop Operating Standard for AI Data Center Liquid Cooling",
+        "points": [
+          "LG Uplus and Korea Ecolab sign MOU on optimizing cooling operations",
+          "Plan covers everything from coolant management to equipment fault detection",
+          "Operating standard for liquid cooling as AI servers run hotter"
+        ],
+        "body": [
+          "LG Uplus will work with Korea Ecolab, the Korean unit of global water treatment solutions company Ecolab, to develop an operating standard for liquid cooling in AI data centers (AIDCs). According to TheElec, EBN and Korea NGO News (한국NGO신문), the two companies signed a memorandum of understanding (MOU) on optimizing AI data center cooling system operations at LG Uplus' Yongsan office in Seoul on Oct. 27, and AI Times and Digital Daily reported that this was announced on Oct. 28.",
+          "Rising heat from AI servers was cited as the background. Industry News (인더스트리뉴스) reported that, in response to higher heat output from high-performance AI servers, the plan is to jointly verify coolant management and equipment monitoring technology and improve data center operating stability. Datanet explained that heat management has become important in data centers as AI inference demand grows and GPU servers become denser.",
+          "Outlets described the cooperation slightly differently. TheElec reported that the goal is to build an integrated operating system covering everything from coolant management to equipment fault detection. Korea NGO News reported that the companies plan to verify the technology at the Pyeongchon 2 Center and build a system for coolant management and AI-based predictive maintenance.",
+          "The outlets also differed on who they highlighted. AI Times introduced LG Uplus CEO Hong Bum-shik, and Datanet introduced Korea Ecolab CEO Ryu Yang-kwon. Techworld News reported the agreement with Korea Ecolab as the subject and gave the venue as LG Uplus' headquarters in Yongsan-gu, Seoul.",
+          "News of cooperation on AI data center cooling continued over the past 14 days. Digital Daily reported on Oct. 23 that Dassault Systemes and Vertiv will validate power and cooling infrastructure for AI factories in a virtual environment first. Datanet reported that Autec Carrier signed an MOU with B-lab on supplying AIDC cooling solutions, and VentureSquare reported that DataBean will jointly develop AI edge data center cooling technology with Korea South-East Power using a power plant's seawater cooling facilities. Techworld News reported that Supermicro unveiled a 100% liquid-cooled rack with 256 Nvidia Vera CPUs.",
+          "Glossary: Liquid cooling is a method of removing heat from servers and GPUs using liquid instead of air. Predictive maintenance analyzes equipment status data to identify when servicing is needed before a breakdown occurs."
+        ]
+      }
     },
     {
       "id": "h20261028-488f645b7c34",
@@ -460,7 +524,23 @@
           "title": "“방대한 보안 로그, AI가 요약한다” 카스퍼스키, 위협 인텔리전스 포털 개편",
           "link": "https://www.boannews.com/news/articleView.html?idxno=146741"
         }
-      ]
+      ],
+      "en": {
+        "title": "AI SPERA Joins INTERPOL's Gateway Initiative to Support Cybercrime Response",
+        "points": [
+          "AI SPERA signs cybercrime response agreement with INTERPOL",
+          "Joins INTERPOL's Gateway initiative",
+          "Will share Criminal IP threat intelligence and analysis expertise"
+        ],
+        "body": [
+          "Cyber threat intelligence company AI SPERA signed an agreement with the International Criminal Police Organization (INTERPOL) on responding to global cybercrime and will take part in INTERPOL's Gateway initiative. Techworld News, Digital Daily and Hellot (헬로티) reported this on Oct. 28.",
+          "AI Times described Gateway as a framework, launched by INTERPOL in 2019, for sharing cyber threat intelligence with private partners. Hellot wrote that it is a private-sector framework that works with trusted partners such as cybersecurity firms, technology providers and financial institutions.",
+          "VentureSquare reported that AI SPERA plans to share threat intelligence on IPs, domains and internet-exposed assets gathered through its platform Criminal IP, along with its analysis expertise. Boannews reported that AI SPERA will support INTERPOL's cybercrime analysis based on its cyber threat intelligence (CTI) platform Criminal IP.",
+          "Headline wording differed by outlet. Hellot wrote that AI SPERA is joining as an INTERPOL private-sector cooperation partner, Boannews that it supports INTERPOL's cybercrime analysis, and VentureSquare that it joins the cooperation network and shares threat intelligence.",
+          "Efforts to add AI features to threat intelligence products are also continuing. Hellot reported on Oct. 26 that Kaspersky announced an update to its Threat Intelligence Portal supporting AI-based summaries and Model Context Protocol (MCP) integration. Boannews reported that it supports automatic summarization of large volumes of threat data and integration with external AI.",
+          "Glossary: Cyber threat intelligence (CTI) is information gathered and analyzed about cyberattacks, such as malicious IPs and domains, that helps security staff respond to threats."
+        ]
+      }
     },
     {
       "id": "b20261028",
@@ -629,7 +709,25 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216740"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 28 AI Briefing: From SK hynix's 100 Trillion Won Quarter to Apple's M6",
+        "points": [
+          "Record earnings at AI memory and component makers",
+          "Nvidia's investment in Meta and wider supply of Google TPUs",
+          "Apple's new Macs and AI data center cooling partnerships"
+        ],
+        "body": [
+          "SK hynix reported third-quarter consolidated revenue of 104.6155 trillion won and operating profit of 83.3338 trillion won on Oct. 28, according to AI Times. IT Chosun reported that it was the first time quarterly revenue has topped 100 trillion won. EBN reported that the company said its DRAM and HBM production through 2029 is effectively sold out.",
+          "Samsung Electro-Mechanics also posted a record third-quarter operating profit of 691 billion won on demand for AI data center components, EBN reported. Chosun Biz said in its headline that the supply shortage of FCBGAs for AI servers is deepening and the company is negotiating price increases with customers.",
+          "Nvidia will take part in Meta's capital raise with $3 billion. TheElec reported that Nvidia disclosed the investment on Oct. 26 (local time), and Digital Today reported that the two companies are widening cooperation centered on Meta's AI service \"Muse.\"",
+          "Reports emerged that OpenAI is pursuing the purchase of Google's AI chip, the TPU. Digital Today, citing The Information, said the size and terms of the purchase are not known, and Newsis reported that OpenAI is discussing the purchase to expand computing capacity and diversify suppliers. Chosun Biz reported that Oracle is adding chips from Google and a start-up chipmaker to its cloud AI infrastructure.",
+          "AI Times reported that Apple unveiled a 14-inch MacBook Pro and a 24-inch iMac with the M6 chip on Oct. 27 (local time). According to iNews24, domestic prices start at 3.29 million won for the MacBook Pro 14 and 2.49 million won for the iMac, with preorders from Oct. 28. iNews24 also reported that Apple is adding AI features to Creator Studio and will provide them to existing subscribers at no extra cost in November.",
+          "IT Chosun reported that LG Electronics' cumulative orders for AI data center cooling solutions rose from about 600 billion won in the first half to more than 3 trillion won in the third quarter. TheElec and EBN reported that LG Uplus signed an MOU with Korea Ecolab on Oct. 27 to optimize AI data center cooling system operations.",
+          "KB Securities will join the \"AI for Everyone\" consortium led by SK Telecom. TheElec reported that the two are considering personalized asset management services linking finance-specific AI technology with an AI platform.",
+          "AI SPERA signed a cybercrime response agreement with INTERPOL and will take part in its Gateway initiative. Boannews reported that AI SPERA will support INTERPOL's cybercrime analysis based on its Criminal IP platform."
+        ]
+      }
     },
     {
       "id": "s20261028-3ce284cfdef5",
@@ -735,7 +833,23 @@
           "link": "https://biz.chosun.com/it-science/ict/2026/10/22/B5H66MRTLVE65FG3Y5QYE7R6QM"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Samsung Electro-Mechanics Posts Record Q3 Operating Profit of 691 Billion Won on AI Component Boom",
+        "points": [
+          "Q3 operating profit of 691 billion won, a record",
+          "Supply shortage of MLCCs and FC-BGAs for AI servers continues",
+          "Plans to double supply of ultra-large substrates in Q4"
+        ],
+        "body": [
+          "Samsung Electro-Mechanics announced its third-quarter 2026 results on Oct. 28. EBN reported that rising demand for high-value components for AI data centers lifted operating profit to a record 691 billion won, and IT Chosun reported that operating profit more than doubled from a year earlier. Both outlets cited growing sales of multilayer ceramic capacitors (MLCCs) and semiconductor package substrates as the background.",
+          "Remarks from the earnings call were also reported. EBN said the company expressed confidence that a supply shortage of MLCCs and FC-BGAs for AI servers is driving profitability and that it will set a record every quarter from the first quarter of next year. Chosun Biz reported that the supply shortage of FCBGAs for AI servers continues and that the company is negotiating price increases with customers, and that it plans to double its fourth-quarter supply of ultra-large substrates for server CPUs from the previous level.",
+          "IT Chosun reported that Samsung Electro-Mechanics is expanding substrate production capacity but cannot keep up with customer demand, and that long-term supply agreements for MLCCs are also growing. Chosun Biz reported that the company said it will keep responding to long-term supply agreement demands from major big tech customers and expand supply of ultra-high-capacity MLCCs.",
+          "News from the robotics field also emerged. Chosun Biz and EBN reported that Samsung Electro-Mechanics has begun mass production of camera modules for humanoid robots. According to Chosun Biz, third-quarter revenue of the Optical Solutions business was 941.3 billion won, slightly down from the previous quarter but up about 3% from a year earlier. Techworld News reported that on Oct. 28 Nvidia is expanding semiconductor manufacturing capacity with supply chain partners including Amkor Technology, Ibiden, KYEC, Samsung Electro-Mechanics, SPIL and Unimicron.",
+          "Samsung Electro-Mechanics recently made its cooperation with Nvidia official. iNews24 reported on Oct. 21 that the company will jointly invest with Nvidia in production facilities for advanced package substrates for AI chips and pursue long-term supply cooperation, and Industry News (인더스트리뉴스) reported that it will expand dedicated production facilities in Sejong and Busan. Chosun Biz reported on Oct. 22 that Samsung Electro-Mechanics will expand package substrate production facilities with investment of several trillion won from U.S. big tech companies.",
+          "Glossary: An MLCC (multilayer ceramic capacitor) is a small component that briefly stores electricity in electronic circuits and stabilizes current. Semiconductor package substrates such as FC-BGAs electrically connect a chip to the main board."
+        ]
+      }
     },
     {
       "id": "s20261028-cbee809aeb89",
@@ -810,7 +924,22 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709059"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nvidia Invests $3 Billion in Meta Share Offering and Expands AI Cooperation",
+        "points": [
+          "Nvidia joins Meta's capital raise with $3 billion",
+          "Cooperation widens around AI agent \"Muse\"",
+          "Meta seeks to raise up to $95 billion"
+        ],
+        "body": [
+          "Nvidia will take part in Meta's capital raise with $3 billion. TheElec reported that Nvidia disclosed the investment on Oct. 26 (local time) and that the amount is about 3.984 trillion won. Digital Today reported the news on Oct. 27 (local time), citing The Wall Street Journal, and AI Newspaper (인공지능신문) put the amount at about 4 trillion won.",
+          "According to TheElec, Meta announced the same day an offering of 250 million Series A depositary shares at $50 per share and Class A common stock at $625 per share, worth $25 billion (about 33.202 trillion won).",
+          "The cooperation centers on AI agents. Digital Today reported that the two companies are widening cooperation centered on Meta's AI service \"Muse.\" AI Newspaper reported that they are strengthening strategic cooperation around Muse and related AI model families. Digital Daily mentioned in its headline optimizing AI models on Vera Rubin.",
+          "Meta is increasing the scale of its AI infrastructure financing. Chosun Biz reported that on Oct. 26 (local time) Meta is seeking to raise up to $95 billion (about 126 trillion won) through a capital raise and a planned new class C non-voting stock, among other means. TechM reported that major chip companies such as Nvidia, AMD and Broadcom are also showing interest in investing. AI Times reported that Meta launched the Muse service in Japan on Oct. 23 and that it passed 10 million U.S. downloads 40 days after its release. Digital Today, citing Business Insider, reported that Meta set next year as the point when its loss-making AI and hardware businesses will improve profitability.",
+          "Glossary: A capital increase (rights or share offering) is when a company issues new shares, sells them to investors and raises funds with the proceeds."
+        ]
+      }
     },
     {
       "id": "s20261028-39422f65185b",
@@ -879,7 +1008,22 @@
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215253"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Jiran Soft's Generative AI Leak-Prevention Product \"AX Filter 2.0\" Earns Top GS Certification",
+        "points": [
+          "AX Filter 2.0 earns GS certification Grade 1",
+          "Detects personal data in prompts and masks or blocks it",
+          "Preparing official launch after procurement registration this year"
+        ],
+        "body": [
+          "Jiran Soft's generative AI data leak-prevention solution \"AX Filter 2.0\" earned Good Software (GS) certification Grade 1. Datanet, Boannews, iNews24 and Techworld News reported that the company announced it on Oct. 27. VentureSquare wrote that the testing body was the Korea Testing & Research Institute for Chemical Industry (KTR).",
+          "Datanet explained that GS certification is a national quality certification system that tests and evaluates software for functionality, performance, usability and security.",
+          "VentureSquare said AX Filter 2.0 detects personal data in prompts entered into generative AI and masks it or blocks transmission according to each organization's security policy. Boannews described it as a solution that inspects prompts before they are sent and masks personal data or blocks transmission. Techworld News said it is a generative AI security solution for the public sector and businesses and that the company is preparing an official launch after procurement registration within the year.",
+          "Products that prevent generative AI data leaks keep appearing. VentureSquare reported on Oct. 26 that Xenon released \"GenGuard,\" an enterprise AI security solution with natural-language security policy setting and personal data masking. AI Newspaper (인공지능신문) reported on Oct. 26 that Saltware secured a patent for technology that detects and blocks in advance personal data and corporate secrets from being sent outside when employees use generative AI. Datanet reported on Oct. 21 that ITCEN Global's multi-AI agent management platform \"AgentGo 2026\" also earned GS certification Grade 1.",
+          "Glossary: Masking is processing that hides part of sensitive information such as personal data, or replaces it with other characters, so the original content is not revealed. A prompt is a question or instruction entered into generative AI."
+        ]
+      }
     },
     {
       "id": "h20261027-8d8a8bac76fb",
