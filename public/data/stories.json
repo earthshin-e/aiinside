@@ -65,7 +65,22 @@
           "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216604"
         }
-      ]
+      ],
+      "en": {
+        "title": "Google Unveils Gemini 4 Carbon With Stronger Security and Long-Running Task Abilities",
+        "points": [
+          "Google unveiled Gemini 4 Carbon on the 28th",
+          "Stronger coding, cybersecurity and long-running task capabilities",
+          "Follow-up model two weeks after Gemini 4 Argon"
+        ],
+        "body": [
+          "Google unveiled Gemini 4 Carbon, its latest AI model with stronger coding and cybersecurity capabilities, on the 28th (local time). Chosun Biz and Boannews (보안뉴스) reported that it came two weeks after the company introduced its frontier model Gemini 4 Argon. According to Boannews, Google described Carbon as its most powerful model.",
+          "Several outlets reported on its performance ranking. Digital Today, citing The Verge, reported that Carbon ranked first on the Artificial Analysis Intelligence Index (v5.0). AI Newspaper (인공지능신문) wrote that it took first place in the world with an intelligence score of 59, and GeekNews also noted that it ranked first with 59 points on the same index. AI Times reported that Carbon topped Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Astra, and that Google had retaken first place in the overall performance ranking after one year.",
+          "Each outlet stressed slightly different points. GeekNews summarized that Carbon is designed to keep carrying out complex multi-step engineering tasks and has stronger coding and cybersecurity defense capabilities. Boannews reported that it sharply improved cybersecurity and long-running task capabilities. AI Newspaper observed that global AI competition is expanding beyond model reasoning performance into agentic AI, meaning software development, cybersecurity and tasks carried out autonomously over long periods.",
+          "News of external testing came before the release. AI Times reported on the 24th that word had emerged that Gemini 4 Carbon, which Google was developing, had entered testing with outside partners. The same report said output from a model believed to be Carbon appeared about a week after Argon's release, and early users judged its 3D work to be improved compared with Argon. Comments that processing time was long were also raised. This was a pre-release user assessment and cannot be assumed to match the performance of the released model.",
+          "Glossary: Agentic AI refers to AI that takes a goal and plans and carries out multi-step tasks on its own, without a person giving instructions at each step."
+        ]
+      }
     },
     {
       "id": "h20261029-1b16c112f9e5",
@@ -116,7 +131,22 @@
           "title": "버넥트, 경기도 피지컬 AI 협의체 운영 총괄…66개 기관 참여해 제조현장 실증 확대",
           "link": "https://www.venturesquare.net/1124145"
         }
-      ]
+      ],
+      "en": {
+        "title": "Ministry of Science and ICT to Build Physical AI Training Center Next Year and Run Pilot at Post Offices",
+        "points": [
+          "Ministry to build Physical AI Training Center next year",
+          "Field pilot project with Korea Post",
+          "Ecosystem linking domestic chips, models, data and robots"
+        ],
+        "body": [
+          "The Ministry of Science and ICT will build a \"Physical AI Training Center\" next year to produce and use training data for physical AI. AI Times and Digital Today reported that on the 29th the ministry discussed physical AI policy direction and ways to foster the industry with experts from industry, academia and research, including physical AI model, data and robotics companies, at the Korea Chamber of Commerce and Industry in Seoul.",
+          "Field pilots will also be pursued. AI Times reported that the ministry will carry out a field pilot project with Korea Post, and Digital Today said the pilot will be held at post office sites. Digital Daily also reported that the government will build the training center from next year to produce and use training data and will launch a field pilot project linked with Korea Post.",
+          "The policy direction is to build a domestic ecosystem. Digital Daily reported that the plan links domestically developed chips, AI models, data and robots to build a homegrown physical AI ecosystem. EBN reported that the plan is to create a support system linking core technology development, training data acquisition and field pilots in industry, and to establish early a homegrown physical AI ecosystem running from development to pilots. Digital Today explained that a dedicated training center is being set up to foster the domestic AI industry.",
+          "There was also movement at the local government level. According to VentureSquare, Vironment (버넥트) hosted the \"Physical AI Transformation Declaration Ceremony\" organized by Gyeonggi Province and will oversee the operation of a physical AI consortium with 66 participating organizations. The consortium includes manufacturers, robotics and AI companies, universities and research institutes, and will identify technology needs for each of five manufacturing processes and pursue joint pilots.",
+          "Glossary: Physical AI refers to AI that has a physical body, such as a robot or self-driving car, and perceives and acts in the real world."
+        ]
+      }
     },
     {
       "id": "h20261029-f97d3740caec",
@@ -192,7 +222,23 @@
           "title": "[산업 AI] \"엔비디아 GPU 놔두고 왜?\"...'토큰 경쟁'에서 퓨리오사AI가 노린 빈틈",
           "link": "https://www.techm.kr/news/articleView.html?idxno=156418"
         }
-      ]
+      ],
+      "en": {
+        "title": "FuriosaAI Raises 820 Billion Won in Series D at 3.8 Trillion Won Valuation",
+        "points": [
+          "FuriosaAI raises 820 billion won in Series D",
+          "Post-investment valuation of about 3.8 trillion won",
+          "Speeding up commercialization of second-generation accelerator RNGD"
+        ],
+        "body": [
+          "FuriosaAI, a Korean AI chip company, announced on the 29th that it has completed a Series D round totaling 820 billion won. The post-investment valuation was assessed at about 3.8 trillion won. AI Times reported the news together with the name of CEO June Paik (백준호) and described it as one of the largest investments in the history of Korean startups, while Digital Today called it the largest among Korean AI chip startups.",
+          "The amount raised exceeded the original target. Digital Today and EBN reported that the round began in January this year with a target of 450 billion to 750 billion won, and Techworld News said the original target was 450 billion to 750 billion won. TheElec (디일렉) explained that strong domestic and overseas investor demand led the company to raise the target to 820 billion won. TheElec and EBN said the investment was made on a pre-money valuation of 3 trillion won.",
+          "Outlets described the investor mix differently. AI Times reported that the National Growth Fund invested 370 billion won. Digital Daily wrote that many domestic and overseas investors took part, including the National Growth Fund. IT Chosun reported that Naver and Kakao made follow-on investments and that a government-led fund also took part.",
+          "Product commercialization and next-generation development were cited as uses of the funds. Digital Daily reported that the company plans to speed up global commercialization of its second-generation AI accelerator RNGD and the development of next-generation products, and IT Chosun reported that the money will go to mass production of AI accelerators and development of next-generation chips.",
+          "FuriosaAI's activity has continued recently. According to AI Times, North Gyeongsang Province signed a memorandum of understanding on the 26th at FuriosaAI's headquarters in Seoul with Gyeongsan City, FuriosaAI, the Gyeongbuk Institute for IT Convergence Industry Technology and others on AI chip pilots and building an industrial ecosystem. The agreement aims at field pilots of domestic AI chips in industry and building a regional AI industry ecosystem. TechM reported that on the 22nd Jung Young-bum (정영범), a managing director at FuriosaAI, explained in a technical session at the Industrial AI Manufacturing Innovation Conference at KINTEX why companies should choose domestic AI chips (NPUs) instead of Nvidia GPUs.",
+          "Glossary: A fabless company designs semiconductors without manufacturing them itself, and an NPU is a processor specialized for AI computation."
+        ]
+      }
     },
     {
       "id": "h20261029-9876837fdbee",
@@ -286,7 +332,23 @@
           "title": "[컨콜] SK하이닉스 \"HBM 고객 요청 물량, 공급 가능량의 2배\"",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729458"
         }
-      ]
+      ],
+      "en": {
+        "title": "Samsung Electronics Q3 Earnings Call: HBM4 Sales Triple, Memory Shortage Through 2028",
+        "points": [
+          "Q3 HBM4 sales more than triple the previous quarter",
+          "Next year's HBM volume negotiations done, long-term contracts expanding",
+          "Memory shortage expected through 2028"
+        ],
+        "body": [
+          "Samsung Electronics pointed to strong demand in its memory business on its 2026 third-quarter earnings conference call on the 29th. Digital Today reported that demand continues to outpace supply. According to Chosun Biz, third-quarter HBM4 sales grew more than threefold from the previous quarter, and HBM4's share of total HBM sales rose to about 60%. Samsung also set a goal of securing an HBM market share on par with its share of the overall DRAM market.",
+          "The scale of earnings was also large. TechM reported that Samsung became the first ICT company in the world to surpass 100 trillion won in operating profit in the third quarter, and Digital Daily said in its headline that operating profit reached 107 trillion won. In the same report, Digital Daily said the DX division posted an 800 billion won loss due to cost pressure.",
+          "Outlets described the situation on securing next year's volumes differently. iNews24 reported that Samsung has sold all of next year's HBM volume at its target price and is still receiving additional supply requests from customers, that the number of large customers with long-term memory supply contracts has grown to 10, and that it is negotiating with 10 others. Digital Daily wrote that negotiations on 2027 HBM supply volumes are already complete and that 2-nanometer order projects are more than double the previous year's. TechM also reported that HBM contracts have been completed through 2027 supply volumes.",
+          "The supply shortage outlook extends to 2028. Chosun Biz reported that Samsung forecast the shortage will continue through 2028 as surging memory demand from expanded AI infrastructure investment and the spread of personal AI agents. iNews24 reported that Samsung expects the larger chip area and more manufacturing steps of next-generation HBM to also limit production growth. On the product roadmap, EBN reported that HBM4E will enter mass production in the first half of next year, with output scaling up in earnest from the second half. Chosun Biz said demand for server DRAM and high-performance, high-capacity SSDs is growing quickly as agentic AI services spread, and its headline said a 256TB SSD will be released next year.",
+          "SK hynix reported its third-quarter results a day earlier. EBN reported that SK hynix posted a record quarterly operating profit in the 83 trillion won range, helped by surging AI memory demand and higher DRAM prices. According to another EBN earnings call report, SK hynix said the volume requested by HBM customers is about twice what it can actually supply.",
+          "Glossary: HBM (high bandwidth memory) is memory that stacks multiple DRAM chips vertically to widen the data pathway, and it is mainly used in AI accelerators."
+        ]
+      }
     },
     {
       "id": "h20261029-eefb40ddb0c0",
@@ -342,7 +404,21 @@
           "title": "미리캔버스, '오픈AI 데브데이 익스체인지 서울'서 챗GPT 연동 AI 커넥터 공개",
           "link": "https://www.inews24.com/view/2020255"
         }
-      ]
+      ],
+      "en": {
+        "title": "Miricanvas Unveils AI Connector That Creates Design Drafts Inside ChatGPT",
+        "points": [
+          "Miricanvas unveils AI connector linked to ChatGPT",
+          "Creates draft presentations and card news from conversations",
+          "Full launch planned within the year"
+        ],
+        "body": [
+          "Miridi, which runs the design platform Miricanvas, unveiled an \"AI Connector\" that works with ChatGPT. According to VentureSquare, the feature helps create draft designs such as presentations, card news and posters based on the conversation and content information in ChatGPT. Digital Daily and VentureSquare reported that the company aims for a full launch within the year.",
+          "The venue for the unveiling was an OpenAI event. Betanews and iNews24 reported that Miricanvas took part in \"OpenAI DevDay Exchange Seoul\" at the Raum Art Center in Gangnam, Seoul, on the 22nd and showed the AI connector there. Betanews said the event was aimed at developers, designers and IT industry professionals. Related coverage was concentrated on the 29th.",
+          "Outlets described how it works slightly differently. Digital Daily reported that the AI suggests templates that fit the content and builds a draft, and the user finishes it in a dedicated editor. TechM reported that its distinguishing feature is creating design drafts with conversational AI and raising the quality of the results based on templates made by professional designers. Datanet said it is a feature that connects external services to AI tools such as ChatGPT, and noted that Miridi's CEO is Kang Chang-seok (강창석).",
+          "Glossary: A connector is an integration feature that links an external service to an AI tool such as ChatGPT so that the service's functions can be used within the conversation."
+        ]
+      }
     },
     {
       "id": "b20261029",
@@ -523,7 +599,25 @@
           "link": "https://www.techm.kr/news/articleView.html?idxno=156645"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 29 AI Briefing: From FuriosaAI's 820 Billion Won Raise to Gemini 4 Carbon",
+        "points": [
+          "Big news from Korean AI chips and memory",
+          "Google's new model and the Nvidia acquisition probe",
+          "Government physical AI support and corporate AI service launches"
+        ],
+        "body": [
+          "FuriosaAI announced on the 29th that it has completed a Series D round of 820 billion won. AI Times, TheElec and others reported a post-investment valuation of about 3.8 trillion won, and Digital Daily reported that the company plans to use the funds for commercialization of its second-generation AI accelerator RNGD and for next-generation product development.",
+          "Samsung Electronics said on its third-quarter earnings call on the 29th that HBM4 sales more than tripled from the previous quarter. According to Chosun Biz, HBM4 accounts for about 60% of total HBM sales, and iNews24 reported that the company has sold all of next year's HBM volume at its target price. TechM reported the outlook that the memory shortage will last through 2028.",
+          "Google unveiled the AI model Gemini 4 Carbon, with stronger coding and cybersecurity capabilities, on the 28th (local time). Chosun Biz reported that it came two weeks after the introduction of Gemini 4 Argon, and Digital Today, citing The Verge, reported that it ranked first on the Artificial Analysis Intelligence Index v5.0.",
+          "The U.S. Department of Justice is investigating Nvidia's acquisition of Hugging Face. Newsis, citing CNBC, reported that the department is reportedly examining effects such as the impact of the acquisition on AI competitors. The deal is worth $12.93 billion.",
+          "At a meeting on physical AI policy direction on the 29th, the Ministry of Science and ICT said it will build a training center next year to produce and use training data for physical AI and will carry out a field pilot project with Korea Post, AI Times reported.",
+          "SK AX launched G-Fit Studio, a hiring solution that uses AI simulation to analyze applicants' problem-solving, communication and AI-use skills. TechM reported that it can interview 300 people per hour, and AI Newspaper (인공지능신문) reported that it evaluates about 1,800 people in six hours.",
+          "Kakao announced on the 29th that it has released two Kanana-2 embedding models as open source on Hugging Face, as foundation technology for personalized AI agents. The models have 3 billion and 1.3 billion parameters.",
+          "Miricanvas unveiled an AI connector linked to ChatGPT at OpenAI DevDay Exchange Seoul on the 22nd. According to VentureSquare, it creates draft designs such as presentations, card news and posters based on ChatGPT conversations, and a full launch is targeted within the year."
+        ]
+      }
     },
     {
       "id": "s20261029-126fc1e14619",
@@ -566,7 +660,20 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710835"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Kakao Releases Two Embedding Models for Personalized AI Agents as Open Source",
+        "points": [
+          "Kakao releases two Kanana-2 embedding models",
+          "3B and 1.3B models, open source on Hugging Face",
+          "Foundation technology for Korean search and personalized agents"
+        ],
+        "body": [
+          "Kakao announced on the 29th that it has released two embedding models, \"Kanana-2 Embedding,\" as open source on the AI development platform Hugging Face, as foundation technology for personalized AI agents. The models are \"Kanana-2-3B-Embedding,\" with 3 billion parameters, and \"Kanana-2-1.3B-Embedding,\" with 1.3 billion parameters.",
+          "The uses are search and agents. Digital Today reported that the models can be used for personalized AI agents and meaning-based search, and Chosun Biz introduced them as models with stronger Korean-language search that support information retrieval by personalized AI agents. Chosun Biz added that this follows Kakao's introduction of four small language models (SLMs) in July.",
+          "Glossary: Embedding is a technology that turns the meaning of a sentence into numbers so a computer can calculate how close or far apart meanings are."
+        ]
+      }
     },
     {
       "id": "s20261029-00f85d5a3c1b",
@@ -634,7 +741,21 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216775"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "SK AX Launches AI Hiring Solution G-Fit Studio",
+        "points": [
+          "SK AX launches AI-based hiring solution G-Fit Studio",
+          "Comprehensive skills analysis through work-based AI simulation",
+          "About 1,800 applicants evaluated in six hours"
+        ],
+        "body": [
+          "SK AX announced on the 29th that it has launched G-Fit Studio, an AI-based hiring solution. It is a service that uses AI simulation based on real work to comprehensively analyze applicants' problem-solving, communication and AI-use skills and supports the judgment of HR staff.",
+          "According to AI Times, G-Fit Studio runs in two stages, \"business problem solving\" and \"strategic communication.\" AI Newspaper (인공지능신문) reported that its core is analyzing not only applicants' answers but also the process of solving problems using AI. Digital Daily introduced it as a solution unveiled ahead of the large-scale hiring season.",
+          "Processing speed was reported in different units by different outlets. TechM said in its headline that it can interview 300 people per hour, and AI Newspaper and Chosun Biz reported that it evaluates the skills of about 1,800 people in six hours.",
+          "Glossary: AX is short for AI transformation, meaning introducing AI across a company's work and services to change how work is done."
+        ]
+      }
     },
     {
       "id": "s20261029-fa25f88fa0f1",
@@ -685,7 +806,22 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216683"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "U.S. Justice Department Opens Antitrust Probe of Nvidia's Hugging Face Acquisition",
+        "points": [
+          "U.S. Department of Justice investigates Nvidia's Hugging Face acquisition",
+          "Deal worth $12.93 billion",
+          "Examining possible control of AI model distribution"
+        ],
+        "body": [
+          "The U.S. Department of Justice is investigating Nvidia's acquisition of Hugging Face. Newsis, citing CNBC on the 28th (local time), reported that the department is reportedly examining effects such as the impact of the acquisition on AI competitors, and Chosun Biz reported that it is reportedly investigating. AI Times wrote that it has launched an antitrust investigation.",
+          "The deal is worth $12.93 billion. Won conversions differ by outlet: AI Times and Chosun Biz gave about 17 trillion won, and TechM gave about 18 trillion won. Newsis described Hugging Face as an open-source AI model sharing platform, and AI Times described it as the world's largest AI model sharing platform.",
+          "The core of the concern is limiting competition. AI Times reported concern that if Nvidia, which dominates the AI chip market, also secures this platform, it could restrict competitors' access to the market and expand its influence across the AI ecosystem. TechM explained that Nvidia is under investigation as it tries to extend its influence beyond AI chips to a platform for distributing AI models.",
+          "There has also been recent news. According to AI Times, on the 26th Hugging Face unveiled the AI model \"Carbon-X,\" which predicts the effect of genetic variants from an input DNA sequence and explains the reason in words. It reportedly scored close to large general-purpose AI in its own evaluation while sharply lowering inference costs.",
+          "Glossary: An antitrust investigation is a process in which the government examines whether a company's acquisition or conduct harms market competition."
+        ]
+      }
     },
     {
       "id": "s20261029-4099f5cefeca",
@@ -729,7 +865,21 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42474"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KT Upgrades Contact Center AI Voice Bot, Call Resolution Rate Reaches 81%",
+        "points": [
+          "KT expands generative AI voice bot and AI consultation assist",
+          "Call resolution rate rises from 77% to 81%",
+          "Consultation time cut by 11%"
+        ],
+        "body": [
+          "KT announced on the 29th that it is improving consultation quality and operational efficiency at its contact centers with a generative AI-based voice bot and \"AI Consultation Assist.\" Digital Today reported that, based on consultation data and operating experience accumulated at its contact centers, KT improved the AI voice bot's ability to grasp customer intent.",
+          "Results were presented in numbers. According to AI Newspaper (인공지능신문), the AI voice bot handles an average of 1.2 million consultations a month, and the call resolution rate, which measures inquiries resolved in a single contact, rose from 77% to 81%. iNews24 reported that consultation time was cut by 11%. AI Newspaper explained that average consultation time fell after the introduction of an AI system that supports agents.",
+          "The scope of automation has also widened. Digital Daily reported that it was expanded to handle everything from A/S requests to fault handling and dispatch requests in one go, including on weekends and at night. Digital Today introduced it as able to handle A/S requests, remote fault handling and dispatch requests.",
+          "Glossary: A voice bot is an AI consultation system that talks with customers by voice in place of a person and handles their inquiries."
+        ]
+      }
     },
     {
       "id": "h20261028-dea065c4fa6b",
@@ -1626,7 +1776,21 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102809105149129"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Synology Launches Edge AI Security Cameras FC600 and BC800Z in Korea",
+        "points": [
+          "Synology launches two AI network cameras in Korea",
+          "Edge AI processes video analysis on the camera itself",
+          "License plate recognition and 360-degree surveillance supported"
+        ],
+        "body": [
+          "Synology announced the official Korean launch of FC600 and BC800Z, new network cameras equipped with AI video analysis. Betanews and Techworld News reported that the two products are specialized for high-resolution precision surveillance and wide-area indoor monitoring.",
+          "The key is edge AI. Boannews (보안뉴스), Datanet and Digital Daily reported that the two products are based on edge AI that performs video analysis on the camera itself. Boannews said the company has moved to expand its intelligent video security portfolio.",
+          "Digital Daily added that they support Korean license plate recognition and 360-degree surveillance. Datanet reported that Synology announced the news on the 28th.",
+          "Glossary: Edge AI is a method of processing AI computation inside a device such as a camera instead of sending video to a cloud server."
+        ]
+      }
     },
     {
       "id": "s20261028-cbee809aeb89",
