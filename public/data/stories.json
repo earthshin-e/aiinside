@@ -219,7 +219,25 @@
           "title": "트릴리온랩스, 자사모델 기반 해커톤 개최…AI 에이전트·OCR 최적화 겨룬다",
           "link": "https://www.ddaily.co.kr/page/view/2026103010262075696"
         }
-      ]
+      ],
+      "en": {
+        "title": "Oct. 30 AI Briefing: Hyundai Motor Group Confirms Investment in Saemangeum AI Data Center",
+        "points": [
+          "Hyundai Motor Group confirms investment in Saemangeum AI data center",
+          "LG CNS and Hanmi Semiconductor report third-quarter earnings",
+          "AI adoption cases and physical AI data partnership continue"
+        ],
+        "body": [
+          "Hyundai Motor Group is moving ahead with its Saemangeum AI data center project. On the 30th, five affiliates (Hyundai Motor, Kia, Hyundai Mobis, Hyundai Engineering & Construction and Hyundai AutoEver) confirmed their participation. The group plans to set up a dedicated special purpose company (SPC) in November, break ground in March 2027 and begin operations in early 2030. The project is part of the Saemangeum AI Valley, which is worth about 9 trillion won.",
+          "LG CNS said on the 30th that it posted third-quarter revenue of 1.6643 trillion won and operating profit of 138.2 billion won. Revenue rose 9.3% and operating profit rose 15.0% from a year earlier. According to iNews24, revenue from the AI and cloud business was 961.5 billion won, and AI Newspaper (인공지능신문) reported that this business accounts for about 58% of total revenue.",
+          "Hanmi Semiconductor received a plaque of appreciation from SK hynix for its contribution to developing HBM production equipment and supporting mass production. According to Chosun Biz, the two companies began working together in 2015 on the development of a thermal compression (TC) bonder for HBM production. According to Digital Daily, Hanmi Semiconductor's third-quarter revenue was 181 billion won and operating profit was 90.8 billion won, with an operating margin above 50%.",
+          "Korea Deep Learning said on the 30th that it worked with IBK Industrial Bank of Korea's Financial Consumer Support Department to automate voice phishing damage relief work using a vision-language model (VLM), cutting document processing time by 88%. According to AI Times, the project was selected for the Excellence Award in the AI service proof of concept (PoC) category of the 2026 Public Institution AI Innovation Challenge.",
+          "Samsung Electronics launched the budget smartphone Galaxy A18 LTE in Korea on the 30th. It comes in models for the three mobile carriers and an unlocked model. According to IT Chosun, it has a 6.7-inch large display, a 50-megapixel camera and a 5,000mAh battery, and supports AI features such as Google Gemini and Circle to Search. Chosun Biz reported in its headline that the phone is priced in the 420,000 won range, while Digital Today reported in its headline that it is priced in the 400,000 won range.",
+          "Crowdworks said on the 30th that it signed a partnership with Poseidon, a blockchain-based AI data infrastructure company, to build and supply physical AI training data. According to Techworld News, the two companies will jointly build real-world data such as egocentric video shot from a human point of view and robot manipulation data, and according to VentureSquare, they plan to supply it to global big tech and robotics companies.",
+          "SK Telecom is using AI and drones to restore forests in Andong, North Gyeongsang Province, which were damaged by wildfires last year. SKT said on the 30th that it held a seminar on the 29th with Yuhan-Kimberly, Forest of Peace and Inverlab to share the status of the restoration and future plans. Bloter reported that seeds are being sown even on steep slopes that people can hardly reach, and that changes in vegetation are being monitored.",
+          "Trillion Labs said on the 30th that it will hold the 2026 Trillion Agent AI Hackathon at Dream Plus Gangnam in Seoul from Nov. 19 to 20. In the competition, participants will use Trillion Labs' open-source model to develop AI agents and try to improve model performance. Digital Daily reported in its headline that participants will compete on AI agents and OCR optimization."
+        ]
+      }
     },
     {
       "id": "h20261030-f31ae8a25869",
@@ -350,7 +368,24 @@
           "title": "AI에 SI 사업 축소?...분기 실적 공개한 삼성SDS·LG CNS '신규 사업' 기대",
           "link": "https://www.techm.kr/news/articleView.html?idxno=156736"
         }
-      ]
+      ],
+      "en": {
+        "title": "Samsung SDS Posts 241.0 Billion Won in Q3 Operating Profit, Previews Vera Rubin GPU Service Next Year",
+        "points": [
+          "Samsung SDS Q3 revenue of 3.7725 trillion won",
+          "Cloud and logistics growth drove results",
+          "GPUaaS based on Vera Rubin planned for March next year"
+        ],
+        "body": [
+          "Samsung SDS said on the 29th that it recorded third-quarter preliminary revenue of 3.7725 trillion won and operating profit of 241.0 billion won. Revenue rose 11.2% and operating profit rose 3.7% from the same period last year. According to Techworld News, compared with the previous quarter, revenue rose 1.5% and operating profit rose 4.0%. The growth of the external cloud business and the air and ocean logistics businesses was cited as the reason for the improved results.",
+          "The outlets stressed slightly different points. EBN reported that the cloud business posted double-digit growth on rising demand for enterprise AI transformation (AX), and Bloter reported that the cloud business grew on AX demand and that logistics quarterly revenue topped 2 trillion won. Industry News said AX demand drove growth in cloud, while air and ocean freight volumes and rising freight rates drove growth in logistics. Techworld News wrote in its headline that cloud grew 18%, and Digital Today wrote in its headline that third-quarter cloud revenue approached 800 billion won. Datanet pointed to rising demand for GPUaaS and financial-sector AX in its headline.",
+          "Business plans were also announced. According to Chosun Biz, Samsung SDS will launch a GPU subscription service (GPUaaS) based on Nvidia's next-generation GPU Vera Rubin in March next year, the first in Asia, and will also release next year a platform that manages robot training and operations in one place. Chosun Biz reported in its headline that the company targets 1 trillion won in operating profit next year. Digital Daily reported that the company plans to offer an early service next year using its Dongtan data center. According to Tech M, Samsung SDS projected that its AX business revenue this year will grow to more than double last year's.",
+          "Explanations of the data center and security businesses followed. According to Bloter, Samsung SDS said it aims to grow its AI data center design, build and operate (DBO) business into a new revenue source worth more than 1 trillion won a year, and plans to expand the DBO business to a cumulative 500 megawatts (MW) by 2031. Digital Daily reported that CEO Lee Jun-hee said on the earnings call that a series of hacks targeting domestic public institutions and companies will increase demand for security consulting, and that the company will expand related new businesses. Digital Today reported that Lee said partnerships with three frontier AI companies are leading to results in AI security and cloud business. AI Times reported that in physical AI, the company has teamed up with global robot makers and begun field demonstrations at Samsung affiliates.",
+          "A fourth-quarter outlook was also given. According to Digital Daily, Executive Vice President Kim Tae-ho, head of management support, said on the third-quarter earnings call that growth in cloud-linked businesses will remain steep in the fourth quarter as well, and named the expansion of AX in finance and the public sector as the driver.",
+          "Recently, the results of Samsung SDS and LG CNS have drawn attention side by side. IT Chosun reported on the 29th that the two companies are competing in the enterprise AX market, having teamed up with OpenAI and Anthropic. After the results were released on the 30th, Tech M reported that, contrary to market concerns that AI is reducing system integration (SI) work, the two companies are creating new business opportunities.",
+          "Glossary: GPUaaS (GPU as a service) means renting high-performance graphics processing units (GPUs) as needed. DBO refers to an approach in which a company handles everything from designing and building to operating a data center."
+        ]
+      }
     },
     {
       "id": "h20261030-0f1f1a934756",
@@ -467,7 +502,22 @@
           "title": "현대차 새만금 9조 투자하는데…2389억 로봇 실증센터 예산은 '0원'",
           "link": "https://www.betanews.net/article/view/beta202610220086"
         }
-      ]
+      ],
+      "en": {
+        "title": "Hyundai Motor Group Confirms Saemangeum AI Data Center Investment, Groundbreaking in March Next Year",
+        "points": [
+          "Five Hyundai affiliates confirm Saemangeum AIDC investment",
+          "SPC to be set up in November, groundbreaking planned for March 2027",
+          "Core facility of the Saemangeum AI Valley, worth about 9 trillion won"
+        ],
+        "body": [
+          "Hyundai Motor Group is moving ahead with its AI data center (AIDC) project in Saemangeum, North Jeolla Province. On the 30th, the group said five affiliates (Hyundai Motor, Kia, Hyundai Mobis, Hyundai Engineering & Construction and Hyundai AutoEver) had confirmed their participation in the investment. The group plans to set up a dedicated special purpose company (SPC) in November, break ground in March 2027 and begin operations in early 2030.",
+          "The data center is the core facility of the Saemangeum AI Valley, a project worth about 9 trillion won. Chosun Biz said the AI Valley includes an AI data center, a robot manufacturing cluster, a solar power facility and an electrolysis plant for clean hydrogen production. iNews24 described the project as one that links renewable energy, AI data centers, robots and hydrogen to build a future industrial ecosystem. Industry News reported that the five affiliates' confirmed participation is expected to speed up the company setup and permitting processes.",
+          "Saemangeum drew attention on the 29th as well, before the announcement. iNews24 reported that Hyundai Motor Group said on the 29th that it is accelerating the build-out of the Saemangeum AI Valley, a 9 trillion won investment. According to Chosun Biz, Hyundai Motor Group Vice Chairman Chang Jae-hoon attended the Democratic Party's Mega Growth Special Committee on-site meeting on Saemangeum at the Saemangeum Energy Convergence Complex support center on the 29th and said the investment would proceed without delay. Digital Daily reported that after setting up an SPC for a solar power project in September, the group is firming up major projects such as the AI data center, robots and hydrogen through a dedicated team. Industry News reported that after establishing an SPC for the solar power project, the group is pursuing an investment plan linking the AI data center, robots and the hydrogen industry.",
+          "Recently, discussions on investment participation and support have continued. According to Chosun Biz and Bloter, Hyundai AutoEver will contribute about 114.6 billion won to a joint venture for the Saemangeum AI data center project. Chosun Biz reported that Hyundai AutoEver is moving beyond its existing GPU server supply and cloud service businesses into directly operating AI computing infrastructure. According to Chosun Biz, Democratic Party leader Kim Min-seok visited the Saemangeum industrial complex on the 29th and said that if investment led by Hyundai Motor goes well, there is now great hope that Saemangeum can become the world's No. 1 in physical AI. Betanews reported that on the 28th, North Jeolla Province moved to secure national funding to expand its physical AI industry base and for Saemangeum development, and that Park Hong-keun, minister of the Ministry of Planning and Budget, visited the province. Betanews also reported in its headline that, while Hyundai Motor invests 9 trillion won in Saemangeum, the budget for a 238.9 billion won robot demonstration center is 0 won.",
+          "Glossary: A special purpose company (SPC) is a company set up separately to carry out a specific project and handle only that project. An AI data center refers to a data center equipped with high-performance servers used for AI computing."
+        ]
+      }
     },
     {
       "id": "h20261030-a1cdc079ce0c",
@@ -578,7 +628,22 @@
           "title": "AI·클라우드·데이터센터까지…LG CNS, 준법경영 국제표준 인증 획득",
           "link": "https://www.ddaily.co.kr/page/view/2026102708544136900"
         }
-      ]
+      ],
+      "en": {
+        "title": "LG CNS Q3 Operating Profit Up 15.0% to 138.2 Billion Won",
+        "points": [
+          "LG CNS Q3 revenue of 1.6643 trillion won",
+          "Operating profit of 138.2 billion won, up 15.0% year on year",
+          "AI cloud and financial next-generation projects drove growth"
+        ],
+        "body": [
+          "LG CNS said on the 30th that it recorded third-quarter revenue of 1.6643 trillion won and operating profit of 138.2 billion won. Revenue rose 9.3% and operating profit rose 15.0% from the same period last year. According to AI Times, the company explained that growth in its AI and cloud business and results from financial-sector system-building projects drove the results.",
+          "Details differed slightly by outlet. According to iNews24, revenue from the AI and cloud business was 961.5 billion won, up 9.3% from a year earlier. AI Newspaper (인공지능신문) reported that about 58% of total revenue came from the AI and cloud business and that the financial next-generation system building business also posted double-digit growth. Techworld News pointed to the expansion of AI infrastructure and external AX business. Digital Daily reported that large AI infrastructure projects translated into revenue, which appears to have expanded the overall AX business.",
+          "Business plans were also revealed on the earnings call held the same day. According to The Elec, LG CNS reached 100% pre-completion leasing at its AI data center project in Jakarta, Indonesia. The same report said it will invest in its GPU service business in stages after confirming demand and business viability. Digital Daily reported that Chief Financial Officer Song Kwang-ryun said the company will expand its GPUaaS business in stages, and its headline said additional investment is under review. Digital Daily also reported that Yu Ki-woong, senior vice president of the AI cloud business unit, expects the share of high-value business to rise as cooperation with OpenAI, Anthropic and Palantir expands. In another Digital Daily article, Yu said the company will target Asia, North America and Europe based on its experience building the Jakarta data center, and stressed its capability in prefabricated modular data centers based on Nvidia Vera Rubin.",
+          "Recently, the earnings and strategies of the IT services industry have been highlighted together. EBN compared the two, saying that while Samsung SDS expanded its scale on cloud and logistics, LG CNS improved profitability centered on AI, cloud and financial-sector next-generation projects. Tech M reported that, contrary to market concerns that AI is reducing SI work, the two companies explained that corporate AI adoption is leading to system overhauls and additional build-out demand. IT Chosun reported on the 29th that Samsung SDS and LG CNS are competing in the enterprise AX market, having teamed up with OpenAI and Anthropic. Digital Daily reported that on the 27th, LG CNS obtained ISO 37301, the international standard for compliance management systems, covering its main businesses including AI, cloud and data centers.",
+          "Glossary: AX means AI transformation, in which a company introduces AI into its work and business to change how it operates. GPUaaS refers to GPU as a service, in which high-performance GPUs are rented as needed."
+        ]
+      }
     },
     {
       "id": "h20261030-e1c28d27391a",
@@ -641,7 +706,22 @@
           "title": "보험사가 보이스피싱 피해 차단… 어려운 안내문은 AI로 쉽게",
           "link": "https://biz.chosun.com/stock/stock_general/2026/10/29/MQ2DIYZRGVTDSN3BMQ2WKNBVMU"
         }
-      ]
+      ],
+      "en": {
+        "title": "Korea Deep Learning Cuts IBK Document Processing for Voice Phishing Relief by 88%",
+        "points": [
+          "VLM-based voice phishing relief automation demonstrated",
+          "Document processing time cut by 88%",
+          "Excellence Award in the PoC category of the Public Institution AI Innovation Challenge"
+        ],
+        "body": [
+          "Korea Deep Learning, a document AI company, said on the 30th that it worked with IBK Industrial Bank of Korea's Financial Consumer Support Department to automate voice phishing damage relief work using a vision-language model (VLM), cutting document processing time by 88%. According to Datanet and Techworld News, the project was led by IBK's Financial Consumer Support Department, with Korea Deep Learning taking part as the core technology provider, and ran from April to August this year.",
+          "Platum explained that victims of voice phishing must submit documents such as a relief application and a copy of their ID to the bank, and said in its headline that the process of handling faxed documents by hand was replaced with AI. Platum also reported that the company completed a demonstration of automating this work with an AI agent. Industry News reported that Korea Deep Learning described the case as the financial sector's first VLM-based automation of voice phishing relief work.",
+          "News of an award also came out. According to AI Times, the project was selected for the Excellence Award in the AI service proof of concept (PoC) category of the 2026 Public Institution AI Innovation Challenge. Korea NGO Times reported in its headline that IBK received the Deputy Prime Minister's Award, and wrote that IBK was rated highly at a government-organized innovation competition held in Mapo-gu, Seoul, on the 28th. The outlet said it remains to be seen whether shortening the time from receiving a report to providing relief can strengthen financial consumer protection. The name of the award was reported differently by outlet.",
+          "Recently, responses to voice phishing and uses of AI have continued across the financial sector. Chosun Biz reported on the 29th that Samsung Life Insurance is expanding consumer protection activities centered on preventing financial fraud, managing complaints and improving customer notices. According to the report, Samsung Life looks for abnormal signs in transactions to prevent damage, and also has verification procedures to prevent voice phishing damage when customers cancel insurance contracts or take out loans. Its headline said difficult notices are made easier with AI.",
+          "Glossary: A vision-language model (VLM) is an AI model that understands and processes images and text together. A PoC refers to a proof of concept, which verifies on a small scale whether a technology is actually effective before full-scale adoption."
+        ]
+      }
     },
     {
       "id": "h20261030-93b8a1be9942",
@@ -704,7 +784,22 @@
           "title": "삼성전자, AI로 수면 중 호흡 장애 3단계 분석…갤럭시 워치·링 식약처 허가 획득",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42456"
         }
-      ]
+      ],
+      "en": {
+        "title": "Samsung Launches AI-Equipped Budget Galaxy A18 LTE in Korea on the 30th",
+        "points": [
+          "Galaxy A18 LTE launched in Korea on the 30th",
+          "6.7-inch large display, 50-megapixel camera",
+          "Supports AI features including Gemini and Circle to Search"
+        ],
+        "body": [
+          "Samsung Electronics launched the budget smartphone Galaxy A18 LTE in Korea on the 30th, equipped with a large display, AI features and a large-capacity battery. It comes in models for the three mobile carriers and an unlocked model.",
+          "IT Chosun gave the most detailed account of the specifications. According to IT Chosun, the Galaxy A18 LTE has an AI search feature and a 6.7-inch large display, and supports AI features such as Google Gemini and Circle to Search. It is equipped with a 50-megapixel camera and a 5,000mAh battery. Digital Today reported that it comes in three colors: black, silver and light blue.",
+          "Price and retailers were also reported. Chosun Biz reported in its headline that the phone is priced in the 420,000 won range, while Digital Today and EBN reported in their headlines that it is priced in the 400,000 won range. According to Korea NGO Times and EBN, it can be purchased at Samsung Store, Samsung.com, online and offline stores of the mobile carriers, and open markets. Chosun Biz reported that, at a price in the 400,000 won range, the phone carries AI features such as Gemini and Circle to Search and targets demand for practical smartphones.",
+          "Recently, news of Samsung's AI features also came out for wearables. According to AI Newspaper (인공지능신문), Samsung Electronics is introducing in Korea a feature that uses AI to analyze the frequency and severity of breathing disorders during sleep. The key point is that it advances the existing Galaxy Watch sleep apnea detection feature so that users can check their breathing during sleep at three levels. The outlet reported in its headline that the Galaxy Watch and Ring received approval from the Ministry of Food and Drug Safety.",
+          "Glossary: Circle to Search is a Google feature that lets users select an image or text of interest on the screen by circling it with a finger and search for it right away."
+        ]
+      }
     },
     {
       "id": "s20261030-dda2db3e8005",
@@ -772,7 +867,21 @@
           "title": "“기준 바뀌고 맥락 끊기고”… 크라우드웍스가 짚은 ‘기업 AX 실패 이유’",
           "link": "https://www.ddaily.co.kr/page/view/2026102811211200299"
         }
-      ]
+      ],
+      "en": {
+        "title": "Crowdworks and Poseidon Team Up to Supply Physical AI Training Data",
+        "points": [
+          "Crowdworks and Poseidon sign partnership",
+          "Building egocentric video and robot manipulation data",
+          "To be supplied to global big tech and robotics companies"
+        ],
+        "body": [
+          "Crowdworks said on the 30th that it signed a partnership with Poseidon, a blockchain-based AI data infrastructure company, to build and supply physical AI training data. Digital Daily described it as a physical AI alliance in its headline.",
+          "According to Techworld News, the two companies will jointly build real-world data collected in real environments, such as egocentric video shot from a human point of view and robot manipulation data. VentureSquare reported that the data is to be supplied to global big tech and robotics companies, and Digital Today also reported that it targets global big tech and robotics companies. Industry News reported that the cooperation is meant to speed up efforts to take the lead in the global physical AI data market.",
+          "Recently, Crowdworks also published material drawing on its experience building AI data. Industry News reported that Crowdworks said on the 27th that it published a white paper, \"Why Your Organization's AX Fails,\" covering the causes of enterprise AX failures and solutions. VentureSquare reported that the white paper cites poorly defined purposes and requirements, loss of data context and errors in processing complex data as causes. Digital Daily introduced a case in which, while building data for a financial company's in-house chatbot, the working standards changed every two to three weeks, forcing workers and reviewers to realign their criteria.",
+          "Glossary: Physical AI refers to AI that moves and performs tasks in a real physical environment, like robots or self-driving cars. Egocentric video refers to video shot from a person's first-person point of view."
+        ]
+      }
     },
     {
       "id": "s20261030-af4214b7e849",
@@ -847,7 +956,22 @@
           "title": "김병석 한미반도체 상무, 은탑산업훈장 수훈…HBM TC 본더 개발 공로",
           "link": "https://www.ddaily.co.kr/page/view/2026102912500833220"
         }
-      ]
+      ],
+      "en": {
+        "title": "Hanmi Semiconductor Receives Plaque of Appreciation from SK hynix for HBM Mass Production Contribution",
+        "points": [
+          "Hanmi Semiconductor receives plaque from SK hynix",
+          "Recognized for HBM equipment development and mass production support",
+          "Cooperation began in 2015 with TC bonder development"
+        ],
+        "body": [
+          "Hanmi Semiconductor said on the 30th that it received a plaque of appreciation from SK hynix for its contribution to developing high bandwidth memory (HBM) production equipment and supporting stable mass production.",
+          "According to Chosun Biz, the two companies began working together in 2015 on the development of a thermal compression (TC) bonder for HBM production. Bloter reported that the partnership has continued through to production of the next-generation HBM4, and EBN reported that Hanmi Semiconductor plans to strengthen its competitiveness in next-generation HBM equipment based on more than 10 years of technical cooperation.",
+          "On the same day, Hanmi Semiconductor also released third-quarter results. According to Digital Daily, revenue was 181.0 billion won, up 8.9% from a year earlier, and operating profit was 90.8 billion won, up 33.9%, putting the operating margin above 50%. IT Chosun reported that the company expects record quarterly revenue in the fourth quarter on deferred equipment sales and expanded overseas supply. Bloter reported that the company may set a record high in annual revenue for a third straight year this year, and that it will target demand for North American mega-fab expansion with Hanmi USA, newly established in the United States.",
+          "Chosun Biz and Digital Daily reported that Kim Byung-seok, a Hanmi Semiconductor senior vice president, received the Silver Tower Order of Industrial Service Merit on the 29th. According to Chosun Biz, Kim worked at the company for 35 years and led the development of the TC bonder equipment for HBM production, and was recognized for contributing to the company's No. 1 global market share in TC bonders for HBM.",
+          "Glossary: HBM is high bandwidth memory, which stacks DRAM vertically to increase data transfer speed. A TC bonder refers to thermal compression equipment that attaches semiconductor chips using heat and pressure."
+        ]
+      }
     },
     {
       "id": "s20261030-1d351f850a61",
@@ -927,7 +1051,21 @@
           "title": "AI 보안 인재 육성 위해 뭉쳤다…교육부-LG유플러스-티오리한국, 영재교육원 운영 지원 MOU 체결",
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409028"
         }
-      ]
+      ],
+      "en": {
+        "title": "LG Uplus Has Two AI Token Optimization Papers Accepted at NeurIPS Workshop",
+        "points": [
+          "Two AI token optimization papers accepted at NeurIPS workshop",
+          "Smartphone AI processing speed up about 4.5 times",
+          "Battery consumption down about 77%"
+        ],
+        "body": [
+          "LG Uplus said on the 29th that two papers on AI token optimization research were accepted at the On-Device Intelligence workshop of NeurIPS 2026. According to iNews24 and Digital Today, NeurIPS is regarded as one of the world's three major AI conferences, along with ICML and ICLR.",
+          "IT Chosun, EBN and Korea NGO Times reported that the research increased AI processing speed on smartphones by about 4.5 times and cut battery consumption by about 77%. IT Chosun explained that the technology allows AI to run efficiently even with a smartphone's limited memory and power. Digital Daily described the research as an AI token diet.",
+          "Recently, there has been a steady stream of AI-related news from LG Uplus. Digital Today and iNews24 reported that on the 28th, LG Uplus ranked first in the IPTV category of the 2026 AI Transformation (AX) Quality Satisfaction Index, organized by the Korean Standards Association. Digital Today explained that the index evaluates the quality of AI-applied products and services from the perspective of the AI experience customers feel. According to Techworld News, the Ministry of Education said it will sign a memorandum of understanding with LG Uplus and Theori Korea on the 31st at LG Science Park in Seoul to support the operation of a gifted education center for AI and information security.",
+          "Glossary: A token is the basic unit an AI language model uses to process text. On-device AI refers to a method in which AI computation runs directly inside a device such as a smartphone, without going through a server."
+        ]
+      }
     },
     {
       "id": "s20261030-caf7aeec9a1d",
@@ -1026,7 +1164,22 @@
           "title": "AI로 이룬 공공혁신, 국민이 누리는 변화 '2026 공공기관 AI 혁신 성과대회' 개최",
           "link": "https://www.hellot.net/news/article.html?no=115846"
         }
-      ]
+      ],
+      "en": {
+        "title": "Public Institution AI Innovation Challenge Awards: KEPCO and Korea Marine Environment Management Corporation Win Top Prizes",
+        "points": [
+          "2026 Public Institution AI Innovation Challenge awards held on the 28th",
+          "KEPCO and Korea Marine Environment Management Corporation win top prizes",
+          "Cases span welfare, marine and energy sectors"
+        ],
+        "body": [
+          "The 2026 Public Institution AI Innovation Challenge results event, jointly hosted by the Ministry of Economy and Finance and the Ministry of Science and ICT and organized by the National Information Society Agency, was held on the 28th at Nurimkkum Square in Mapo-gu, Seoul. According to Newsis, it was the first year the challenge was held, and Hellot reported that it is the public-sector track of the nationwide AI competition that has run since March this year.",
+          "Newsis and Digital Today reported that Incheon International Airport Corporation and Korea Western Power won the grand prize. Newsis explained that the two institutions were selected for cases in which they used AI to raise safety management levels and cut costs. Korea NGO Times reported that Incheon Airport was recognized for building a proactive aviation safety management system using AI.",
+          "Awards by institution were reported as follows. According to Electimes and Newsis, Korea Electric Power Corporation (KEPCO) received the Deputy Prime Minister's Award, the top prize, for an AI-based service to prevent lonely deaths that detects risk by analyzing power and telecommunications data. According to Logistics News, the Korea Marine Environment Management Corporation received the top prize in the AI utilization best practice category for a project using AI to survey and collect marine debris. Daily Pharm reported that the National Health Insurance Service received the top prize in the demonstration and PoC category for an AI model that uses national health insurance big data to detect abnormal signs in medical use. According to Digital Daily, the Korea Social Security Information Service received an excellence award after expanding the AI discovery models of its welfare blind spot detection system from one type to 24 and raising the welfare service support rate from 20.1% in 2016 to 63.9% in 2025.",
+          "Other award cases followed. iNews24 reported that the Korea Real Estate Board received the Deputy Prime Minister's Award for AI-based real estate price estimation technology. Logistics News reported that the Korea Ocean Business Corporation received the Deputy Prime Minister's Award for technology demonstration results using AI to detect container damage and check hazardous material labels. Newsis and Gas News reported that the Korea National Oil Corporation received the AI Innovation Award, the Award of the President of the National Information Society Agency. The categories and names of the awards were reported differently by institution.",
+          "Glossary: A PoC (proof of concept) verifies on a small scale whether a technology is actually effective before full-scale adoption."
+        ]
+      }
     },
     {
       "id": "h20261029-1303002105ad",
@@ -1704,7 +1857,22 @@
           "title": "몬드리안에이아이, 구미 M.AX 컨퍼런스서 반도체 제조 AX 성과 선봬",
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408918"
         }
-      ]
+      ],
+      "en": {
+        "title": "Industry Ministry Launches M.AX Alliance Data Working Group, Unveils Manufacturing Data Roadmap",
+        "points": [
+          "M.AX Alliance data working group launched on the 29th",
+          "First comprehensive strategy for manufacturing data unveiled",
+          "Standardization and sharing of manufacturing data to be pursued"
+        ],
+        "body": [
+          "The Ministry of Trade, Industry and Energy held the launch ceremony of the M.AX Alliance data working group on the morning of the 29th at the Manufacturing AI Solution Center in Pangyo. According to Hellot and Robot Newspaper, attendees included Minister Kim Jung-kwan, data experts by field and industry, and related agencies such as the Korea Evaluation Institute of Industrial Technology (KEIT), the Korea Institute for Advancement of Technology (KIAT) and the Korea Electronics Technology Institute (KETI).",
+          "Industry News reported that the ministry launched the data working group and unveiled the first comprehensive strategy for manufacturing data, in order to connect the data accumulated at manufacturing sites to AI training and use. Hellot reported that the M.AX manufacturing data promotion roadmap was announced for the first time at the event.",
+          "According to Electimes, the ministry will push ahead with a national manufacturing data library project, for which 115.8 billion won was included in the 2027 government budget proposal, and will support the standardization, safe sharing and use of manufacturing data from 2027 to 2031. The outlet reported that a public-private cooperation system to connect data accumulated at manufacturing sites to AI competitiveness is now getting under way in earnest.",
+          "Other M.AX events have also been held recently. Newsis reported that KIAT held the 3rd M.AX Regional Expansion Conference at the Gumi Convention Center in North Gyeongsang Province on the 28th, as it said on the 29th. According to Newsis, the event was meant to help regional manufacturers introduce and use AI technology at production sites. Techworld News reported that the event was hosted by the Ministry of Trade, Industry and Energy, and that Mondrian AI presented an AX case applied at a semiconductor parts manufacturing site and its manufacturing AI platform MonPlant.",
+          "Glossary: Manufacturing data refers to data accumulated in the course of equipment, process and quality management at manufacturing sites."
+        ]
+      }
     },
     {
       "id": "s20261029-126fc1e14619",
