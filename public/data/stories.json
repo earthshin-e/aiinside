@@ -109,7 +109,23 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216846"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Oct. 31 AI Briefing: From Samsung Executives' Meeting With Sam Altman to AI Investment Jitters",
+        "points": [
+          "Samsung executives and SK chairman each meet Altman",
+          "Worries over AI investment returns; OpenAI also trims its fundraising target",
+          "Google runs AI inference on a satellite in space; OpenAI restricts teen use"
+        ],
+        "body": [
+          "About 50 Samsung executives held a talk on the 31st at the Samsung Human Resources Development Center in Yongin, Gyeonggi Province, to which they invited OpenAI CEO Sam Altman, and discussed management strategy for the AI era. AI Newspaper (인공지능신문) reported that they discussed how AI will change the industrial landscape and management strategy for the next 10 years. The same day, according to business circles, SK Group Chairman Chey Tae-won also had lunch with Altman in Seoul, and key executives of SK hynix and SK Telecom were reported to have attended.",
+          "Chosun Biz, citing the Financial Times, reported that OpenAI cut its external fundraising target by $10 billion. EBN reported that the target of $30 billion last month became $20 billion. Concern over AI investment continued in the market. According to IT Chosun, Intel shares plunged 28% following Alphabet, and AI Times said in its headline that $2 trillion in U.S. tech market capitalization evaporated over the month of October.",
+          "Amid this, Apple regained the No. 1 spot in global market capitalization from Nvidia for the first time in three months at the close of New York trading on the 30th (local time) (IT Chosun). Kukmin Ilbo reported that Apple, which had stepped back from the AI investment race, emerged as a relatively safe investment.",
+          "AI Times reported that Google ran TPUs, data-center-class AI chips, on a satellite in Earth orbit and succeeded in sending AI inference results to the ground. iNews24, citing Yonhap News, reported that Google said it received the first AI response on the 30th (local time) from a prototype satellite for Project Suncatcher, its space data center plan.",
+          "According to AI Times, OpenAI will restrict weapons-related information in ChatGPT to prevent violence by teenagers. Even for questions that show no violent intent, it will not give teenagers specific information on weapons and security systems, and it will automatically end the conversation if an obsession with violence is detected.",
+          "According to AI Times, Anthropic will rename its highest-priced Claude plan and remove the five-hour usage limit for verified subscribers. The explanation is that some users took the 20x shown on the plan as a multiplier that also applies directly to weekly usage, causing confusion, so the company renamed the plan and explained its usage terms."
+        ]
+      }
     },
     {
       "id": "h20261031-9a38fa72d4b4",
@@ -172,7 +188,22 @@
           "title": "과기정통부, 내년 피지컬 AI 트레이닝 센터 구축...산업 생태계 육성 본격화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216793"
         }
-      ]
+      ],
+      "en": {
+        "title": "KIAT to Forecast Industry-Specific Talent Demand to Support Manufacturing AI Shift",
+        "points": [
+          "KIAT to forecast talent demand by industry",
+          "Preparing for an aging and retiring skilled workforce",
+          "Securing on-site AI talent as M.AX expands"
+        ],
+        "body": [
+          "According to Newsis, as the government's manufacturing AI transformation policy, M.AX, spreads, a forecast of talent demand by industry is being pursued to support it. Newsis reported that the Korea Institute for Advancement of Technology (KIAT) is pursuing the effort to prepare for the aging and retirement of skilled workers and to secure talent who can use AI on production floors. The report came out on Oct. 30.",
+          "Policy activity has branched out in several directions over the past few days. The Ministry of Trade, Industry and Energy held the launch ceremony for the M.AX Alliance data subcommittee on the 29th at the Manufacturing AI Solution Center in Pangyo, Gyeonggi Province (Hellot, Robot Newspaper). Industry News reported that the ministry unveiled its first comprehensive strategy for manufacturing data to link data accumulated on factory floors to AI training and use, and Hellot reported that the M.AX manufacturing data roadmap was announced for the first time.",
+          "There was also an event to spread the policy in the regions. According to Newsis, KIAT held the third M.AX Regional Expansion Conference on the 28th at the Gumi Convention Center in North Gyeongsang Province, supporting regional manufacturers in adopting and using AI technology on production floors. On the same day, Chosun Biz reported that Minister Kim Jung-kwan of the Ministry of Trade, Industry and Energy attended an M.AX AI manufacturers' meetup in Gumi and met company representatives. The event aims to connect regional manufacturers with AI-related companies and raise the competitiveness of both.",
+          "Other ministries were also on the move. According to AI Times, the Ministry of Science and ICT met with industry, academic and research experts on the 29th at the Korea Chamber of Commerce and Industry in Seoul. The ministry said it will build a Physical AI Training Center next year to produce and use training data for physical AI, and will also pursue on-site demonstration projects with Korea Post.",
+          "Glossary: In these reports, M.AX is the name of the government policy for the AI transformation of manufacturing. Physical AI refers to AI that operates in physical devices such as robots and machines."
+        ]
+      }
     },
     {
       "id": "h20261031-706313adfa32",
@@ -266,7 +297,23 @@
           "title": "구글 이어 인텔 28% 폭락… AI 투자 불안 재확산 조짐",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092173264"
         }
-      ]
+      ],
+      "en": {
+        "title": "Amazon to Sell Its Own Trainium AI Chip Externally, Taking On Nvidia",
+        "points": [
+          "Amazon to sell Trainium chips directly to outside customers",
+          "CEO Jassy cites strong demand, supplying beyond AWS",
+          "After earnings, after-hours shares fall about 7%"
+        ],
+        "body": [
+          "According to Chosun Biz, Amazon has decided to sell its own artificial intelligence chip, Trainium, directly to outside customers. On a third-quarter earnings conference call on the 29th (local time), Amazon CEO Andy Jassy said, in effect, that demand for Trainium is very strong and that the company will make the chip usable outside Amazon Web Services (AWS) as well.",
+          "Interpretations of the strategy differed somewhat by outlet. EBN reported that Amazon aims to grow a chip it developed to reduce its dependence on Nvidia into a separate revenue source and enter the AI chip market. Digital Daily reported that Amazon will sell the chip externally while continuing to use it in the cloud, dividing its supply between short-term revenue and long-term cash flow.",
+          "Earnings fell short of market expectations. According to iNews24, Amazon's third-quarter revenue of $201.94 billion and earnings per share (EPS) of $1.89 both fell below market forecasts, and its shares dropped more than 7% in after-hours trading. Newsis reported that its fourth-quarter revenue outlook was also below market expectations. AWS, on the other hand, posted 39% revenue growth, its highest growth rate in about five years (Newsis, Digital Daily). AI Newspaper (인공지능신문) reported that Jassy projected AWS revenue growth would exceed 40% in 2027 and 2028 as well.",
+          "Investment pressure stood out. According to e-Focus (이포커스), AWS sold $46 billion worth of services from July to September, up 39% from a year earlier, but over the past year Amazon as a whole spent $42.4 billion more on capital expenditures than the cash it brought in from operations. Bloter reported that AWS operating profit rose 55%, but capital spending exceeded cash earned from operations. Digital Today, citing Business Insider, reported that Amazon said it will raise 2027 capital expenditures significantly above this year's.",
+          "Market reaction continued. Chosun Biz reported that after Alphabet plunged on the 29th, Amazon and Intel also fell sharply after the market closed, and IT Chosun reported that Intel shares plunged 28% following Alphabet, signaling renewed anxiety about AI investment.",
+          "Glossary: Trainium is Amazon's own AI chip. Capital expenditure (CAPEX) is the money a company spends on long-term assets such as data centers and equipment."
+        ]
+      }
     },
     {
       "id": "h20261031-9002c5ac4868",
@@ -383,7 +430,22 @@
           "title": "AI 투자 불안에 오픈AI, 자금 조달 목표 100억달러 축소",
           "link": "https://biz.chosun.com/it-science/ict/2026/10/31/HUCCV4FEERBRTIOJXFCSK3HYQA"
         }
-      ]
+      ],
+      "en": {
+        "title": "Samsung Executives Discuss the Next 10 Years of AI With Sam Altman",
+        "points": [
+          "About 50 Samsung executives hold talks with Altman",
+          "Raising AI skills from the top to speed up AX",
+          "SK Group Chairman Chey also lunches with Altman the same day"
+        ],
+        "body": [
+          "Samsung said it held a talk on the 31st at the Samsung Human Resources Development Center in Yongin, Gyeonggi Province, to which it invited OpenAI CEO Sam Altman. About 50 executives from Samsung Electronics and other affiliates attended. Chosun Biz reported that executives from affiliates in electronics, finance, biotech and other fields were present, and AI Newspaper (인공지능신문) reported that they discussed how AI will change the industrial landscape and management strategy for the next 10 years.",
+          "Samsung's plans were also reported. According to EBN, Samsung intends to speed up its company-wide AI transformation (AX) by raising AI skills starting with its executives. Digital Daily reported that Samsung is continuing cooperation with OpenAI on semiconductors and data centers and aims to give all employees AI training by February 2027. iNews24 noted that the talk expands exchanges that followed Samsung Electronics Chairman Lee Jae-yong's visit to OpenAI's headquarters in July.",
+          "SK also had a meeting with Altman. EBN and Chosun Biz reported, citing business circles, that SK Group Chairman Chey Tae-won had lunch with CEO Altman at an undisclosed location in Seoul on the 31st, and that key executives of SK hynix and SK Telecom were also reported to have attended. EBN and Kukmin Ilbo wrote in their headlines that cooperation on HBM and data centers is drawing attention. Kukmin Ilbo reported that on Oct. 1 last year, the two sides signed a letter of intent (LOI) for memory supply and a memorandum of understanding (MOU) on AI data center cooperation in southwestern Seoul at SK Seorin Building in Jongno District, Seoul.",
+          "In recent developments, Altman said on the 27th (local time) at Oracle AI World in Las Vegas that the top priority for companies right now with AI is to understand and defend against AI-driven security threats (Digital Daily). On the same day, the 31st, EBN and Chosun Biz, citing the Financial Times, reported that OpenAI cut its external fundraising target by $10 billion.",
+          "Glossary: HBM (high-bandwidth memory) is a high-performance memory that stacks DRAM chips in layers to speed up data transfer and is mainly used in AI accelerators. AX is short for AI transformation, meaning the adoption of AI across a company's work and business to change how it operates."
+        ]
+      }
     },
     {
       "id": "h20261031-85f5ccb25389",
@@ -494,7 +556,22 @@
           "title": "엔비디아, 삼성전기 기판에 공동투자…LG이노텍과 '로봇 눈' 개발",
           "link": "https://www.inews24.com/view/2018435"
         }
-      ]
+      ],
+      "en": {
+        "title": "Samsung Electro-Mechanics Wins 879.3 Billion Won AI Server MLCC Supply Deal, Its 8th This Year",
+        "points": [
+          "879.3 billion won AI server MLCC supply contract",
+          "Contract runs one year from Dec. 21",
+          "Long-term deals this year total more than 5 trillion won"
+        ],
+        "body": [
+          "Samsung Electro-Mechanics said on the 30th that it signed a supply contract worth about 879.3 billion won for multilayer ceramic capacitors (MLCCs) for artificial intelligence servers with a major global company. TechM gave the exact amount as 879.28540 billion won. The contract runs one year, from Dec. 21 to Dec. 21, 2027. The reports identified the counterparty only as a major global company or a large customer.",
+          "Cumulative long-term supply contracts this year have exceeded 5 trillion won. IT Chosun reported that this is the eighth long-term supply contract this year, and Chosun Biz also said in its headline that it is the eighth long-term contract this year. The cumulative total was given as about 5.18 trillion won by iNews24, and as 5.2 trillion won in the headlines of Digital Daily and Bloter. Kukmin Ilbo and Chosun Biz reported that it is the second-largest of the long-term supply contracts disclosed this year.",
+          "Explanations of the demand behind the deal were similar. Digital Today explained that MLCCs are components that supply power stably to semiconductors, and iNews24 reported that the contract came as demand for high-value components for AI servers grows. Digital Daily noted that Samsung Electro-Mechanics is pursuing long-term supply contracts with about 50 customers and that more than half of its 2027 MLCC revenue is expected to come from long-term contracts.",
+          "In recent developments, Samsung Electro-Mechanics said on the 28th that it posted its largest-ever quarterly results, with third-quarter revenue of 3.7633 trillion won and operating profit of 691 billion won (Techworld News). On a conference call the same day, it said more than half of next year's AI MLCC revenue is expected to be secured through long-term supply contracts (Chosun Biz), and that supply shortages of FCBGA for AI servers continue and it is seeking price adjustments with customers. It plans to double fourth-quarter supply of ultra-large substrates for AI servers from the existing level. Nvidia also said on the 28th that, together with supply chain partners including Samsung Electro-Mechanics, it will expand its substrate production capacity for its products 2.5 times over the next three years and double its semiconductor testing capacity (IT Chosun). Earlier, on the 23rd, iNews24 reported that Nvidia had signed a long-term supply contract with Samsung Electro-Mechanics for AI chip package substrates.",
+          "Glossary: An MLCC is a tiny component in electronic circuits that briefly stores electricity and releases it to stabilize current. FCBGA refers to a package substrate in which a semiconductor chip is flipped and attached directly to the substrate."
+        ]
+      }
     },
     {
       "id": "h20261031-bedd646b47bc",
@@ -600,7 +677,23 @@
           "title": "엔비디아 1.5조 투자금 들어온다…네이버 'AI 팩토리' 시험대",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710210"
         }
-      ]
+      ],
+      "en": {
+        "title": "Nvidia to Pay In $1 Billion to Naver on Nov. 6, Becoming No. 3 Shareholder",
+        "points": [
+          "Payment date Nov. 6, $1 billion",
+          "Nvidia set to become Naver's third-largest shareholder",
+          "$9 billion Brookfield deal was a precondition"
+        ],
+        "body": [
+          "Naver disclosed on the 30th that the payment date for its third-party allotment rights offering to Nvidia has been set for Nov. 6. According to AI Times, the investment is $1 billion, or about 1.34 trillion won, and the new shares are scheduled to be listed on Nov. 27. Won conversions differed by outlet: IT Chosun and Industry News gave about 1.3 trillion won, TechM wrote 1.35 trillion won in its headline, and iNews24 wrote 1.4 trillion won in its headline.",
+          "Stakes and shareholder rankings were also reported. Digital Today and Industry News reported that once the payment is completed, Nvidia will hold about 4.54% of Naver. Digital Today said Nvidia is expected to become the third-largest shareholder, after the National Pension Service and BlackRock. Citing filings with the Financial Supervisory Service, TheElec reported that Naver Chairman Lee Hae-jin, the previous No. 3 shareholder, drops one spot to fourth, and TechM noted that Nvidia will hold a larger stake than Lee.",
+          "The way the investment was finalized is tied to a precondition. TechM reported that the investment was confirmed after Naver completed the preconditions of the share subscription agreement that Naver and Nvidia signed in July. Naver said earlier, on the 27th, that it had signed a $9 billion (about 12 trillion won) computing infrastructure deal with Brookfield, satisfying the precondition for Nvidia's strategic equity investment. AI Times reported that the 1-gigawatt (GW) global AI infrastructure project being pursued by Naver, Nvidia and Brookfield is expected to get under way in earnest.",
+          "Explanations of how the money will be used also emerged. According to Digital Daily, most of the funds raised in this rights offering will go into the AI factory business from next year onward. Bloter reported that combining Nvidia's AI infrastructure technology with Naver's data center operations and cloud capabilities is expected to give Naver a foothold to leap beyond developing its own AI models and become a global AI computing infrastructure provider.",
+          "In recent developments, Digital Today reported on the 27th that, ahead of the payment, Naver's AI factory business was being put to the test, and that to receive the payment it had to meet the precondition of securing computing infrastructure worth at least $9 billion. The payment date was then set in the filing on the 30th.",
+          "Glossary: A third-party allotment rights offering is a method in which a company issues new shares to a specifically chosen party rather than existing shareholders and receives funds in return."
+        ]
+      }
     },
     {
       "id": "s20261031-be7bd065bc34",
@@ -700,7 +793,23 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216843"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "AI Investment Jitters Hit Wall Street and KOSPI; OpenAI Cuts Fundraising Target",
+        "points": [
+          "Tech stocks plunge on Alphabet, Amazon and Intel results",
+          "KOSPI falls more than 3% on the 30th to the 5730 level",
+          "OpenAI cuts fundraising target by $10 billion"
+        ],
+        "body": [
+          "Concerns about the profitability of AI investment shook the U.S. and South Korean stock markets. According to Chosun Biz, the three major New York indexes all closed lower on the 29th (local time) as Alphabet's weak earnings revived worries about AI investment. Digital Daily reported that Alphabet plunged 12.6% and the Nasdaq Composite fell 1.4% that day, and that Fortinet and ServiceNow also plunged more than 20% after their earnings releases.",
+          "The decline continued on the 30th. Digital Daily reported that negative outlooks followed the earnings releases of Amazon and Intel after Alphabet, sending the three major New York indexes lower together, with the Nasdaq's drop especially pronounced. Reports differed on Intel's decline: Digital Daily wrote 29% in its headline and IT Chosun wrote 28%, while GeekNews reported that it plunged by as much as 30% intraday. GeekNews also reported that the Nasdaq fell more than 3.5%.",
+          "The Korean market was affected too. According to IT Chosun, the KOSPI closed on the 30th at 5,730.74, down 206.92 points (3.48%) from the previous trading day. Chosun Biz reported that foreign investors net sold 1.8 trillion won on the KOSPI, while IT Chosun wrote 1.6 trillion won of foreign selling in its headline, so the figures differed. Chosun Biz said in its headline that SK hynix fell 7%. A separate Chosun Biz analysis noted that the KOSPI closed its first trading day of the year on Jan. 2 at 4,309.63 and rose as high as 8,476.48 on June 30.",
+          "There were changes in the fundraising market as well. Citing the Financial Times (FT), EBN reported that OpenAI lowered its investment target from the $30 billion it set last month to $20 billion. Chosun Biz reported that the target was cut by $10 billion (about 13.3 trillion won).",
+          "In recent developments, AI Times reported that Google kept its dominance of the search market with AI search, but the advertising profitability of AI search falls short of traditional search, which has become a burden. Its headline said $500 billion in market capitalization had evaporated.",
+          "Glossary: The Nasdaq Composite is an index calculated from the share prices of all stocks listed on the U.S. Nasdaq market. Net selling is a state in which investors sold more than they bought over a given period."
+        ]
+      }
     },
     {
       "id": "s20261031-bc4907917fb2",
@@ -762,7 +871,21 @@
           "link": "https://www.venturesquare.net/1124199"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "KOSA Signs MOU With German AI Association on Industrial AI and Physical AI Cooperation",
+        "points": [
+          "KOSA signs MOU with German AI Association",
+          "Expanding cooperation on industrial AI and physical AI",
+          "Supporting Korean AI companies' entry into Europe"
+        ],
+        "body": [
+          "The Korea Software and Artificial Intelligence Industry Association (KOSA) signed a memorandum of understanding (MOU) with the German AI Association (KI Bundesverband). According to Techworld News and Datanet, the agreement was made on the 30th at the 19th Asia-Pacific Conference of German Business (APK) in Seoul. VentureSquare reported that it was signed at APK 2026, which German Chancellor Friedrich Merz attended.",
+          "Outlets stressed different aspects of the areas and aims of the cooperation. Techworld News emphasized in its headline the expansion of AI industry cooperation between the two countries, including industrial AI and physical AI, while Datanet reported that the two sides will cooperate on technology between their AI companies and support their entry into the European market. VentureSquare introduced the German AI Association as Germany's largest network of AI companies.",
+          "In recent developments, KOSA has announced a series of association-level agreements and support programs. Datanet reported that on the 28th KOSA signed an MOU with the Korea Testing & Research Institute (KTR) to support the growth of small and medium-sized AI and software companies and the spread of physical AI, while Electric Times (전기신문) reported that the agreement was signed on the 27th. Also, according to Techworld News, KOSA will take year-round pre-applications for the AI Innovation Accelerator (AIIA) from Korean AI and digital companies preparing to enter the U.S. East Coast market. VentureSquare reported that the program is linked with New York University's Stern School of Business and that actual selection goes through a separate application and evaluation.",
+          "Glossary: An MOU (memorandum of understanding) is an agreement in which institutions or companies express their intent to cooperate, and it is generally distinguished from a contract with strong legal binding force. Physical AI refers to AI that operates in physical devices such as robots and machines."
+        ]
+      }
     },
     {
       "id": "b20261030",
