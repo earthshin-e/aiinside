@@ -72,7 +72,23 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408853"
         }
       ],
-      "author": "Haley Yun"
+      "author": "Haley Yun",
+      "en": {
+        "title": "Samsung Electronics Launches First Cohort of 'Samsung Crew' AI Appliance Creators",
+        "points": [
+          "Samsung Electronics launches the Samsung Crew creator program for AI appliances",
+          "About 30 creators will produce content based on real-world use",
+          "First cohort kickoff ceremony held in Cheongdam on the 30th of last month"
+        ],
+        "body": [
+          "Samsung Electronics has launched 'Samsung Crew,' a creator program to share real-world experiences with its AI home appliances with consumers. Samsung announced this on the 1st. iNews24 reported that Samsung held the kickoff ceremony for the first Samsung Crew cohort at CGV The Private Cinema in Cheongdam, Seoul, on the 30th of last month, and Digital Daily also wrote that Samsung Crew launched on the 30th of last month.",
+          "Samsung Crew is made up of creators who have been active on YouTube, Instagram and blogs on lifestyle topics such as living, interior design, parenting and daily life. This information appears in Samsung Newsroom material (a company announcement) and Digital Daily's report. AI Newspaper (인공지능신문), IT Chosun and Chosun Biz put the number of participants at about 30, and iNews24 also said in its headline that about 30 creators are taking part. Chosun Biz referred to this lineup as the first cohort.",
+          "Outlets described the purpose of the program in slightly different ways. AI Newspaper (인공지능신문) noted that the previous approach was promotion that introduced a product's main features, and said the focus this time is on showing AI appliances being used in real living spaces. IT Chosun wrote that the plan is to promote how useful AI appliances are and expand communication with customers through content aimed at the consumer's point of view. EBN explained that the strategy is to convey the value of using AI appliances through varied content, from product reviews to delivery, installation and after-sales care.",
+          "Samsung Newsroom, in a company announcement, said it will spread consumer-friendly content on the theme of 'Samsung AI appliances' together with Samsung Crew. Digital Daily's report and Chosun Biz's headline (spreading real-use experience content) point in the same direction.",
+          "Recent developments: Techworld News reported that Samsung Electronics ranked first in 14 categories in the '2026 Korean Standard Quality Excellence Index (KS-QEI)' survey run by the Korean Standards Association on the 28th, extending its record of the most first-place categories to 18 consecutive years. The index has been conducted since 2004 as a survey of satisfaction with the quality of products and services by industry, and the article's headline was 'AI Appliance Competitiveness Pays Off.'",
+          "Glossary: A creator is a person who shares content they make themselves on online channels such as YouTube, Instagram and blogs. A kickoff ceremony is an event that marks the official start of a gathering or activity."
+        ]
+      }
     },
     {
       "id": "h20261101-96b2b48b3c9a",
@@ -129,7 +145,22 @@
           "link": "https://www.ddaily.co.kr/page/view/2026103011580629922"
         }
       ],
-      "author": "Kevin Wong"
+      "author": "Kevin Wong",
+      "en": {
+        "title": "HD Hyundai Robotics to Advance Physical AI Solutions With Palantir",
+        "points": [
+          "HD Hyundai Robotics and Palantir cooperate on physical AI",
+          "CTO Ahn Seong-hwan gives keynote at Palantir event in New York",
+          "Work time cut from 21.5 days to 7.9 days"
+        ],
+        "body": [
+          "HD Hyundai Robotics will work with US AI software company Palantir Technologies to advance its physical AI solutions. HD Hyundai Robotics announced this on the 1st and explained that it took part as a keynote speaker at Palantir's 'Sovereignty Bootcamp,' held recently in New York. According to Chosun Biz, Chief Technology Officer (executive director) Ahn Seong-hwan gave the keynote.",
+          "The figures appear in reports by Digital Daily and Chosun Biz. Digital Daily reported that HD Hyundai Robotics is improving the programming efficiency of industrial robots with Palantir, and that introducing AI agents cut work that used to take 21.5 days to 7.9 days. Chosun Biz put a 63% reduction in work time in its headline.",
+          "Outlets stressed different points. The Elec focused on the expanded physical AI cooperation with Palantir and also mentioned protecting corporate data and key business information. iNews24 reported that the company is refining physical AI solutions to be applied at industrial sites, and Digital Daily also noted in its headline that it is pursuing cost savings. EBN centered on the fact that the company is advancing its physical AI solutions in cooperation with Palantir.",
+          "Recent developments: Palantir also appeared in a report on another Korean company's partnerships. According to Digital Daily, LG CNS Executive Director Yoo Ki-woong said on a conference call on the 30th for third-quarter earnings that the company expects the share of high-value-added business to rise as it expands cooperation with global AI leaders OpenAI, Anthropic and Palantir.",
+          "Glossary: Physical AI refers to technology that lets devices with physical bodies, such as robots and self-driving cars, perceive and make decisions about the real world with AI and move accordingly. An AI agent is an AI program that carries out tasks by making its own judgments according to goals set by the user."
+        ]
+      }
     },
     {
       "id": "h20261101-7ccd3d15af61",
@@ -180,7 +211,22 @@
           "link": "https://www.inews24.com/view/2021029"
         }
       ],
-      "author": "Ethan Chen"
+      "author": "Ethan Chen",
+      "en": {
+        "title": "Ministry of Science and ICT Names Former Kakao VP Kim Se-woong Head of National AI Service Innovation Team",
+        "points": [
+          "Ministry of Science and ICT appoints head of National AI Service Innovation Promotion Team",
+          "Kim Se-woong, former Kakao AI Synergy performance leader",
+          "Term runs through Sept. 30, 2028"
+        ],
+        "body": [
+          "The Ministry of Science and ICT appointed Kim Se-woong, a former Kakao AI Synergy performance leader (vice president), as head of the National AI Service Innovation Promotion Team. The ministry announced this on the 1st. According to iNews24, his term runs from Nov. 2 to Sept. 30, 2028.",
+          "Digital Today, citing the ministry, reported that the National AI Service Innovation Promotion Team is an organization newly created to quickly develop and provide AI services that people can feel in their daily lives.",
+          "According to Chosun Biz, Kim is a private-sector expert who founded and ran the tech startup Mighty Works in 2009 and then took charge of AI technology development, service commercialization and infrastructure building at Kakao.",
+          "Outlets explained the meaning of the appointment differently. IT Chosun reported that the government brought in an expert from Kakao's executive ranks to head a dedicated organization so it can directly develop AI services that people can feel in their daily lives. AI Newspaper (인공지능신문) reported, in essence, that the appointment is meant to apply private-sector AI development capabilities directly to public service innovation, and that the government is moving away from public IT projects centered on outsourced development. The title also varied: AI Newspaper (인공지능신문) wrote 'former Kakao AI vice president' in its headline, while Chosun Biz and IT Chosun wrote 'AI Synergy performance leader (vice president).'",
+          "Glossary: Public IT projects are projects in which the government and public institutions build and operate the information systems they use for work. Outsourced development is a method of handing system development to an outside company."
+        ]
+      }
     },
     {
       "id": "h20261101-f461f1033469",
@@ -257,7 +303,24 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172757"
         }
       ],
-      "author": "Ashley Yang"
+      "author": "Ashley Yang",
+      "en": {
+        "title": "SK Telecom Moves 'AX Innovation 2.0' Beyond Individuals to the Whole Organization",
+        "points": [
+          "SKT redesigns work across the organization with AX Innovation 2.0",
+          "Internal AI agents trimmed from 7,000 to about 1,500",
+          "Resolving data access, security and system integration problems"
+        ],
+        "body": [
+          "SK Telecom is pushing ahead with 'AX (AI transformation) Innovation 2.0,' which goes beyond individual members' use of AI to redesign how the whole organization works and collaborates. iNews24 reported that this is the strategy of SK Telecom (CEO Jung Jai-hun), and coverage continued from the morning of the 1st.",
+          "According to Bloter, the 1.0 stage was a period when members voluntarily built and used their own AI agents. Chosun Biz also reported that the company is moving beyond employees building their own AI agents to automate repetitive tasks, toward redesigning the organization's work processes themselves around AI. Digital Today introduced 'from individuals to the organization, from convenience to practicality' as the core direction.",
+          "Outlets described the number of agents differently. Sisa Journal e reported that internal agents once grew to 7,000 before being trimmed to about 1,500 after a process of weighing their actual effect. AI Newspaper (인공지능신문) wrote in its headline that 1,500 AI agents have been put into real work.",
+          "As challenges to address, AI Newspaper (인공지능신문) and Digital Today pointed to problems that block AI adoption, such as data access, system integration and security. Sisa Journal e's summary mentioned usage costs along with data access and security.",
+          "EBN covered remarks that Kim In-su, head of the SKT AI Board team, made at the 'AX Camp' held at SK Telecom's Human Resources Development Center in Icheon on the 30th of last month, as an on-site report, and put 'quickly crossing the J-curve valley' in its headline.",
+          "Recent developments: SK Telecom published its first 'AI Governance Report' on the 26th. IT Chosun reported that the report contains principles and results for managing the safety and reliability of AI services, and that the company set standards for managing the entire process of an AI agent from development through operation to termination. Boannews reported that it disclosed AI management standards that build security into the entire process from planning to disposal.",
+          "Glossary: AX is changing the way of working by introducing AI across a company's work and business. An AI agent is an AI program that carries out tasks by making its own judgments according to goals set by the user."
+        ]
+      }
     },
     {
       "id": "h20261101-3524e0becf39",
@@ -326,7 +389,22 @@
           "link": "https://www.ddaily.co.kr/page/view/2026102716331551587"
         }
       ],
-      "author": "Chloe Park"
+      "author": "Chloe Park",
+      "en": {
+        "title": "KB Kookmin Bank to Arrange Korea's First GPU Financing Worth 12.6 Trillion Won",
+        "points": [
+          "KB Kookmin Bank arranges financing for a 12.6 trillion won AI infrastructure project",
+          "Korea's first GPU financing, a project led by Brookfield",
+          "Largest syndicated loan arrangement in Korean history"
+        ],
+        "body": [
+          "KB Kookmin Bank will arrange financing for an AI computing infrastructure project worth about 12.6 trillion won. KB Kookmin Bank announced this on the 1st. Betanews reported that the bank will be the lead arranger of Korea's first graphics processing unit (GPU) financing project, and Chosun Biz described it as having secured the mandate to arrange the financing.",
+          "According to Betanews, the project is led by global alternative asset manager Brookfield, and the deal raises the funds needed for AI infrastructure investment through a financing structure based on long-term supply contracts. Chosun Biz reported that the deal is Korea's first GPU financing and the largest syndicated loan arrangement in Korean history, and mentioned a special purpose company (SPC) to be established by Brookfield.",
+          "Recent developments: Brookfield also appeared in Naver's announcement on the 27th. Naver said it signed a contract with Brookfield to secure computing infrastructure worth 9 billion dollars, meeting a precondition for Nvidia's strategic equity investment. Digital Daily put the size of Nvidia's equity investment at about 1 billion dollars, and Bloter reported that the three companies are jointly pursuing a 1-gigawatt (GW) global AI factory project. AI Times wrote in its headline that Nvidia will become the third-largest shareholder.",
+          "Won conversions of the amount differed by outlet. EBN, AI Times and iNews24 wrote about 12 trillion won, Bloter wrote 11.9259 trillion won, and one Digital Daily article gave 18.74 trillion won. Naver is not mentioned in this report on KB Kookmin Bank, so the relationship between the two items cannot be determined from the reports alone.",
+          "Glossary: A syndicated loan is a loan in which several financial institutions lend money together. A special purpose company (SPC) is a separate legal entity set up for a specific project. A GPU is a graphics processing unit widely used for AI computation."
+        ]
+      }
     },
     {
       "id": "b20261101",
@@ -525,7 +603,25 @@
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711615"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "Nov. 1 AI Briefing: Samsung's AI Appliance Crew to a Standard for Opting Out of AI Training",
+        "points": [
+          "Companies speed up AI appliance promotion and organization-wide work changes",
+          "Government reorganization and AI infrastructure financing continue",
+          "Robot partnerships and a standard for opting out of AI training draw wider discussion"
+        ],
+        "body": [
+          "Samsung Electronics has launched 'Samsung Crew,' a creator program for AI home appliances. iNews24 reported that Samsung held the kickoff ceremony for the first cohort in Cheongdam, Seoul, on the 30th of last month, while AI Newspaper (인공지능신문) and IT Chosun wrote that about 30 creators are taking part. Samsung Newsroom (a company announcement) said it will spread consumer-friendly content centered on Samsung AI appliances.",
+          "HD Hyundai Robotics said on the 1st that it will work with Palantir Technologies to advance its physical AI solutions. Digital Daily reported that introducing AI agents cut work that used to take 21.5 days to 7.9 days, and Chosun Biz reported that CTO Ahn Seong-hwan gave a keynote at a Palantir event in New York.",
+          "The Ministry of Science and ICT appointed Kim Se-woong, a former Kakao AI Synergy performance leader (vice president), as head of the National AI Service Innovation Promotion Team. Digital Today reported that the organization was newly created to quickly develop and provide AI services that people can feel in their daily lives, and iNews24 reported that his term runs from Nov. 2 to Sept. 30, 2028.",
+          "SK Telecom is pushing ahead with 'AX Innovation 2.0,' which goes beyond individual use of AI to redesign how the whole organization works. Sisa Journal e reported that internal agents once grew to 7,000 before being trimmed to about 1,500. AI Newspaper (인공지능신문) introduced a direction of resolving problems with data access, system integration and security.",
+          "KB Kookmin Bank will arrange financing for an AI computing infrastructure project worth about 12.6 trillion won. Betanews reported that it is the lead arranger of the first GPU financing project in Korea, and Chosun Biz reported that it is the largest syndicated loan arrangement in Korean history.",
+          "LG Uplus said on the 1st that it will upgrade the curriculum of the AI and information security gifted education center together with the Ministry of Education and Theori Korea. Digital Today reported that the plan is to train security experts needed in the AI era by linking information security education with career experience programs.",
+          "Major AI companies including OpenAI, Google and Microsoft have decided to support a common standard that lets website operators opt out of AI training data collection all at once. Digital Today, citing The Verge, named four companies including Anthropic, and Chosun Biz reported that it was announced on the 31st (local time).",
+          "The Information reported that Meta has developed a humanoid robot prototype with Chinese robot company Fourier and has begun building a second-generation model. IT Chosun reported that Meta completed its first prototype in about three months, and AI Times reported that the move is aimed at entering the home robot market."
+        ]
+      }
     },
     {
       "id": "s20261101-0af17202a075",
@@ -569,7 +665,21 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42519"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "OpenAI, Google and Microsoft Back Common Standard for Opting Out of AI Training",
+        "points": [
+          "OpenAI, Google, Microsoft and others back a common standard for opting out of AI training",
+          "Website operators can refuse collection all at once",
+          "Shift from blocking each company's crawler bot separately"
+        ],
+        "body": [
+          "Major AI companies including OpenAI, Google and Microsoft have decided to support a common standard that lets website operators opt out of AI training data collection all at once. Chosun Biz reported that this was announced on the 31st (local time), and IT Chosun reported that on the same day the three companies would let operators refuse AI training content collection all at once.",
+          "According to Chosun Biz, operators until now had to block each company's crawler bot one by one in a 'robots.txt' file. Digital Today, citing The Verge, reported that website operators had to tell each AI company separately whether to allow their data to be used for AI training. AI Newspaper (인공지능신문) also explained that the standard moves away from the approach of setting a separate crawler access policy for each AI company.",
+          "Reports differed on which companies are taking part. Digital Today named four companies, adding Anthropic to OpenAI, Google and Microsoft, while Chosun Biz wrote 'OpenAI, Google, Microsoft and others.' In its afternoon article on the 31st, AI Newspaper (인공지능신문) reported that technical standardization is being 'pursued' in which content publishers mark directly whether their content may be used for training and multiple AI companies recognize this in common, which differs in wording from other outlets' 'adoption.' IT Chosun added that protection of rights over online content is expected to be strengthened further.",
+          "Glossary: robots.txt is a text file that tells automated collection programs, such as search robots, which parts of a website they may access. A crawler is a program that automatically goes through web pages and collects their content."
+        ]
+      }
     },
     {
       "id": "s20261101-ae3b1378ad21",
@@ -626,7 +736,22 @@
           "link": "https://www.bloter.net/news/articleView.html?idxno=677321"
         }
       ],
-      "auto": true
+      "auto": true,
+      "en": {
+        "title": "LG Uplus, Ministry of Education and Theori Korea to Upgrade AI Information Security Gifted Education Center",
+        "points": [
+          "LG Uplus signs agreement with Ministry of Education and Theori Korea",
+          "Curriculum for AI information security gifted education center to be upgraded",
+          "Training security talent among students and linking career experience"
+        ],
+        "body": [
+          "LG Uplus will work with the Ministry of Education and cybersecurity company Theori Korea to upgrade the curriculum of the AI and information security gifted education center. LG Uplus announced this on the 1st. The three organizations signed a memorandum of understanding at LG Science Park in Gangseo-gu, Seoul, and Chosun Biz gave the date of the agreement as 'the previous day,' while Digital Today gave it as the 31st of last month.",
+          "Chosun Biz introduced the gifted education center as a program that identifies and nurtures information security talent among middle and high school students nationwide. Digital Today reported that the plan is to train security experts needed in the AI era by linking information security education with career experience programs.",
+          "Boannews reported that, as the importance of cybersecurity grows amid recent advances in AI and wide-ranging hacking issues, the aim is to build the practical skills of future security talent using LG Uplus's security expertise, network and AI infrastructure. Digital Daily also wrote that the idea is to raise young people's practical skills using the technology and infrastructure the company has built up in telecommunications, AI and security.",
+          "Recent developments: Techworld News reported in advance on the 30th that the Ministry of Education would sign a memorandum of understanding (MOU) with LG Uplus and Theori Korea at LG Science Park in Seoul on the 31st to support the operation of the AI information security gifted education center. On the same day, Bloter, in a series covering Theori, reported that cyberattacks are shifting from finding a single critical vulnerability to combining several small flaws.",
+          "Glossary: A memorandum of understanding (MOU) is a document that records what organizations have agreed to cooperate on. Cybersecurity is the activity of protecting computer systems and networks from threats such as hacking."
+        ]
+      }
     },
     {
       "id": "b20261031",
